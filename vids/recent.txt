@@ -1,3 +1,6 @@
+2017-04-02 22:02:06: The Walking Dead.S07E16.The First Day of the Rest of Your Life
+2017-04-02 22:01:58: Into the Badlands.S02E03.Red Sun, Silver Moon
+2017-04-02 22:01:56: Last Week Tonight with John Oliver.S04E07.Episode 96
 2017-04-02 20:02:14: Bob's Burgers.S07E16.Eggs for Days
 2017-04-02 20:02:14: The Simpsons.S28E19.Caper Chase
 2017-04-02 20:02:13: The Last Man on Earth.S03E14.Point Person Knows Best
@@ -95,6 +98,3 @@
 2017-03-01 22:01:11: Workaholics.S07E08.Termidate
 2017-02-28 20:01:09: Talking Dead.S06E11.Hostiles and Calamities
 2017-02-28 20:01:08: Fresh Off the Boat.S03E15.Living While Eddie
-2017-02-27 20:01:08: Supergirl.S02E14.Homecoming
-2017-02-27 06:01:07: Last Week Tonight with John Oliver.S04E03.Episode 92
-2017-02-27 06:01:05: Real Time with Bill Maher.S15E06.Episode 416
