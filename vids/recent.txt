@@ -1,3 +1,7 @@
+2017-04-02 20:02:14: Bob's Burgers.S07E16.Eggs for Days
+2017-04-02 20:02:14: The Simpsons.S28E19.Caper Chase
+2017-04-02 20:02:13: The Last Man on Earth.S03E14.Point Person Knows Best
+2017-04-02 20:02:10: Once Upon a Time (2011).S06E15.A Wondrous Place
 2017-04-01 20:04:35: Rick and Morty.S03E01.The Inside Out
 2017-04-01 20:01:44: Real Time with Bill Maher.S15E10.Episode 420
 2017-03-31 20:00:35: Tosh.0.S09E08.Buff Correll
@@ -94,7 +98,3 @@
 2017-02-27 20:01:08: Supergirl.S02E14.Homecoming
 2017-02-27 06:01:07: Last Week Tonight with John Oliver.S04E03.Episode 92
 2017-02-27 06:01:05: Real Time with Bill Maher.S15E06.Episode 416
-2017-02-26 22:01:25: The Walking Dead.S07E11.Hostiles and Calamities
-2017-02-24 20:01:25: Dr. Ken.S02E18.Allison Finds a Lump
-2017-02-24 20:01:22: MacGyver (2016).S01E17.Ruler
-2017-02-24 20:01:19: Grimm.S06E08.The Son Also Rises
