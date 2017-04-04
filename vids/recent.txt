@@ -1,3 +1,6 @@
+2017-04-04 06:00:41: Once Upon a Time (2011).S06E12.Murder Most Foul
+2017-04-04 06:00:36: The Walking Dead.S07E13.Bury Me Here
+2017-04-04 06:00:27: Family Guy.S15E15.Cop and a Half-wit
 2017-04-04 00:34:26: The Simpsons.S28E17.22 for 30
 2017-04-02 22:02:06: The Walking Dead.S07E16.The First Day of the Rest of Your Life
 2017-04-02 22:01:58: Into the Badlands.S02E03.Red Sun, Silver Moon
@@ -95,6 +98,3 @@
 2017-03-03 20:01:28: Tosh.0.S09E04.Spiritual Tasha Mama
 2017-03-02 22:01:25: Baskets.S02E07.Denver
 2017-03-02 22:01:24: Tosh.0.S09E03.Blind Film Critic
-2017-03-02 20:01:21: The Mindy Project.S05E10.Take My Ex-Wife, Please
-2017-03-01 22:01:11: Workaholics.S07E08.Termidate
-2017-02-28 20:01:09: Talking Dead.S06E11.Hostiles and Calamities
