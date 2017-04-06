@@ -1,3 +1,6 @@
+2017-04-05 20:00:50: Criminal Minds.S12E19.True North
+2017-04-05 20:00:49: The Goldbergs (2013).S04E20.The Dynamic Duo
+2017-04-05 20:00:49: Tosh.0.S09E09.Jedi Realist
 2017-04-05 06:00:29: iZombie.S03E01.Heaven Just Got a Little Smoother
 2017-04-04 22:00:28: Marvel's Agents of S.H.I.E.L.D..S04E16.What If...
 2017-04-04 20:00:38: Fresh Off the Boat.S03E18.Time to Get Ill
@@ -95,6 +98,3 @@
 2017-03-05 20:00:31: Bob's Burgers.S07E11.A Few 'Gurt Men
 2017-03-05 20:00:28: The Last Man on Earth.S03E10.Got Milk?
 2017-03-05 20:00:24: Once Upon a Time (2011).S06E11.Tougher Than the Rest
-2017-03-05 20:00:21: Elementary.S05E15.Wrong Side of the Road (1)
-2017-03-05 06:00:18: Saturday Night Live.S42E15.Octavia Spencer/Father John Misty
-2017-03-03 20:01:28: Grimm.S06E09.Tree People
