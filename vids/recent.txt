@@ -1,3 +1,4 @@
+2017-04-08 20:00:48: Real Time with Bill Maher.S15E11.Episode 421
 2017-04-07 20:00:58: MacGyver (2016).S01E20.Hole Puncher
 2017-04-06 20:00:54: Talking Dead.S06E16.The First Day of the Rest of Your Life
 2017-04-06 20:00:52: Mom.S04E18.Tush Push and Some Radishes
@@ -97,4 +98,3 @@
 2017-03-06 20:00:42: Supergirl.S02E15.Exodus
 2017-03-06 06:00:32: The Simpsons.S28E16.Kamp Krustier
 2017-03-05 22:00:22: Talking Dead.S06E12.Say Yes
-2017-03-05 22:00:20: Last Week Tonight with John Oliver.S04E04.Episode 93
