@@ -1,3 +1,5 @@
+2017-04-09 22:00:33: Last Week Tonight with John Oliver.S04E08.Episode 97
+2017-04-09 22:00:31: Into the Badlands.S02E04.Palm of the Iron Fox
 2017-04-09 20:00:34: Elementary.S05E19.High Heat
 2017-04-09 20:00:32: Once Upon a Time (2011).S06E16.Mother's Little Helper
 2017-04-09 06:00:28: Saturday Night Live.S42E17.Louis C.K./The Chainsmokers
@@ -96,5 +98,3 @@
 2017-03-08 20:00:09: The Goldbergs (2013).S04E16.The Kara-te Kid
 2017-03-08 06:00:47: Tosh.0.S09E05.Mark V
 2017-03-07 20:00:53: The Mindy Project.S05E11.Dibs
-2017-03-07 20:00:50: This Is Us.S01E17.What Now?
-2017-03-07 20:00:49: Fresh Off the Boat.S03E16.Gabby Goose
