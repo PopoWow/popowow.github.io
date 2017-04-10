@@ -1,3 +1,5 @@
+2017-04-09 20:00:34: Elementary.S05E19.High Heat
+2017-04-09 20:00:32: Once Upon a Time (2011).S06E16.Mother's Little Helper
 2017-04-09 06:00:28: Saturday Night Live.S42E17.Louis C.K./The Chainsmokers
 2017-04-08 20:00:48: Real Time with Bill Maher.S15E11.Episode 421
 2017-04-07 20:00:58: MacGyver (2016).S01E20.Hole Puncher
@@ -96,5 +98,3 @@
 2017-03-07 20:00:53: The Mindy Project.S05E11.Dibs
 2017-03-07 20:00:50: This Is Us.S01E17.What Now?
 2017-03-07 20:00:49: Fresh Off the Boat.S03E16.Gabby Goose
-2017-03-06 20:00:42: Supergirl.S02E15.Exodus
-2017-03-06 06:00:32: The Simpsons.S28E16.Kamp Krustier
