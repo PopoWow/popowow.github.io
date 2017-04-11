@@ -1,3 +1,5 @@
+2017-04-10 22:00:40: Angie Tribeca.S03E01.Welcome Back, Blotter
+2017-04-10 22:00:40: Better Call Saul.S03E01.Mabel
 2017-04-10 06:00:42: Real Time with Bill Maher.S15E12.Episode 422
 2017-04-09 22:00:33: Last Week Tonight with John Oliver.S04E08.Episode 97
 2017-04-09 22:00:31: Into the Badlands.S02E04.Palm of the Iron Fox
@@ -96,5 +98,3 @@
 2017-03-09 20:00:52: Mom.S04E16.Martinis and a Sponge Bath
 2017-03-09 20:00:51: The Big Bang Theory.S10E18.The Escape Hatch Identification
 2017-03-08 20:00:10: The Goldbergs (2013).S04E17.Deadheads
-2017-03-08 20:00:09: The Goldbergs (2013).S04E16.The Kara-te Kid
-2017-03-08 06:00:47: Tosh.0.S09E05.Mark V
