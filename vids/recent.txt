@@ -1,3 +1,4 @@
+2017-04-11 22:00:18: iZombie.S03E02.Zombie Knows Best
 2017-04-11 20:00:25: Brooklyn Nine-Nine.S04E13.The Audit
 2017-04-11 20:00:22: Marvel's Agents of S.H.I.E.L.D..S04E17.Identity and Change
 2017-04-11 20:00:20: Fresh Off the Boat.S03E19.Driving Miss Jenny
@@ -97,4 +98,3 @@
 2017-03-11 00:00:20: MacGyver (2016).S01E18.Flashlight
 2017-03-10 20:00:27: Dr. Ken.S02E19.Ken's Professor
 2017-03-10 20:00:27: Grimm.S06E10.Blood Magic
-2017-03-09 22:00:29: Baskets.S02E08.Funeral
