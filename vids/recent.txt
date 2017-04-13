@@ -1,3 +1,5 @@
+2017-04-12 20:02:06: Last Week Tonight with John Oliver.S04E06.Episode 95
+2017-04-12 20:02:06: Tosh.0.S09E10.Football-To-The-Face Girl
 2017-04-11 22:00:18: iZombie.S03E02.Zombie Knows Best
 2017-04-11 20:00:25: Brooklyn Nine-Nine.S04E13.The Audit
 2017-04-11 20:00:22: Marvel's Agents of S.H.I.E.L.D..S04E17.Identity and Change
@@ -96,5 +98,3 @@
 2017-03-13 20:00:12: Workaholics.S07E09.Bianca Toro
 2017-03-12 00:00:37: Saturday Night Live.S42E16.Scarlett Johansson/Lorde
 2017-03-11 00:00:20: MacGyver (2016).S01E18.Flashlight
-2017-03-10 20:00:27: Dr. Ken.S02E19.Ken's Professor
-2017-03-10 20:00:27: Grimm.S06E10.Blood Magic
