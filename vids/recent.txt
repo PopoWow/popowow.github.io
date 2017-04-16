@@ -1,3 +1,6 @@
+2017-04-16 00:00:56: MacGyver (2016).S01E21.Cigar Cutter
+2017-04-16 00:00:45: Mom.S04E19.Tantric Sex and Sprouted Flute
+2017-04-16 00:00:40: The Big Bang Theory.S10E21.The Separation Agitation
 2017-04-12 20:02:06: Last Week Tonight with John Oliver.S04E06.Episode 95
 2017-04-12 20:02:06: Tosh.0.S09E10.Football-To-The-Face Girl
 2017-04-11 22:00:18: iZombie.S03E02.Zombie Knows Best
@@ -95,6 +98,3 @@
 2017-03-14 20:00:16: This Is Us.S01E18.Moonshadow
 2017-03-14 20:00:15: Fresh Off the Boat.S03E17.The Flush
 2017-03-14 06:00:16: The Mindy Project.S05E12.Mindy Lahiri is a White Man
-2017-03-13 20:00:12: Workaholics.S07E09.Bianca Toro
-2017-03-12 00:00:37: Saturday Night Live.S42E16.Scarlett Johansson/Lorde
-2017-03-11 00:00:20: MacGyver (2016).S01E18.Flashlight
