@@ -1,3 +1,5 @@
+2017-04-16 20:00:27: Saturday Night Live.S42E18.Jimmy Fallon/Harry Styles
+2017-04-16 20:00:22: Once Upon a Time (2011).S06E17.Awake
 2017-04-16 00:00:56: MacGyver (2016).S01E21.Cigar Cutter
 2017-04-16 00:00:45: Mom.S04E19.Tantric Sex and Sprouted Flute
 2017-04-16 00:00:40: The Big Bang Theory.S10E21.The Separation Agitation
@@ -96,5 +98,3 @@
 2017-03-15 20:00:18: Tosh.0.S09E06.Blix The Merman
 2017-03-14 20:00:16: Fear the Walking Dead.S00E29.Passage: Part 1
 2017-03-14 20:00:16: This Is Us.S01E18.Moonshadow
-2017-03-14 20:00:15: Fresh Off the Boat.S03E17.The Flush
-2017-03-14 06:00:16: The Mindy Project.S05E12.Mindy Lahiri is a White Man
