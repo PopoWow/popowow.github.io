@@ -1,3 +1,5 @@
+2017-04-17 22:00:20: Angie Tribeca.S03E02.Murder Gras
+2017-04-17 22:00:19: Better Call Saul.S03E02.Witness
 2017-04-17 06:00:18: Last Week Tonight with John Oliver.S04E09.Episode 98
 2017-04-16 22:00:19: Into the Badlands.S02E05.Monkey Leaps Through Mist
 2017-04-16 20:00:27: Saturday Night Live.S42E18.Jimmy Fallon/Harry Styles
@@ -96,5 +98,3 @@
 2017-03-16 22:00:12: Superstore.S02E16.Integrity Award
 2017-03-16 22:00:11: Baskets.S02E09.Yard Sale
 2017-03-15 22:00:26: Workaholics.S07E10.Party Gawds
-2017-03-15 20:00:18: The Goldbergs (2013).S04E18.Baré (FKA Doggie Howser)
-2017-03-15 20:00:18: Tosh.0.S09E06.Blix The Merman
