@@ -1,3 +1,4 @@
+2017-04-20 20:00:10: Superstore.S02E19.Spring Cleaning
 2017-04-19 00:22:32: Fear the Walking Dead.S00E29.Passage: Part 1
 2017-04-18 22:02:23: iZombie.S03E03.Eat, Pray, Liv
 2017-04-18 20:02:24: Brooklyn Nine-Nine.S04E14.Serve & Protect
@@ -97,4 +98,3 @@
 2017-03-19 20:00:40: Bob's Burgers.S07E13.The Grand Mama-Pest Hotel
 2017-03-19 20:00:38: Family Guy.S15E16.Saturated Fat Guy
 2017-03-19 20:00:37: Elementary.S05E17.The Ballad of Lady Frances
-2017-03-19 20:00:34: Once Upon a Time (2011).S06E13.Ill-Boding Patterns
