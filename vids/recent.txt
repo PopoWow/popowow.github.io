@@ -1,3 +1,9 @@
+2017-04-23 20:00:45: Once Upon a Time (2011).S06E18.Where Bluebirds Fly
+2017-04-23 20:00:43: Bob's Burgers.S07E18.The Laser-inth
+2017-04-23 20:00:42: Bob's Burgers.S07E17.Zero Larp Thirty
+2017-04-23 20:00:38: The Last Man on Earth.S03E15.Name 20 Picnics... Now!
+2017-04-23 20:00:36: Real Time with Bill Maher.S15E12.Episode 422
+2017-04-23 20:00:23: Elementary.S05E20.The Art of Sleights and Deception
 2017-04-20 20:00:10: Superstore.S02E19.Spring Cleaning
 2017-04-19 00:22:32: Fear the Walking Dead.S00E29.Passage: Part 1
 2017-04-18 22:02:23: iZombie.S03E03.Eat, Pray, Liv
@@ -21,7 +27,6 @@
 2017-04-11 20:00:20: Fresh Off the Boat.S03E19.Driving Miss Jenny
 2017-04-10 22:00:40: Angie Tribeca.S03E01.Welcome Back, Blotter
 2017-04-10 22:00:40: Better Call Saul.S03E01.Mabel
-2017-04-10 06:00:42: Real Time with Bill Maher.S15E12.Episode 422
 2017-04-09 22:00:33: Last Week Tonight with John Oliver.S04E08.Episode 97
 2017-04-09 22:00:31: Into the Badlands.S02E04.Palm of the Iron Fox
 2017-04-09 20:00:34: Elementary.S05E19.High Heat
@@ -93,8 +98,3 @@
 2017-03-20 00:00:38: Talking Dead.S06E14.The Other Side
 2017-03-19 22:00:37: Into the Badlands.S02E01.Tiger Pushes Mountain
 2017-03-19 22:00:37: The Last Man on Earth.S03E12.Hair of the Dog
-2017-03-19 20:00:47: The Walking Dead.S07E14.The Other Side
-2017-03-19 20:00:41: The Simpsons.S28E18.A Father's Watch
-2017-03-19 20:00:40: Bob's Burgers.S07E13.The Grand Mama-Pest Hotel
-2017-03-19 20:00:38: Family Guy.S15E16.Saturated Fat Guy
-2017-03-19 20:00:37: Elementary.S05E17.The Ballad of Lady Frances
