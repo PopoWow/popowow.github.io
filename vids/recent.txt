@@ -1,3 +1,5 @@
+2017-04-24 22:00:28: Angie Tribeca.S03E03.Brockman Turner Overdrive
+2017-04-24 22:00:28: Better Call Saul.S03E03.Sunk Costs
 2017-04-24 20:00:33: Supergirl.S02E18.Ace Reporter
 2017-04-24 00:00:19: Last Week Tonight with John Oliver.S04E10.Episode 99
 2017-04-23 22:00:18: Into the Badlands.S02E06.Leopard Stalks in Snow
@@ -96,5 +98,3 @@
 2017-03-25 11:06:31: Grimm.S06E12.Zerstörer Shrugged
 2017-03-23 20:00:19: Real Time with Bill Maher.S15E07.Episode 417
 2017-03-22 20:00:49: The Mindy Project.S05E13.Mindy's Best Friend
-2017-03-22 20:00:49: Tosh.0.S09E07.Forever Leather
-2017-03-20 20:00:48: Supergirl.S02E16.Star-Crossed (1)
