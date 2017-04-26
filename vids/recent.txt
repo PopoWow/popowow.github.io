@@ -1,3 +1,7 @@
+2017-04-25 22:01:40: iZombie.S03E04.Wag the Tongue Slowly
+2017-04-25 22:01:38: Brooklyn Nine-Nine.S04E15.The Last Ride
+2017-04-25 22:01:34: The Flash (2014).S03E19.The Once and Future Flash
+2017-04-25 22:01:32: Marvel's Agents of S.H.I.E.L.D..S04E19.All the Madame's Men
 2017-04-24 22:00:28: Angie Tribeca.S03E03.Brockman Turner Overdrive
 2017-04-24 22:00:28: Better Call Saul.S03E03.Sunk Costs
 2017-04-24 20:00:33: Supergirl.S02E18.Ace Reporter
@@ -94,7 +98,3 @@
 2017-03-25 11:06:43: Criminal Minds.S12E12.A Good Husband
 2017-03-25 11:06:39: Criminal Minds.S12E11.Surface Tension
 2017-03-25 11:06:36: Criminal Minds.S12E10.Seek and Destroy
-2017-03-25 11:06:33: Criminal Minds.S12E09.Profiling 202
-2017-03-25 11:06:31: Grimm.S06E12.Zerstörer Shrugged
-2017-03-23 20:00:19: Real Time with Bill Maher.S15E07.Episode 417
-2017-03-22 20:00:49: The Mindy Project.S05E13.Mindy's Best Friend
