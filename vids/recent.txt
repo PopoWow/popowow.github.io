@@ -1,5 +1,6 @@
+2017-04-28 20:00:07: Superstore.S02E20.Cheyenne's Wedding
+2017-04-28 20:00:07: The Big Bang Theory.S10E22.The Cognition Regeneration
 2017-04-27 20:00:54: Mom.S04E20.A Cricket and a Hedge Made of Gold
-2017-04-27 20:00:53: The Big Bang Theory.S10E22.The Cognition Regeneration
 2017-04-26 20:00:43: The Goldbergs (2013).S04E21.Fonzie Scheme
 2017-04-26 20:00:42: Criminal Minds.S12E20.Unforgettable
 2017-04-25 22:01:40: iZombie.S03E04.Wag the Tongue Slowly
@@ -97,4 +98,3 @@
 2017-03-25 11:07:12: Criminal Minds.S12E17.In the Dark
 2017-03-25 11:07:07: Criminal Minds.S12E16.Assistance Is Futile
 2017-03-25 11:06:58: Criminal Minds.S12E15.Alpha Male
-2017-03-25 11:06:56: Criminal Minds.S12E14.Collision Course
