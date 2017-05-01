@@ -1,3 +1,9 @@
+2017-04-30 20:00:37: Bob's Burgers.S07E19.Thelma & Louise Except Thelma is Linda
+2017-04-30 20:00:34: The Last Man on Earth.S03E16.The Big Day
+2017-04-30 20:00:33: Family Guy.S15E18.The Peter Principal
+2017-04-30 20:00:30: The Simpsons.S28E20.Looking for Mr. Goodbart
+2017-04-30 20:00:29: Once Upon a Time (2011).S06E19.The Black Fairy
+2017-04-30 20:00:22: Elementary.S05E21.Fly Into a Rage, Make a Bad Landing
 2017-04-30 00:00:19: Real Time with Bill Maher.S15E13.Episode 423
 2017-04-28 20:00:07: Superstore.S02E20.Cheyenne's Wedding
 2017-04-28 20:00:07: The Big Bang Theory.S10E22.The Cognition Regeneration
@@ -92,9 +98,3 @@
 2017-03-26 20:00:29: Bob's Burgers.S07E14.Aquaticism
 2017-03-26 20:00:26: Elementary.S05E18.Dead Man's Tale
 2017-03-25 11:07:38: Superstore.S02E17.Mateo's Last Day
-2017-03-25 11:07:34: Real Time with Bill Maher.S15E08.Episode 418
-2017-03-25 11:07:25: Elementary.S05E16.Fidelity (2)
-2017-03-25 11:07:20: Dr. Ken.S02E21.Clark’s Big Surprise
-2017-03-25 11:07:16: Baskets.S02E10.Circus
-2017-03-25 11:07:12: Criminal Minds.S12E17.In the Dark
-2017-03-25 11:07:07: Criminal Minds.S12E16.Assistance Is Futile
