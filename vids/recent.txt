@@ -1,3 +1,7 @@
+2017-05-02 20:00:42: Marvel's Agents of S.H.I.E.L.D..S04E20.Farewell, Cruel World!
+2017-05-02 20:00:38: iZombie.S03E05.Spanking the Zombie
+2017-05-02 20:00:34: Brooklyn Nine-Nine.S04E16.Moo Moo
+2017-05-02 20:00:33: The Flash (2014).S03E20.I Know Who You Are
 2017-05-02 00:00:29: Angie Tribeca.S03E04.Turn Me On, Geils
 2017-05-02 00:00:28: Better Call Saul.S03E04.Sabrosito
 2017-05-01 20:00:32: Supergirl.S02E19.Alex
@@ -94,7 +98,3 @@
 2017-03-28 20:00:28: Talking Dead.S06E15.Something They Need
 2017-03-27 20:00:17: Supergirl.S02E17.Distant Sun
 2017-03-26 22:00:23: Into the Badlands.S02E02.Force of Eagle's Claw
-2017-03-26 22:00:21: The Last Man on Earth.S03E13.Find This Thing We Need To
-2017-03-26 22:00:17: The Walking Dead.S07E15.Something They Need
-2017-03-26 20:00:36: Once Upon a Time (2011).S06E14.Page 23
-2017-03-26 20:00:32: Family Guy.S15E17.Peter's Lost Youth
