@@ -1,3 +1,5 @@
+2017-05-03 20:00:45: The Goldbergs (2013).S04E22.The Day After the Day After
+2017-05-03 20:00:44: Criminal Minds.S12E21.Green Light
 2017-05-02 22:00:35: Fresh Off the Boat.S03E21.Pie vs. Cake
 2017-05-02 20:00:42: Marvel's Agents of S.H.I.E.L.D..S04E20.Farewell, Cruel World!
 2017-05-02 20:00:38: iZombie.S03E05.Spanking the Zombie
@@ -96,5 +98,3 @@
 2017-03-30 20:00:10: Mom.S04E17.Black Mold and an Old Hot Dog
 2017-03-29 20:00:09: The Goldbergs (2013).S04E19.A Night To Remember
 2017-03-29 20:00:08: Criminal Minds.S12E18.Hell's Kitchen
-2017-03-28 20:00:28: Talking Dead.S06E15.Something They Need
-2017-03-27 20:00:17: Supergirl.S02E17.Distant Sun
