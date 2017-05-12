@@ -1,10 +1,34 @@
+2017-05-12 06:03:20: Marvel's Agents of S.H.I.E.L.D..S04E21.The Return
+2017-05-12 06:03:14: iZombie.S03E06.Some Like It Hot Mess
+2017-05-12 06:03:13: Better Call Saul.S03E05.Chicanery
+2017-05-12 06:03:09: Superstore.S02E21.Tornado
+2017-05-12 06:03:02: The Big Bang Theory.S10E24.The Long Distance Dissonance
+2017-05-12 06:03:01: The Big Bang Theory.S10E23.The Gyroscopic Collapse
+2017-05-12 06:02:58: Brooklyn Nine-Nine.S04E18.Chasing Amy
+2017-05-12 06:02:54: Brooklyn Nine-Nine.S04E17.Cop-Con
+2017-05-12 06:02:50: The Simpsons.S28E21.Moho House
+2017-05-12 06:02:47: Fresh Off the Boat.S03E22.This Is Us
+2017-05-12 06:02:44: Elementary.S05E22.Moving Targets
+2017-05-12 06:02:37: Mom.S04E22.Lockjaw and a Liquid Diet
+2017-05-12 06:02:36: Mom.S04E21.A Few Thongs and a Hawaiian Funeral
+2017-05-12 06:02:33: Bob's Burgers.S07E20.Mom, Lies and Videotapes
+2017-05-12 06:02:31: The Goldbergs (2013).S04E23.Jedi Master Adam Skywalker
+2017-05-12 06:02:28: Supergirl.S02E20.City of Lost Children
+2017-05-12 06:02:21: Last Week Tonight with John Oliver.S04E11.Episode 100
+2017-05-12 06:02:15: Into the Badlands.S02E08.Sting of the Scorpion's Tail
+2017-05-12 06:02:08: Saturday Night Live.S42E19.Chris Pine/LCD Soundsystem
+2017-05-12 06:01:56: The Last Man on Earth.S03E18.Nature's Horchata
+2017-05-12 06:01:52: The Last Man on Earth.S03E17.When the Going Gets Tough
+2017-05-12 06:01:48: Criminal Minds.S12E22.Red Light
+2017-05-12 06:01:42: Once Upon a Time (2011).S06E20.The Song in Your Heart
+2017-05-12 06:01:33: The Flash (2014).S03E21.Cause and Effect
+2017-05-12 06:01:22: The Flash (2014).S03E20.I Know Who You Are
 2017-05-03 20:00:45: The Goldbergs (2013).S04E22.The Day After the Day After
 2017-05-03 20:00:44: Criminal Minds.S12E21.Green Light
 2017-05-02 22:00:35: Fresh Off the Boat.S03E21.Pie vs. Cake
 2017-05-02 20:00:42: Marvel's Agents of S.H.I.E.L.D..S04E20.Farewell, Cruel World!
 2017-05-02 20:00:38: iZombie.S03E05.Spanking the Zombie
 2017-05-02 20:00:34: Brooklyn Nine-Nine.S04E16.Moo Moo
-2017-05-02 20:00:33: The Flash (2014).S03E20.I Know Who You Are
 2017-05-02 00:00:29: Angie Tribeca.S03E04.Turn Me On, Geils
 2017-05-02 00:00:28: Better Call Saul.S03E04.Sabrosito
 2017-05-01 20:00:32: Supergirl.S02E19.Alex
@@ -74,27 +98,3 @@
 2017-04-05 20:00:49: The Goldbergs (2013).S04E20.The Dynamic Duo
 2017-04-05 20:00:49: Tosh.0.S09E09.Jedi Realist
 2017-04-05 06:00:29: iZombie.S03E01.Heaven Just Got a Little Smoother
-2017-04-04 22:00:28: Marvel's Agents of S.H.I.E.L.D..S04E16.What If...
-2017-04-04 20:00:38: Fresh Off the Boat.S03E18.Time to Get Ill
-2017-04-04 06:00:41: Once Upon a Time (2011).S06E12.Murder Most Foul
-2017-04-04 06:00:36: The Walking Dead.S07E13.Bury Me Here
-2017-04-04 06:00:27: Family Guy.S15E15.Cop and a Half-wit
-2017-04-04 00:34:26: The Simpsons.S28E17.22 for 30
-2017-04-02 22:02:06: The Walking Dead.S07E16.The First Day of the Rest of Your Life
-2017-04-02 22:01:58: Into the Badlands.S02E03.Red Sun, Silver Moon
-2017-04-02 22:01:56: Last Week Tonight with John Oliver.S04E07.Episode 96
-2017-04-02 20:02:14: Bob's Burgers.S07E16.Eggs for Days
-2017-04-02 20:02:14: The Simpsons.S28E19.Caper Chase
-2017-04-02 20:02:13: The Last Man on Earth.S03E14.Point Person Knows Best
-2017-04-02 20:02:10: Once Upon a Time (2011).S06E15.A Wondrous Place
-2017-04-01 20:04:35: Rick and Morty.S03E01.The Inside Out
-2017-04-01 20:01:44: Real Time with Bill Maher.S15E10.Episode 420
-2017-03-31 20:00:35: Tosh.0.S09E08.Buff Correll
-2017-03-31 20:00:34: Dr. Ken.S02E22.Ken’s Big Audition
-2017-03-31 20:00:33: MacGyver (2016).S01E19.Compass
-2017-03-31 20:00:26: Grimm.S06E13.The End
-2017-03-31 20:00:25: The Mindy Project.S05E14.A Decent Proposal
-2017-03-30 20:00:11: The Big Bang Theory.S10E19.The Collaboration Fluctuation
-2017-03-30 20:00:10: Mom.S04E17.Black Mold and an Old Hot Dog
-2017-03-29 20:00:09: The Goldbergs (2013).S04E19.A Night To Remember
-2017-03-29 20:00:08: Criminal Minds.S12E18.Hell's Kitchen
