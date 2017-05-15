@@ -1,3 +1,5 @@
+2017-05-14 22:00:14: Into the Badlands.S02E09.Nightingale Sings No More
+2017-05-14 22:00:13: Elementary.S05E23.Scrambled
 2017-05-14 20:00:52: Once Upon a Time (2011).S06E21.The Final Battle (1)
 2017-05-14 20:00:46: Saturday Night Live.S42E20.Melissa McCarthy/Haim
 2017-05-13 00:00:16: Real Time with Bill Maher.S15E14.Episode 424
@@ -96,5 +98,3 @@
 2017-04-06 20:00:54: Talking Dead.S06E16.The First Day of the Rest of Your Life
 2017-04-06 20:00:52: Mom.S04E18.Tush Push and Some Radishes
 2017-04-06 20:00:51: The Big Bang Theory.S10E20.The Recollection Dissipation
-2017-04-06 20:00:50: Superstore.S02E18.Glenn's Kids
-2017-04-05 20:00:50: Criminal Minds.S12E19.True North
