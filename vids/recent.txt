@@ -1,3 +1,19 @@
+2017-05-17 00:12:42: The Mick.S01E17.The Intruder
+2017-05-17 00:12:39: The Mick.S01E16.The Implant
+2017-05-17 00:12:35: The Mick.S01E15.The Sleepover
+2017-05-17 00:12:31: The Mick.S01E14.The Heater
+2017-05-17 00:12:25: The Mick.S01E13.The Bully
+2017-05-17 00:12:23: The Mick.S01E12.The Wolf
+2017-05-17 00:12:19: The Mick.S01E11.The New Girl
+2017-05-17 00:12:14: The Mick.S01E09.The Mess
+2017-05-17 00:12:11: The Mick.S01E08.The Snitch
+2017-05-17 00:12:06: The Mick.S01E07.The Country Club
+2017-05-17 00:12:04: The Mick.S01E06.The Master
+2017-05-17 00:12:02: The Mick.S01E05.The Fire
+2017-05-17 00:11:59: The Mick.S01E04.The Balloon
+2017-05-17 00:11:56: The Mick.S01E03.The Buffer
+2017-05-17 00:11:52: The Mick.S01E02.The Grandparents
+2017-05-17 00:11:51: The Mick.S01E01.Pilot
 2017-05-16 22:07:29: Brooklyn Nine-Nine.S04E20.The Slaughterhouse
 2017-05-16 22:07:25: Brooklyn Nine-Nine.S04E19.Your Honor
 2017-05-16 20:01:09: iZombie.S03E07.Dirt Nap Time
@@ -82,19 +98,3 @@
 2017-04-19 00:22:32: Fear the Walking Dead.S00E29.Passage: Part 1
 2017-04-18 22:02:23: iZombie.S03E03.Eat, Pray, Liv
 2017-04-18 20:02:24: Brooklyn Nine-Nine.S04E14.Serve & Protect
-2017-04-18 20:02:23: Fresh Off the Boat.S03E20.The Masters
-2017-04-18 20:02:21: Marvel's Agents of S.H.I.E.L.D..S04E18.No Regrets
-2017-04-17 22:00:20: Angie Tribeca.S03E02.Murder Gras
-2017-04-17 22:00:19: Better Call Saul.S03E02.Witness
-2017-04-17 06:00:18: Last Week Tonight with John Oliver.S04E09.Episode 98
-2017-04-16 22:00:19: Into the Badlands.S02E05.Monkey Leaps Through Mist
-2017-04-16 20:00:27: Saturday Night Live.S42E18.Jimmy Fallon/Harry Styles
-2017-04-16 20:00:22: Once Upon a Time (2011).S06E17.Awake
-2017-04-16 00:00:56: MacGyver (2016).S01E21.Cigar Cutter
-2017-04-16 00:00:45: Mom.S04E19.Tantric Sex and Sprouted Flute
-2017-04-16 00:00:40: The Big Bang Theory.S10E21.The Separation Agitation
-2017-04-12 20:02:06: Last Week Tonight with John Oliver.S04E06.Episode 95
-2017-04-12 20:02:06: Tosh.0.S09E10.Football-To-The-Face Girl
-2017-04-11 22:00:18: iZombie.S03E02.Zombie Knows Best
-2017-04-11 20:00:25: Brooklyn Nine-Nine.S04E13.The Audit
-2017-04-11 20:00:22: Marvel's Agents of S.H.I.E.L.D..S04E17.Identity and Change
