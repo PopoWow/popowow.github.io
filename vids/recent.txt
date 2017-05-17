@@ -1,3 +1,9 @@
+2017-05-16 20:01:09: iZombie.S03E07.Dirt Nap Time
+2017-05-16 20:01:08: Angie Tribeca.S03E05.This Sounds Unbelievable, but CSI: Miami Did It
+2017-05-16 20:01:02: The Flash (2014).S03E22.Infantino Street
+2017-05-16 20:01:01: Real Time with Bill Maher.S15E15.Episode 425
+2017-05-16 20:00:52: Fresh Off the Boat.S03E23.This Isn't Us
+2017-05-16 20:00:50: Marvel's Agents of S.H.I.E.L.D..S04E22.World’s End
 2017-05-15 22:00:45: Better Call Saul.S03E06.Off Brand
 2017-05-15 22:00:44: Angie Tribeca.S03E06.Hey, I'm Solvin' Here!
 2017-05-15 20:00:35: Supergirl.S02E21.Resist
@@ -92,9 +98,3 @@
 2017-04-11 20:00:22: Marvel's Agents of S.H.I.E.L.D..S04E17.Identity and Change
 2017-04-11 20:00:20: Fresh Off the Boat.S03E19.Driving Miss Jenny
 2017-04-10 22:00:40: Angie Tribeca.S03E01.Welcome Back, Blotter
-2017-04-10 22:00:40: Better Call Saul.S03E01.Mabel
-2017-04-09 22:00:33: Last Week Tonight with John Oliver.S04E08.Episode 97
-2017-04-09 22:00:31: Into the Badlands.S02E04.Palm of the Iron Fox
-2017-04-09 20:00:34: Elementary.S05E19.High Heat
-2017-04-09 20:00:32: Once Upon a Time (2011).S06E16.Mother's Little Helper
-2017-04-09 06:00:28: Saturday Night Live.S42E17.Louis C.K./The Chainsmokers
