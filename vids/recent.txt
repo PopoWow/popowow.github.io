@@ -1,3 +1,5 @@
+2017-05-16 22:07:29: Brooklyn Nine-Nine.S04E20.The Slaughterhouse
+2017-05-16 22:07:25: Brooklyn Nine-Nine.S04E19.Your Honor
 2017-05-16 20:01:09: iZombie.S03E07.Dirt Nap Time
 2017-05-16 20:01:08: Angie Tribeca.S03E05.This Sounds Unbelievable, but CSI: Miami Did It
 2017-05-16 20:01:02: The Flash (2014).S03E22.Infantino Street
@@ -96,5 +98,3 @@
 2017-04-11 22:00:18: iZombie.S03E02.Zombie Knows Best
 2017-04-11 20:00:25: Brooklyn Nine-Nine.S04E13.The Audit
 2017-04-11 20:00:22: Marvel's Agents of S.H.I.E.L.D..S04E17.Identity and Change
-2017-04-11 20:00:20: Fresh Off the Boat.S03E19.Driving Miss Jenny
-2017-04-10 22:00:40: Angie Tribeca.S03E01.Welcome Back, Blotter
