@@ -1,3 +1,8 @@
+2017-05-21 20:01:28: Bob's Burgers.S07E21.Paraders of the Lost Float
+2017-05-21 20:01:25: Elementary.S05E24.Hurt Me, Hurt You
+2017-05-21 20:01:24: Family Guy.S15E20.A House Full of Peters
+2017-05-21 20:01:24: The Simpsons.S28E22.Dogtown
+2017-05-21 20:01:23: Family Guy.S15E19.Dearly Deported
 2017-05-20 20:01:21: Real Time with Bill Maher.S15E16.Episode 426
 2017-05-18 20:01:04: Once Upon a Time (2011).S00E09.The Final Battle Begins
 2017-05-17 20:01:05: The Goldbergs (2013).S04E24.Graduation Day
@@ -93,8 +98,3 @@
 2017-04-24 00:00:19: Last Week Tonight with John Oliver.S04E10.Episode 99
 2017-04-23 22:00:18: Into the Badlands.S02E06.Leopard Stalks in Snow
 2017-04-23 20:00:45: Once Upon a Time (2011).S06E18.Where Bluebirds Fly
-2017-04-23 20:00:43: Bob's Burgers.S07E18.The Laser-inth
-2017-04-23 20:00:42: Bob's Burgers.S07E17.Zero Larp Thirty
-2017-04-23 20:00:38: The Last Man on Earth.S03E15.Name 20 Picnics… Now!
-2017-04-23 20:00:36: Real Time with Bill Maher.S15E12.Episode 422
-2017-04-23 20:00:23: Elementary.S05E20.The Art of Sleights and Deception
