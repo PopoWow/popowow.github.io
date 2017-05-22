@@ -1,3 +1,4 @@
+2017-05-22 06:01:29: Last Week Tonight with John Oliver.S04E13.Episode 102
 2017-05-21 22:01:20: Into the Badlands.S02E10.Wolf's Breath, Dragon Fire
 2017-05-21 20:01:28: Bob's Burgers.S07E21.Paraders of the Lost Float
 2017-05-21 20:01:25: Elementary.S05E24.Hurt Me, Hurt You
@@ -97,4 +98,3 @@
 2017-04-24 22:00:28: Better Call Saul.S03E03.Sunk Costs
 2017-04-24 20:00:33: Supergirl.S02E18.Ace Reporter
 2017-04-24 00:00:19: Last Week Tonight with John Oliver.S04E10.Episode 99
-2017-04-23 22:00:18: Into the Badlands.S02E06.Leopard Stalks in Snow
