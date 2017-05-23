@@ -1,3 +1,5 @@
+2017-05-22 22:01:31: Better Call Saul.S03E07.Expenses
+2017-05-22 22:01:30: Angie Tribeca.S03E07.License to Drill
 2017-05-22 20:01:27: Supergirl.S02E22.Nevertheless, She Persisted
 2017-05-22 06:01:29: Last Week Tonight with John Oliver.S04E13.Episode 102
 2017-05-21 22:01:20: Into the Badlands.S02E10.Wolf's Breath, Dragon Fire
@@ -96,5 +98,3 @@
 2017-04-25 22:01:34: The Flash (2014).S03E19.The Once and Future Flash
 2017-04-25 22:01:32: Marvel's Agents of S.H.I.E.L.D..S04E19.All the Madame's Men
 2017-04-24 22:00:28: Angie Tribeca.S03E03.Brockman Turner Overdrive
-2017-04-24 22:00:28: Better Call Saul.S03E03.Sunk Costs
-2017-04-24 20:00:33: Supergirl.S02E18.Ace Reporter
