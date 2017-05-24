@@ -1,3 +1,7 @@
+2017-05-23 20:01:54: Brooklyn Nine-Nine.S04E22.Crime & Punishment
+2017-05-23 20:01:49: Brooklyn Nine-Nine.S04E21.The Bank Job
+2017-05-23 20:01:47: iZombie.S03E08.Eat a Kinevel
+2017-05-23 20:01:45: The Flash (2014).S03E23.Finish Line
 2017-05-22 22:01:31: Better Call Saul.S03E07.Expenses
 2017-05-22 22:01:30: Angie Tribeca.S03E07.License to Drill
 2017-05-22 20:01:27: Supergirl.S02E22.Nevertheless, She Persisted
@@ -94,7 +98,3 @@
 2017-04-26 20:00:43: The Goldbergs (2013).S04E21.Fonzie Scheme
 2017-04-26 20:00:42: Criminal Minds.S12E20.Unforgettable
 2017-04-25 22:01:40: iZombie.S03E04.Wag the Tongue Slowly
-2017-04-25 22:01:38: Brooklyn Nine-Nine.S04E15.The Last Ride
-2017-04-25 22:01:34: The Flash (2014).S03E19.The Once and Future Flash
-2017-04-25 22:01:32: Marvel's Agents of S.H.I.E.L.D..S04E19.All the Madame's Men
-2017-04-24 22:00:28: Angie Tribeca.S03E03.Brockman Turner Overdrive
