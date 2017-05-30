@@ -1,3 +1,6 @@
+2017-05-29 22:00:43: Angie Tribeca.S03E08.If You See Something, Solve Something
+2017-05-29 22:00:39: The Handmaid's Tale.S01E08.Jezebels
+2017-05-29 22:00:35: The Handmaid's Tale.S01E07.The Other Side
 2017-05-29 20:00:54: The Handmaid's Tale.S01E06.A Woman's Place
 2017-05-29 20:00:49: The Handmaid's Tale.S01E05.Faithful
 2017-05-29 20:00:41: The Handmaid's Tale.S01E04.Nolite Te Bastardes Carborundorum
@@ -95,6 +98,3 @@
 2017-04-30 20:00:34: The Last Man on Earth.S03E16.The Big Day
 2017-04-30 20:00:33: Family Guy.S15E18.The Peter Principal
 2017-04-30 20:00:30: The Simpsons.S28E20.Looking for Mr. Goodbart
-2017-04-30 20:00:29: Once Upon a Time (2011).S06E19.The Black Fairy
-2017-04-30 20:00:22: Elementary.S05E21.Fly Into a Rage, Make a Bad Landing
-2017-04-30 00:00:19: Real Time with Bill Maher.S15E13.Episode 423
