@@ -1,3 +1,5 @@
+2017-06-07 06:00:32: iZombie.S03E10.Return of the Dead Guy
+2017-06-07 06:00:28: The Handmaid's Tale.S01E09.The Bridge
 2017-06-05 22:00:13: Angie Tribeca.S03E09.Germs of Endearment
 2017-06-05 22:00:13: Better Call Saul.S03E08.Slip
 2017-06-04 22:00:13: Fear the Walking Dead.S03E02.The New Frontier
@@ -96,5 +98,3 @@
 2017-05-02 20:00:42: Marvel's Agents of S.H.I.E.L.D..S04E20.Farewell, Cruel World!
 2017-05-02 20:00:38: iZombie.S03E05.Spanking the Zombie
 2017-05-02 20:00:34: Brooklyn Nine-Nine.S04E16.Moo Moo
-2017-05-02 00:00:29: Angie Tribeca.S03E04.Turn Me On, Geils
-2017-05-02 00:00:28: Better Call Saul.S03E04.Sabrosito
