@@ -1,3 +1,14 @@
+2017-06-15 06:01:25: Last Week Tonight with John Oliver.S04E15.Episode 104
+2017-06-15 06:01:21: Talking Dead.S06E18.TEOTWAWKI
+2017-06-15 06:01:07: Talking Dead.S06E17.Eye of the Beholder & The New Frontier
+2017-06-15 06:01:05: Bob's Burgers.S07E22.Into the Mild
+2017-06-15 06:01:03: Better Call Saul.S03E09.Fall
+2017-06-15 06:00:59: Tosh.0.S09E12.Golf Fight
+2017-06-15 06:00:57: Tosh.0.S09E11.Ricky Berwick
+2017-06-15 06:00:55: The Handmaid's Tale.S01E10.Night
+2017-06-15 06:00:50: Fear the Walking Dead.S03E03.TEOTWAWKI
+2017-06-15 06:00:49: iZombie.S03E11.Conspiracy Weary
+2017-06-15 06:00:48: Angie Tribeca.S03E10.Go Get 'Em Tiger
 2017-06-08 06:00:27: Real Time with Bill Maher.S15E17.Episode 427
 2017-06-07 06:00:32: iZombie.S03E10.Return of the Dead Guy
 2017-06-07 06:00:28: The Handmaid's Tale.S01E09.The Bridge
@@ -87,14 +98,3 @@
 2017-05-12 06:02:21: Last Week Tonight with John Oliver.S04E11.Episode 100
 2017-05-12 06:02:15: Into the Badlands.S02E08.Sting of the Scorpion's Tail
 2017-05-12 06:02:08: Saturday Night Live.S42E19.Chris Pine/LCD Soundsystem
-2017-05-12 06:01:56: The Last Man on Earth.S03E18.Nature's Horchata
-2017-05-12 06:01:52: The Last Man on Earth.S03E17.When the Going Gets Tough
-2017-05-12 06:01:48: Criminal Minds.S12E22.Red Light
-2017-05-12 06:01:42: Once Upon a Time (2011).S06E20.The Song in Your Heart
-2017-05-12 06:01:33: The Flash (2014).S03E21.Cause and Effect
-2017-05-12 06:01:22: The Flash (2014).S03E20.I Know Who You Are
-2017-05-03 20:00:45: The Goldbergs (2013).S04E22.The Day After the Day After
-2017-05-03 20:00:44: Criminal Minds.S12E21.Green Light
-2017-05-02 22:00:35: Fresh Off the Boat.S03E21.Pie vs. Cake
-2017-05-02 20:00:42: Marvel's Agents of S.H.I.E.L.D..S04E20.Farewell, Cruel World!
-2017-05-02 20:00:38: iZombie.S03E05.Spanking the Zombie
