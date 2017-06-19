@@ -1,3 +1,5 @@
+2017-06-19 06:01:03: Last Week Tonight with John Oliver.S04E16.Episode 105
+2017-06-19 06:00:57: Talking Dead.S06E19.100
 2017-06-18 20:01:03: Fear the Walking Dead.S03E04.100
 2017-06-18 20:01:01: Real Time with Bill Maher.S15E18.Episode 428
 2017-06-15 06:01:25: Last Week Tonight with John Oliver.S04E15.Episode 104
@@ -96,5 +98,3 @@
 2017-05-12 06:02:36: Mom.S04E21.A Few Thongs and a Hawaiian Funeral
 2017-05-12 06:02:33: Bob's Burgers.S07E20.Mom, Lies and Videotapes
 2017-05-12 06:02:31: The Goldbergs (2013).S04E23.Jedi Master Adam Skywalker
-2017-05-12 06:02:28: Supergirl.S02E20.City of Lost Children
-2017-05-12 06:02:21: Last Week Tonight with John Oliver.S04E11.Episode 100
