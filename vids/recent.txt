@@ -1,3 +1,4 @@
+2017-06-19 22:00:58: Better Call Saul.S03E10.Lantern
 2017-06-19 06:01:03: Last Week Tonight with John Oliver.S04E16.Episode 105
 2017-06-19 06:00:57: Talking Dead.S06E19.100
 2017-06-18 20:01:03: Fear the Walking Dead.S03E04.100
@@ -97,4 +98,3 @@
 2017-05-12 06:02:37: Mom.S04E22.Lockjaw and a Liquid Diet
 2017-05-12 06:02:36: Mom.S04E21.A Few Thongs and a Hawaiian Funeral
 2017-05-12 06:02:33: Bob's Burgers.S07E20.Mom, Lies and Videotapes
-2017-05-12 06:02:31: The Goldbergs (2013).S04E23.Jedi Master Adam Skywalker
