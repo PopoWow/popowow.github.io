@@ -1,3 +1,5 @@
+2017-06-27 20:00:28: iZombie.S03E13.Looking for Mr. Goodbrain (2)
+2017-06-27 20:00:26: Talking Dead.S06E20.Burning in Water, Drowning in Flame
 2017-06-26 20:00:22: Preacher.S02E02.Mumbai Sky Tower
 2017-06-26 00:00:24: Preacher.S02E01.On the Road
 2017-06-26 00:00:19: Fear the Walking Dead.S03E05.Burning in Water, Drowning in Flame
@@ -96,5 +98,3 @@
 2017-05-12 06:03:14: iZombie.S03E06.Some Like It Hot Mess
 2017-05-12 06:03:13: Better Call Saul.S03E05.Chicanery
 2017-05-12 06:03:09: Superstore.S02E21.Tornado
-2017-05-12 06:03:02: The Big Bang Theory.S10E24.The Long Distance Dissonance
-2017-05-12 06:03:01: The Big Bang Theory.S10E23.The Gyroscopic Collapse
