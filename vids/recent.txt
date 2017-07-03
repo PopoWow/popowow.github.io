@@ -1,3 +1,4 @@
+2017-07-02 20:00:10: Fear the Walking Dead.S03E06.Red Dirt
 2017-06-28 06:00:24: Tosh.0.S09E14.Singing Math Teacher
 2017-06-27 20:00:28: iZombie.S03E13.Looking for Mr. Goodbrain (2)
 2017-06-27 20:00:26: Talking Dead.S06E20.Burning in Water, Drowning in Flame
@@ -97,4 +98,3 @@
 2017-05-13 00:00:16: Real Time with Bill Maher.S15E14.Episode 424
 2017-05-12 06:03:20: Marvel's Agents of S.H.I.E.L.D..S04E21.The Return
 2017-05-12 06:03:14: iZombie.S03E06.Some Like It Hot Mess
-2017-05-12 06:03:13: Better Call Saul.S03E05.Chicanery
