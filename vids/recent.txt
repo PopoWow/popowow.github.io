@@ -1,3 +1,5 @@
+2017-07-09 22:00:30: Fear the Walking Dead.S03E08.Children of Wrath
+2017-07-09 22:00:23: Fear the Walking Dead.S03E07.The Unveiling
 2017-07-03 20:00:18: Preacher.S02E03.Damsels
 2017-07-03 20:00:14: Talking Dead.S06E21.Red Dirt
 2017-07-03 00:00:11: Last Week Tonight with John Oliver.S04E18.Episode 107
@@ -28,7 +30,7 @@
 2017-06-15 06:00:55: The Handmaid's Tale.S01E10.Night
 2017-06-15 06:00:50: Fear the Walking Dead.S03E03.TEOTWAWKI
 2017-06-15 06:00:49: iZombie.S03E11.Conspiracy Weary
-2017-06-15 06:00:48: Angie Tribeca.S03E10.Go Get 'Em Tiger
+2017-06-15 06:00:48: Angie Tribeca.S03E10.Go Get 'Em, Tiger
 2017-06-08 06:00:27: Real Time with Bill Maher.S15E17.Episode 427
 2017-06-07 06:00:32: iZombie.S03E10.Return of the Dead Guy
 2017-06-07 06:00:28: The Handmaid's Tale.S01E09.The Bridge
@@ -96,5 +98,3 @@
 2017-05-15 00:00:15: Last Week Tonight with John Oliver.S04E12.Episode 101
 2017-05-14 22:00:14: Into the Badlands.S02E09.Nightingale Sings No More
 2017-05-14 22:00:13: Elementary.S05E23.Scrambled
-2017-05-14 20:00:52: Once Upon a Time (2011).S06E21.The Final Battle (1)
-2017-05-14 20:00:46: Saturday Night Live.S42E20.Melissa McCarthy/Haim
