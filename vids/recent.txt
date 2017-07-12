@@ -1,3 +1,4 @@
+2017-07-11 20:00:13: Talking Dead.S06E22.The Unveiling; Children of Wrath
 2017-07-10 20:00:11: Preacher.S02E04.Viktor
 2017-07-10 00:00:21: Real Time with Bill Maher.S15E21.Episode 431
 2017-07-09 22:00:30: Fear the Walking Dead.S03E08.Children of Wrath
@@ -97,4 +98,3 @@
 2017-05-15 22:00:44: Angie Tribeca.S03E06.Hey, I'm Solvin' Here!
 2017-05-15 20:00:35: Supergirl.S02E21.Resist
 2017-05-15 06:00:36: Once Upon a Time (2011).S06E22.The Final Battle (2)
-2017-05-15 00:00:15: Last Week Tonight with John Oliver.S04E12.Episode 101
