@@ -1,3 +1,7 @@
+2017-07-13 06:02:36: American Ninja Warrior.S09E05.Cleveland Qualifiers
+2017-07-13 06:02:09: American Ninja Warrior.S09E04.Kansas City Qualifiers
+2017-07-13 06:01:43: American Ninja Warrior.S09E03.Daytona Beach Qualifiers
+2017-07-13 06:01:15: American Ninja Warrior.S09E02.San Antonio Qualifiers
 2017-07-12 20:00:14: Tosh.0.S09E15.On Da River
 2017-07-11 20:00:13: Talking Dead.S06E22.The Unveiling; Children of Wrath
 2017-07-10 20:00:11: Preacher.S02E04.Viktor
@@ -94,7 +98,3 @@
 2017-05-16 20:01:02: The Flash (2014).S03E22.Infantino Street
 2017-05-16 20:01:01: Real Time with Bill Maher.S15E15.Episode 425
 2017-05-16 20:00:52: Fresh Off the Boat.S03E23.This Isn't Us
-2017-05-16 20:00:50: Marvel's Agents of S.H.I.E.L.D..S04E22.World’s End
-2017-05-15 22:00:45: Better Call Saul.S03E06.Off Brand
-2017-05-15 22:00:44: Angie Tribeca.S03E06.Hey, I'm Solvin' Here!
-2017-05-15 20:00:35: Supergirl.S02E21.Resist
