@@ -1,3 +1,13 @@
+2017-07-24 00:01:57: Twin Peaks.S03E11.The Return, Part 11
+2017-07-24 00:01:53: Twin Peaks.S03E10.The Return, Part 10
+2017-07-24 00:01:46: Twin Peaks.S03E09.The Return, Part 9
+2017-07-24 00:01:38: Twin Peaks.S03E08.The Return, Part 8
+2017-07-24 00:01:29: Twin Peaks.S03E07.The Return, Part 7
+2017-07-24 00:01:23: Twin Peaks.S03E06.The Return, Part 6
+2017-07-24 00:01:18: Twin Peaks.S03E05.The Return, Part 5
+2017-07-24 00:01:09: Twin Peaks.S03E04.The Return, Part 4
+2017-07-24 00:01:00: Twin Peaks.S03E02.The Return, Part 2
+2017-07-24 00:00:41: Twin Peaks.S03E01.The Return, Part 1
 2017-07-23 20:00:11: Game of Thrones.S07E02.Stormborn
 2017-07-23 00:33:14: Home Movies.S01E02.I Don't Do Well in Parent-Teacher Conferences
 2017-07-23 00:33:11: Home Movies.S01E01.Get Away From My Mom
@@ -88,13 +98,3 @@
 2017-05-17 00:12:31: The Mick.S01E14.The Heater
 2017-05-17 00:12:25: The Mick.S01E13.The Bully
 2017-05-17 00:12:23: The Mick.S01E12.The Wolf
-2017-05-17 00:12:19: The Mick.S01E11.The New Girl
-2017-05-17 00:12:14: The Mick.S01E09.The Mess
-2017-05-17 00:12:11: The Mick.S01E08.The Snitch
-2017-05-17 00:12:06: The Mick.S01E07.The Country Club
-2017-05-17 00:12:04: The Mick.S01E06.The Master
-2017-05-17 00:12:02: The Mick.S01E05.The Fire
-2017-05-17 00:11:59: The Mick.S01E04.The Balloon
-2017-05-17 00:11:56: The Mick.S01E03.The Buffer
-2017-05-17 00:11:52: The Mick.S01E02.The Grandparents
-2017-05-17 00:11:51: The Mick.S01E01.Pilot
