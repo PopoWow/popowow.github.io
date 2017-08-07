@@ -1,3 +1,7 @@
+2017-08-07 00:01:12: Rick and Morty.S03E03.Pickle Rick
+2017-08-07 00:01:08: Game of Thrones.S07E04.The Spoils of War
+2017-08-07 00:00:56: Twin Peaks.S03E13.The Return, Part 13
+2017-08-07 00:00:53: Last Week Tonight with John Oliver.S04E20.Episode 109
 2017-08-02 20:00:59: Game of Thrones.S07E03.The Queen's Justice
 2017-08-02 20:00:56: Twin Peaks.S03E12.The Return, Part 12
 2017-08-02 20:00:52: Preacher.S02E07.Pig
@@ -94,7 +98,3 @@
 2017-05-21 20:01:28: Bob's Burgers.S07E21.Paraders of the Lost Float
 2017-05-21 20:01:25: Elementary.S05E24.Hurt Me, Hurt You
 2017-05-21 20:01:24: Family Guy.S15E20.A House Full of Peters
-2017-05-21 20:01:24: The Simpsons.S28E22.Dogtown
-2017-05-21 20:01:23: Family Guy.S15E19.Dearly Deported
-2017-05-20 20:01:21: Real Time with Bill Maher.S15E16.Episode 426
-2017-05-18 20:01:04: Once Upon a Time (2011).S00E09.The Final Battle Begins
