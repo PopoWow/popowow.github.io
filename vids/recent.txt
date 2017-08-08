@@ -1,3 +1,4 @@
+2017-08-07 22:00:19: Preacher.S02E08.Holes
 2017-08-07 20:00:28: Real Time with Bill Maher.S15E22.Episode 432
 2017-08-07 00:01:12: Rick and Morty.S03E03.Pickle Rick
 2017-08-07 00:01:08: Game of Thrones.S07E04.The Spoils of War
@@ -97,4 +98,3 @@
 2017-05-22 06:01:29: Last Week Tonight with John Oliver.S04E13.Episode 102
 2017-05-21 22:01:20: Into the Badlands.S02E10.Wolf's Breath, Dragon Fire
 2017-05-21 20:01:28: Bob's Burgers.S07E21.Paraders of the Lost Float
-2017-05-21 20:01:25: Elementary.S05E24.Hurt Me, Hurt You
