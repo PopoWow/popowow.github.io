@@ -1,3 +1,4 @@
+2017-08-12 20:01:04: Real Time with Bill Maher.S15E23.Episode 433
 2017-08-09 20:00:43: Tosh.0.S09E19.UCF Baseball Player
 2017-08-09 00:00:24: Preacher.S02E08.Holes
 2017-08-07 20:00:28: Real Time with Bill Maher.S15E22.Episode 432
@@ -97,4 +98,3 @@
 2017-05-22 22:01:30: Angie Tribeca.S03E07.License to Drill
 2017-05-22 20:01:27: Supergirl.S02E22.Nevertheless, She Persisted
 2017-05-22 06:01:29: Last Week Tonight with John Oliver.S04E13.Episode 102
-2017-05-21 22:01:20: Into the Badlands.S02E10.Wolf's Breath, Dragon Fire
