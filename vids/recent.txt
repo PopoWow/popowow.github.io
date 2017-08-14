@@ -1,3 +1,5 @@
+2017-08-13 20:00:49: Game of Thrones.S07E05.Eastwatch
+2017-08-13 20:00:49: Twin Peaks.S03E14.The Return, Part 14
 2017-08-12 20:01:04: Real Time with Bill Maher.S15E23.Episode 433
 2017-08-09 20:00:43: Tosh.0.S09E19.UCF Baseball Player
 2017-08-09 00:00:24: Preacher.S02E08.Holes
@@ -96,5 +98,3 @@
 2017-05-23 20:01:47: iZombie.S03E08.Eat a Knievel
 2017-05-22 22:01:31: Better Call Saul.S03E07.Expenses
 2017-05-22 22:01:30: Angie Tribeca.S03E07.License to Drill
-2017-05-22 20:01:27: Supergirl.S02E22.Nevertheless, She Persisted
-2017-05-22 06:01:29: Last Week Tonight with John Oliver.S04E13.Episode 102
