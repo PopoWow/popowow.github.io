@@ -1,6 +1,7 @@
+2017-08-20 22:04:13: Rick and Morty.S03E05.The Whirly Dirly Conspiracy
+2017-08-20 22:04:12: Game of Thrones.S07E06.Beyond the Wall
 2017-08-20 20:04:16: Twin Peaks.S03E15.The Return, Part 15
 2017-08-19 20:05:12: Real Time with Bill Maher.S15E24.Episode 434
-2017-08-16 06:02:10: Game of Thrones.S07E06.None
 2017-08-16 06:02:00: Tosh.0.S09E20.Tosh.Oh That's What They're Up To Now, Pt. 5
 2017-08-15 06:01:38: American Ninja Warrior.S09E11.Kansas City City Finals
 2017-08-14 20:01:03: Preacher.S02E09.Puzzle Piece
@@ -97,4 +98,3 @@
 2017-05-29 20:00:54: The Handmaid's Tale.S01E06.A Woman's Place
 2017-05-29 20:00:49: The Handmaid's Tale.S01E05.Faithful
 2017-05-29 20:00:41: The Handmaid's Tale.S01E04.Nolite Te Bastardes Carborundorum
-2017-05-29 20:00:36: The Handmaid's Tale.S01E03.Late
