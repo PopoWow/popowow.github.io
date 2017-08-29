@@ -1,3 +1,4 @@
+2017-08-29 06:01:02: American Ninja Warrior.S09E13.Las Vegas - Finals Night 1
 2017-08-28 22:00:48: Preacher.S02E11.Back Doors
 2017-08-27 22:00:26: Rick and Morty.S03E06.Rest and Ricklaxation
 2017-08-27 20:00:43: Game of Thrones.S07E07.The Dragon and the Wolf
@@ -97,4 +98,3 @@
 2017-06-05 22:00:13: Angie Tribeca.S03E09.Germs of Endearment
 2017-06-05 22:00:13: Better Call Saul.S03E08.Slip
 2017-06-04 22:00:13: Fear the Walking Dead.S03E02.The New Frontier
-2017-06-04 22:00:11: Last Week Tonight with John Oliver.S04E14.Episode 103
