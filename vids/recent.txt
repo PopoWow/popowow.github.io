@@ -1,5 +1,7 @@
+2017-09-03 20:00:24: Twin Peaks.S03E18.The Return, Part 18
+2017-09-03 20:00:19: Twin Peaks.S03E17.The Return, Part 17
 2017-08-29 06:01:02: American Ninja Warrior.S09E13.Las Vegas - Finals Night 1
-2017-08-28 22:00:48: Preacher.S02E11.Back Doors
+2017-08-28 22:00:48: Preacher.S02E11.Backdoors
 2017-08-27 22:00:26: Rick and Morty.S03E06.Rest and Ricklaxation
 2017-08-27 20:00:43: Game of Thrones.S07E07.The Dragon and the Wolf
 2017-08-27 20:00:39: Twin Peaks.S03E16.The Return, Part 16
@@ -96,5 +98,3 @@
 2017-06-07 06:00:32: iZombie.S03E10.Return of the Dead Guy
 2017-06-07 06:00:28: The Handmaid's Tale.S01E09.The Bridge
 2017-06-05 22:00:13: Angie Tribeca.S03E09.Germs of Endearment
-2017-06-05 22:00:13: Better Call Saul.S03E08.Slip
-2017-06-04 22:00:13: Fear the Walking Dead.S03E02.The New Frontier
