@@ -1,3 +1,4 @@
+2017-09-16 20:00:08: The Orville.S01E01.Old Wounds
 2017-09-15 22:01:18: Real Time with Bill Maher.S15E26.Episode 436
 2017-09-15 20:04:32: The Mindy Project.S06E01.Is That All There Is?
 2017-09-15 20:04:25: Preacher.S02E13.The End of the Road
@@ -97,4 +98,3 @@
 2017-06-19 22:00:58: Better Call Saul.S03E10.Lantern
 2017-06-19 06:01:03: Last Week Tonight with John Oliver.S04E16.Episode 105
 2017-06-19 06:00:57: Talking Dead.S06E19.100
-2017-06-18 20:01:03: Fear the Walking Dead.S03E04.100
