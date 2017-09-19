@@ -1,3 +1,8 @@
+2017-09-19 06:00:40: Fear the Walking Dead.S03E11.La Serpiente
+2017-09-19 06:00:35: Talking Dead.S06E24.La Serpiente
+2017-09-19 06:00:29: Rick and Morty.S03E08.Morty's Mind Blowers
+2017-09-19 06:00:28: The Orville.S01E02.Command Performance
+2017-09-19 06:00:27: The Mindy Project.S06E02.A Romantical Decouplement
 2017-09-16 20:00:08: The Orville.S01E01.Old Wounds
 2017-09-15 22:01:18: Real Time with Bill Maher.S15E26.Episode 436
 2017-09-15 20:04:32: The Mindy Project.S06E01.Is That All There Is?
@@ -93,8 +98,3 @@
 2017-06-25 20:00:18: Real Time with Bill Maher.S15E20.Episode 430
 2017-06-22 00:00:08: iZombie.S03E12.Looking for Mr. Goodbrain (1)
 2017-06-21 20:00:08: Tosh.0.S09E13.Arrested for Pranks
-2017-06-19 22:36:08: Real Time with Bill Maher.S15E19.Episode 429
-2017-06-19 22:36:01: Real Time with Bill Maher.S15E18.Episode 428
-2017-06-19 22:00:58: Better Call Saul.S03E10.Lantern
-2017-06-19 06:01:03: Last Week Tonight with John Oliver.S04E16.Episode 105
-2017-06-19 06:00:57: Talking Dead.S06E19.100
