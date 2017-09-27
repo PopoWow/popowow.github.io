@@ -1,3 +1,11 @@
+2017-09-27 06:01:42: The Good Place.S02E01.Everything Is Great!
+2017-09-27 06:01:38: Real Time with Bill Maher.S15E28.Episode 438
+2017-09-27 06:01:32: Talking Dead.S06E25.Brother's Keeper
+2017-09-27 06:01:26: The Orville.S01E03.About a Girl
+2017-09-27 06:01:21: The Orville.S01E02.Command Performance
+2017-09-27 06:01:18: The Orville.S01E01.Old Wounds
+2017-09-27 06:01:06: Tosh.0.S09E22.Chop and Steele
+2017-09-27 06:01:04: Tosh.0.S09E21.Zakar Twins
 2017-09-27 00:00:47: Last Week Tonight with John Oliver.S04E24.Episode 113
 2017-09-27 00:00:46: The Mindy Project.S06E03.May Divorce Be With You
 2017-09-27 00:00:43: Rick and Morty.S03E09.The ABC's of Beth
@@ -9,9 +17,7 @@
 2017-09-19 06:00:40: Fear the Walking Dead.S03E11.La Serpiente
 2017-09-19 06:00:35: Talking Dead.S06E24.La Serpiente
 2017-09-19 06:00:29: Rick and Morty.S03E08.Morty's Mind Blowers
-2017-09-19 06:00:28: The Orville.S01E02.Command Performance
 2017-09-19 06:00:27: The Mindy Project.S06E02.A Romantical Decouplement
-2017-09-16 20:00:08: The Orville.S01E01.Old Wounds
 2017-09-15 22:01:18: Real Time with Bill Maher.S15E26.Episode 436
 2017-09-15 20:04:32: The Mindy Project.S06E01.Is That All There Is?
 2017-09-15 20:04:25: Preacher.S02E13.The End of the Road
@@ -92,9 +98,3 @@
 2017-07-10 00:00:21: Real Time with Bill Maher.S15E21.Episode 431
 2017-07-09 22:00:30: Fear the Walking Dead.S03E08.Children of Wrath
 2017-07-09 22:00:23: Fear the Walking Dead.S03E07.The Unveiling
-2017-07-03 20:00:18: Preacher.S02E03.Damsels
-2017-07-03 20:00:14: Talking Dead.S06E21.Red Dirt
-2017-07-03 00:00:11: Last Week Tonight with John Oliver.S04E18.Episode 107
-2017-07-02 20:00:10: Fear the Walking Dead.S03E06.Red Dirt
-2017-06-28 06:00:24: Tosh.0.S09E14.Singing Math Teacher
-2017-06-27 20:00:28: iZombie.S03E13.Looking for Mr. Goodbrain (2)
