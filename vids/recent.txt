@@ -1,4 +1,10 @@
-2017-09-27 22:01:13: Criminal Minds.S13E01.Wheels Up
+2017-10-01 20:02:25: Superstore.S03E01.Grand Re-Opening
+2017-10-01 20:02:20: Saturday Night Live.S43E01.Ryan Gosling/Jay-Z
+2017-10-01 20:02:06: The Orville.S01E04.If the Stars Should Appear
+2017-10-01 20:02:05: MacGyver (2016).S02E01.DIY or DIE
+2017-10-01 20:01:57: Criminal Minds.S13E01.Wheels Up
+2017-10-01 20:01:47: The Good Place.S02E03.Team Cockroach
+2017-10-01 20:01:46: The Good Place.S02E02.Dance Dance Resolution
 2017-09-27 20:01:11: The Goldbergs (2013).S05E01.Weird Science
 2017-09-27 06:01:42: The Good Place.S02E01.Everything Is Great!
 2017-09-27 06:01:38: Real Time with Bill Maher.S15E28.Episode 438
@@ -92,9 +98,3 @@
 2017-07-17 00:00:12: Game of Thrones.S07E01.Dragonstone
 2017-07-13 06:02:36: American Ninja Warrior.S09E05.Cleveland Qualifiers
 2017-07-13 06:02:09: American Ninja Warrior.S09E04.Kansas City Qualifiers
-2017-07-13 06:01:43: American Ninja Warrior.S09E03.Daytona Beach Qualifiers
-2017-07-13 06:01:15: American Ninja Warrior.S09E02.San Antonio Qualifiers
-2017-07-12 20:00:14: Tosh.0.S09E15.On Da River
-2017-07-11 20:00:13: Talking Dead.S06E22.The Unveiling; Children of Wrath
-2017-07-10 20:00:11: Preacher.S02E04.Viktor
-2017-07-10 00:00:21: Real Time with Bill Maher.S15E21.Episode 431
