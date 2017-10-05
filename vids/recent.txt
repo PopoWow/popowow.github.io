@@ -1,3 +1,5 @@
+2017-10-04 20:01:35: Criminal Minds.S13E02.To a Better Place
+2017-10-04 20:01:32: The Goldbergs (2013).S05E02.Hogan is My Grandfather
 2017-10-04 06:01:29: The Orville.S01E04.If the Stars Should Appear
 2017-10-04 06:01:22: Tosh.0.S09E23.Tourette's Comedian
 2017-10-03 22:00:52: This Is Us.S02E02.A Manny-Splendored Thing
@@ -96,5 +98,3 @@
 2017-08-02 20:00:41: Rick and Morty.S03E02.Rickmancing the Stone
 2017-07-26 06:01:17: Tosh.0.S09E17.Breatharian
 2017-07-24 22:01:18: Preacher.S02E06.Sokosha
-2017-07-24 06:01:00: Twin Peaks.S03E10.The Return, Part 10
-2017-07-24 00:01:57: Twin Peaks.S03E11.The Return, Part 11
