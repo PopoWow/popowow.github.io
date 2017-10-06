@@ -1,3 +1,6 @@
+2017-10-05 20:01:35: Superstore.S03E02.Brett is Dead
+2017-10-05 20:01:32: The Orville.S01E05.Pria
+2017-10-05 20:01:30: The Good Place.S02E04.Existential Crisis
 2017-10-04 20:01:35: Criminal Minds.S13E02.To a Better Place
 2017-10-04 20:01:32: The Goldbergs (2013).S05E02.Hogan is My Grandfather
 2017-10-04 06:01:29: The Orville.S01E04.If the Stars Should Appear
@@ -95,6 +98,3 @@
 2017-08-02 20:00:52: Preacher.S02E07.Pig
 2017-08-02 20:00:46: Tosh.0.S09E18.Long Leg Girl
 2017-08-02 20:00:42: Last Week Tonight with John Oliver.S04E19.Episode 108
-2017-08-02 20:00:41: Rick and Morty.S03E02.Rickmancing the Stone
-2017-07-26 06:01:17: Tosh.0.S09E17.Breatharian
-2017-07-24 22:01:18: Preacher.S02E06.Sokosha
