@@ -1,3 +1,5 @@
+2017-10-06 20:00:22: Once Upon a Time (2011).S07E01.Hyperion Heights
+2017-10-06 20:00:20: MacGyver (2016).S02E02.Muscle Car + Paper Clips
 2017-10-05 20:01:35: Superstore.S03E02.Brett is Dead
 2017-10-05 20:01:32: The Orville.S01E05.Pria
 2017-10-05 20:01:30: The Good Place.S02E04.Existential Crisis
@@ -96,5 +98,3 @@
 2017-08-02 20:00:59: Game of Thrones.S07E03.The Queen's Justice
 2017-08-02 20:00:56: Twin Peaks.S03E12.The Return, Part 12
 2017-08-02 20:00:52: Preacher.S02E07.Pig
-2017-08-02 20:00:46: Tosh.0.S09E18.Long Leg Girl
-2017-08-02 20:00:42: Last Week Tonight with John Oliver.S04E19.Episode 108
