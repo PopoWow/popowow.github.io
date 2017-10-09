@@ -1,3 +1,4 @@
+2017-10-09 06:00:46: Last Week Tonight with John Oliver.S04E26.Episode 115
 2017-10-08 22:00:31: Talking Dead.S06E27.El Matadero
 2017-10-08 20:00:55: The Simpsons.S29E02.Springfield Splendor
 2017-10-08 20:00:51: Fear the Walking Dead.S03E14.El Matadero
@@ -97,4 +98,3 @@
 2017-08-12 20:01:04: Real Time with Bill Maher.S15E23.Episode 433
 2017-08-09 20:00:43: Tosh.0.S09E19.UCF Baseball Player
 2017-08-09 00:00:24: Preacher.S02E08.Holes
-2017-08-07 20:00:28: Real Time with Bill Maher.S15E22.Episode 432
