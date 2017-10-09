@@ -1,3 +1,7 @@
+2017-10-08 20:00:55: The Simpsons.S29E02.Springfield Splendor
+2017-10-08 20:00:51: Fear the Walking Dead.S03E14.El Matadero
+2017-10-08 20:00:50: The Last Man on Earth.S04E02.Stocko Syndome
+2017-10-08 20:00:48: Family Guy.S16E02.Foxx In The Men House
 2017-10-08 00:00:17: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
 2017-10-07 20:00:36: Real Time with Bill Maher.S15E30.Episode 440
 2017-10-06 20:00:22: Once Upon a Time (2011).S07E01.Hyperion Heights
@@ -94,7 +98,3 @@
 2017-08-09 00:00:24: Preacher.S02E08.Holes
 2017-08-07 20:00:28: Real Time with Bill Maher.S15E22.Episode 432
 2017-08-07 00:01:12: Rick and Morty.S03E03.Pickle Rick
-2017-08-07 00:01:08: Game of Thrones.S07E04.The Spoils of War
-2017-08-07 00:00:56: Twin Peaks.S03E13.The Return, Part 13
-2017-08-07 00:00:53: Last Week Tonight with John Oliver.S04E20.Episode 109
-2017-08-02 20:00:59: Game of Thrones.S07E03.The Queen's Justice
