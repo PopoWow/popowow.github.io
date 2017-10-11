@@ -1,3 +1,8 @@
+2017-10-10 20:01:22: The Mick.S02E03.The Visit
+2017-10-10 20:01:20: Fresh Off the Boat.S04E02.First Day
+2017-10-10 20:01:19: The Flash (2014).S04E01.The Flash Reborn
+2017-10-10 20:01:10: Brooklyn Nine-Nine.S05E03.Kickz
+2017-10-10 20:01:10: This Is Us.S02E03.Deja Vu
 2017-10-10 00:00:59: The Mindy Project.S06E05.Anna & Jeremy's Meryl Streep Costume Party
 2017-10-09 20:01:04: Supergirl.S03E01.Girl of Steel
 2017-10-09 20:01:03: The Big Bang Theory.S11E03.The Relaxation Integration
@@ -93,8 +98,3 @@
 2017-08-19 20:05:12: Real Time with Bill Maher.S15E24.Episode 434
 2017-08-16 06:02:00: Tosh.0.S09E20.Tosh.Oh That's What They're Up To Now, Pt. 5
 2017-08-15 06:01:38: American Ninja Warrior.S09E11.Kansas City City Finals
-2017-08-14 20:01:03: Preacher.S02E09.Puzzle Piece
-2017-08-14 00:01:10: Last Week Tonight with John Oliver.S04E21.Episode 110
-2017-08-13 22:01:08: Rick and Morty.S03E04.Vindicators 3: The Return of Worldender
-2017-08-13 20:00:49: Game of Thrones.S07E05.Eastwatch
-2017-08-13 20:00:49: Twin Peaks.S03E14.The Return, Part 14
