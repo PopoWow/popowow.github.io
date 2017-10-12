@@ -1,3 +1,5 @@
+2017-10-12 00:00:16: Tosh.0.S09E24.Spidergirl
+2017-10-12 00:00:15: Criminal Minds.S13E03.Blue Angel
 2017-10-10 20:01:22: The Mick.S02E03.The Visit
 2017-10-10 20:01:20: Fresh Off the Boat.S04E02.First Day
 2017-10-10 20:01:19: The Flash (2014).S04E01.The Flash Reborn
@@ -10,7 +12,7 @@
 2017-10-08 22:00:31: Talking Dead.S06E27.El Matadero
 2017-10-08 20:00:55: The Simpsons.S29E02.Springfield Splendor
 2017-10-08 20:00:51: Fear the Walking Dead.S03E14.El Matadero
-2017-10-08 20:00:50: The Last Man on Earth.S04E02.Stocko Syndome
+2017-10-08 20:00:50: The Last Man on Earth.S04E02.Stocko Syndrome
 2017-10-08 20:00:48: Family Guy.S16E02.Foxx In The Men House
 2017-10-08 00:00:17: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
 2017-10-07 20:00:36: Real Time with Bill Maher.S15E30.Episode 440
@@ -96,5 +98,3 @@
 2017-08-20 22:04:12: Game of Thrones.S07E06.Beyond the Wall
 2017-08-20 20:04:16: Twin Peaks.S03E15.The Return, Part 15
 2017-08-19 20:05:12: Real Time with Bill Maher.S15E24.Episode 434
-2017-08-16 06:02:00: Tosh.0.S09E20.Tosh.Oh That's What They're Up To Now, Pt. 5
-2017-08-15 06:01:38: American Ninja Warrior.S09E11.Kansas City City Finals
