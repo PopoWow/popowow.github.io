@@ -1,3 +1,7 @@
+2017-10-12 20:00:35: The Good Place.S02E05.The Trolley Problem
+2017-10-12 20:00:31: The Orville.S01E06.Krill
+2017-10-12 20:00:28: Superstore.S03E03.Part-Time Hires
+2017-10-12 20:00:28: The Goldbergs (2013).S05E03.Goldberg on the Goldbergs
 2017-10-12 00:00:16: Tosh.0.S09E24.Spidergirl
 2017-10-12 00:00:15: Criminal Minds.S13E03.Blue Angel
 2017-10-10 20:01:22: The Mick.S02E03.The Visit
@@ -94,7 +98,3 @@
 2017-08-22 06:04:53: American Ninja Warrior.S09E12.Denver City Finals
 2017-08-21 20:04:51: Preacher.S02E10.Dirty Little Secret
 2017-08-21 06:04:38: Last Week Tonight with John Oliver.S04E22.Episode 111
-2017-08-20 22:04:13: Rick and Morty.S03E05.The Whirly Dirly Conspiracy
-2017-08-20 22:04:12: Game of Thrones.S07E06.Beyond the Wall
-2017-08-20 20:04:16: Twin Peaks.S03E15.The Return, Part 15
-2017-08-19 20:05:12: Real Time with Bill Maher.S15E24.Episode 434
