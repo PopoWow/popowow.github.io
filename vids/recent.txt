@@ -1,3 +1,4 @@
+2017-10-17 00:00:46: The Mindy Project.S06E06.The Midwife’s Tale
 2017-10-16 20:01:38: The Big Bang Theory.S11E04.The Explosion Implosion
 2017-10-16 20:01:36: Supergirl.S03E02.Triggers
 2017-10-16 20:01:35: Last Week Tonight with John Oliver.S04E27.Episode 116
@@ -97,4 +98,3 @@
 2017-09-15 20:02:46: Fear the Walking Dead.S03E10.The Diviner
 2017-09-15 20:02:31: Fear the Walking Dead.S03E09.Minotaur
 2017-09-15 20:02:14: Elementary.S03E10.Seed Money
-2017-09-15 20:01:57: Last Week Tonight with John Oliver.S04E23.Episode 112
