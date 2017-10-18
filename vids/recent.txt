@@ -1,3 +1,7 @@
+2017-10-17 20:01:10: Brooklyn Nine-Nine.S05E04.HalloVeen
+2017-10-17 20:01:06: Fresh Off the Boat.S04E03.Kids
+2017-10-17 20:01:05: The Flash (2014).S04E02.Mixed Signals
+2017-10-17 20:01:03: The Mick.S02E04.The Haunted House
 2017-10-17 00:00:46: The Mindy Project.S06E06.The Midwife’s Tale
 2017-10-16 20:01:38: The Big Bang Theory.S11E04.The Explosion Implosion
 2017-10-16 20:01:36: Supergirl.S03E02.Triggers
@@ -21,7 +25,7 @@
 2017-10-10 20:01:22: The Mick.S02E03.The Visit
 2017-10-10 20:01:20: Fresh Off the Boat.S04E02.First Day
 2017-10-10 20:01:19: The Flash (2014).S04E01.The Flash Reborn
-2017-10-10 20:01:10: Brooklyn Nine-Nine.S05E03.Kickz
+2017-10-10 20:01:10: Brooklyn Nine-Nine.S05E03.Kicks
 2017-10-10 20:01:10: This Is Us.S02E03.Deja Vu
 2017-10-10 00:00:59: The Mindy Project.S06E05.Anna & Jeremy's Meryl Streep Costume Party
 2017-10-09 20:01:04: Supergirl.S03E01.Girl of Steel
@@ -94,7 +98,3 @@
 2017-09-15 20:03:21: American Ninja Warrior.S09E07.Los Angeles City Finals
 2017-09-15 20:03:07: Rick and Morty.S03E07.The Ricklantis Mixup
 2017-09-15 20:02:59: Talking Dead.S07E00.None
-2017-09-15 20:02:50: Talking Dead.S06E23.Minotaur; The Diviner
-2017-09-15 20:02:46: Fear the Walking Dead.S03E10.The Diviner
-2017-09-15 20:02:31: Fear the Walking Dead.S03E09.Minotaur
-2017-09-15 20:02:14: Elementary.S03E10.Seed Money
