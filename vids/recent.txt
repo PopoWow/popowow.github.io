@@ -1,3 +1,8 @@
+2017-10-24 00:01:13: The Big Bang Theory.S11E05.The Collaboration Contamination
+2017-10-24 00:01:07: The Mindy Project.S06E07.Girl Gone Wild
+2017-10-24 00:01:06: Tosh.0.S09E25.Nino Brown
+2017-10-24 00:01:03: Talking Dead.S07E01.Mercy
+2017-10-24 00:00:55: Supergirl.S03E03.Far from the Tree
 2017-10-23 22:00:36: The Goldbergs (2013).S05E04.Revenge O' The Nerds
 2017-10-23 22:00:35: Criminal Minds.S13E04.Killer App
 2017-10-23 20:01:40: The Simpsons.S29E04.Treehouse of Horror XXVIII
@@ -22,7 +27,7 @@
 2017-10-16 20:01:29: Bob's Burgers.S08E02.The Silence of the Louise
 2017-10-16 20:01:27: Family Guy.S16E03.Nanny Goats
 2017-10-16 20:01:27: The Simpsons.S29E03.Whistler's Father
-2017-10-16 20:01:22: Talking Dead.S06E28.Things Bad Begun
+2017-10-16 20:01:22: Talking Dead.S06E28.Things Bad Begun; Sleigh Ride (FTWD 315/316)
 2017-10-16 20:01:16: Fear the Walking Dead.S03E16.Sleigh Ride
 2017-10-16 20:01:13: Fear the Walking Dead.S03E15.Things Bad Begun
 2017-10-16 20:01:07: The Last Man on Earth.S04E03.Skeleton Crew
@@ -44,7 +49,7 @@
 2017-10-09 20:01:04: Supergirl.S03E01.Girl of Steel
 2017-10-09 20:01:03: The Big Bang Theory.S11E03.The Relaxation Integration
 2017-10-09 06:00:46: Last Week Tonight with John Oliver.S04E26.Episode 115
-2017-10-08 22:00:31: Talking Dead.S06E27.El Matadero
+2017-10-08 22:00:31: Talking Dead.S06E27.El Matadero (FTWD 314)
 2017-10-08 20:00:55: The Simpsons.S29E02.Springfield Splendor
 2017-10-08 20:00:51: Fear the Walking Dead.S03E14.El Matadero
 2017-10-08 20:00:50: The Last Man on Earth.S04E02.Stocko Syndome
@@ -63,7 +68,7 @@
 2017-10-03 22:00:52: This Is Us.S02E02.A Manny-Splendored Thing
 2017-10-03 20:02:26: Family Guy.S16E01.Emmy-Winning Episode
 2017-10-03 20:02:26: The Big Bang Theory.S11E02.The Retraction Reaction
-2017-10-03 20:02:20: Talking Dead.S06E26.This Land Is Your Land
+2017-10-03 20:02:20: Talking Dead.S06E26.This Land Is Your Land (FTWD 313)
 2017-10-03 20:02:13: Fear the Walking Dead.S03E13.This Land is Your Land
 2017-10-03 20:02:06: The Mick.S02E02.The Friend
 2017-10-03 20:02:05: The Mindy Project.S06E04.Leo's Girlfriend
@@ -85,7 +90,7 @@
 2017-09-27 20:01:11: The Goldbergs (2013).S05E01.Weird Science
 2017-09-27 06:01:42: The Good Place.S02E01.Everything Is Great!
 2017-09-27 06:01:38: Real Time with Bill Maher.S15E28.Episode 438
-2017-09-27 06:01:32: Talking Dead.S06E25.Brother's Keeper
+2017-09-27 06:01:32: Talking Dead.S06E25.Brother's Keeper (FTWD 312)
 2017-09-27 06:01:26: The Orville.S01E03.About a Girl
 2017-09-27 06:01:21: The Orville.S01E02.Command Performance
 2017-09-27 06:01:18: The Orville.S01E01.Old Wounds
@@ -93,8 +98,3 @@
 2017-09-27 06:01:04: Tosh.0.S09E21.Zakar Twins
 2017-09-27 00:00:47: Last Week Tonight with John Oliver.S04E24.Episode 113
 2017-09-27 00:00:46: The Mindy Project.S06E03.May Divorce Be With You
-2017-09-27 00:00:43: Rick and Morty.S03E09.The ABC's of Beth
-2017-09-27 00:00:39: Fear the Walking Dead.S03E12.Brother's Keeper
-2017-09-27 00:00:37: Brooklyn Nine-Nine.S05E01.The Big House (1)
-2017-09-27 00:00:34: The Big Bang Theory.S11E01.The Proposal Proposal
-2017-09-27 00:00:30: This Is Us.S02E01.A Father's Advice
