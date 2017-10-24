@@ -1,3 +1,5 @@
+2017-10-23 22:00:36: The Goldbergs (2013).S05E04.Revenge O' The Nerds
+2017-10-23 22:00:35: Criminal Minds.S13E04.Killer App
 2017-10-23 20:01:40: The Simpsons.S29E04.Treehouse of Horror XXVIII
 2017-10-23 20:01:37: The Last Man on Earth.S04E04.Wisconsin
 2017-10-23 20:01:34: Bob's Burgers.S08E03.The Wolf of Wharf Street
@@ -96,5 +98,3 @@
 2017-09-27 00:00:37: Brooklyn Nine-Nine.S05E01.The Big House (1)
 2017-09-27 00:00:34: The Big Bang Theory.S11E01.The Proposal Proposal
 2017-09-27 00:00:30: This Is Us.S02E01.A Father's Advice
-2017-09-27 00:00:29: The Mick.S02E01.The Hotel
-2017-09-19 06:00:40: Fear the Walking Dead.S03E11.La Serpiente
