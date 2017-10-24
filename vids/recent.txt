@@ -1,3 +1,13 @@
+2017-10-23 20:01:40: The Simpsons.S29E04.Treehouse of Horror XXVIII
+2017-10-23 20:01:37: The Last Man on Earth.S04E04.Wisconsin
+2017-10-23 20:01:34: Bob's Burgers.S08E03.The Wolf of Wharf Street
+2017-10-23 20:01:33: Family Guy.S16E04.Follow the Money
+2017-10-23 20:01:29: Superstore.S03E04.Workplace Bullying
+2017-10-23 20:01:28: The Good Place.S02E06.Janet and Michael
+2017-10-23 20:01:27: Real Time with Bill Maher.S15E31.Episode 441
+2017-10-23 20:01:18: MacGyver (2016).S02E04.X-Ray + Penny
+2017-10-23 20:01:12: The Walking Dead.S08E01.Mercy
+2017-10-23 20:01:01: Once Upon a Time (2011).S07E03.The Garden of Forking Paths
 2017-10-17 22:00:34: This Is Us.S02E04.Still There
 2017-10-17 20:01:10: Brooklyn Nine-Nine.S05E04.HalloVeen
 2017-10-17 20:01:06: Fresh Off the Boat.S04E03.Kids
@@ -88,13 +98,3 @@
 2017-09-27 00:00:30: This Is Us.S02E01.A Father's Advice
 2017-09-27 00:00:29: The Mick.S02E01.The Hotel
 2017-09-19 06:00:40: Fear the Walking Dead.S03E11.La Serpiente
-2017-09-19 06:00:35: Talking Dead.S06E24.La Serpiente
-2017-09-19 06:00:29: Rick and Morty.S03E08.Morty's Mind Blowers
-2017-09-19 06:00:27: The Mindy Project.S06E02.A Romantical Decouplement
-2017-09-15 22:01:18: Real Time with Bill Maher.S15E26.Episode 436
-2017-09-15 20:04:32: The Mindy Project.S06E01.Is That All There Is?
-2017-09-15 20:04:25: Preacher.S02E13.The End of the Road
-2017-09-15 20:04:09: American Ninja Warrior.S09E15.Las Vegas Season Finale
-2017-09-15 20:03:48: American Ninja Warrior.S09E08.San Antonio City Finals
-2017-09-15 20:03:21: American Ninja Warrior.S09E07.Los Angeles City Finals
-2017-09-15 20:03:07: Rick and Morty.S03E07.The Ricklantis Mixup
