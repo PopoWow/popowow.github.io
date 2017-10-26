@@ -1,3 +1,6 @@
+2017-10-25 20:01:38: Tosh.0.S09E26.Poppa Pipes
+2017-10-25 20:01:35: The Flash (2014).S04E03.Luck Be a Lady
+2017-10-25 20:01:33: Fresh Off the Boat.S04E04.It’s a Plastic Pumpkin, Louis Huang
 2017-10-24 00:01:13: The Big Bang Theory.S11E05.The Collaboration Contamination
 2017-10-24 00:01:07: The Mindy Project.S06E07.Girl Gone Wild
 2017-10-24 00:01:06: Tosh.0.S09E25.Nino Brown
@@ -95,6 +98,3 @@
 2017-09-27 06:01:21: The Orville.S01E02.Command Performance
 2017-09-27 06:01:18: The Orville.S01E01.Old Wounds
 2017-09-27 06:01:06: Tosh.0.S09E22.Chop and Steele
-2017-09-27 06:01:04: Tosh.0.S09E21.Zakar Twins
-2017-09-27 00:00:47: Last Week Tonight with John Oliver.S04E24.Episode 113
-2017-09-27 00:00:46: The Mindy Project.S06E03.May Divorce Be With You
