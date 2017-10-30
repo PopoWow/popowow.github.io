@@ -1,3 +1,12 @@
+2017-10-30 00:04:46: Superstore.S03E05.Sal's Dead
+2017-10-30 00:04:40: This Is Us.S02E05.Brothers
+2017-10-30 00:04:22: Once Upon a Time (2011).S07E04.Beauty
+2017-10-30 00:04:14: The Goldbergs (2013).S05E05.Jackie Likes Star Trek
+2017-10-30 00:04:10: The Walking Dead.S08E02.The Damned
+2017-10-30 00:03:58: The Orville.S01E07.Majority Rule
+2017-10-30 00:03:47: MacGyver (2016).S02E05.Skull + Electromagnet
+2017-10-30 00:03:37: Real Time with Bill Maher.S15E32.Episode 442
+2017-10-30 00:03:19: Criminal Minds.S13E05.Lucky Strikes
 2017-10-25 20:01:38: Tosh.0.S09E26.Poppa Pipes
 2017-10-25 20:01:35: The Flash (2014).S04E03.Luck Be a Lady
 2017-10-25 20:01:33: Fresh Off the Boat.S04E04.It’s a Plastic Pumpkin, Louis Huang
@@ -61,7 +70,7 @@
 2017-10-07 20:00:36: Real Time with Bill Maher.S15E30.Episode 440
 2017-10-06 20:00:22: Once Upon a Time (2011).S07E01.Hyperion Heights
 2017-10-06 20:00:20: MacGyver (2016).S02E02.Muscle Car + Paper Clips
-2017-10-05 20:01:35: Superstore.S03E02.Brett is Dead
+2017-10-05 20:01:35: Superstore.S03E02.Brett's Dead
 2017-10-05 20:01:32: The Orville.S01E05.Pria
 2017-10-05 20:01:30: The Good Place.S02E04.Existential Crisis
 2017-10-04 20:01:35: Criminal Minds.S13E02.To a Better Place
@@ -89,12 +98,3 @@
 2017-10-01 20:02:05: MacGyver (2016).S02E01.DIY or DIE
 2017-10-01 20:01:57: Criminal Minds.S13E01.Wheels Up
 2017-10-01 20:01:47: The Good Place.S02E03.Team Cockroach
-2017-10-01 20:01:46: The Good Place.S02E02.Dance Dance Resolution
-2017-09-27 20:01:11: The Goldbergs (2013).S05E01.Weird Science
-2017-09-27 06:01:42: The Good Place.S02E01.Everything Is Great!
-2017-09-27 06:01:38: Real Time with Bill Maher.S15E28.Episode 438
-2017-09-27 06:01:32: Talking Dead.S06E25.Brother's Keeper (FTWD 312)
-2017-09-27 06:01:26: The Orville.S01E03.About a Girl
-2017-09-27 06:01:21: The Orville.S01E02.Command Performance
-2017-09-27 06:01:18: The Orville.S01E01.Old Wounds
-2017-09-27 06:01:06: Tosh.0.S09E22.Chop and Steele
