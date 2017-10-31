@@ -1,3 +1,5 @@
+2017-10-31 06:03:04: The Mindy Project.S06E08.Doctors Without Boundaries
+2017-10-31 06:03:03: Supergirl.S03E04.The Faithful
 2017-10-30 20:02:52: Talking Dead.S07E02.The Damned
 2017-10-30 06:02:59: Last Week Tonight with John Oliver.S04E28.Episode 117
 2017-10-30 00:04:46: Superstore.S03E05.Sal's Dead
@@ -96,5 +98,3 @@
 2017-10-03 20:01:28: The Last Man on Earth.S04E01.M.U.B.A.R.
 2017-10-03 20:01:26: Last Week Tonight with John Oliver.S04E25.Episode 114
 2017-10-01 20:02:25: Superstore.S03E01.Grand Re-Opening
-2017-10-01 20:02:20: Saturday Night Live.S43E01.Ryan Gosling/Jay-Z
-2017-10-01 20:02:05: MacGyver (2016).S02E01.DIY or DIE
