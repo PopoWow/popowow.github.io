@@ -1,3 +1,6 @@
+2017-10-31 20:03:23: The Flash (2014).S04E04.Elongated Journey Into Night
+2017-10-31 20:03:18: This Is Us.S02E06.The 20's
+2017-10-31 20:03:17: Fresh Off the Boat.S04E05.Four Funerals and a Wedding
 2017-10-31 06:03:04: The Mindy Project.S06E08.Doctors Without Boundaries
 2017-10-31 06:03:03: Supergirl.S03E04.The Faithful
 2017-10-30 20:02:52: Talking Dead.S07E02.The Damned
@@ -95,6 +98,3 @@
 2017-10-03 20:01:34: Bob's Burgers.S08E01.Brunchsquatch
 2017-10-03 20:01:33: The Simpsons.S29E01.The Serfsons
 2017-10-03 20:01:28: Brooklyn Nine-Nine.S05E02.The Big House (2)
-2017-10-03 20:01:28: The Last Man on Earth.S04E01.M.U.B.A.R.
-2017-10-03 20:01:26: Last Week Tonight with John Oliver.S04E25.Episode 114
-2017-10-01 20:02:25: Superstore.S03E01.Grand Re-Opening
