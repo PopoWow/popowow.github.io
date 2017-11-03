@@ -1,3 +1,16 @@
+2017-11-03 00:01:49: Real Time with Bill Maher.S15E32.Episode 442
+2017-11-03 00:01:41: Real Time with Bill Maher.S15E31.Episode 441
+2017-11-03 00:01:32: The Mick.S02E05.The Invention
+2017-11-03 00:01:29: The Good Place.S02E07.Derek
+2017-11-03 00:01:26: The Orville.S01E08.Into the Fold
+2017-11-03 00:01:22: Brooklyn Nine-Nine.S05E05.Bad Beat
+2017-11-03 00:01:17: The Goldbergs (2013).S05E06.Girl Talk
+2017-11-03 00:01:14: Superstore.S03E06.Health Fund
+2017-11-03 00:01:14: The Walking Dead.S00E39.Behind The Dead (100 Episodes Special)
+2017-11-03 00:01:04: Saturday Night Live.S00E590.The David S. Pumpkins Halloween Special
+2017-11-03 00:01:00: Mom.S05E01.Twinkle Lights and Grandma Shoes
+2017-11-03 00:00:58: Criminal Minds.S13E06.The Bunker
+2017-11-03 00:00:57: The Big Bang Theory.S11E06.The Proton Regeneration
 2017-11-01 20:03:10: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2017-11-01 06:03:02: Tosh.0.S09E27.Lactatia
 2017-10-31 20:03:23: The Flash (2014).S04E04.Elongated Journey Into Night
@@ -14,7 +27,6 @@
 2017-10-30 00:04:10: The Walking Dead.S08E02.The Damned
 2017-10-30 00:03:58: The Orville.S01E07.Majority Rule
 2017-10-30 00:03:47: MacGyver (2016).S02E05.Skull + Electromagnet
-2017-10-30 00:03:37: Real Time with Bill Maher.S15E32.Episode 442
 2017-10-30 00:03:19: Criminal Minds.S13E05.Lucky Strikes
 2017-10-25 20:01:38: Tosh.0.S09E26.Poppa Pipes
 2017-10-25 20:01:35: The Flash (2014).S04E03.Luck Be a Lady
@@ -32,7 +44,6 @@
 2017-10-23 20:01:33: Family Guy.S16E04.Follow the Money
 2017-10-23 20:01:29: Superstore.S03E04.Workplace Bullying
 2017-10-23 20:01:28: The Good Place.S02E06.Janet and Michael
-2017-10-23 20:01:27: Real Time with Bill Maher.S15E31.Episode 441
 2017-10-23 20:01:18: MacGyver (2016).S02E04.X-Ray + Penny
 2017-10-23 20:01:12: The Walking Dead.S08E01.Mercy
 2017-10-23 20:01:01: Once Upon a Time (2011).S07E03.The Garden of Forking Paths
@@ -87,14 +98,3 @@
 2017-10-04 06:01:29: The Orville.S01E04.If the Stars Should Appear
 2017-10-04 06:01:22: Tosh.0.S09E23.Tourette's Comedian
 2017-10-03 22:00:52: This Is Us.S02E02.A Manny-Splendored Thing
-2017-10-03 20:02:26: Family Guy.S16E01.Emmy-Winning Episode
-2017-10-03 20:02:26: The Big Bang Theory.S11E02.The Retraction Reaction
-2017-10-03 20:02:20: Talking Dead.S06E26.This Land Is Your Land (FTWD 313)
-2017-10-03 20:02:13: Fear the Walking Dead.S03E13.This Land is Your Land
-2017-10-03 20:02:06: The Mick.S02E02.The Friend
-2017-10-03 20:02:05: The Mindy Project.S06E04.Leo's Girlfriend
-2017-10-03 20:02:01: Rick and Morty.S03E10.The Rickchurian Mortydate
-2017-10-03 20:01:58: Real Time with Bill Maher.S15E29.Episode 439
-2017-10-03 20:01:48: Real Time with Bill Maher.S15E27.Episode 437
-2017-10-03 20:01:37: Fresh Off the Boat.S04E01.B as in Best Friends
-2017-10-03 20:01:34: Bob's Burgers.S08E01.Brunchsquatch
