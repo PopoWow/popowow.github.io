@@ -1,3 +1,11 @@
+2017-11-04 10:32:49: Will & Grace.S09E05.How to Succeed in Business Without Really Crying
+2017-11-04 10:32:49: Will & Grace.S09E06.Rosario's Quinceanera
+2017-11-04 10:32:47: Will & Grace.S09E04.Grandpa Jack
+2017-11-04 10:32:45: Will & Grace.S09E03.Emergency Contact
+2017-11-04 10:32:44: Will & Grace.S09E02.Who's Your Daddy
+2017-11-04 10:32:43: Will & Grace.S09E01.Eleven Years Later
+2017-11-04 06:01:34: Young Sheldon.S01E02.Rockets, Communists, and the Dewey Decimal System
+2017-11-04 06:01:31: Young Sheldon.S01E01.Pilot
 2017-11-03 20:00:15: Once Upon a Time (2011).S07E05.Greenbacks
 2017-11-03 20:00:13: MacGyver (2016).S02E06.Jet Engine + Pickup Truck
 2017-11-03 00:01:49: Real Time with Bill Maher.S15E32.Episode 442
@@ -90,11 +98,3 @@
 2017-10-08 20:00:48: Family Guy.S16E02.Foxx In The Men House
 2017-10-08 00:00:17: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
 2017-10-07 20:00:36: Real Time with Bill Maher.S15E30.Episode 440
-2017-10-06 20:00:22: Once Upon a Time (2011).S07E01.Hyperion Heights
-2017-10-06 20:00:20: MacGyver (2016).S02E02.Muscle Car + Paper Clips
-2017-10-05 20:01:35: Superstore.S03E02.Brett's Dead
-2017-10-05 20:01:32: The Orville.S01E05.Pria
-2017-10-05 20:01:30: The Good Place.S02E04.Existential Crisis
-2017-10-04 20:01:35: Criminal Minds.S13E02.To a Better Place
-2017-10-04 20:01:32: The Goldbergs (2013).S05E02.Hogan is My Grandfather
-2017-10-04 06:01:29: The Orville.S01E04.If the Stars Should Appear
