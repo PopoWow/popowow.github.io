@@ -1,3 +1,5 @@
+2017-11-03 20:00:15: Once Upon a Time (2011).S07E05.Greenbacks
+2017-11-03 20:00:13: MacGyver (2016).S02E06.Jet Engine + Pickup Truck
 2017-11-03 00:01:49: Real Time with Bill Maher.S15E32.Episode 442
 2017-11-03 00:01:41: Real Time with Bill Maher.S15E31.Episode 441
 2017-11-03 00:01:32: The Mick.S02E05.The Invention
@@ -96,5 +98,3 @@
 2017-10-04 20:01:35: Criminal Minds.S13E02.To a Better Place
 2017-10-04 20:01:32: The Goldbergs (2013).S05E02.Hogan is My Grandfather
 2017-10-04 06:01:29: The Orville.S01E04.If the Stars Should Appear
-2017-10-04 06:01:22: Tosh.0.S09E23.Tourette's Comedian
-2017-10-03 22:00:52: This Is Us.S02E02.A Manny-Splendored Thing
