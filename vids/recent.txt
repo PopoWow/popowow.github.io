@@ -1,4 +1,12 @@
-2017-11-04 20:00:21: Real Time with Bill Maher.S15E33.Episode 443
+2017-11-05 15:48:59: Star Trek: Discovery.S01E07.Magic to Make The Sanest Man Go Mad
+2017-11-05 15:48:47: Star Trek: Discovery.S01E06.Lethe
+2017-11-05 15:48:34: Star Trek: Discovery.S01E05.Choose Your Pain
+2017-11-05 15:48:24: Star Trek: Discovery.S01E04.The Butcher's Knife Cares Not for the Lamb's Cry
+2017-11-05 15:48:09: Star Trek: Discovery.S01E03.Context Is for Kings
+2017-11-05 15:47:52: Star Trek: Discovery.S01E02.Battle at the Binary Stars
+2017-11-05 15:47:40: Star Trek: Discovery.S01E01.The Vulcan Hello
+2017-11-05 00:00:54: Saturday Night Live.S43E06.Chance the Rapper/Eminem
+2017-11-04 20:14:45: Real Time with Bill Maher.S15E33.Episode 443
 2017-11-04 10:32:49: Will & Grace.S09E05.How to Succeed in Business Without Really Crying
 2017-11-04 10:32:49: Will & Grace.S09E06.Rosario's Quinceanera
 2017-11-04 10:32:47: Will & Grace.S09E04.Grandpa Jack
@@ -90,11 +98,3 @@
 2017-10-10 20:01:10: This Is Us.S02E03.Deja Vu
 2017-10-10 00:00:59: The Mindy Project.S06E05.Anna & Jeremy's Meryl Streep Costume Party
 2017-10-09 20:01:04: Supergirl.S03E01.Girl of Steel
-2017-10-09 20:01:03: The Big Bang Theory.S11E03.The Relaxation Integration
-2017-10-09 06:00:46: Last Week Tonight with John Oliver.S04E26.Episode 115
-2017-10-08 22:00:31: Talking Dead.S06E27.El Matadero (FTWD 314)
-2017-10-08 20:00:55: The Simpsons.S29E02.Springfield Splendor
-2017-10-08 20:00:51: Fear the Walking Dead.S03E14.El Matadero
-2017-10-08 20:00:50: The Last Man on Earth.S04E02.Stocko Syndome
-2017-10-08 20:00:48: Family Guy.S16E02.Foxx In The Men House
-2017-10-08 00:00:17: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
