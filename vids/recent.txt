@@ -1,3 +1,4 @@
+2017-11-04 20:00:21: Real Time with Bill Maher.S15E33.Episode 443
 2017-11-04 10:32:49: Will & Grace.S09E05.How to Succeed in Business Without Really Crying
 2017-11-04 10:32:49: Will & Grace.S09E06.Rosario's Quinceanera
 2017-11-04 10:32:47: Will & Grace.S09E04.Grandpa Jack
@@ -97,4 +98,3 @@
 2017-10-08 20:00:50: The Last Man on Earth.S04E02.Stocko Syndome
 2017-10-08 20:00:48: Family Guy.S16E02.Foxx In The Men House
 2017-10-08 00:00:17: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
-2017-10-07 20:00:36: Real Time with Bill Maher.S15E30.Episode 440
