@@ -1,3 +1,7 @@
+2017-11-05 20:01:27: Star Trek: Discovery.S01E08.Si Vis Pacem. Para Bellum
+2017-11-05 20:01:25: Bob's Burgers.S08E04.Sit Me Baby One More Time
+2017-11-05 20:01:21: Family Guy.S16E05.Three Directors
+2017-11-05 20:01:21: The Simpsons.S29E05.Grampy, Can Ya Hear Me
 2017-11-05 15:48:59: Star Trek: Discovery.S01E07.Magic to Make The Sanest Man Go Mad
 2017-11-05 15:48:47: Star Trek: Discovery.S01E06.Lethe
 2017-11-05 15:48:34: Star Trek: Discovery.S01E05.Choose Your Pain
@@ -94,7 +98,3 @@
 2017-10-10 20:01:22: The Mick.S02E03.The Visit
 2017-10-10 20:01:20: Fresh Off the Boat.S04E02.First Day
 2017-10-10 20:01:19: The Flash (2014).S04E01.The Flash Reborn
-2017-10-10 20:01:10: Brooklyn Nine-Nine.S05E03.Kicks
-2017-10-10 20:01:10: This Is Us.S02E03.Deja Vu
-2017-10-10 00:00:59: The Mindy Project.S06E05.Anna & Jeremy's Meryl Streep Costume Party
-2017-10-09 20:01:04: Supergirl.S03E01.Girl of Steel
