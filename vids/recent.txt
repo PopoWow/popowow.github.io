@@ -1,3 +1,23 @@
+2017-11-07 20:00:27: Hey Duggee.S02E18.The Making Friends Badge
+2017-11-07 20:00:27: Hey Duggee.S02E19.The River Badge
+2017-11-07 20:00:26: Hey Duggee.S02E17.The Camping Badge
+2017-11-07 20:00:25: Hey Duggee.S02E15.The Pizza Badge
+2017-11-07 20:00:25: Hey Duggee.S02E16.The Medicine Badge
+2017-11-07 20:00:24: Hey Duggee.S02E14.The Train Badge
+2017-11-07 20:00:23: Hey Duggee.S02E13.The Dancing Bug Badge
+2017-11-07 20:00:22: Hey Duggee.S02E12.The Teamwork Badge
+2017-11-07 20:00:21: Hey Duggee.S02E10.The Honey Badge
+2017-11-07 20:00:21: Hey Duggee.S02E11.The Pottery Badge
+2017-11-07 20:00:20: Hey Duggee.S02E08.The Kite Badge
+2017-11-07 20:00:20: Hey Duggee.S02E09.The Tadpole Badge
+2017-11-07 20:00:19: Hey Duggee.S02E07.The Treehouse Badge
+2017-11-07 20:00:18: Hey Duggee.S02E04.The Juice Badge
+2017-11-07 20:00:18: Hey Duggee.S02E05.The Footprint Badge
+2017-11-07 20:00:18: Hey Duggee.S02E06.The Fossil Badge
+2017-11-07 20:00:17: Hey Duggee.S02E03.The Shape Badge
+2017-11-07 20:00:16: Hey Duggee.S02E01.The Making Music Badge
+2017-11-07 20:00:16: Hey Duggee.S02E02.The Whistling Badge
+2017-11-07 20:00:15: Fresh Off the Boat.S04E06.A League of Her Own
 2017-11-07 00:00:14: The Mindy Project.S06E09.Danny in Real Life
 2017-11-06 20:01:45: Talking Dead.S07E03.Monsters
 2017-11-06 00:01:18: Last Week Tonight with John Oliver.S04E29.Episode 118
@@ -78,23 +98,3 @@
 2017-10-17 20:01:10: Brooklyn Nine-Nine.S05E04.HalloVeen
 2017-10-17 20:01:06: Fresh Off the Boat.S04E03.Kids
 2017-10-17 20:01:05: The Flash (2014).S04E02.Mixed Signals
-2017-10-17 20:01:03: The Mick.S02E04.The Haunted House
-2017-10-17 00:00:46: The Mindy Project.S06E06.The Midwife’s Tale
-2017-10-16 20:01:38: The Big Bang Theory.S11E04.The Explosion Implosion
-2017-10-16 20:01:36: Supergirl.S03E02.Triggers
-2017-10-16 20:01:35: Last Week Tonight with John Oliver.S04E27.Episode 116
-2017-10-16 20:01:29: Bob's Burgers.S08E02.The Silence of the Louise
-2017-10-16 20:01:27: Family Guy.S16E03.Nanny Goats
-2017-10-16 20:01:27: The Simpsons.S29E03.Whistler's Father
-2017-10-16 20:01:22: Talking Dead.S06E28.Things Bad Begun; Sleigh Ride (FTWD 315/316)
-2017-10-16 20:01:16: Fear the Walking Dead.S03E16.Sleigh Ride
-2017-10-16 20:01:13: Fear the Walking Dead.S03E15.Things Bad Begun
-2017-10-16 20:01:07: The Last Man on Earth.S04E03.Skeleton Crew
-2017-10-15 00:00:33: Saturday Night Live.S43E03.Kumail Nanjiani/P!nk
-2017-10-13 20:00:40: MacGyver (2016).S02E03.Roulette Wheel + Wire
-2017-10-13 20:00:38: Once Upon a Time (2011).S07E02.A Pirate's Life
-2017-10-12 20:00:35: The Good Place.S02E05.The Trolley Problem
-2017-10-12 20:00:31: The Orville.S01E06.Krill
-2017-10-12 20:00:28: Superstore.S03E03.Part-Time Hires
-2017-10-12 20:00:28: The Goldbergs (2013).S05E03.Goldberg on the Goldbergs
-2017-10-12 00:00:16: Tosh.0.S09E24.Spidergirl
