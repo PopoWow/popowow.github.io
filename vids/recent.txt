@@ -1,3 +1,4 @@
+2017-11-12 22:01:12: The Walking Dead.S08E04.Some Guy
 2017-11-12 20:01:11: The Simpsons.S29E06.The Old Blue Mayor She Ain't What She Used to Be
 2017-11-12 20:01:04: Star Trek: Discovery.S01E09.Into the Forest I Go
 2017-11-12 20:00:53: Family Guy.S16E06.The D in Apartment 23
@@ -97,4 +98,3 @@
 2017-10-23 20:01:37: The Last Man on Earth.S04E04.Wisconsin
 2017-10-23 20:01:34: Bob's Burgers.S08E03.The Wolf of Wharf Street
 2017-10-23 20:01:33: Family Guy.S16E04.Follow the Money
-2017-10-23 20:01:29: Superstore.S03E04.Workplace Bullying
