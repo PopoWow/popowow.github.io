@@ -1,3 +1,6 @@
+2017-11-12 20:01:11: The Simpsons.S29E06.The Old Blue Mayor She Ain't What She Used to Be
+2017-11-12 20:01:04: Star Trek: Discovery.S01E09.Into the Forest I Go
+2017-11-12 20:00:53: Family Guy.S16E06.The D in Apartment 23
 2017-11-11 00:00:22: Star Trek: Discovery.S01E03.Context Is for Kings
 2017-11-09 20:00:34: The Orville.S01E09.Cupid's Dagger
 2017-11-09 20:00:31: Mom.S05E02.Fish Town and Too Many Thank You's
@@ -95,6 +98,3 @@
 2017-10-23 20:01:34: Bob's Burgers.S08E03.The Wolf of Wharf Street
 2017-10-23 20:01:33: Family Guy.S16E04.Follow the Money
 2017-10-23 20:01:29: Superstore.S03E04.Workplace Bullying
-2017-10-23 20:01:28: The Good Place.S02E06.Janet and Michael
-2017-10-23 20:01:18: MacGyver (2016).S02E04.X-Ray + Penny
-2017-10-23 20:01:12: The Walking Dead.S08E01.Mercy
