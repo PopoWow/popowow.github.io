@@ -1,3 +1,5 @@
+2017-11-13 00:01:27: Real Time with Bill Maher.S15E34.Episode 444
+2017-11-13 00:01:21: Last Week Tonight with John Oliver.S04E30.Episode 119
 2017-11-12 22:01:12: The Walking Dead.S08E04.Some Guy
 2017-11-12 20:01:11: The Simpsons.S29E06.The Old Blue Mayor She Ain't What She Used to Be
 2017-11-12 20:01:04: Star Trek: Discovery.S01E09.Into the Forest I Go
@@ -96,5 +98,3 @@
 2017-10-23 22:00:35: Criminal Minds.S13E04.Killer App
 2017-10-23 20:01:40: The Simpsons.S29E04.Treehouse of Horror XXVIII
 2017-10-23 20:01:37: The Last Man on Earth.S04E04.Wisconsin
-2017-10-23 20:01:34: Bob's Burgers.S08E03.The Wolf of Wharf Street
-2017-10-23 20:01:33: Family Guy.S16E04.Follow the Money
