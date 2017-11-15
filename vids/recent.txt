@@ -1,4 +1,9 @@
-2017-11-13 00:01:27: Real Time with Bill Maher.S15E34.Episode 444
+2017-11-15 06:01:31: Fresh Off the Boat.S04E07.The Day After Thanksgiving
+2017-11-15 06:01:28: The Mindy Project.S06E10.It Had To Be You
+2017-11-15 06:01:25: The Mick.S02E06.The Matriarch
+2017-11-15 06:01:24: Real Time with Bill Maher.S15E34.Episode 444
+2017-11-15 06:01:13: Brooklyn Nine-Nine.S05E06.The Venue
+2017-11-15 06:01:13: Tosh.0.S09E29.ASMR Thanksgiving
 2017-11-13 00:01:21: Last Week Tonight with John Oliver.S04E30.Episode 119
 2017-11-12 22:01:12: The Walking Dead.S08E04.Some Guy
 2017-11-12 20:01:11: The Simpsons.S29E06.The Old Blue Mayor She Ain't What She Used to Be
@@ -7,7 +12,7 @@
 2017-11-11 00:00:22: Star Trek: Discovery.S01E03.Context Is for Kings
 2017-11-09 20:00:34: The Orville.S01E09.Cupid's Dagger
 2017-11-09 20:00:31: Mom.S05E02.Fish Town and Too Many Thank You's
-2017-11-09 20:00:30: Young Sheldon.S01E03.Poker, Faith, and Eggs
+2017-11-09 20:00:30: Young Sheldon.S01E03.Poker, Faith and Eggs
 2017-11-09 20:00:28: The Big Bang Theory.S11E07.The Geology Methodology
 2017-11-08 06:00:18: Tosh.0.S09E28.Mississippi State Fan
 2017-11-07 20:00:27: Hey Duggee.S02E18.The Making Friends Badge
@@ -52,7 +57,7 @@
 2017-11-04 10:32:45: Will & Grace.S09E03.Emergency Contact
 2017-11-04 10:32:44: Will & Grace.S09E02.Who's Your Daddy
 2017-11-04 10:32:43: Will & Grace.S09E01.Eleven Years Later
-2017-11-04 06:01:34: Young Sheldon.S01E02.Rockets, Communists, and the Dewey Decimal System
+2017-11-04 06:01:34: Young Sheldon.S01E02.Rockets, Communists and the Dewey Decimal System
 2017-11-04 06:01:31: Young Sheldon.S01E01.Pilot
 2017-11-03 20:00:15: Once Upon a Time (2011).S07E05.Greenbacks
 2017-11-03 20:00:13: MacGyver (2016).S02E06.Jet Engine + Pickup Truck
@@ -93,8 +98,3 @@
 2017-10-24 00:01:07: The Mindy Project.S06E07.Girl Gone Wild
 2017-10-24 00:01:06: Tosh.0.S09E25.Nino Brown
 2017-10-24 00:01:03: Talking Dead.S07E01.Mercy
-2017-10-24 00:00:55: Supergirl.S03E03.Far from the Tree
-2017-10-23 22:00:36: The Goldbergs (2013).S05E04.Revenge O' The Nerds
-2017-10-23 22:00:35: Criminal Minds.S13E04.Killer App
-2017-10-23 20:01:40: The Simpsons.S29E04.Treehouse of Horror XXVIII
-2017-10-23 20:01:37: The Last Man on Earth.S04E04.Wisconsin
