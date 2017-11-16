@@ -1,3 +1,5 @@
+2017-11-15 20:01:44: Criminal Minds.S13E07.Dust and Bones
+2017-11-15 20:01:44: The Goldbergs (2013).S05E07.A Wall Street Thanksgiving
 2017-11-15 06:01:31: Fresh Off the Boat.S04E07.The Day After Thanksgiving
 2017-11-15 06:01:28: The Mindy Project.S06E10.It Had To Be You
 2017-11-15 06:01:25: The Mick.S02E06.The Matriarch
@@ -96,5 +98,3 @@
 2017-10-25 20:01:33: Fresh Off the Boat.S04E04.It’s a Plastic Pumpkin, Louis Huang
 2017-10-24 00:01:13: The Big Bang Theory.S11E05.The Collaboration Contamination
 2017-10-24 00:01:07: The Mindy Project.S06E07.Girl Gone Wild
-2017-10-24 00:01:06: Tosh.0.S09E25.Nino Brown
-2017-10-24 00:01:03: Talking Dead.S07E01.Mercy
