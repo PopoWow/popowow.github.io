@@ -1,3 +1,11 @@
+2017-11-20 00:01:35: The Simpsons.S29E07.Singin' in the Lane
+2017-11-20 00:01:29: Saturday Night Live.S43E06.Chance the Rapper/Eminem
+2017-11-20 00:01:16: The Orville.S01E10.Firestorm
+2017-11-20 00:01:13: Bob's Burgers.S08E05.Thanks-hoarding
+2017-11-20 00:01:09: Real Time with Bill Maher.S15E35.Episode 445
+2017-11-20 00:00:59: Family Guy.S16E07.Petey IV
+2017-11-20 00:00:52: Mom.S05E03.A Seafaring Ancestor and a Bloomin' Onion
+2017-11-20 00:00:52: Young Sheldon.S01E04.A Therapist, a Comic Book and a Breakfast Sausage
 2017-11-16 06:00:22: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2017-11-15 20:01:44: Criminal Minds.S13E07.Dust and Bones
 2017-11-15 20:01:44: The Goldbergs (2013).S05E07.A Wall Street Thanksgiving
@@ -52,7 +60,6 @@
 2017-11-05 15:48:24: Star Trek: Discovery.S01E04.The Butcher's Knife Cares Not for the Lamb's Cry
 2017-11-05 15:47:52: Star Trek: Discovery.S01E02.Battle at the Binary Stars
 2017-11-05 15:47:40: Star Trek: Discovery.S01E01.The Vulcan Hello
-2017-11-05 00:00:54: Saturday Night Live.S43E06.Chance the Rapper/Eminem
 2017-11-04 20:14:45: Real Time with Bill Maher.S15E33.Episode 443
 2017-11-04 10:32:49: Will & Grace.S09E05.How to Succeed in Business Without Really Crying
 2017-11-04 10:32:49: Will & Grace.S09E06.Rosario's Quinceanera
@@ -91,10 +98,3 @@
 2017-10-30 00:04:14: The Goldbergs (2013).S05E05.Jackie Likes Star Trek
 2017-10-30 00:04:10: The Walking Dead.S08E02.The Damned
 2017-10-30 00:03:58: The Orville.S01E07.Majority Rule
-2017-10-30 00:03:47: MacGyver (2016).S02E05.Skull + Electromagnet
-2017-10-30 00:03:19: Criminal Minds.S13E05.Lucky Strikes
-2017-10-25 20:01:38: Tosh.0.S09E26.Poppa Pipes
-2017-10-25 20:01:35: The Flash (2014).S04E03.Luck Be a Lady
-2017-10-25 20:01:33: Fresh Off the Boat.S04E04.It’s a Plastic Pumpkin, Louis Huang
-2017-10-24 00:01:13: The Big Bang Theory.S11E05.The Collaboration Contamination
-2017-10-24 00:01:07: The Mindy Project.S06E07.Girl Gone Wild
