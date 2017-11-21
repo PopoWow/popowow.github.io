@@ -1,3 +1,6 @@
+2017-11-20 22:01:03: The Walking Dead.S08E05.The Big Scary U
+2017-11-20 22:00:59: The Big Bang Theory.S11E08.The Tesla Recoil
+2017-11-20 22:00:56: Talking Dead.S07E05.The Big Scary U
 2017-11-20 20:00:43: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2017-11-20 00:01:35: The Simpsons.S29E07.Singin' in the Lane
 2017-11-20 00:01:29: Saturday Night Live.S43E06.Chance the Rapper/Eminem
@@ -95,6 +98,3 @@
 2017-10-30 00:04:46: Superstore.S03E05.Sal's Dead
 2017-10-30 00:04:40: This Is Us.S02E05.Brothers
 2017-10-30 00:04:22: Once Upon a Time (2011).S07E04.Beauty
-2017-10-30 00:04:14: The Goldbergs (2013).S05E05.Jackie Likes Star Trek
-2017-10-30 00:04:10: The Walking Dead.S08E02.The Damned
-2017-10-30 00:03:58: The Orville.S01E07.Majority Rule
