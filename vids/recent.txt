@@ -1,3 +1,4 @@
+2017-11-20 20:00:43: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2017-11-20 00:01:35: The Simpsons.S29E07.Singin' in the Lane
 2017-11-20 00:01:29: Saturday Night Live.S43E06.Chance the Rapper/Eminem
 2017-11-20 00:01:16: The Orville.S01E10.Firestorm
@@ -6,7 +7,6 @@
 2017-11-20 00:00:59: Family Guy.S16E07.Petey IV
 2017-11-20 00:00:52: Mom.S05E03.A Seafaring Ancestor and a Bloomin' Onion
 2017-11-20 00:00:52: Young Sheldon.S01E04.A Therapist, a Comic Book and a Breakfast Sausage
-2017-11-16 06:00:22: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2017-11-15 20:01:44: Criminal Minds.S13E07.Dust and Bones
 2017-11-15 20:01:44: The Goldbergs (2013).S05E07.A Wall Street Thanksgiving
 2017-11-15 06:01:31: Fresh Off the Boat.S04E07.The Day After Thanksgiving
