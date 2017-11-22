@@ -1,3 +1,6 @@
+2017-11-21 20:01:02: Brooklyn Nine-Nine.S05E07.Two Turkeys
+2017-11-21 20:01:01: Fresh Off the Boat.S04E08.The Vouch
+2017-11-21 20:01:01: The Mick.S02E07.The Homecoming
 2017-11-20 22:01:03: The Walking Dead.S08E05.The Big Scary U
 2017-11-20 22:00:59: The Big Bang Theory.S11E08.The Tesla Recoil
 2017-11-20 22:00:56: Talking Dead.S07E05.The Big Scary U
@@ -95,6 +98,3 @@
 2017-10-31 06:03:03: Supergirl.S03E04.The Faithful
 2017-10-30 20:02:52: Talking Dead.S07E02.The Damned
 2017-10-30 06:02:59: Last Week Tonight with John Oliver.S04E28.Episode 117
-2017-10-30 00:04:46: Superstore.S03E05.Sal's Dead
-2017-10-30 00:04:40: This Is Us.S02E05.Brothers
-2017-10-30 00:04:22: Once Upon a Time (2011).S07E04.Beauty
