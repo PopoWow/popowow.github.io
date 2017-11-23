@@ -1,3 +1,5 @@
+2017-11-22 20:00:32: Criminal Minds.S13E08.Neon Terror
+2017-11-22 20:00:31: Real Time with Bill Maher.S15E35.Episode 445
 2017-11-22 06:01:09: Tosh.0.S09E30.Best of Season 9
 2017-11-21 20:01:02: Brooklyn Nine-Nine.S05E07.Two Turkeys
 2017-11-21 20:01:01: Fresh Off the Boat.S04E08.The Vouch
@@ -10,7 +12,6 @@
 2017-11-20 00:01:29: Saturday Night Live.S43E06.Chance the Rapper/Eminem
 2017-11-20 00:01:16: The Orville.S01E10.Firestorm
 2017-11-20 00:01:13: Bob's Burgers.S08E05.Thanks-hoarding
-2017-11-20 00:01:09: Real Time with Bill Maher.S15E35.Episode 445
 2017-11-20 00:00:59: Family Guy.S16E07.Petey IV
 2017-11-20 00:00:52: Mom.S05E03.A Seafaring Ancestor and a Bloomin' Onion
 2017-11-20 00:00:52: Young Sheldon.S01E04.A Therapist, a Comic Book and a Breakfast Sausage
@@ -97,4 +98,3 @@
 2017-10-31 20:03:17: Fresh Off the Boat.S04E05.Four Funerals and a Wedding
 2017-10-31 06:03:04: The Mindy Project.S06E08.Doctors Without Boundaries
 2017-10-31 06:03:03: Supergirl.S03E04.The Faithful
-2017-10-30 20:02:52: Talking Dead.S07E02.The Damned
