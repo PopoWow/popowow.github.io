@@ -1,3 +1,5 @@
+2017-11-23 20:00:12: Mom.S05E04.Fancy Crackers and Giant Women
+2017-11-23 20:00:11: Young Sheldon.S01E05.A Solar Calculator, a Game Ball and a Cheerleader's Bosom
 2017-11-22 20:00:32: Criminal Minds.S13E08.Neon Terror
 2017-11-22 20:00:31: Real Time with Bill Maher.S15E35.Episode 445
 2017-11-22 06:01:09: Tosh.0.S09E30.Best of Season 9
@@ -96,5 +98,3 @@
 2017-10-31 20:03:23: The Flash (2014).S04E04.Elongated Journey Into Night
 2017-10-31 20:03:18: This Is Us.S02E06.The 20's
 2017-10-31 20:03:17: Fresh Off the Boat.S04E05.Four Funerals and a Wedding
-2017-10-31 06:03:04: The Mindy Project.S06E08.Doctors Without Boundaries
-2017-10-31 06:03:03: Supergirl.S03E04.The Faithful
