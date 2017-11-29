@@ -1,3 +1,5 @@
+2017-11-28 20:00:11: Brooklyn Nine-Nine.S05E08.Return to Skyfire
+2017-11-28 20:00:11: The Mick.S02E08.The Teacher
 2017-11-27 20:00:08: Talking Dead.S07E06.The King, The Widow, and Rick
 2017-11-27 06:00:15: The Walking Dead.S08E06.The King, The Widow and Rick
 2017-11-23 20:00:12: Mom.S05E04.Fancy Crackers and Giant Women
@@ -96,5 +98,3 @@
 2017-11-03 00:01:00: Mom.S05E01.Twinkle Lights and Grandma Shoes
 2017-11-03 00:00:58: Criminal Minds.S13E06.The Bunker
 2017-11-03 00:00:57: The Big Bang Theory.S11E06.The Proton Regeneration
-2017-11-01 06:03:02: Tosh.0.S09E27.Lactatia
-2017-10-31 20:03:23: The Flash (2014).S04E04.Elongated Journey Into Night
