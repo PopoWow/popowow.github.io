@@ -1,3 +1,4 @@
+2017-11-29 20:00:32: The Goldbergs (2013).S05E08.The Circle Of Driving Again
 2017-11-28 20:00:11: Brooklyn Nine-Nine.S05E08.Return to Skyfire
 2017-11-28 20:00:11: The Mick.S02E08.The Teacher
 2017-11-27 20:00:08: Talking Dead.S07E06.The King, The Widow, and Rick
@@ -97,4 +98,3 @@
 2017-11-03 00:01:04: Saturday Night Live.S00E590.The David S. Pumpkins Halloween Special
 2017-11-03 00:01:00: Mom.S05E01.Twinkle Lights and Grandma Shoes
 2017-11-03 00:00:58: Criminal Minds.S13E06.The Bunker
-2017-11-03 00:00:57: The Big Bang Theory.S11E06.The Proton Regeneration
