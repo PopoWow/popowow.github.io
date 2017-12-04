@@ -1,5 +1,6 @@
+2017-12-04 00:00:29: Family Guy.S16E08.Crimes and Meg's Demeanor
+2017-12-04 00:00:26: Saturday Night Live.S43E07.Saoirse Ronan/U2
 2017-12-03 22:00:58: The Walking Dead.S08E07.Time for After
-2017-12-03 20:00:42: Family Guy.S16E08.Crimes and Meg's Demeanor
 2017-12-03 20:00:41: The Simpsons.S29E08.Mr. Lisa's Opus
 2017-12-03 00:00:46: Saturday Night Live.S43E09.Kevin Hart/Foo Fighters
 2017-12-02 06:00:36: Marvel's Agents of S.H.I.E.L.D..S05E01.Orientation (1)
@@ -97,4 +98,3 @@
 2017-11-03 20:00:15: Once Upon a Time (2011).S07E05.Greenbacks
 2017-11-03 20:00:13: MacGyver (2016).S02E06.Jet Engine + Pickup Truck
 2017-11-03 00:01:49: Real Time with Bill Maher.S15E32.Episode 442
-2017-11-03 00:01:41: Real Time with Bill Maher.S15E31.Episode 441
