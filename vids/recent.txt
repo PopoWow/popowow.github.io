@@ -1,3 +1,9 @@
+2017-12-06 20:01:02: Superstore.S03E07.Christmas Eve
+2017-12-06 20:00:57: The Mick.S02E09.The Divorce
+2017-12-06 20:00:52: Fresh Off the Boat.S04E09.Slide Effect
+2017-12-06 20:00:47: The Goldbergs (2013).S05E09.Parents Just Don't Understand
+2017-12-06 20:00:45: Brooklyn Nine-Nine.S05E09.99
+2017-12-06 20:00:40: Criminal Minds.S13E09.False Flag
 2017-12-04 20:00:42: Talking Dead.S07E07.Time for After
 2017-12-04 00:00:29: Family Guy.S16E08.Crimes and Meg's Demeanor
 2017-12-04 00:00:26: Saturday Night Live.S43E07.Saoirse Ronan/U2
@@ -92,9 +98,3 @@
 2017-11-04 10:32:49: Will & Grace.S09E06.Rosario's Quinceanera
 2017-11-04 10:32:47: Will & Grace.S09E04.Grandpa Jack
 2017-11-04 10:32:45: Will & Grace.S09E03.Emergency Contact
-2017-11-04 10:32:44: Will & Grace.S09E02.Who's Your Daddy
-2017-11-04 10:32:43: Will & Grace.S09E01.Eleven Years Later
-2017-11-04 06:01:34: Young Sheldon.S01E02.Rockets, Communists and the Dewey Decimal System
-2017-11-04 06:01:31: Young Sheldon.S01E01.Pilot
-2017-11-03 20:00:15: Once Upon a Time (2011).S07E05.Greenbacks
-2017-11-03 20:00:13: MacGyver (2016).S02E06.Jet Engine + Pickup Truck
