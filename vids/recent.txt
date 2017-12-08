@@ -1,3 +1,7 @@
+2017-12-07 20:00:53: Mom.S05E06.Smooth Jazz and a Weird Floaty Eye
+2017-12-07 20:00:53: Young Sheldon.S01E07.A Brisket, Voodoo and Cannonball Run
+2017-12-07 20:00:50: The Big Bang Theory.S11E10.The Confidence Erosion
+2017-12-07 20:00:47: The Orville.S01E12.Mad Idolatry
 2017-12-06 20:01:02: Superstore.S03E07.Christmas Eve
 2017-12-06 20:00:57: The Mick.S02E09.The Divorce
 2017-12-06 20:00:52: Fresh Off the Boat.S04E09.Slide Effect
@@ -94,7 +98,3 @@
 2017-11-05 15:47:52: Star Trek: Discovery.S01E02.Battle at the Binary Stars
 2017-11-05 15:47:40: Star Trek: Discovery.S01E01.The Vulcan Hello
 2017-11-04 20:14:45: Real Time with Bill Maher.S15E33.Episode 443
-2017-11-04 10:32:49: Will & Grace.S09E05.How to Succeed in Business Without Really Crying
-2017-11-04 10:32:49: Will & Grace.S09E06.Rosario's Quinceanera
-2017-11-04 10:32:47: Will & Grace.S09E04.Grandpa Jack
-2017-11-04 10:32:45: Will & Grace.S09E03.Emergency Contact
