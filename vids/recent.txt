@@ -1,3 +1,5 @@
+2017-12-08 20:00:56: Talking Dead.S07E04.Some Guy
+2017-12-08 20:00:55: Marvel's Agents of S.H.I.E.L.D..S05E03.A Life Spent
 2017-12-07 20:00:53: Mom.S05E06.Smooth Jazz and a Weird Floaty Eye
 2017-12-07 20:00:53: Young Sheldon.S01E07.A Brisket, Voodoo and Cannonball Run
 2017-12-07 20:00:50: The Big Bang Theory.S11E10.The Confidence Erosion
@@ -96,5 +98,3 @@
 2017-11-05 15:48:34: Star Trek: Discovery.S01E05.Choose Your Pain
 2017-11-05 15:48:24: Star Trek: Discovery.S01E04.The Butcher's Knife Cares Not for the Lamb's Cry
 2017-11-05 15:47:52: Star Trek: Discovery.S01E02.Battle at the Binary Stars
-2017-11-05 15:47:40: Star Trek: Discovery.S01E01.The Vulcan Hello
-2017-11-04 20:14:45: Real Time with Bill Maher.S15E33.Episode 443
