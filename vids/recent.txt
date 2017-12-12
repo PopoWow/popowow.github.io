@@ -1,3 +1,8 @@
+2017-12-11 20:01:12: Family Guy.S16E09.Don't Be a Dickens At Christmas
+2017-12-11 20:01:08: Bob's Burgers.S08E06.Bleakening Part 1
+2017-12-11 20:01:08: Bob's Burgers.S08E07.Bleakening Part 2
+2017-12-11 20:00:55: The Simpsons.S29E09.Gone Boy
+2017-12-11 20:00:51: The Walking Dead.S08E08.How It's Gotta Be
 2017-12-08 20:00:56: Talking Dead.S07E04.Some Guy
 2017-12-08 20:00:55: Marvel's Agents of S.H.I.E.L.D..S05E03.A Life Spent
 2017-12-07 20:00:53: Mom.S05E06.Smooth Jazz and a Weird Floaty Eye
@@ -93,8 +98,3 @@
 2017-11-05 20:01:25: Bob's Burgers.S08E04.Sit Me Baby One More Time
 2017-11-05 20:01:21: Family Guy.S16E05.Three Directors
 2017-11-05 20:01:21: The Simpsons.S29E05.Grampy, Can Ya Hear Me
-2017-11-05 15:48:59: Star Trek: Discovery.S01E07.Magic to Make The Sanest Man Go Mad
-2017-11-05 15:48:47: Star Trek: Discovery.S01E06.Lethe
-2017-11-05 15:48:34: Star Trek: Discovery.S01E05.Choose Your Pain
-2017-11-05 15:48:24: Star Trek: Discovery.S01E04.The Butcher's Knife Cares Not for the Lamb's Cry
-2017-11-05 15:47:52: Star Trek: Discovery.S01E02.Battle at the Binary Stars
