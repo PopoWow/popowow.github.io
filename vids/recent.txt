@@ -1,10 +1,11 @@
+2017-12-20 06:01:29: Saturday Night Live.S43E10.Sam Rockwell/Halsey
 2017-12-13 20:01:31: Brooklyn Nine-Nine.S05E11.The Favor
 2017-12-13 20:01:27: Brooklyn Nine-Nine.S05E10.Game Night
 2017-12-13 20:01:21: The Goldbergs (2013).S05E10.We Didn't Start The Fire
 2017-12-13 20:01:20: Fresh Off the Boat.S04E10.Do You Hear What I Hear?
 2017-12-13 20:01:13: Talking Dead.S07E08.How It’s Gotta Be
 2017-12-11 20:01:12: Family Guy.S16E09.Don't Be a Dickens At Christmas
-2017-12-11 20:01:08: Bob's Burgers.S08E06.Bleakening Parts 1 & 2
+2017-12-11 20:01:08: Bob's Burgers.S08E06.Bleakening Part 1
 2017-12-11 20:01:08: Bob's Burgers.S08E07.Bleakening Part 2
 2017-12-11 20:00:55: The Simpsons.S29E09.Gone Boy
 2017-12-11 20:00:51: The Walking Dead.S08E08.How It's Gotta Be
@@ -97,4 +98,3 @@
 2017-11-07 20:00:15: Fresh Off the Boat.S04E06.A League of Her Own
 2017-11-07 00:00:14: The Mindy Project.S06E09.Danny in Real Life
 2017-11-06 20:01:45: Talking Dead.S07E03.Monsters
-2017-11-06 00:01:18: Last Week Tonight with John Oliver.S04E29.Episode 118
