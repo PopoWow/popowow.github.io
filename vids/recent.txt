@@ -1,3 +1,5 @@
+2018-01-02 20:00:10: Fresh Off the Boat.S04E11.Big Baby
+2018-01-02 20:00:09: The Mick.S02E10.The Climb
 2017-12-28 01:09:47: Future Man.S01E01.Pilot
 2017-12-27 20:00:48: Future Man.S01E13.A Date with Destiny
 2017-12-27 20:00:47: Future Man.S01E12.Prelude to an Apocalypse
@@ -96,5 +98,3 @@
 2017-11-09 20:00:30: Young Sheldon.S01E03.Poker, Faith and Eggs
 2017-11-09 20:00:28: The Big Bang Theory.S11E07.The Geology Methodology
 2017-11-08 06:00:18: Tosh.0.S09E28.Mississippi State Fan
-2017-11-07 20:00:27: Hey Duggee.S02E18.The Making Friends Badge
-2017-11-07 20:00:27: Hey Duggee.S02E19.The River Badge
