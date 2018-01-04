@@ -1,3 +1,5 @@
+2018-01-03 20:00:27: The Goldbergs (2013).S05E11.The Goldberg Girls
+2018-01-03 20:00:24: Criminal Minds.S13E10.Submerged
 2018-01-02 20:00:10: Fresh Off the Boat.S04E11.Big Baby
 2018-01-02 20:00:09: The Mick.S02E10.The Climb
 2017-12-28 01:09:47: Future Man.S01E01.Pilot
@@ -19,8 +21,8 @@
 2017-12-23 20:01:54: The Big Bang Theory.S11E11.The Celebration Reverberation
 2017-12-23 20:01:50: Mom.S05E08.An Epi-pen and a Security Cat
 2017-12-23 20:01:45: Mom.S05E07.Too Many Hippies and Huevos Rancheros
-2017-12-23 20:01:37: Young Sheldon.S01E09.Spock, Kirk and Testicular Hernia
-2017-12-23 20:01:33: Young Sheldon.S01E08.Cape Canaveral, Schrödinger's Cat and Cyndi Lauper's Hair
+2017-12-23 20:01:37: Young Sheldon.S01E09.Spock, Kirk, and Testicular Hernia
+2017-12-23 20:01:33: Young Sheldon.S01E08.Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair
 2017-12-20 06:01:29: Saturday Night Live.S43E10.Sam Rockwell/Halsey
 2017-12-13 20:01:31: Brooklyn Nine-Nine.S05E11.The Favor
 2017-12-13 20:01:27: Brooklyn Nine-Nine.S05E10.Game Night
@@ -35,7 +37,7 @@
 2017-12-08 20:00:56: Talking Dead.S07E04.Some Guy
 2017-12-08 20:00:55: Marvel's Agents of S.H.I.E.L.D..S05E03.A Life Spent
 2017-12-07 20:00:53: Mom.S05E06.Smooth Jazz and a Weird Floaty Eye
-2017-12-07 20:00:53: Young Sheldon.S01E07.A Brisket, Voodoo and Cannonball Run
+2017-12-07 20:00:53: Young Sheldon.S01E07.A Brisket, Voodoo, and Cannonball Run
 2017-12-07 20:00:50: The Big Bang Theory.S11E10.The Confidence Erosion
 2017-12-07 20:00:47: The Orville.S01E12.Mad Idolatry
 2017-12-06 20:01:02: Superstore.S03E07.Christmas Eve
@@ -61,7 +63,7 @@
 2017-11-27 20:00:08: Talking Dead.S07E06.The King, The Widow, and Rick
 2017-11-27 06:00:15: The Walking Dead.S08E06.The King, The Widow and Rick
 2017-11-23 20:00:12: Mom.S05E04.Fancy Crackers and Giant Women
-2017-11-23 20:00:11: Young Sheldon.S01E05.A Solar Calculator, a Game Ball and a Cheerleader's Bosom
+2017-11-23 20:00:11: Young Sheldon.S01E05.A Solar Calculator, a Game Ball, and a Cheerleader's Bosom
 2017-11-22 20:00:32: Criminal Minds.S13E08.Neon Terror
 2017-11-22 20:00:31: Real Time with Bill Maher.S15E35.Episode 445
 2017-11-22 06:01:09: Tosh.0.S09E30.Best of Season 9
@@ -78,7 +80,7 @@
 2017-11-20 00:01:13: Bob's Burgers.S08E05.Thanks-hoarding
 2017-11-20 00:00:59: Family Guy.S16E07.Petey IV
 2017-11-20 00:00:52: Mom.S05E03.A Seafaring Ancestor and a Bloomin' Onion
-2017-11-20 00:00:52: Young Sheldon.S01E04.A Therapist, a Comic Book and a Breakfast Sausage
+2017-11-20 00:00:52: Young Sheldon.S01E04.A Therapist, a Comic Book, and a Breakfast Sausage
 2017-11-15 20:01:44: Criminal Minds.S13E07.Dust and Bones
 2017-11-15 20:01:44: The Goldbergs (2013).S05E07.A Wall Street Thanksgiving
 2017-11-15 06:01:31: Fresh Off the Boat.S04E07.The Day After Thanksgiving
@@ -95,6 +97,4 @@
 2017-11-11 00:00:22: Star Trek: Discovery.S01E03.Context Is for Kings
 2017-11-09 20:00:34: The Orville.S01E09.Cupid's Dagger
 2017-11-09 20:00:31: Mom.S05E02.Fish Town and Too Many Thank You's
-2017-11-09 20:00:30: Young Sheldon.S01E03.Poker, Faith and Eggs
-2017-11-09 20:00:28: The Big Bang Theory.S11E07.The Geology Methodology
-2017-11-08 06:00:18: Tosh.0.S09E28.Mississippi State Fan
+2017-11-09 20:00:30: Young Sheldon.S01E03.Poker, Faith, and Eggs
