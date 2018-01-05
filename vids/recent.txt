@@ -1,3 +1,9 @@
+2018-01-04 20:00:48: Death in Paradise.S07E01.Episode 1
+2018-01-04 20:00:36: Mom.S05E09.Teenage Vampires and a White Russian
+2018-01-04 20:00:35: Superstore.S03E08.Viral Video
+2018-01-04 20:00:30: The Big Bang Theory.S11E12.The Matrimonial Metric
+2018-01-04 20:00:30: Young Sheldon.S01E10.An Eagle Feather, a String Bean, and an Eskimo
+2018-01-04 20:00:29: The Good Place.S02E08.Leap to Faith
 2018-01-03 20:00:27: The Goldbergs (2013).S05E11.The Goldberg Girls
 2018-01-03 20:00:24: Criminal Minds.S13E10.Submerged
 2018-01-02 20:00:10: Fresh Off the Boat.S04E11.Big Baby
@@ -92,9 +98,3 @@
 2017-11-13 00:01:21: Last Week Tonight with John Oliver.S04E30.Episode 119
 2017-11-12 22:01:12: The Walking Dead.S08E04.Some Guy
 2017-11-12 20:01:11: The Simpsons.S29E06.The Old Blue Mayor She Ain't What She Used to Be
-2017-11-12 20:01:04: Star Trek: Discovery.S01E09.Into the Forest I Go
-2017-11-12 20:00:53: Family Guy.S16E06.The D in Apartment 23
-2017-11-11 00:00:22: Star Trek: Discovery.S01E03.Context Is for Kings
-2017-11-09 20:00:34: The Orville.S01E09.Cupid's Dagger
-2017-11-09 20:00:31: Mom.S05E02.Fish Town and Too Many Thank You's
-2017-11-09 20:00:30: Young Sheldon.S01E03.Poker, Faith, and Eggs
