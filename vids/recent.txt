@@ -1,3 +1,5 @@
+2018-01-15 00:01:04: Family Guy.S16E10.Boy (Dog) Meets Girl (Dog)
+2018-01-15 00:00:59: Star Trek: Discovery.S01E10.Despite Yourself
 2018-01-14 22:03:20: The Good Place.S02E09.Best Self
 2018-01-14 22:03:17: Young Sheldon.S01E11.Demons, Sunday School, and Prime Numbers
 2018-01-14 22:03:13: Mom.S05E10.A Bear and a Bladder Infection
@@ -96,5 +98,3 @@
 2017-11-20 22:00:59: The Big Bang Theory.S11E08.The Tesla Recoil
 2017-11-20 22:00:56: Talking Dead.S07E05.The Big Scary U
 2017-11-20 20:00:43: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
-2017-11-20 00:01:35: The Simpsons.S29E07.Singin' in the Lane
-2017-11-20 00:01:29: Saturday Night Live.S43E06.Chance the Rapper/Eminem
