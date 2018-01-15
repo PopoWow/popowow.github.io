@@ -1,3 +1,19 @@
+2018-01-14 22:03:20: The Good Place.S02E09.Best Self
+2018-01-14 22:03:17: Young Sheldon.S01E11.Demons, Sunday School, and Prime Numbers
+2018-01-14 22:03:13: Mom.S05E10.A Bear and a Bladder Infection
+2018-01-14 22:03:08: The Big Bang Theory.S11E13.The Solo Oscillation
+2018-01-14 22:03:05: Family Guy.S16E11.Dog Bites Bear
+2018-01-14 22:02:55: The Mick.S02E11.The Trip
+2018-01-14 22:02:53: Marvel's Agents of S.H.I.E.L.D..S05E07.Together or Not at All
+2018-01-14 22:02:45: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
+2018-01-14 22:02:19: Fresh Off the Boat.S04E12.Liar Liar
+2018-01-14 22:02:15: The Goldbergs (2013).S05E12.Dinner With The Goldbergs
+2018-01-14 22:02:13: Star Trek: Discovery.S01E11.The Wolf Inside
+2018-01-14 22:01:50: Superstore.S03E09.Golden Globes Party
+2018-01-14 22:01:49: Criminal Minds.S13E11.Full-Tilt Boogie
+2018-01-14 22:01:42: Death in Paradise.S07E02.Episode 2
+2018-01-14 22:01:36: Bob's Burgers.S08E08.V for Valentine-detta
+2018-01-14 22:01:36: The Simpsons.S29E11.Frink Gets Testy
 2018-01-04 20:00:48: Death in Paradise.S07E01.Episode 1
 2018-01-04 20:00:36: Mom.S05E09.Teenage Vampires and a White Russian
 2018-01-04 20:00:35: Superstore.S03E08.Viral Video
@@ -62,7 +78,7 @@
 2017-12-01 00:00:40: The Orville.S01E11.New Dimensions
 2017-12-01 00:00:32: The Big Bang Theory.S11E09.The Bitcoin Entanglement
 2017-12-01 00:00:26: Mom.S05E05.Poodle Fuzz and a Twinge of Jealousy
-2017-12-01 00:00:24: Young Sheldon.S01E06.A Patch, a Modem, and a Zantac®
+2017-12-01 00:00:24: Young Sheldon.S01E06.A Patch, a Modem, and a Zantac
 2017-11-29 20:00:32: The Goldbergs (2013).S05E08.The Circle of Driving Again
 2017-11-28 20:00:11: Brooklyn Nine-Nine.S05E08.Return to Skyfire
 2017-11-28 20:00:11: The Mick.S02E08.The Teacher
@@ -82,19 +98,3 @@
 2017-11-20 20:00:43: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2017-11-20 00:01:35: The Simpsons.S29E07.Singin' in the Lane
 2017-11-20 00:01:29: Saturday Night Live.S43E06.Chance the Rapper/Eminem
-2017-11-20 00:01:16: The Orville.S01E10.Firestorm
-2017-11-20 00:01:13: Bob's Burgers.S08E05.Thanks-hoarding
-2017-11-20 00:00:59: Family Guy.S16E07.Petey IV
-2017-11-20 00:00:52: Mom.S05E03.A Seafaring Ancestor and a Bloomin' Onion
-2017-11-20 00:00:52: Young Sheldon.S01E04.A Therapist, a Comic Book, and a Breakfast Sausage
-2017-11-15 20:01:44: Criminal Minds.S13E07.Dust and Bones
-2017-11-15 20:01:44: The Goldbergs (2013).S05E07.A Wall Street Thanksgiving
-2017-11-15 06:01:31: Fresh Off the Boat.S04E07.The Day After Thanksgiving
-2017-11-15 06:01:28: The Mindy Project.S06E10.It Had To Be You
-2017-11-15 06:01:25: The Mick.S02E06.The Matriarch
-2017-11-15 06:01:24: Real Time with Bill Maher.S15E34.Episode 444
-2017-11-15 06:01:13: Brooklyn Nine-Nine.S05E06.The Venue
-2017-11-15 06:01:13: Tosh.0.S09E29.ASMR Thanksgiving
-2017-11-13 00:01:21: Last Week Tonight with John Oliver.S04E30.Episode 119
-2017-11-12 22:01:12: The Walking Dead.S08E04.Some Guy
-2017-11-12 20:01:11: The Simpsons.S29E06.The Old Blue Mayor She Ain't What She Used to Be
