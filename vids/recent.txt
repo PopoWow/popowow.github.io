@@ -1,3 +1,6 @@
+2018-01-16 20:00:20: The Mick.S02E12.The City
+2018-01-16 20:00:15: The X-Files.S11E02.This
+2018-01-16 20:00:11: The X-Files.S11E01.My Struggle III
 2018-01-15 00:01:04: Family Guy.S16E10.Boy (Dog) Meets Girl (Dog)
 2018-01-15 00:00:59: Star Trek: Discovery.S01E10.Despite Yourself
 2018-01-14 22:03:20: The Good Place.S02E09.Best Self
@@ -95,6 +98,3 @@
 2017-11-21 20:01:01: Fresh Off the Boat.S04E08.The Vouch
 2017-11-21 20:01:01: The Mick.S02E07.The Homecoming
 2017-11-20 22:01:03: The Walking Dead.S08E05.The Big Scary U
-2017-11-20 22:00:59: The Big Bang Theory.S11E08.The Tesla Recoil
-2017-11-20 22:00:56: Talking Dead.S07E05.The Big Scary U
-2017-11-20 20:00:43: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
