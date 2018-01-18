@@ -1,3 +1,5 @@
+2018-01-17 20:00:24: The Goldbergs (2013).S05E13.The Hooters
+2018-01-17 20:00:23: The X-Files.S11E03.Plus One
 2018-01-16 20:00:20: The Mick.S02E12.The City
 2018-01-16 20:00:15: The X-Files.S11E02.This
 2018-01-16 20:00:11: The X-Files.S11E01.My Struggle III
@@ -96,5 +98,3 @@
 2017-11-22 06:01:09: Tosh.0.S09E30.Best of Season 9
 2017-11-21 20:01:02: Brooklyn Nine-Nine.S05E07.Two Turkeys
 2017-11-21 20:01:01: Fresh Off the Boat.S04E08.The Vouch
-2017-11-21 20:01:01: The Mick.S02E07.The Homecoming
-2017-11-20 22:01:03: The Walking Dead.S08E05.The Big Scary U
