@@ -1,3 +1,5 @@
+2018-01-22 00:01:08: Saturday Night Live.S43E11.Jessica Chastain/Troye Sivan
+2018-01-22 00:00:55: Saturday Night Live.S43E10.Sam Rockwell/Halsey
 2018-01-21 22:00:26: Star Trek: Discovery.S01E12.Vaulting Ambition
 2018-01-20 20:00:08: Real Time with Bill Maher.S16E01.Episode 446
 2018-01-19 20:01:06: Marvel's Agents of S.H.I.E.L.D..S05E08.The Last Day
@@ -63,7 +65,6 @@
 2017-12-23 20:01:45: Mom.S05E07.Too Many Hippies and Huevos Rancheros
 2017-12-23 20:01:37: Young Sheldon.S01E09.Spock, Kirk, and Testicular Hernia
 2017-12-23 20:01:33: Young Sheldon.S01E08.Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair
-2017-12-20 06:01:29: Saturday Night Live.S43E10.Sam Rockwell/Halsey
 2017-12-13 20:01:31: Brooklyn Nine-Nine.S05E11.The Favor
 2017-12-13 20:01:27: Brooklyn Nine-Nine.S05E10.Game Night
 2017-12-13 20:01:21: The Goldbergs (2013).S05E10.We Didn't Start The Fire
@@ -97,4 +98,3 @@
 2017-12-01 00:00:26: Mom.S05E05.Poodle Fuzz and a Twinge of Jealousy
 2017-12-01 00:00:24: Young Sheldon.S01E06.A Patch, a Modem, and a Zantac
 2017-11-29 20:00:32: The Goldbergs (2013).S05E08.The Circle of Driving Again
-2017-11-28 20:00:11: Brooklyn Nine-Nine.S05E08.Return to Skyfire
