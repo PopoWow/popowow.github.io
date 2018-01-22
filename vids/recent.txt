@@ -1,3 +1,4 @@
+2018-01-21 22:00:26: Star Trek: Discovery.S01E12.Vaulting Ambition
 2018-01-20 20:00:08: Real Time with Bill Maher.S16E01.Episode 446
 2018-01-19 20:01:06: Marvel's Agents of S.H.I.E.L.D..S05E08.The Last Day
 2018-01-18 20:01:42: Mom.S05E11.Sex Fog and a Mild-to-Moderate Panic Attack
@@ -97,4 +98,3 @@
 2017-12-01 00:00:24: Young Sheldon.S01E06.A Patch, a Modem, and a Zantac
 2017-11-29 20:00:32: The Goldbergs (2013).S05E08.The Circle of Driving Again
 2017-11-28 20:00:11: Brooklyn Nine-Nine.S05E08.Return to Skyfire
-2017-11-28 20:00:11: The Mick.S02E08.The Teacher
