@@ -1,3 +1,4 @@
+2018-01-23 22:00:36: Baskets.S03E01.Wild Horses
 2018-01-23 20:00:40: The Mick.S02E13.The Dump
 2018-01-22 00:01:08: Saturday Night Live.S43E11.Jessica Chastain/Troye Sivan
 2018-01-22 00:00:55: Saturday Night Live.S43E10.Sam Rockwell/Halsey
@@ -97,4 +98,3 @@
 2017-12-01 00:00:40: The Orville.S01E11.New Dimensions
 2017-12-01 00:00:32: The Big Bang Theory.S11E09.The Bitcoin Entanglement
 2017-12-01 00:00:26: Mom.S05E05.Poodle Fuzz and a Twinge of Jealousy
-2017-12-01 00:00:24: Young Sheldon.S01E06.A Patch, a Modem, and a Zantac
