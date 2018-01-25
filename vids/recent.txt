@@ -1,3 +1,5 @@
+2018-01-24 20:00:49: The X-Files.S11E04.The Lost Art of Forehead Sweat
+2018-01-24 20:00:48: Criminal Minds.S13E13.Cure
 2018-01-23 22:00:36: Baskets.S03E01.Wild Horses
 2018-01-23 20:00:40: The Mick.S02E13.The Dump
 2018-01-22 00:01:08: Saturday Night Live.S43E11.Jessica Chastain/Troye Sivan
@@ -5,11 +7,11 @@
 2018-01-21 22:00:26: Star Trek: Discovery.S01E12.Vaulting Ambition
 2018-01-20 20:00:08: Real Time with Bill Maher.S16E01.Episode 446
 2018-01-19 20:01:06: Marvel's Agents of S.H.I.E.L.D..S05E08.The Last Day
-2018-01-18 20:01:42: Mom.S05E11.Sex Fog and a Mild-to-Moderate Panic Attack
+2018-01-18 20:01:42: Mom.S05E11.Bert and Ernie and a Blessing of the People
 2018-01-18 20:01:41: Young Sheldon.S01E12.A Computer, a Plastic Pony, and a Case of Beer
 2018-01-18 20:01:40: Bob's Burgers.S08E06.Bleakening Part 1
 2018-01-18 20:01:30: Death in Paradise.S07E03.Written in Murder
-2018-01-18 20:01:19: Superstore.S03E10.HIgh Volume Store
+2018-01-18 20:01:19: Superstore.S03E10.High Volume Store
 2018-01-18 20:01:18: The Good Place.S02E10.Rhonda, Diana, Jake, and Trent
 2018-01-18 20:01:17: The Big Bang Theory.S11E14.The Separation Triangulation
 2018-01-17 22:00:37: Criminal Minds.S13E12.Bad Moon on the Rise
@@ -96,5 +98,3 @@
 2017-12-02 06:00:36: Marvel's Agents of S.H.I.E.L.D..S05E01.Orientation (1)
 2017-12-02 06:00:36: Marvel's Agents of S.H.I.E.L.D..S05E02.Orientation (2)
 2017-12-01 00:00:40: The Orville.S01E11.New Dimensions
-2017-12-01 00:00:32: The Big Bang Theory.S11E09.The Bitcoin Entanglement
-2017-12-01 00:00:26: Mom.S05E05.Poodle Fuzz and a Twinge of Jealousy
