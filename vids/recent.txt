@@ -1,3 +1,6 @@
+2018-01-25 20:01:00: Superstore.S03E11.Angels and Mermaids
+2018-01-25 20:00:58: The Good Place.S02E11.The Burrito
+2018-01-25 20:00:57: Death in Paradise.S07E04.Episode 4
 2018-01-24 20:00:49: The X-Files.S11E04.The Lost Art of Forehead Sweat
 2018-01-24 20:00:48: Criminal Minds.S13E13.Cure
 2018-01-23 22:00:36: Baskets.S03E01.Wild Horses
@@ -95,6 +98,3 @@
 2017-12-04 00:00:26: Saturday Night Live.S43E07.Saoirse Ronan/U2
 2017-12-03 22:00:58: The Walking Dead.S08E07.Time for After
 2017-12-03 20:00:41: The Simpsons.S29E08.Mr. Lisa's Opus
-2017-12-02 06:00:36: Marvel's Agents of S.H.I.E.L.D..S05E01.Orientation (1)
-2017-12-02 06:00:36: Marvel's Agents of S.H.I.E.L.D..S05E02.Orientation (2)
-2017-12-01 00:00:40: The Orville.S01E11.New Dimensions
