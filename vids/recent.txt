@@ -1,3 +1,4 @@
+2018-01-26 00:01:08: The Goldbergs (2013).S00E02.The Goldbergs: 1990-Something
 2018-01-25 20:01:00: Superstore.S03E11.Angels and Mermaids
 2018-01-25 20:00:58: The Good Place.S02E11.The Burrito
 2018-01-25 20:00:57: Death in Paradise.S07E04.Episode 4
@@ -97,4 +98,3 @@
 2017-12-04 00:00:29: Family Guy.S16E08.Crimes and Meg's Demeanor
 2017-12-04 00:00:26: Saturday Night Live.S43E07.Saoirse Ronan/U2
 2017-12-03 22:00:58: The Walking Dead.S08E07.Time for After
-2017-12-03 20:00:41: The Simpsons.S29E08.Mr. Lisa's Opus
