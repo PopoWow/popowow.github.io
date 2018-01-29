@@ -1,3 +1,6 @@
+2018-01-28 20:02:33: Counterpart.S01E02.Birds of a Feather
+2018-01-28 20:02:28: Counterpart.S01E01.The Crossing
+2018-01-28 20:02:18: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
 2018-01-26 22:01:16: Marvel's Agents of S.H.I.E.L.D..S05E09.Best Laid Plans
 2018-01-26 00:01:08: The Goldbergs (2013).S00E02.The Goldbergs: 1990-Something
 2018-01-25 20:01:00: Superstore.S03E11.Angels and Mermaids
@@ -34,7 +37,6 @@
 2018-01-14 22:03:05: Family Guy.S16E11.Dog Bites Bear
 2018-01-14 22:02:55: The Mick.S02E11.The Trip
 2018-01-14 22:02:53: Marvel's Agents of S.H.I.E.L.D..S05E07.Together or Not at All
-2018-01-14 22:02:45: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
 2018-01-14 22:02:19: Fresh Off the Boat.S04E12.Liar Liar
 2018-01-14 22:02:15: The Goldbergs (2013).S05E12.Dinner With The Goldbergs
 2018-01-14 22:02:13: Star Trek: Discovery.S01E11.The Wolf Inside
@@ -96,5 +98,3 @@
 2017-12-06 20:00:45: Brooklyn Nine-Nine.S05E09.99
 2017-12-06 20:00:40: Criminal Minds.S13E09.False Flag
 2017-12-04 20:00:42: Talking Dead.S07E07.Time for After
-2017-12-04 00:00:29: Family Guy.S16E08.Crimes and Meg's Demeanor
-2017-12-04 00:00:26: Saturday Night Live.S43E07.Saoirse Ronan/U2
