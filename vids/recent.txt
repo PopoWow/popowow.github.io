@@ -1,3 +1,4 @@
+2018-01-29 06:02:08: Star Trek: Discovery.S01E13.What's Past Is Prologue
 2018-01-28 20:02:33: Counterpart.S01E02.Birds of a Feather
 2018-01-28 20:02:28: Counterpart.S01E01.The Crossing
 2018-01-28 20:02:18: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
@@ -97,4 +98,3 @@
 2017-12-06 20:00:47: The Goldbergs (2013).S05E09.Parents Just Don't Understand
 2017-12-06 20:00:45: Brooklyn Nine-Nine.S05E09.99
 2017-12-06 20:00:40: Criminal Minds.S13E09.False Flag
-2017-12-04 20:00:42: Talking Dead.S07E07.Time for After
