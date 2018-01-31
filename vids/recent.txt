@@ -1,3 +1,4 @@
+2018-01-30 20:00:31: Real Time with Bill Maher.S16E02.Episode 447
 2018-01-29 12:27:16: Happy!.S01E07.Destroyer of Worlds
 2018-01-29 12:27:09: Happy!.S01E06.The Scrapyard of Childish Things
 2018-01-29 12:27:04: Happy!.S01E05.White Sauce? Hot Sauce?
@@ -97,4 +98,3 @@
 2017-12-08 20:00:55: Marvel's Agents of S.H.I.E.L.D..S05E03.A Life Spent
 2017-12-07 20:00:53: Mom.S05E06.Smooth Jazz and a Weird Floaty Eye
 2017-12-07 20:00:53: Young Sheldon.S01E07.A Brisket, Voodoo, and Cannonball Run
-2017-12-07 20:00:50: The Big Bang Theory.S11E10.The Confidence Erosion
