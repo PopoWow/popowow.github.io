@@ -1,3 +1,16 @@
+2018-02-03 00:02:38: Young Sheldon.S01E13.A Sneeze, Detention, and Sissy Spacek
+2018-02-03 00:02:33: The X-Files.S11E05.Ghouli
+2018-02-03 00:02:24: The Good Place.S02E12.Somewhere Else
+2018-02-03 00:02:20: Mom.S05E12.Push-Down Coffee and a Working Turn Signal
+2018-02-03 00:02:17: Marvel's Agents of S.H.I.E.L.D..S05E10.Past Life
+2018-02-03 00:02:11: Happy!.S01E08.I Am the Future
+2018-02-03 00:02:01: Fresh Off the Boat.S04E15.We Need to Talk About Evan
+2018-02-03 00:01:57: Fresh Off the Boat.S04E14.A Man to Share the Night With
+2018-02-03 00:01:50: The Big Bang Theory.S11E15.The Novelization Correlation
+2018-02-03 00:01:45: Criminal Minds.S13E14.Miasma
+2018-02-03 00:01:38: Baskets.S03E02.Finding Eddie
+2018-02-03 00:01:33: Superstore.S03E12.Groundhog Day
+2018-02-03 00:01:28: Death in Paradise.S07E05.Episode 5
 2018-01-30 20:00:31: Real Time with Bill Maher.S16E02.Episode 447
 2018-01-29 12:27:16: Happy!.S01E07.Destroyer of Worlds
 2018-01-29 12:27:09: Happy!.S01E06.The Scrapyard of Childish Things
@@ -27,7 +40,7 @@
 2018-01-18 20:01:42: Mom.S05E11.Bert and Ernie and a Blessing of the People
 2018-01-18 20:01:41: Young Sheldon.S01E12.A Computer, a Plastic Pony, and a Case of Beer
 2018-01-18 20:01:40: Bob's Burgers.S08E06.Bleakening Part 1
-2018-01-18 20:01:30: Death in Paradise.S07E03.Written in Murder
+2018-01-18 20:01:30: Death in Paradise.S07E03.Episode 3
 2018-01-18 20:01:19: Superstore.S03E10.High Volume Store
 2018-01-18 20:01:18: The Good Place.S02E10.Rhonda, Diana, Jake, and Trent
 2018-01-18 20:01:17: The Big Bang Theory.S11E14.The Separation Triangulation
@@ -51,10 +64,10 @@
 2018-01-14 22:02:13: Star Trek: Discovery.S01E11.The Wolf Inside
 2018-01-14 22:01:50: Superstore.S03E09.Golden Globes Party
 2018-01-14 22:01:49: Criminal Minds.S13E11.Full-Tilt Boogie
-2018-01-14 22:01:42: Death in Paradise.S07E02.The Stakes are High
+2018-01-14 22:01:42: Death in Paradise.S07E02.Episode 2
 2018-01-14 22:01:36: Bob's Burgers.S08E08.V for Valentine-detta
 2018-01-14 22:01:36: The Simpsons.S29E11.Frink Gets Testy
-2018-01-04 20:00:48: Death in Paradise.S07E01.Murder from Above
+2018-01-04 20:00:48: Death in Paradise.S07E01.Episode 1
 2018-01-04 20:00:36: Mom.S05E09.Teenage Vampires and a White Russian
 2018-01-04 20:00:35: Superstore.S03E08.Viral Video
 2018-01-04 20:00:30: The Big Bang Theory.S11E12.The Matrimonial Metric
@@ -85,16 +98,3 @@
 2017-12-23 20:01:45: Mom.S05E07.Too Many Hippies and Huevos Rancheros
 2017-12-23 20:01:37: Young Sheldon.S01E09.Spock, Kirk, and Testicular Hernia
 2017-12-23 20:01:33: Young Sheldon.S01E08.Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair
-2017-12-13 20:01:31: Brooklyn Nine-Nine.S05E11.The Favor
-2017-12-13 20:01:27: Brooklyn Nine-Nine.S05E10.Game Night
-2017-12-13 20:01:21: The Goldbergs (2013).S05E10.We Didn't Start The Fire
-2017-12-13 20:01:20: Fresh Off the Boat.S04E10.Do You Hear What I Hear?
-2017-12-13 20:01:13: Talking Dead.S07E08.How It’s Gotta Be
-2017-12-11 20:01:12: Family Guy.S16E09.Don't Be a Dickens At Christmas
-2017-12-11 20:01:08: Bob's Burgers.S08E07.Bleakening Part 2
-2017-12-11 20:00:55: The Simpsons.S29E09.Gone Boy
-2017-12-11 20:00:51: The Walking Dead.S08E08.How It's Gotta Be
-2017-12-08 20:00:56: Talking Dead.S07E04.Some Guy
-2017-12-08 20:00:55: Marvel's Agents of S.H.I.E.L.D..S05E03.A Life Spent
-2017-12-07 20:00:53: Mom.S05E06.Smooth Jazz and a Weird Floaty Eye
-2017-12-07 20:00:53: Young Sheldon.S01E07.A Brisket, Voodoo, and Cannonball Run
