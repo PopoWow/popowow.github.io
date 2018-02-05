@@ -1,3 +1,4 @@
+2018-02-04 22:00:45: Real Time with Bill Maher.S16E03.Episode 448
 2018-02-03 00:02:38: Young Sheldon.S01E13.A Sneeze, Detention, and Sissy Spacek
 2018-02-03 00:02:33: The X-Files.S11E05.Ghouli
 2018-02-03 00:02:24: The Good Place.S02E12.Somewhere Else
@@ -97,4 +98,3 @@
 2017-12-23 20:01:50: Mom.S05E08.An Epi-pen and a Security Cat
 2017-12-23 20:01:45: Mom.S05E07.Too Many Hippies and Huevos Rancheros
 2017-12-23 20:01:37: Young Sheldon.S01E09.Spock, Kirk, and Testicular Hernia
-2017-12-23 20:01:33: Young Sheldon.S01E08.Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair
