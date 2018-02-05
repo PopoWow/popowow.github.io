@@ -1,3 +1,5 @@
+2018-02-05 00:00:46: Saturday Night Live.S43E13.Natalie Portman/Dua Lipa
+2018-02-05 00:00:32: Star Trek: Discovery.S01E14.The War Without The War Within
 2018-02-04 22:00:45: Real Time with Bill Maher.S16E03.Episode 448
 2018-02-03 00:02:38: Young Sheldon.S01E13.A Sneeze, Detention, and Sissy Spacek
 2018-02-03 00:02:33: The X-Files.S11E05.Ghouli
@@ -96,5 +98,3 @@
 2017-12-23 20:02:00: Marvel's Agents of S.H.I.E.L.D..S05E04.A Life Earned
 2017-12-23 20:01:54: The Big Bang Theory.S11E11.The Celebration Reverberation
 2017-12-23 20:01:50: Mom.S05E08.An Epi-pen and a Security Cat
-2017-12-23 20:01:45: Mom.S05E07.Too Many Hippies and Huevos Rancheros
-2017-12-23 20:01:37: Young Sheldon.S01E09.Spock, Kirk, and Testicular Hernia
