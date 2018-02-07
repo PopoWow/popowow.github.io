@@ -1,3 +1,4 @@
+2018-02-07 06:14:26: Baskets.S03E03.Crash
 2018-02-06 22:00:20: Fresh Off the Boat.S04E16.Ride The Tiger
 2018-02-05 00:00:46: Saturday Night Live.S43E13.Natalie Portman/Dua Lipa
 2018-02-05 00:00:32: Star Trek: Discovery.S01E14.The War Without The War Within
@@ -97,4 +98,3 @@
 2017-12-27 00:01:02: Saturday Night Live.S43E09.Kevin Hart/Foo Fighters
 2017-12-23 20:02:07: Marvel's Agents of S.H.I.E.L.D..S05E05.Rewind
 2017-12-23 20:02:00: Marvel's Agents of S.H.I.E.L.D..S05E04.A Life Earned
-2017-12-23 20:01:54: The Big Bang Theory.S11E11.The Celebration Reverberation
