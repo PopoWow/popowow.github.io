@@ -1,10 +1,11 @@
+2018-02-11 22:01:00: Star Trek: Discovery.S01E15.Will You Take My Hand?
 2018-02-10 20:01:29: Real Time with Bill Maher.S16E04.Episode 449
 2018-02-08 20:00:34: Death in Paradise.S07E06.Episode 6
 2018-02-07 20:00:34: The X-Files.S11E06.Kitten
 2018-02-07 06:14:26: Baskets.S03E03.Crash
 2018-02-06 22:00:20: Fresh Off the Boat.S04E16.Ride The Tiger
 2018-02-05 00:00:46: Saturday Night Live.S43E13.Natalie Portman/Dua Lipa
-2018-02-05 00:00:32: Star Trek: Discovery.S01E14.The War Without The War Within
+2018-02-05 00:00:32: Star Trek: Discovery.S01E14.The War Without, the War Within
 2018-02-04 22:00:45: Real Time with Bill Maher.S16E03.Episode 448
 2018-02-03 00:02:38: Young Sheldon.S01E13.A Sneeze, Detention, and Sissy Spacek
 2018-02-03 00:02:33: The X-Files.S11E05.Ghouli
@@ -97,4 +98,3 @@
 2017-12-27 20:00:27: Future Man.S01E05.Justice Desserts
 2017-12-27 20:00:25: Future Man.S01E04.A Fuel's Errand
 2017-12-27 20:00:24: Future Man.S01E03.A Riphole in Time
-2017-12-27 20:00:17: Future Man.S01E02.Herpe: Fully Loaded
