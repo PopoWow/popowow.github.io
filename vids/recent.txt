@@ -1,3 +1,4 @@
+2018-02-16 22:00:43: Death in Paradise.S07E07.Episode 7
 2018-02-13 22:00:21: Baskets.S03E04.A Night at the Opera
 2018-02-12 20:00:27: Real Time with Bill Maher.S16E04.Episode 449
 2018-02-11 22:01:00: Star Trek: Discovery.S01E15.Will You Take My Hand?
@@ -29,7 +30,7 @@
 2018-01-29 12:26:49: Happy!.S01E03.When Christmas Was Christmas
 2018-01-29 12:26:42: Happy!.S01E02.What Smiles Are For
 2018-01-29 12:26:33: Happy!.S01E01.Saint Nick
-2018-01-29 06:02:08: Star Trek: Discovery.S01E13.What's Past Is Prologue
+2018-01-29 06:02:08: Star Trek: Discovery.S01E13.What's Past is Prologue
 2018-01-28 20:02:33: Counterpart.S01E02.Birds of a Feather
 2018-01-28 20:02:28: Counterpart.S01E01.The Crossing
 2018-01-28 20:02:18: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
@@ -97,4 +98,3 @@
 2017-12-27 20:00:35: Future Man.S01E07.Pandora's Mailbox
 2017-12-27 20:00:32: Future Man.S01E06.A Blowjob Before Dying
 2017-12-27 20:00:27: Future Man.S01E05.Justice Desserts
-2017-12-27 20:00:25: Future Man.S01E04.A Fuel's Errand
