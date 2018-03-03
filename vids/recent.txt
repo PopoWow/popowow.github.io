@@ -1,3 +1,17 @@
+2018-03-02 22:56:49: Marvel's Agents of S.H.I.E.L.D..S05E11.All the Comforts of Home
+2018-03-02 22:56:43: The Big Bang Theory.S11E16.The Neonatal Nomenclature
+2018-03-02 22:56:40: Last Week Tonight with John Oliver.S05E02.Episode 121
+2018-03-02 22:56:33: Mom.S05E13.Pudding and A Screen Door
+2018-03-02 22:56:26: The X-Files.S11E07.Rm9sbG93ZXJz
+2018-03-02 22:56:16: The Walking Dead.S08E09.Honor
+2018-03-02 22:56:04: Fresh Off the Boat.S04E17.Let Me Go, Bro
+2018-03-02 22:55:58: Talking Dead.S07E09.Honor
+2018-03-02 22:55:42: The Mick.S02E15.The Juice
+2018-03-02 22:55:35: Young Sheldon.S01E14.Potato Salad, a Broomstick, and Dad's Whiskey
+2018-03-02 22:55:30: The Goldbergs (2013).S05E14.Hail Barry
+2018-03-02 22:55:25: iZombie.S04E01.Are You Ready for Some Zombies?
+2018-03-02 22:55:16: Baskets.S03E06.Thanksgiving
+2018-03-02 22:55:12: Superstore.S03E13.Video Game Release
 2018-02-25 22:01:08: Baskets.S03E05.Sweat Equity
 2018-02-25 22:01:02: Last Week Tonight with John Oliver.S05E01.Episode 120
 2018-02-25 22:00:52: Death in Paradise.S07E08.Episode 8
@@ -84,17 +98,3 @@
 2018-01-14 22:01:36: The Simpsons.S29E11.Frink Gets Testy
 2018-01-04 20:00:48: Death in Paradise.S07E01.Episode 1
 2018-01-04 20:00:36: Mom.S05E09.Teenage Vampires and a White Russian
-2018-01-04 20:00:35: Superstore.S03E08.Viral Video
-2018-01-04 20:00:30: The Big Bang Theory.S11E12.The Matrimonial Metric
-2018-01-04 20:00:30: Young Sheldon.S01E10.An Eagle Feather, a String Bean, and an Eskimo
-2018-01-04 20:00:29: The Good Place.S02E08.Leap to Faith
-2018-01-03 20:00:27: The Goldbergs (2013).S05E11.The Goldberg Girls
-2018-01-03 20:00:24: Criminal Minds.S13E10.Submerged
-2018-01-02 20:00:10: Fresh Off the Boat.S04E11.Big Baby
-2018-01-02 20:00:09: The Mick.S02E10.The Climb
-2017-12-28 01:09:47: Future Man.S01E01.Pilot
-2017-12-27 20:00:48: Future Man.S01E13.A Date with Destiny
-2017-12-27 20:00:47: Future Man.S01E12.Prelude to an Apocalypse
-2017-12-27 20:00:44: Future Man.S01E11.Beyond the TruffleDome
-2017-12-27 20:00:42: Future Man.S01E10.Operation: Natal Attraction
-2017-12-27 20:00:39: Future Man.S01E09.Operation: Fatal Attraction
