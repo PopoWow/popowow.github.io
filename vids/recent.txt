@@ -1,3 +1,5 @@
+2018-03-04 06:01:04: Saturday Night Live.S43E16.Bill Hader/Arcade Fire
+2018-03-04 06:00:50: Real Time with Bill Maher.S16E06.Episode 451
 2018-03-02 22:56:49: Marvel's Agents of S.H.I.E.L.D..S05E11.All the Comforts of Home
 2018-03-02 22:56:43: The Big Bang Theory.S11E16.The Neonatal Nomenclature
 2018-03-02 22:56:40: Last Week Tonight with John Oliver.S05E02.Episode 121
@@ -96,5 +98,3 @@
 2018-01-14 22:01:42: Death in Paradise.S07E02.Episode 2
 2018-01-14 22:01:36: Bob's Burgers.S08E08.V for Valentine-detta
 2018-01-14 22:01:36: The Simpsons.S29E11.Frink Gets Testy
-2018-01-04 20:00:48: Death in Paradise.S07E01.Episode 1
-2018-01-04 20:00:36: Mom.S05E09.Teenage Vampires and a White Russian
