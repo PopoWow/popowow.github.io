@@ -1,3 +1,10 @@
+2018-03-07 20:02:49: The X-Files.S11E08.Familiar
+2018-03-07 20:02:39: Last Week Tonight with John Oliver.S05E03.Episode 122
+2018-03-07 20:02:27: Talking Dead.S07E10.The Lost and the Plunderers
+2018-03-07 20:02:14: iZombie.S04E02.Blue Bloody
+2018-03-07 20:02:04: The Mick.S02E16.The Accident
+2018-03-07 20:01:59: The Walking Dead.S08E10.The Lost and the Plunderers
+2018-03-07 20:01:38: The Goldbergs (2013).S05E15.Adam Spielberg
 2018-03-04 06:01:04: Saturday Night Live.S43E16.Bill Hader/Arcade Fire
 2018-03-04 06:00:50: Real Time with Bill Maher.S16E06.Episode 451
 2018-03-02 22:56:49: Marvel's Agents of S.H.I.E.L.D..S05E11.All the Comforts of Home
@@ -91,10 +98,3 @@
 2018-01-14 22:02:55: The Mick.S02E11.The Trip
 2018-01-14 22:02:53: Marvel's Agents of S.H.I.E.L.D..S05E07.Together or Not at All
 2018-01-14 22:02:19: Fresh Off the Boat.S04E12.Liar Liar
-2018-01-14 22:02:15: The Goldbergs (2013).S05E12.Dinner With The Goldbergs
-2018-01-14 22:02:13: Star Trek: Discovery.S01E11.The Wolf Inside
-2018-01-14 22:01:50: Superstore.S03E09.Golden Globes Party
-2018-01-14 22:01:49: Criminal Minds.S13E11.Full-Tilt Boogie
-2018-01-14 22:01:42: Death in Paradise.S07E02.Episode 2
-2018-01-14 22:01:36: Bob's Burgers.S08E08.V for Valentine-detta
-2018-01-14 22:01:36: The Simpsons.S29E11.Frink Gets Testy
