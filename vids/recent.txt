@@ -1,3 +1,10 @@
+2018-03-10 22:02:21: Young Sheldon.S01E15.Dolomite, Apple Slices, and a Mystery Woman
+2018-03-10 22:02:17: The Big Bang Theory.S11E17.The Athenaeum Allocation
+2018-03-10 22:02:13: Marvel's Agents of S.H.I.E.L.D..S05E12.The Real Deal
+2018-03-10 22:02:06: Criminal Minds.S13E15.Annihilator
+2018-03-10 22:02:00: Baskets.S03E07.Women's Conference
+2018-03-10 22:01:53: Superstore.S03E14.Safety Training
+2018-03-10 22:01:48: Mom.S05E14.Charlotte Brontë and a Backhoe
 2018-03-07 20:02:49: The X-Files.S11E08.Familiar
 2018-03-07 20:02:39: Last Week Tonight with John Oliver.S05E03.Episode 122
 2018-03-07 20:02:27: Talking Dead.S07E10.The Lost and the Plunderers
@@ -91,10 +98,3 @@
 2018-01-15 00:01:04: Family Guy.S16E10.Boy (Dog) Meets Girl (Dog)
 2018-01-15 00:00:59: Star Trek: Discovery.S01E10.Despite Yourself
 2018-01-14 22:03:20: The Good Place.S02E09.Best Self
-2018-01-14 22:03:17: Young Sheldon.S01E11.Demons, Sunday School, and Prime Numbers
-2018-01-14 22:03:13: Mom.S05E10.A Bear and a Bladder Infection
-2018-01-14 22:03:08: The Big Bang Theory.S11E13.The Solo Oscillation
-2018-01-14 22:03:05: Family Guy.S16E11.Dog Bites Bear
-2018-01-14 22:02:55: The Mick.S02E11.The Trip
-2018-01-14 22:02:53: Marvel's Agents of S.H.I.E.L.D..S05E07.Together or Not at All
-2018-01-14 22:02:19: Fresh Off the Boat.S04E12.Liar Liar
