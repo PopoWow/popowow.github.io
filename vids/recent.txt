@@ -1,3 +1,13 @@
+2018-03-14 00:06:05: iZombie.S04E03.Brainless in Seattle (1)
+2018-03-14 00:05:58: The Mick.S02E17.The Night Off
+2018-03-14 00:05:53: Fresh Off the Boat.S04E18.Measure Twice, Cut Once
+2018-03-14 00:05:49: Bob's Burgers.S08E09.Y Tu Ga-Ga Tambien
+2018-03-14 00:05:45: Last Week Tonight with John Oliver.S05E04.Episode 123
+2018-03-14 00:05:38: Baskets.S03E08.Commercial
+2018-03-14 00:05:32: American Ninja Warrior.S09E16.USA vs the World
+2018-03-14 00:04:44: The Walking Dead.S08E11.Dead or Alive Or
+2018-03-14 00:04:29: Talking Dead.S07E11.Dead or Alive Or
+2018-03-14 00:04:15: Real Time with Bill Maher.S16E07.Episode 452
 2018-03-10 22:02:21: Young Sheldon.S01E15.Dolomite, Apple Slices, and a Mystery Woman
 2018-03-10 22:02:17: The Big Bang Theory.S11E17.The Athenaeum Allocation
 2018-03-10 22:02:13: Marvel's Agents of S.H.I.E.L.D..S05E12.The Real Deal
@@ -88,13 +98,3 @@
 2018-01-18 20:01:30: Death in Paradise.S07E03.Episode 3
 2018-01-18 20:01:19: Superstore.S03E10.High Volume Store
 2018-01-18 20:01:18: The Good Place.S02E10.Rhonda, Diana, Jake, and Trent
-2018-01-18 20:01:17: The Big Bang Theory.S11E14.The Separation Triangulation
-2018-01-17 22:00:37: Criminal Minds.S13E12.Bad Moon on the Rise
-2018-01-17 20:00:24: The Goldbergs (2013).S05E13.The Hooters
-2018-01-17 20:00:23: The X-Files.S11E03.Plus One
-2018-01-16 20:00:20: The Mick.S02E12.The City
-2018-01-16 20:00:15: The X-Files.S11E02.This
-2018-01-16 20:00:11: The X-Files.S11E01.My Struggle III
-2018-01-15 00:01:04: Family Guy.S16E10.Boy (Dog) Meets Girl (Dog)
-2018-01-15 00:00:59: Star Trek: Discovery.S01E10.Despite Yourself
-2018-01-14 22:03:20: The Good Place.S02E09.Best Self
