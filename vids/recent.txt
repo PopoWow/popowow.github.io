@@ -1,3 +1,6 @@
+2018-03-23 06:00:40: The X-Files.S11E10.My Struggle IV
+2018-03-23 06:00:30: The Goldbergs (2013).S05E16.The Scrunchie Rule
+2018-03-23 06:00:25: Superstore.S03E16.Target
 2018-03-23 01:02:44: Real Time with Bill Maher.S16E08.Episode 453
 2018-03-21 06:03:47: Talking Dead.S07E12.The Key
 2018-03-21 06:03:37: The Mick.S02E18.The Car
@@ -95,6 +98,3 @@
 2018-01-29 06:02:08: Star Trek: Discovery.S01E13.What's Past is Prologue
 2018-01-28 20:02:33: Counterpart.S01E02.Birds of a Feather
 2018-01-28 20:02:28: Counterpart.S01E01.The Crossing
-2018-01-28 20:02:18: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
-2018-01-26 22:01:16: Marvel's Agents of S.H.I.E.L.D..S05E09.Best Laid Plans
-2018-01-26 00:01:08: The Goldbergs (2013).S00E02.The Goldbergs: 1990-Something
