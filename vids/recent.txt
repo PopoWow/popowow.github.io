@@ -1,3 +1,5 @@
+2018-03-27 22:01:01: Baskets.S03E10.New Year's Eve
+2018-03-27 22:00:59: The Mick.S02E19.The Dance
 2018-03-26 20:01:07: iZombie.S04E05.Goon Struck
 2018-03-26 20:01:04: Talking Dead.S07E13.Do Not Send Us Astray
 2018-03-25 22:00:58: The Walking Dead.S08E13.Do Not Send Us Astray
@@ -96,5 +98,3 @@
 2018-02-03 00:01:38: Baskets.S03E02.Finding Eddie
 2018-02-03 00:01:33: Superstore.S03E12.Groundhog Day
 2018-02-03 00:01:28: Death in Paradise.S07E05.Episode 5
-2018-01-30 20:00:31: Real Time with Bill Maher.S16E02.Episode 447
-2018-01-29 12:27:16: Happy!.S01E07.Destroyer of Worlds
