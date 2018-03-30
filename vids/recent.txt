@@ -1,3 +1,10 @@
+2018-03-29 20:02:24: Criminal Minds.S13E18.The Dance of Love
+2018-03-29 20:02:15: Mom.S05E15.Esta Loca and a Little Klingon
+2018-03-29 20:02:12: Superstore.S03E17.District Manager
+2018-03-29 20:02:10: The Goldbergs (2013).S05E17.Colors
+2018-03-29 20:02:01: Tosh.0.S10E01.Lili Hayes
+2018-03-29 20:01:57: Young Sheldon.S01E16.Killer Asteroids, Oklahoma, and a Frizzy Hair Machine
+2018-03-29 20:01:55: The Big Bang Theory.S11E18.The Gates Excitation
 2018-03-27 22:01:01: Baskets.S03E10.New Year's Eve
 2018-03-27 22:00:59: The Mick.S02E19.The Dance
 2018-03-26 20:01:07: iZombie.S04E05.Goon Struck
@@ -91,10 +98,3 @@
 2018-02-03 00:02:20: Mom.S05E12.Push-Down Coffee and a Working Turn Signal
 2018-02-03 00:02:17: Marvel's Agents of S.H.I.E.L.D..S05E10.Past Life
 2018-02-03 00:02:11: Happy!.S01E08.I Am the Future
-2018-02-03 00:02:01: Fresh Off the Boat.S04E15.We Need to Talk About Evan
-2018-02-03 00:01:57: Fresh Off the Boat.S04E14.A Man to Share the Night With
-2018-02-03 00:01:50: The Big Bang Theory.S11E15.The Novelization Correlation
-2018-02-03 00:01:45: Criminal Minds.S13E14.Miasma
-2018-02-03 00:01:38: Baskets.S03E02.Finding Eddie
-2018-02-03 00:01:33: Superstore.S03E12.Groundhog Day
-2018-02-03 00:01:28: Death in Paradise.S07E05.Episode 5
