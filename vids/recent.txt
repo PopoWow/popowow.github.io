@@ -1,3 +1,4 @@
+2018-04-03 00:00:10: The Simpsons.S29E14.Fears of a Clown
 2018-04-01 20:01:22: Bob's Burgers.S08E12.The Hurt Soccer
 2018-03-30 20:01:17: Marvel's Agents of S.H.I.E.L.D..S05E15.Rise and Shine
 2018-03-29 20:02:24: Criminal Minds.S13E18.The Dance of Love
@@ -97,4 +98,3 @@
 2018-02-03 00:02:38: Young Sheldon.S01E13.A Sneeze, Detention, and Sissy Spacek
 2018-02-03 00:02:33: The X-Files.S11E05.Ghouli
 2018-02-03 00:02:24: The Good Place.S02E12.Somewhere Else
-2018-02-03 00:02:20: Mom.S05E12.Push-Down Coffee and a Working Turn Signal
