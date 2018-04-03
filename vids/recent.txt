@@ -1,3 +1,8 @@
+2018-04-03 06:00:37: Last Week Tonight with John Oliver.S05E06.Executive Office for Immigration Review
+2018-04-03 06:00:34: Brooklyn Nine-Nine.S05E14.The Box
+2018-04-03 06:00:32: Family Guy.S16E14.Veteran Guy
+2018-04-03 06:00:29: Talking Dead.S07E14.Still Gotta Mean Something
+2018-04-03 06:00:25: The Walking Dead.S08E14.Still Gotta Mean Something
 2018-04-03 00:00:10: The Simpsons.S29E14.Fears of a Clown
 2018-04-01 20:01:22: Bob's Burgers.S08E12.The Hurt Soccer
 2018-03-30 20:01:17: Marvel's Agents of S.H.I.E.L.D..S05E15.Rise and Shine
@@ -33,7 +38,7 @@
 2018-03-21 06:03:02: Fresh Off the Boat.S04E19.King in the North
 2018-03-21 06:03:00: Baskets.S03E09.Basque-ets
 2018-03-21 06:02:38: Family Guy.S16E12.Send in Stewie, Please
-2018-03-21 06:02:32: Last Week Tonight with John Oliver.S05E05.Episode 124
+2018-03-21 06:02:32: Last Week Tonight with John Oliver.S05E05.Mike Pence
 2018-03-21 06:02:21: The Walking Dead.S08E12.The Key
 2018-03-18 00:01:19: Criminal Minds.S13E16.Last Gasp
 2018-03-18 00:01:14: Superstore.S03E15.Amnesty
@@ -45,7 +50,7 @@
 2018-03-14 00:05:58: The Mick.S02E17.The Night Off
 2018-03-14 00:05:53: Fresh Off the Boat.S04E18.Measure Twice, Cut Once
 2018-03-14 00:05:49: Bob's Burgers.S08E09.Y Tu Ga-Ga Tambien
-2018-03-14 00:05:45: Last Week Tonight with John Oliver.S05E04.Episode 123
+2018-03-14 00:05:45: Last Week Tonight with John Oliver.S05E04.Bitcoin and cryptocurrencies
 2018-03-14 00:05:38: Baskets.S03E08.Commercial
 2018-03-14 00:05:32: American Ninja Warrior.S09E16.USA vs the World 2018
 2018-03-14 00:04:44: The Walking Dead.S08E11.Dead or Alive Or
@@ -58,7 +63,7 @@
 2018-03-10 22:01:53: Superstore.S03E14.Safety Training
 2018-03-10 22:01:48: Mom.S05E14.Charlotte Brontë and a Backhoe
 2018-03-07 20:02:49: The X-Files.S11E08.Familiar
-2018-03-07 20:02:39: Last Week Tonight with John Oliver.S05E03.Episode 122
+2018-03-07 20:02:39: Last Week Tonight with John Oliver.S05E03.NRA TV
 2018-03-07 20:02:27: Talking Dead.S07E10.The Lost and the Plunderers
 2018-03-07 20:02:14: iZombie.S04E02.Blue Bloody
 2018-03-07 20:02:04: The Mick.S02E16.The Accident
@@ -68,7 +73,7 @@
 2018-03-04 06:00:50: Real Time with Bill Maher.S16E06.Episode 451
 2018-03-02 22:56:49: Marvel's Agents of S.H.I.E.L.D..S05E11.All the Comforts of Home
 2018-03-02 22:56:43: The Big Bang Theory.S11E16.The Neonatal Nomenclature
-2018-03-02 22:56:40: Last Week Tonight with John Oliver.S05E02.Episode 121
+2018-03-02 22:56:40: Last Week Tonight with John Oliver.S05E02.Italian Election
 2018-03-02 22:56:33: Mom.S05E13.Pudding and A Screen Door
 2018-03-02 22:56:26: The X-Files.S11E07.Rm9sbG93ZXJz
 2018-03-02 22:56:16: The Walking Dead.S08E09.Honor
@@ -81,7 +86,7 @@
 2018-03-02 22:55:16: Baskets.S03E06.Thanksgiving
 2018-03-02 22:55:12: Superstore.S03E13.Video Game Release
 2018-02-25 22:01:08: Baskets.S03E05.Sweat Equity
-2018-02-25 22:01:02: Last Week Tonight with John Oliver.S05E01.Episode 120
+2018-02-25 22:01:02: Last Week Tonight with John Oliver.S05E01.Trump vs. The World
 2018-02-25 22:00:52: Death in Paradise.S07E08.Episode 8
 2018-02-17 20:01:07: Real Time with Bill Maher.S16E05.Episode 450
 2018-02-16 22:00:43: Death in Paradise.S07E07.Episode 7
@@ -93,8 +98,3 @@
 2018-02-07 06:14:26: Baskets.S03E03.Crash
 2018-02-06 22:00:20: Fresh Off the Boat.S04E16.Ride The Tiger
 2018-02-05 00:00:46: Saturday Night Live.S43E13.Natalie Portman/Dua Lipa
-2018-02-05 00:00:32: Star Trek: Discovery.S01E14.The War Without, the War Within
-2018-02-04 22:00:45: Real Time with Bill Maher.S16E03.Episode 448
-2018-02-03 00:02:38: Young Sheldon.S01E13.A Sneeze, Detention, and Sissy Spacek
-2018-02-03 00:02:33: The X-Files.S11E05.Ghouli
-2018-02-03 00:02:24: The Good Place.S02E12.Somewhere Else
