@@ -1,3 +1,4 @@
+2018-04-03 20:00:42: The Mick.S02E20.The Graduate
 2018-04-03 06:00:37: Last Week Tonight with John Oliver.S05E06.Executive Office for Immigration Review
 2018-04-03 06:00:34: Brooklyn Nine-Nine.S05E14.The Box
 2018-04-03 06:00:32: Family Guy.S16E14.Veteran Guy
@@ -97,4 +98,3 @@
 2018-02-07 20:00:34: The X-Files.S11E06.Kitten
 2018-02-07 06:14:26: Baskets.S03E03.Crash
 2018-02-06 22:00:20: Fresh Off the Boat.S04E16.Ride The Tiger
-2018-02-05 00:00:46: Saturday Night Live.S43E13.Natalie Portman/Dua Lipa
