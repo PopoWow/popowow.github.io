@@ -1,3 +1,9 @@
+2018-04-14 22:01:56: The Simpsons.S29E15.No Good Read Goes Unpunished
+2018-04-14 22:01:55: iZombie.S04E06.My Really Fair Lady
+2018-04-14 22:01:49: Bob's Burgers.S08E13.Cheer Up Sleepy Gene
+2018-04-14 22:01:42: Criminal Minds.S10E03.A Thousand Suns
+2018-04-14 22:01:27: Criminal Minds.S01E18.Somebody's Watching
+2018-04-14 22:01:16: Family Guy.S16E15.The Woof of Wall Street
 2018-04-06 20:00:19: Marvel's Agents of S.H.I.E.L.D..S05E16.Inside Voices
 2018-04-04 06:00:47: Tosh.0.S10E02.Bear Attack
 2018-04-03 20:00:42: The Mick.S02E20.The Graduate
@@ -35,7 +41,7 @@
 2018-03-21 06:03:37: The Mick.S02E18.The Car
 2018-03-21 06:03:33: Brooklyn Nine-Nine.S05E12.Safe House
 2018-03-21 06:03:29: Bob's Burgers.S08E10.The Secret Ceramics Room of Secrets
-2018-03-21 06:03:24: Criminal Minds.S13E17.The Capilano's
+2018-03-21 06:03:24: Criminal Minds.S13E17.The Capilanos
 2018-03-21 06:03:17: iZombie.S04E04.Brainless in Seattle (2)
 2018-03-21 06:03:09: Marvel's Agents of S.H.I.E.L.D..S05E13.Principia
 2018-03-21 06:03:02: Fresh Off the Boat.S04E19.King in the North
@@ -92,9 +98,3 @@
 2018-02-25 22:01:02: Last Week Tonight with John Oliver.S05E01.Episode 120
 2018-02-25 22:00:52: Death in Paradise.S07E08.Episode 8
 2018-02-17 20:01:07: Real Time with Bill Maher.S16E05.Episode 450
-2018-02-16 22:00:43: Death in Paradise.S07E07.Episode 7
-2018-02-13 22:00:21: Baskets.S03E04.A Night at the Opera
-2018-02-12 20:00:27: Real Time with Bill Maher.S16E04.Episode 449
-2018-02-11 22:01:00: Star Trek: Discovery.S01E15.Will You Take My Hand?
-2018-02-08 20:00:34: Death in Paradise.S07E06.Episode 6
-2018-02-07 20:00:34: The X-Files.S11E06.Kitten
