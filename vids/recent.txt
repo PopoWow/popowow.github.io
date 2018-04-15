@@ -1,3 +1,8 @@
+2018-04-15 06:02:02: Real Time with Bill Maher.S16E10.Episode 455
+2018-04-15 06:01:48: Last Week Tonight with John Oliver.S05E07.Episode 126
+2018-04-15 06:01:42: Saturday Night Live.S43E19.Donald Glover/Childish Gambino
+2018-04-15 06:01:19: The Walking Dead.S08E15.Worth
+2018-04-15 06:01:07: Brooklyn Nine-Nine.S05E15.The Puzzle Master
 2018-04-14 22:01:56: The Simpsons.S29E15.No Good Read Goes Unpunished
 2018-04-14 22:01:55: iZombie.S04E06.My Really Fair Lady
 2018-04-14 22:01:49: Bob's Burgers.S08E13.Cheer Up Sleepy Gene
@@ -93,8 +98,3 @@
 2018-03-02 22:55:30: The Goldbergs (2013).S05E14.Hail Barry
 2018-03-02 22:55:25: iZombie.S04E01.Are You Ready for Some Zombies?
 2018-03-02 22:55:16: Baskets.S03E06.Thanksgiving
-2018-03-02 22:55:12: Superstore.S03E13.Video Game Release
-2018-02-25 22:01:08: Baskets.S03E05.Sweat Equity
-2018-02-25 22:01:02: Last Week Tonight with John Oliver.S05E01.Episode 120
-2018-02-25 22:00:52: Death in Paradise.S07E08.Episode 8
-2018-02-17 20:01:07: Real Time with Bill Maher.S16E05.Episode 450
