@@ -1,3 +1,11 @@
+2018-04-20 20:03:48: Young Sheldon.S01E18.A Mother, a Child, and a Blue Man's Backside
+2018-04-20 20:03:42: The Goldbergs (2013).S05E19.Flashy Little Flashdancer
+2018-04-20 20:03:40: Mom.S05E17.Crazy Snakes and a Clog to the Head
+2018-04-20 20:03:35: Marvel's Agents of S.H.I.E.L.D..S05E17.The Honeymoon
+2018-04-20 20:03:24: Real Time with Bill Maher.S16E11.Episode 456
+2018-04-20 20:03:00: Superstore.S03E19.Lottery
+2018-04-20 20:02:53: Criminal Minds.S13E20.All You Can Eat
+2018-04-20 20:02:43: The Big Bang Theory.S11E20.The Reclusive Potential
 2018-04-15 06:02:02: Real Time with Bill Maher.S16E10.Episode 455
 2018-04-15 06:01:48: Last Week Tonight with John Oliver.S05E07.Episode 126
 2018-04-15 06:01:42: Saturday Night Live.S43E19.Donald Glover/Childish Gambino
@@ -90,11 +98,3 @@
 2018-03-02 22:56:40: Last Week Tonight with John Oliver.S05E02.Episode 121
 2018-03-02 22:56:33: Mom.S05E13.Pudding and A Screen Door
 2018-03-02 22:56:26: The X-Files.S11E07.Rm9sbG93ZXJz
-2018-03-02 22:56:16: The Walking Dead.S08E09.Honor
-2018-03-02 22:56:04: Fresh Off the Boat.S04E17.Let Me Go, Bro
-2018-03-02 22:55:58: Talking Dead.S07E09.Honor
-2018-03-02 22:55:42: The Mick.S02E15.The Juice
-2018-03-02 22:55:35: Young Sheldon.S01E14.Potato Salad, a Broomstick, and Dad's Whiskey
-2018-03-02 22:55:30: The Goldbergs (2013).S05E14.Hail Barry
-2018-03-02 22:55:25: iZombie.S04E01.Are You Ready for Some Zombies?
-2018-03-02 22:55:16: Baskets.S03E06.Thanksgiving
