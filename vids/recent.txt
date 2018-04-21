@@ -1,3 +1,22 @@
+2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Episode 127
+2018-04-20 22:04:27: iZombie.S04E07.Don't Hate the Player, Hate the Brain
+2018-04-20 22:04:20: The Big Bang Theory.S11E21.The Comet Polarization
+2018-04-20 22:04:17: Superstore.S03E20.Gender Reveal
+2018-04-20 22:04:12: Fear the Walking Dead.S04E01.What's Your Story?
+2018-04-20 22:04:01: Marvel's Agents of S.H.I.E.L.D..S05E18.All Roads Lead...
+2018-04-20 22:03:59: Tosh.0.S10E04.Ticket Girl
+2018-04-20 22:03:54: Tosh.0.S10E03.WinDgoe
+2018-04-20 22:03:48: Brooklyn Nine-Nine.S05E17.DFW
+2018-04-20 22:03:42: Brooklyn Nine-Nine.S05E16.NutriBoom
+2018-04-20 22:03:36: Talking Dead.S07E16.Wrath
+2018-04-20 22:03:27: Talking Dead.S07E15.Worth
+2018-04-20 22:03:16: The Simpsons.S29E16.King Leer
+2018-04-20 22:03:14: Bob's Burgers.S08E14.The Trouble With Doubles
+2018-04-20 22:03:09: Mom.S05E18.Spaghetti Sauce and a Dumpster Fire
+2018-04-20 22:03:08: The Walking Dead.S08E16.Wrath
+2018-04-20 22:02:54: Young Sheldon.S01E19.Gluons, Guacamole, and the Color Purple
+2018-04-20 22:02:51: Criminal Minds.S13E22.Believer
+2018-04-20 22:02:49: Criminal Minds.S13E21.Mixed Signals
 2018-04-20 20:03:48: Young Sheldon.S01E18.A Mother, a Child, and a Blue Man's Backside
 2018-04-20 20:03:42: The Goldbergs (2013).S05E19.Flashy Little Flashdancer
 2018-04-20 20:03:40: Mom.S05E17.Crazy Snakes and a Clog to the Head
@@ -79,22 +98,3 @@
 2018-03-14 00:04:29: Talking Dead.S07E11.Dead or Alive Or
 2018-03-10 22:02:21: Young Sheldon.S01E15.Dolomite, Apple Slices, and a Mystery Woman
 2018-03-10 22:02:17: The Big Bang Theory.S11E17.The Athenaeum Allocation
-2018-03-10 22:02:13: Marvel's Agents of S.H.I.E.L.D..S05E12.The Real Deal
-2018-03-10 22:02:06: Criminal Minds.S13E15.Annihilator
-2018-03-10 22:02:00: Baskets.S03E07.Women's Conference
-2018-03-10 22:01:53: Superstore.S03E14.Safety Training
-2018-03-10 22:01:48: Mom.S05E14.Charlotte Brontë and a Backhoe
-2018-03-07 20:02:49: The X-Files.S11E08.Familiar
-2018-03-07 20:02:39: Last Week Tonight with John Oliver.S05E03.Episode 122
-2018-03-07 20:02:27: Talking Dead.S07E10.The Lost and the Plunderers
-2018-03-07 20:02:14: iZombie.S04E02.Blue Bloody
-2018-03-07 20:02:04: The Mick.S02E16.The Accident
-2018-03-07 20:01:59: The Walking Dead.S08E10.The Lost and the Plunderers
-2018-03-07 20:01:38: The Goldbergs (2013).S05E15.Adam Spielberg
-2018-03-04 06:01:04: Saturday Night Live.S43E16.Bill Hader/Arcade Fire
-2018-03-04 06:00:50: Real Time with Bill Maher.S16E06.Episode 451
-2018-03-02 22:56:49: Marvel's Agents of S.H.I.E.L.D..S05E11.All the Comforts of Home
-2018-03-02 22:56:43: The Big Bang Theory.S11E16.The Neonatal Nomenclature
-2018-03-02 22:56:40: Last Week Tonight with John Oliver.S05E02.Episode 121
-2018-03-02 22:56:33: Mom.S05E13.Pudding and A Screen Door
-2018-03-02 22:56:26: The X-Files.S11E07.Rm9sbG93ZXJz
