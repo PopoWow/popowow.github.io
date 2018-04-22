@@ -1,3 +1,4 @@
+2018-04-21 20:03:12: Real Time with Bill Maher.S16E12.Episode 457
 2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Episode 127
 2018-04-20 22:04:27: iZombie.S04E07.Don't Hate the Player, Hate the Brain
 2018-04-20 22:04:20: The Big Bang Theory.S11E21.The Comet Polarization
@@ -97,4 +98,3 @@
 2018-03-14 00:04:44: The Walking Dead.S08E11.Dead or Alive Or
 2018-03-14 00:04:29: Talking Dead.S07E11.Dead or Alive Or
 2018-03-10 22:02:21: Young Sheldon.S01E15.Dolomite, Apple Slices, and a Mystery Woman
-2018-03-10 22:02:17: The Big Bang Theory.S11E17.The Athenaeum Allocation
