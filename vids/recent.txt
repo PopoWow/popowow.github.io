@@ -1,3 +1,4 @@
+2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Episode 128
 2018-04-22 22:04:54: Into the Badlands.S03E01.Enter the Phoenix
 2018-04-22 20:03:31: The Simpsons.S29E17.Lisa Gets the Blues
 2018-04-22 20:03:26: Brooklyn Nine-Nine.S05E18.Gray Star Mutual
@@ -97,4 +98,3 @@
 2018-03-14 00:06:05: iZombie.S04E03.Brainless in Seattle (1)
 2018-03-14 00:05:58: The Mick.S02E17.The Night Off
 2018-03-14 00:05:53: Fresh Off the Boat.S04E18.Measure Twice, Cut Once
-2018-03-14 00:05:49: Bob's Burgers.S08E09.Y Tu Ga-Ga Tambien
