@@ -1,3 +1,4 @@
+2018-04-23 20:03:23: iZombie.S04E08.Chivalry Is Dead
 2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Episode 128
 2018-04-22 22:04:54: Into the Badlands.S03E01.Enter the Phoenix
 2018-04-22 20:03:31: The Simpsons.S29E17.Lisa Gets the Blues
@@ -97,4 +98,3 @@
 2018-03-14 22:00:52: The X-Files.S11E09.Nothing Lasts Forever
 2018-03-14 00:06:05: iZombie.S04E03.Brainless in Seattle (1)
 2018-03-14 00:05:58: The Mick.S02E17.The Night Off
-2018-03-14 00:05:53: Fresh Off the Boat.S04E18.Measure Twice, Cut Once
