@@ -1,3 +1,6 @@
+2018-04-26 20:04:11: Young Sheldon.S01E20.A Dog, a Squirrel, and a Fish Named Fish
+2018-04-26 20:04:06: Mom.S05E19.A Taco Bowl and a Tubby Seamstress
+2018-04-26 20:04:06: The Big Bang Theory.S11E22.The Monetary Insufficiency
 2018-04-25 20:03:47: Tosh.0.S10E05.Rhoda on the Scene
 2018-04-25 06:03:54: The Handmaid's Tale.S02E02.Unwomen
 2018-04-25 06:03:39: The Handmaid's Tale.S02E01.June
@@ -95,6 +98,3 @@
 2018-03-21 06:02:32: Last Week Tonight with John Oliver.S05E05.Episode 124
 2018-03-21 06:02:21: The Walking Dead.S08E12.The Key
 2018-03-18 00:01:19: Criminal Minds.S13E16.Last Gasp
-2018-03-18 00:01:14: Superstore.S03E15.Amnesty
-2018-03-14 22:01:54: American Ninja Warrior.S00E23.None
-2018-03-14 22:01:02: Real Time with Bill Maher.S16E07.Episode 452
