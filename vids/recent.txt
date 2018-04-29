@@ -1,3 +1,6 @@
+2018-04-28 20:04:18: Real Time with Bill Maher.S16E13.Episode 458
+2018-04-28 20:04:14: The Simpsons.S29E17.Lisa Gets the Blues
+2018-04-28 20:04:09: Bob's Burgers.S08E15.Go Tina on the Mountain
 2018-04-27 20:04:02: Marvel's Agents of S.H.I.E.L.D..S05E19.Option Two
 2018-04-26 22:03:42: Superstore.S03E21.Aftermath
 2018-04-26 20:04:11: Young Sheldon.S01E20.A Dog, a Squirrel, and a Fish Named Fish
@@ -10,10 +13,8 @@
 2018-04-23 20:03:23: iZombie.S04E08.Chivalry Is Dead
 2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Episode 128
 2018-04-22 22:04:54: Into the Badlands.S03E01.Enter the Phoenix
-2018-04-22 20:03:31: The Simpsons.S29E17.Lisa Gets the Blues
 2018-04-22 20:03:26: Brooklyn Nine-Nine.S05E18.Gray Star Mutual
 2018-04-22 20:03:23: Family Guy.S16E16.'Family Guy' Through the Years
-2018-04-22 20:03:19: Bob's Burgers.S08E15.Go Tina on the Mountain
 2018-04-22 20:03:16: Fear the Walking Dead.S04E02.Another Day in the Diamond
 2018-04-21 20:03:12: Real Time with Bill Maher.S16E12.Episode 457
 2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Episode 127
@@ -97,4 +98,3 @@
 2018-03-21 06:03:02: Fresh Off the Boat.S04E19.King in the North
 2018-03-21 06:03:00: Baskets.S03E09.Basque-ets
 2018-03-21 06:02:38: Family Guy.S16E12.Send in Stewie, Please
-2018-03-21 06:02:32: Last Week Tonight with John Oliver.S05E05.Episode 124
