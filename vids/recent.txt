@@ -1,3 +1,8 @@
+2018-04-29 20:04:57: Fear the Walking Dead.S04E03.Good Out Here
+2018-04-29 20:04:52: Brooklyn Nine-Nine.S05E19.Bachelor/ette Party
+2018-04-29 20:04:50: The Simpsons.S29E18.Forgive and Regret
+2018-04-29 20:04:46: Bob's Burgers.S08E16.Are You There Bob? It's Me, Birthday
+2018-04-29 20:04:39: Family Guy.S16E17.Switch the Flip
 2018-04-28 20:04:18: Real Time with Bill Maher.S16E13.Episode 458
 2018-04-28 20:04:14: The Simpsons.S29E17.Lisa Gets the Blues
 2018-04-28 20:04:09: Bob's Burgers.S08E15.Go Tina on the Mountain
@@ -93,8 +98,3 @@
 2018-03-21 06:03:33: Brooklyn Nine-Nine.S05E12.Safe House
 2018-03-21 06:03:29: Bob's Burgers.S08E10.The Secret Ceramics Room of Secrets
 2018-03-21 06:03:24: Criminal Minds.S13E17.The Capilanos
-2018-03-21 06:03:17: iZombie.S04E04.Brainless in Seattle (2)
-2018-03-21 06:03:09: Marvel's Agents of S.H.I.E.L.D..S05E13.Principia
-2018-03-21 06:03:02: Fresh Off the Boat.S04E19.King in the North
-2018-03-21 06:03:00: Baskets.S03E09.Basque-ets
-2018-03-21 06:02:38: Family Guy.S16E12.Send in Stewie, Please
