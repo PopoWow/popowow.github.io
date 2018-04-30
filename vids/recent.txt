@@ -1,3 +1,4 @@
+2018-04-29 22:04:43: Into the Badlands.S03E02.Moon Rises, Raven Seeks
 2018-04-29 20:04:57: Fear the Walking Dead.S04E03.Good Out Here
 2018-04-29 20:04:52: Brooklyn Nine-Nine.S05E19.Bachelor/ette Party
 2018-04-29 20:04:50: The Simpsons.S29E18.Forgive and Regret
@@ -97,4 +98,3 @@
 2018-03-21 06:03:37: The Mick.S02E18.The Car
 2018-03-21 06:03:33: Brooklyn Nine-Nine.S05E12.Safe House
 2018-03-21 06:03:29: Bob's Burgers.S08E10.The Secret Ceramics Room of Secrets
-2018-03-21 06:03:24: Criminal Minds.S13E17.The Capilanos
