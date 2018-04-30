@@ -1,3 +1,4 @@
+2018-04-30 06:04:40: Talking Dead.S07E18.Good Out Here
 2018-04-29 22:04:43: Into the Badlands.S03E02.Moon Rises, Raven Seeks
 2018-04-29 20:04:57: Fear the Walking Dead.S04E03.Good Out Here
 2018-04-29 20:04:52: Brooklyn Nine-Nine.S05E19.Bachelor/ette Party
@@ -33,7 +34,7 @@
 2018-04-20 22:03:54: Tosh.0.S10E03.WinDgoe
 2018-04-20 22:03:48: Brooklyn Nine-Nine.S05E17.DFW
 2018-04-20 22:03:42: Brooklyn Nine-Nine.S05E16.NutriBoom
-2018-04-20 22:03:36: Talking Dead.S07E16.Wrath
+2018-04-20 22:03:36: Talking Dead.S07E16.Wrath; What's Your Story?
 2018-04-20 22:03:27: Talking Dead.S07E15.Worth
 2018-04-20 22:03:16: The Simpsons.S29E16.King Leer
 2018-04-20 22:03:14: Bob's Burgers.S08E14.The Trouble With Doubles
@@ -97,4 +98,3 @@
 2018-03-21 06:03:47: Talking Dead.S07E12.The Key
 2018-03-21 06:03:37: The Mick.S02E18.The Car
 2018-03-21 06:03:33: Brooklyn Nine-Nine.S05E12.Safe House
-2018-03-21 06:03:29: Bob's Burgers.S08E10.The Secret Ceramics Room of Secrets
