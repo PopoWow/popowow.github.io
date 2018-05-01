@@ -1,3 +1,5 @@
+2018-04-30 20:05:08: Elementary.S06E01.An Infinite Capacity for Taking Pains
+2018-04-30 20:05:00: iZombie.S04E09.Mac-Liv-Moore
 2018-04-30 06:04:40: Talking Dead.S07E18.Good Out Here
 2018-04-29 22:04:43: Into the Badlands.S03E02.Moon Rises, Raven Seeks
 2018-04-29 20:04:57: Fear the Walking Dead.S04E03.Good Out Here
@@ -17,7 +19,7 @@
 2018-04-25 06:03:54: The Handmaid's Tale.S02E02.Unwomen
 2018-04-25 06:03:39: The Handmaid's Tale.S02E01.June
 2018-04-23 22:03:19: Talking Dead.S07E17.Another Day in the Diamond
-2018-04-23 20:03:23: iZombie.S04E08.Chivalry Is Dead
+2018-04-23 20:03:23: iZombie.S04E08.Chivalry is Dead
 2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Episode 128
 2018-04-22 22:04:54: Into the Badlands.S03E01.Enter the Phoenix
 2018-04-22 20:03:26: Brooklyn Nine-Nine.S05E18.Gray Star Mutual
@@ -96,5 +98,3 @@
 2018-03-23 06:00:25: Superstore.S03E16.Target
 2018-03-23 01:02:44: Real Time with Bill Maher.S16E08.Episode 453
 2018-03-21 06:03:47: Talking Dead.S07E12.The Key
-2018-03-21 06:03:37: The Mick.S02E18.The Car
-2018-03-21 06:03:33: Brooklyn Nine-Nine.S05E12.Safe House
