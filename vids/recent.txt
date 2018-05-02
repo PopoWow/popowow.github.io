@@ -1,3 +1,5 @@
+2018-05-02 06:05:08: Tosh.0.S10E06.Teenage Bitcoin Millionaire
+2018-05-02 06:04:58: The Handmaid's Tale.S02E03.Baggage
 2018-04-30 20:05:08: Elementary.S06E01.An Infinite Capacity for Taking Pains
 2018-04-30 20:05:00: iZombie.S04E09.Mac-Liv-Moore
 2018-04-30 06:04:40: Talking Dead.S07E18.Good Out Here
@@ -96,5 +98,3 @@
 2018-03-23 06:00:40: The X-Files.S11E10.My Struggle IV
 2018-03-23 06:00:30: The Goldbergs (2013).S05E16.The Scrunchie Rule
 2018-03-23 06:00:25: Superstore.S03E16.Target
-2018-03-23 01:02:44: Real Time with Bill Maher.S16E08.Episode 453
-2018-03-21 06:03:47: Talking Dead.S07E12.The Key
