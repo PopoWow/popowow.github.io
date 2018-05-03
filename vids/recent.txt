@@ -1,3 +1,4 @@
+2018-05-02 20:05:50: The Goldbergs (2013).S05E20.The Opportunity Of A Lifetime
 2018-05-02 06:05:08: Tosh.0.S10E06.Teenage Bitcoin Millionaire
 2018-05-02 06:04:58: The Handmaid's Tale.S02E03.Baggage
 2018-04-30 20:05:08: Elementary.S06E01.An Infinite Capacity for Taking Pains
@@ -97,4 +98,3 @@
 2018-03-24 20:00:31: Marvel's Agents of S.H.I.E.L.D..S05E14.The Devil Complex
 2018-03-23 06:00:40: The X-Files.S11E10.My Struggle IV
 2018-03-23 06:00:30: The Goldbergs (2013).S05E16.The Scrunchie Rule
-2018-03-23 06:00:25: Superstore.S03E16.Target
