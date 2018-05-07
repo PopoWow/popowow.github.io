@@ -1,3 +1,5 @@
+2018-05-07 00:01:20: Last Week Tonight with John Oliver.S05E10.Episode 129
+2018-05-07 00:01:18: Talking Dead.S07E19.Buried
 2018-05-06 20:01:43: Fear the Walking Dead.S04E04.Buried
 2018-05-06 20:01:41: Family Guy.S16E18.HTTPete
 2018-05-06 20:01:35: Bob's Burgers.S08E17.Boywatch
@@ -96,5 +98,3 @@
 2018-03-29 20:02:12: Superstore.S03E17.District Manager
 2018-03-29 20:02:10: The Goldbergs (2013).S05E17.Colors
 2018-03-29 20:02:01: Tosh.0.S10E01.Lili Hayes
-2018-03-29 20:01:57: Young Sheldon.S01E16.Killer Asteroids, Oklahoma, and a Frizzy Hair Machine
-2018-03-29 20:01:55: The Big Bang Theory.S11E18.The Gates Excitation
