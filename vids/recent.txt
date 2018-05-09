@@ -1,3 +1,5 @@
+2018-05-09 06:00:43: Real Time with Bill Maher.S16E14.Episode 459
+2018-05-09 06:00:28: Tosh.0.S10E07.Cussing Preacher
 2018-05-08 00:01:48: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2018-05-07 20:01:40: iZombie.S04E10.Yipee Ki Brain, Motherscratcher
 2018-05-07 20:01:37: Elementary.S06E02.Once You've Ruled Out God
@@ -9,7 +11,6 @@
 2018-05-06 20:01:35: Bob's Burgers.S08E17.Boywatch
 2018-05-06 20:01:28: Brooklyn Nine-Nine.S05E20.Show Me Going
 2018-05-06 20:01:17: The Simpsons.S29E19.Left Behind
-2018-05-05 22:00:48: Real Time with Bill Maher.S16E14.Episode 459
 2018-05-04 22:00:14: Marvel's Agents of S.H.I.E.L.D..S05E20.The One Who Will Save Us All
 2018-05-04 16:24:33: Saturday Night Live.S43E18.John Mulaney/Jack White
 2018-05-04 16:24:10: Saturday Night Live.S00E85.A SNL Sports Spectacular
@@ -97,4 +98,3 @@
 2018-04-03 00:00:10: The Simpsons.S29E14.Fears of a Clown
 2018-04-01 20:01:22: Bob's Burgers.S08E12.The Hurt Soccer
 2018-03-30 20:01:17: Marvel's Agents of S.H.I.E.L.D..S05E15.Rise and Shine
-2018-03-29 20:02:24: Criminal Minds.S13E18.The Dance of Love
