@@ -1,3 +1,5 @@
+2018-05-09 20:00:42: The Goldbergs (2013).S05E21.Spaceballs
+2018-05-09 20:00:37: The Handmaid's Tale.S02E04.Other Women
 2018-05-09 06:00:43: Real Time with Bill Maher.S16E14.Episode 459
 2018-05-09 06:00:28: Tosh.0.S10E07.Cussing Preacher
 2018-05-08 00:01:48: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
@@ -96,5 +98,3 @@
 2018-04-03 06:00:29: Talking Dead.S07E14.Still Gotta Mean Something
 2018-04-03 06:00:25: The Walking Dead.S08E14.Still Gotta Mean Something
 2018-04-03 00:00:10: The Simpsons.S29E14.Fears of a Clown
-2018-04-01 20:01:22: Bob's Burgers.S08E12.The Hurt Soccer
-2018-03-30 20:01:17: Marvel's Agents of S.H.I.E.L.D..S05E15.Rise and Shine
