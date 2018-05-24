@@ -1,3 +1,22 @@
+2018-05-23 17:09:07: Tosh.0.S10E08.Knee Shred Girl
+2018-05-23 17:09:02: Bob's Burgers.S08E21.Something Old, Something New, Something Bob Caters for You
+2018-05-23 17:08:57: Bob's Burgers.S08E20.Mission Impos-slug-ble
+2018-05-23 17:08:53: Elementary.S06E04.Our Time Is Up
+2018-05-23 17:08:49: Elementary.S06E03.Pushing Buttons
+2018-05-23 17:08:44: Real Time with Bill Maher.S16E16.Episode 461
+2018-05-23 17:08:30: The Handmaid's Tale.S02E05.Seeds
+2018-05-23 17:08:17: Last Week Tonight with John Oliver.S05E12.Episode 131
+2018-05-23 17:08:11: Last Week Tonight with John Oliver.S05E11.Venezuela
+2018-05-23 17:08:06: The Simpsons.S29E21.Flanders' Ladder
+2018-05-23 17:08:01: Into the Badlands.S03E05.Carry Tiger to Mountain
+2018-05-23 17:07:52: Family Guy.S16E20.Are You There God? It's Me, Peter
+2018-05-23 17:07:47: iZombie.S04E12.You've Got to Hide Your Liv Away
+2018-05-23 17:07:40: iZombie.S04E11.Insane in the Germ Brain
+2018-05-23 17:07:33: Marvel's Agents of S.H.I.E.L.D..S05E22.The End
+2018-05-23 17:07:27: Talking Dead.S07E21.Just in Case
+2018-05-23 17:07:12: Fear the Walking Dead.S04E06.Just in Case
+2018-05-23 17:07:04: Brooklyn Nine-Nine.S05E22.Jake & Amy
+2018-05-23 17:06:58: The Goldbergs (2013).S05E22.Let's Val Kilmer This Car
 2018-05-09 20:00:42: The Goldbergs (2013).S05E21.Spaceballs
 2018-05-09 20:00:37: The Handmaid's Tale.S02E04.Other Women
 2018-05-09 06:00:43: Real Time with Bill Maher.S16E14.Episode 459
@@ -6,7 +25,7 @@
 2018-05-07 20:01:40: iZombie.S04E10.Yipee Ki Brain, Motherscratcher
 2018-05-07 20:01:37: Elementary.S06E02.Once You've Ruled Out God
 2018-05-07 06:01:31: Into the Badlands.S03E03.Leopard Snares Rabbit
-2018-05-07 00:01:20: Last Week Tonight with John Oliver.S05E10.Episode 129
+2018-05-07 00:01:20: Last Week Tonight with John Oliver.S05E10.Rudy Giuliani
 2018-05-07 00:01:18: Talking Dead.S07E19.Buried
 2018-05-06 20:01:43: Fear the Walking Dead.S04E04.Buried
 2018-05-06 20:01:41: Family Guy.S16E18.HTTPete
@@ -45,13 +64,13 @@
 2018-04-25 06:03:39: The Handmaid's Tale.S02E01.June
 2018-04-23 22:03:19: Talking Dead.S07E17.Another Day in the Diamond
 2018-04-23 20:03:23: iZombie.S04E08.Chivalry is Dead
-2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Episode 128
+2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Trump and the Iranian Nuclear Deal
 2018-04-22 22:04:54: Into the Badlands.S03E01.Enter the Phoenix
 2018-04-22 20:03:26: Brooklyn Nine-Nine.S05E18.Gray Star Mutual
 2018-04-22 20:03:23: Family Guy.S16E16.'Family Guy' Through the Years
 2018-04-22 20:03:16: Fear the Walking Dead.S04E02.Another Day in the Diamond
 2018-04-21 20:03:12: Real Time with Bill Maher.S16E12.Episode 457
-2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Episode 127
+2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Corporate Taxes
 2018-04-20 22:04:27: iZombie.S04E07.Don't Hate the Player, Hate the Brain
 2018-04-20 22:04:20: The Big Bang Theory.S11E21.The Comet Polarization
 2018-04-20 22:04:17: Superstore.S03E20.Gender Reveal
@@ -79,22 +98,3 @@
 2018-04-20 20:02:53: Criminal Minds.S13E20.All You Can Eat
 2018-04-20 20:02:43: The Big Bang Theory.S11E20.The Reclusive Potential
 2018-04-15 06:02:02: Real Time with Bill Maher.S16E10.Episode 455
-2018-04-15 06:01:48: Last Week Tonight with John Oliver.S05E07.Episode 126
-2018-04-15 06:01:42: Saturday Night Live.S43E19.Donald Glover/Childish Gambino
-2018-04-15 06:01:19: The Walking Dead.S08E15.Worth
-2018-04-15 06:01:07: Brooklyn Nine-Nine.S05E15.The Puzzle Master
-2018-04-14 22:01:56: The Simpsons.S29E15.No Good Read Goes Unpunished
-2018-04-14 22:01:55: iZombie.S04E06.My Really Fair Lady
-2018-04-14 22:01:49: Bob's Burgers.S08E13.Cheer Up Sleepy Gene
-2018-04-14 22:01:42: Criminal Minds.S10E03.A Thousand Suns
-2018-04-14 22:01:27: Criminal Minds.S01E18.Somebody's Watching
-2018-04-14 22:01:16: Family Guy.S16E15.The Woof of Wall Street
-2018-04-06 20:00:19: Marvel's Agents of S.H.I.E.L.D..S05E16.Inside Voices
-2018-04-04 06:00:47: Tosh.0.S10E02.Bear Attack
-2018-04-03 20:00:42: The Mick.S02E20.The Graduate
-2018-04-03 06:00:37: Last Week Tonight with John Oliver.S05E06.Episode 125
-2018-04-03 06:00:34: Brooklyn Nine-Nine.S05E14.The Box
-2018-04-03 06:00:32: Family Guy.S16E14.Veteran Guy
-2018-04-03 06:00:29: Talking Dead.S07E14.Still Gotta Mean Something
-2018-04-03 06:00:25: The Walking Dead.S08E14.Still Gotta Mean Something
-2018-04-03 00:00:10: The Simpsons.S29E14.Fears of a Clown
