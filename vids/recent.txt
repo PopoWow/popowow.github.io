@@ -1,3 +1,13 @@
+2018-05-29 06:03:21: Real Time with Bill Maher.S16E15.Episode 460
+2018-05-29 06:03:14: Talking Dead.S07E20.Laura
+2018-05-29 06:03:04: The Simpsons.S29E20.Throw Grampa from the Dane
+2018-05-29 06:03:00: Into the Badlands.S03E04.Blind Cannibal Assassins
+2018-05-29 06:02:47: Saturday Night Live.S43E20.Amy Schumer/Kacey Musgraves
+2018-05-29 06:02:35: Brooklyn Nine-Nine.S05E21.White Whale
+2018-05-29 06:02:31: Bob's Burgers.S08E19.Mo Mommy Mo Problems
+2018-05-29 06:02:24: Bob's Burgers.S08E18.As I Walk Through the Alley of the Shadow of Ramps
+2018-05-29 06:02:23: Family Guy.S16E19.The Unkindest Cut
+2018-05-29 06:02:18: Fear the Walking Dead.S04E05.Laura
 2018-05-23 17:09:07: Tosh.0.S10E08.Knee Shred Girl
 2018-05-23 17:09:02: Bob's Burgers.S08E21.Something Old, Something New, Something Bob Caters for You
 2018-05-23 17:08:57: Bob's Burgers.S08E20.Mission Impos-slug-ble
@@ -88,13 +98,3 @@
 2018-04-20 22:03:08: The Walking Dead.S08E16.Wrath
 2018-04-20 22:02:54: Young Sheldon.S01E19.Gluons, Guacamole, and the Color Purple
 2018-04-20 22:02:51: Criminal Minds.S13E22.Believer
-2018-04-20 22:02:49: Criminal Minds.S13E21.Mixed Signals
-2018-04-20 20:03:48: Young Sheldon.S01E18.A Mother, a Child, and a Blue Man's Backside
-2018-04-20 20:03:42: The Goldbergs (2013).S05E19.Flashy Little Flashdancer
-2018-04-20 20:03:40: Mom.S05E17.Crazy Snakes and a Clog to the Head
-2018-04-20 20:03:35: Marvel's Agents of S.H.I.E.L.D..S05E17.The Honeymoon
-2018-04-20 20:03:24: Real Time with Bill Maher.S16E11.Episode 456
-2018-04-20 20:03:00: Superstore.S03E19.Lottery
-2018-04-20 20:02:53: Criminal Minds.S13E20.All You Can Eat
-2018-04-20 20:02:43: The Big Bang Theory.S11E20.The Reclusive Potential
-2018-04-15 06:02:02: Real Time with Bill Maher.S16E10.Episode 455
