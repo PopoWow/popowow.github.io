@@ -1,3 +1,11 @@
+2018-05-29 20:03:42: iZombie.S04E13.And He Shall Be a Good Man
+2018-05-29 20:03:35: The Handmaid's Tale.S02E06.First Blood
+2018-05-29 20:03:28: Elementary.S06E05.Bits and Pieces
+2018-05-29 20:03:23: The Big Bang Theory.S11E24.The Bow Tie Asymmetry
+2018-05-29 20:03:18: Mom.S05E22.Diamond Earrings and a Pumpkin Head
+2018-05-29 20:03:14: Tosh.0.S10E09.Mr. E's Life Hacks
+2018-05-29 20:03:08: Young Sheldon.S01E22.Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
+2018-05-29 20:03:05: Marvel's Agents of S.H.I.E.L.D..S05E21.The Force of Gravity
 2018-05-29 06:03:21: Real Time with Bill Maher.S16E15.Episode 460
 2018-05-29 06:03:14: Talking Dead.S07E20.Laura
 2018-05-29 06:03:04: The Simpsons.S29E20.Throw Grampa from the Dane
@@ -90,11 +98,3 @@
 2018-04-20 22:03:54: Tosh.0.S10E03.WinDgoe
 2018-04-20 22:03:48: Brooklyn Nine-Nine.S05E17.DFW
 2018-04-20 22:03:42: Brooklyn Nine-Nine.S05E16.NutriBoom
-2018-04-20 22:03:36: Talking Dead.S07E16.Wrath; What's Your Story?
-2018-04-20 22:03:27: Talking Dead.S07E15.Worth
-2018-04-20 22:03:16: The Simpsons.S29E16.King Leer
-2018-04-20 22:03:14: Bob's Burgers.S08E14.The Trouble With Doubles
-2018-04-20 22:03:09: Mom.S05E18.Spaghetti Sauce and a Dumpster Fire
-2018-04-20 22:03:08: The Walking Dead.S08E16.Wrath
-2018-04-20 22:02:54: Young Sheldon.S01E19.Gluons, Guacamole, and the Color Purple
-2018-04-20 22:02:51: Criminal Minds.S13E22.Believer
