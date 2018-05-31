@@ -1,3 +1,4 @@
+2018-05-31 06:00:49: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2018-05-29 20:03:42: iZombie.S04E13.And He Shall Be a Good Man
 2018-05-29 20:03:35: The Handmaid's Tale.S02E06.First Blood
 2018-05-29 20:03:28: Elementary.S06E05.Bits and Pieces
@@ -24,7 +25,7 @@
 2018-05-23 17:08:44: Real Time with Bill Maher.S16E16.Episode 461
 2018-05-23 17:08:30: The Handmaid's Tale.S02E05.Seeds
 2018-05-23 17:08:17: Last Week Tonight with John Oliver.S05E12.Episode 131
-2018-05-23 17:08:11: Last Week Tonight with John Oliver.S05E11.Venezuela
+2018-05-23 17:08:11: Last Week Tonight with John Oliver.S05E11.Episode 130
 2018-05-23 17:08:06: The Simpsons.S29E21.Flanders' Ladder
 2018-05-23 17:08:01: Into the Badlands.S03E05.Carry Tiger to Mountain
 2018-05-23 17:07:52: Family Guy.S16E20.Are You There God? It's Me, Peter
@@ -39,11 +40,10 @@
 2018-05-09 20:00:37: The Handmaid's Tale.S02E04.Other Women
 2018-05-09 06:00:43: Real Time with Bill Maher.S16E14.Episode 459
 2018-05-09 06:00:28: Tosh.0.S10E07.Cussing Preacher
-2018-05-08 00:01:48: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2018-05-07 20:01:40: iZombie.S04E10.Yipee Ki Brain, Motherscratcher
 2018-05-07 20:01:37: Elementary.S06E02.Once You've Ruled Out God
 2018-05-07 06:01:31: Into the Badlands.S03E03.Leopard Snares Rabbit
-2018-05-07 00:01:20: Last Week Tonight with John Oliver.S05E10.Rudy Giuliani
+2018-05-07 00:01:20: Last Week Tonight with John Oliver.S05E10.Episode 129
 2018-05-07 00:01:18: Talking Dead.S07E19.Buried
 2018-05-06 20:01:43: Fear the Walking Dead.S04E04.Buried
 2018-05-06 20:01:41: Family Guy.S16E18.HTTPete
@@ -82,13 +82,13 @@
 2018-04-25 06:03:39: The Handmaid's Tale.S02E01.June
 2018-04-23 22:03:19: Talking Dead.S07E17.Another Day in the Diamond
 2018-04-23 20:03:23: iZombie.S04E08.Chivalry is Dead
-2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Trump and the Iranian Nuclear Deal
+2018-04-23 00:03:37: Last Week Tonight with John Oliver.S05E09.Episode 128
 2018-04-22 22:04:54: Into the Badlands.S03E01.Enter the Phoenix
 2018-04-22 20:03:26: Brooklyn Nine-Nine.S05E18.Gray Star Mutual
 2018-04-22 20:03:23: Family Guy.S16E16.'Family Guy' Through the Years
 2018-04-22 20:03:16: Fear the Walking Dead.S04E02.Another Day in the Diamond
 2018-04-21 20:03:12: Real Time with Bill Maher.S16E12.Episode 457
-2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Corporate Taxes
+2018-04-20 22:04:32: Last Week Tonight with John Oliver.S05E08.Episode 127
 2018-04-20 22:04:27: iZombie.S04E07.Don't Hate the Player, Hate the Brain
 2018-04-20 22:04:20: The Big Bang Theory.S11E21.The Comet Polarization
 2018-04-20 22:04:17: Superstore.S03E20.Gender Reveal
