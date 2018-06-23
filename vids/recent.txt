@@ -1,3 +1,7 @@
+2018-06-23 06:01:14: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
+2018-06-23 06:00:55: Real Time with Bill Maher.S16E19.Episode 464
+2018-06-23 06:00:46: Real Time with Bill Maher.S16E18.Episode 463
+2018-06-23 06:00:37: Real Time with Bill Maher.S16E17.Episode 462
 2018-06-21 06:05:38: Elementary.S06E08.Sand Trap
 2018-06-21 06:05:37: Elementary.S06E07.Sober Companions
 2018-06-21 06:05:32: Elementary.S06E06.Give Me the Finger
@@ -8,9 +12,6 @@
 2018-06-21 06:04:19: Talking Dead.S07E22.The Wrong Side of Where You Are Now
 2018-06-21 06:04:16: Fear the Walking Dead.S04E08.No One's Gone
 2018-06-21 06:04:10: Fear the Walking Dead.S04E07.The Wrong Side of Where You Are Now
-2018-06-21 06:04:04: Real Time with Bill Maher.S16E19.Episode 464
-2018-06-21 06:03:48: Real Time with Bill Maher.S16E18.Episode 463
-2018-06-21 06:03:35: Real Time with Bill Maher.S16E17.Episode 462
 2018-06-21 06:03:26: The Handmaid's Tale.S02E10.The Last Ceremony
 2018-06-21 06:03:20: The Handmaid's Tale.S02E09.Smart Power
 2018-06-21 06:03:00: The Handmaid's Tale.S02E08.Women's Work
@@ -20,7 +21,6 @@
 2018-06-21 06:02:18: Into the Badlands.S03E06.Black Wind Howls
 2018-06-21 00:00:34: Into the Badlands.S03E08.Leopard Catches Cloud
 2018-06-21 00:00:10: Last Week Tonight with John Oliver.S05E15.Episode 134
-2018-05-31 06:00:49: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2018-05-29 20:03:42: iZombie.S04E13.And He Shall Be a Good Man
 2018-05-29 20:03:35: The Handmaid's Tale.S02E06.First Blood
 2018-05-29 20:03:28: Elementary.S06E05.Bits and Pieces
