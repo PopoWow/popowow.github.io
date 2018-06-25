@@ -1,3 +1,5 @@
+2018-06-25 06:00:11: Preacher.S03E01.Angelville
+2018-06-25 06:00:11: Real Time with Bill Maher.S16E20.Episode 465
 2018-06-23 06:01:14: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2018-06-23 06:00:55: Real Time with Bill Maher.S16E19.Episode 464
 2018-06-23 06:00:46: Real Time with Bill Maher.S16E18.Episode 463
@@ -96,5 +98,3 @@
 2018-04-28 20:04:09: Bob's Burgers.S08E15.Go Tina on the Mountain
 2018-04-27 20:04:02: Marvel's Agents of S.H.I.E.L.D..S05E19.Option Two
 2018-04-26 22:03:42: Superstore.S03E21.Aftermath
-2018-04-26 20:04:11: Young Sheldon.S01E20.A Dog, a Squirrel, and a Fish Named Fish
-2018-04-26 20:04:06: Mom.S05E19.A Taco Bowl and a Tubby Seamstress
