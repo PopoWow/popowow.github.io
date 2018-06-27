@@ -1,3 +1,5 @@
+2018-06-26 20:00:58: American Ninja Warrior.S10E05.Philadelphia City Qualifiers
+2018-06-26 20:00:36: Elementary.S06E09.Nobody Lives Forever
 2018-06-25 20:00:21: Last Week Tonight with John Oliver.S05E16.Episode 135
 2018-06-25 06:00:11: Preacher.S03E01.Angelville
 2018-06-25 06:00:11: Real Time with Bill Maher.S16E20.Episode 465
@@ -96,5 +98,3 @@
 2018-04-29 20:04:39: Family Guy.S16E17.Switch the Flip
 2018-04-28 20:04:18: Real Time with Bill Maher.S16E13.Episode 458
 2018-04-28 20:04:14: The Simpsons.S29E17.Lisa Gets the Blues
-2018-04-28 20:04:09: Bob's Burgers.S08E15.Go Tina on the Mountain
-2018-04-27 20:04:02: Marvel's Agents of S.H.I.E.L.D..S05E19.Option Two
