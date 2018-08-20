@@ -1,3 +1,4 @@
+2018-08-20 06:00:13: Last Week Tonight with John Oliver.S05E21.Episode 140
 2018-08-19 22:00:19: Fear the Walking Dead.S04E10.Close Your Eyes
 2018-08-19 11:25:03: Real Time with Bill Maher.S16E24.Episode 469
 2018-08-19 00:03:57: The Walking Dead.S00E49.Season 9 Preview Special
@@ -97,4 +98,3 @@
 2018-05-07 20:01:40: iZombie.S04E10.Yipee Ki Brain, Motherscratcher
 2018-05-07 20:01:37: Elementary.S06E02.Once You've Ruled Out God
 2018-05-07 06:01:31: Into the Badlands.S03E03.Leopard Snares Rabbit
-2018-05-07 00:01:20: Last Week Tonight with John Oliver.S05E10.Episode 129
