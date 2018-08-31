@@ -1,3 +1,11 @@
+2018-08-30 20:04:26: Talking Dead.S07E26.The Code (FTWD 411)
+2018-08-30 20:03:35: Real Time with Bill Maher.S16E25.Episode 470
+2018-08-30 20:03:03: Real Time with Bill Maher.S16E20.Episode 465
+2018-08-30 20:02:54: Preacher.S03E10.The Light Above
+2018-08-30 20:02:43: Fear the Walking Dead.S04E11.The Code
+2018-08-30 20:02:32: Elementary.S06E18.The Visions of Norman P. Horowitz
+2018-08-30 20:02:24: Better Call Saul.S04E04.Talk
+2018-08-30 20:02:13: American Ninja Warrior.S10E12.Minneapolis City Finals
 2018-08-20 22:00:14: Better Call Saul.S04E03.Something Beautiful
 2018-08-20 20:00:15: Elementary.S06E17.The Worms Crawl In, The Worms Crawl Out
 2018-08-20 06:00:13: Last Week Tonight with John Oliver.S05E21.Episode 140
@@ -7,7 +15,7 @@
 2018-08-17 20:58:04: Real Time with Bill Maher.S16E23.Episode 468
 2018-08-17 20:58:02: Preacher.S03E09.Schwanzkopf
 2018-08-17 20:57:47: American Ninja Warrior.S10E11.Philadelphia City Finals
-2018-08-13 21:47:01: Talking Dead.S07E24.Episode 24
+2018-08-13 21:47:01: Talking Dead.S07E24.People Like Us (FTWD 409)
 2018-08-13 21:46:51: Real Time with Bill Maher.S16E22.Episode 467
 2018-08-13 21:46:37: Preacher.S03E08.The Tom/Brady
 2018-08-13 21:46:30: Preacher.S03E07.Hilter
@@ -32,7 +40,6 @@
 2018-06-26 20:00:58: American Ninja Warrior.S10E05.Philadelphia City Qualifiers
 2018-06-25 20:00:21: Last Week Tonight with John Oliver.S05E16.Episode 135
 2018-06-25 06:00:11: Preacher.S03E01.Angelville
-2018-06-25 06:00:11: Real Time with Bill Maher.S16E20.Episode 465
 2018-06-23 06:01:14: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2018-06-23 06:00:55: Real Time with Bill Maher.S16E19.Episode 464
 2018-06-23 06:00:46: Real Time with Bill Maher.S16E18.Episode 463
@@ -43,8 +50,8 @@
 2018-06-21 06:05:23: American Ninja Warrior.S10E04.Indianapolis City Qualifiers
 2018-06-21 06:05:15: American Ninja Warrior.S10E03.Miami City Qualifiers
 2018-06-21 06:04:44: American Ninja Warrior.S10E02.Los Angeles City Qualifiers
-2018-06-21 06:04:32: Talking Dead.S07E23.No One's Gone
-2018-06-21 06:04:19: Talking Dead.S07E22.The Wrong Side of Where You Are Now
+2018-06-21 06:04:32: Talking Dead.S07E23.No One's Gone (FTWD 408)
+2018-06-21 06:04:19: Talking Dead.S07E22.The Wrong Side of Where You Are Now (FTWD 407)
 2018-06-21 06:04:16: Fear the Walking Dead.S04E08.No One's Gone
 2018-06-21 06:04:10: Fear the Walking Dead.S04E07.The Wrong Side of Where You Are Now
 2018-06-21 06:03:26: The Handmaid's Tale.S02E10.The Last Ceremony
@@ -65,7 +72,7 @@
 2018-05-29 20:03:08: Young Sheldon.S01E22.Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
 2018-05-29 20:03:05: Marvel's Agents of S.H.I.E.L.D..S05E21.The Force of Gravity
 2018-05-29 06:03:21: Real Time with Bill Maher.S16E15.Episode 460
-2018-05-29 06:03:14: Talking Dead.S07E20.Laura
+2018-05-29 06:03:14: Talking Dead.S07E20.Laura (FTWD 405)
 2018-05-29 06:03:04: The Simpsons.S29E20.Throw Grampa from the Dane
 2018-05-29 06:03:00: Into the Badlands.S03E04.Blind Cannibal Assassins
 2018-05-29 06:02:47: Saturday Night Live.S43E20.Amy Schumer/Kacey Musgraves
@@ -89,12 +96,5 @@
 2018-05-23 17:07:47: iZombie.S04E12.You've Got to Hide Your Liv Away
 2018-05-23 17:07:40: iZombie.S04E11.Insane in the Germ Brain
 2018-05-23 17:07:33: Marvel's Agents of S.H.I.E.L.D..S05E22.The End
-2018-05-23 17:07:27: Talking Dead.S07E21.Just in Case
+2018-05-23 17:07:27: Talking Dead.S07E21.Just in Case (FTWD 406)
 2018-05-23 17:07:12: Fear the Walking Dead.S04E06.Just in Case
-2018-05-23 17:07:04: Brooklyn Nine-Nine.S05E22.Jake & Amy
-2018-05-23 17:06:58: The Goldbergs (2013).S05E22.Let's Val Kilmer This Car
-2018-05-09 20:00:42: The Goldbergs (2013).S05E21.Spaceballs
-2018-05-09 20:00:37: The Handmaid's Tale.S02E04.Other Women
-2018-05-09 06:00:43: Real Time with Bill Maher.S16E14.Episode 459
-2018-05-09 06:00:28: Tosh.0.S10E07.Cussing Preacher
-2018-05-07 20:01:40: iZombie.S04E10.Yipee Ki Brain, Motherscratcher
