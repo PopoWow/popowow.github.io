@@ -1,3 +1,7 @@
+2018-09-03 22:01:43: Fear the Walking Dead.S04E12.Weak
+2018-09-03 22:01:27: Talking Dead.S07E27.Weak (FTWD 412)
+2018-09-03 22:01:07: Elementary.S06E19.The Geek Interpreter
+2018-09-03 22:00:58: Better Call Saul.S04E05.Quite a Ride
 2018-08-31 00:01:29: Real Time with Bill Maher.S16E10.Episode 455
 2018-08-30 22:01:26: Preacher.S03E10.The Light Above
 2018-08-30 20:04:26: Talking Dead.S07E26.The Code (FTWD 411)
@@ -94,7 +98,3 @@
 2018-05-23 17:08:06: The Simpsons.S29E21.Flanders' Ladder
 2018-05-23 17:08:01: Into the Badlands.S03E05.Carry Tiger to Mountain
 2018-05-23 17:07:52: Family Guy.S16E20.Are You There God? It's Me, Peter
-2018-05-23 17:07:47: iZombie.S04E12.You've Got to Hide Your Liv Away
-2018-05-23 17:07:40: iZombie.S04E11.Insane in the Germ Brain
-2018-05-23 17:07:33: Marvel's Agents of S.H.I.E.L.D..S05E22.The End
-2018-05-23 17:07:27: Talking Dead.S07E21.Just in Case (FTWD 406)
