@@ -1,3 +1,6 @@
+2018-09-16 00:02:07: Real Time with Bill Maher.S16E26.Episode 471
+2018-09-16 00:01:39: Last Week Tonight with John Oliver.S05E22.Felony Disenfranchisement
+2018-09-16 00:01:22: Fear the Walking Dead.S04E13.Blackjack
 2018-09-03 22:01:43: Fear the Walking Dead.S04E12.Weak
 2018-09-03 22:01:27: Talking Dead.S07E27.Weak (FTWD 412)
 2018-09-03 22:01:07: Elementary.S06E19.The Geek Interpreter
@@ -13,7 +16,7 @@
 2018-08-30 20:02:13: American Ninja Warrior.S10E12.Minneapolis City Finals
 2018-08-20 22:00:14: Better Call Saul.S04E03.Something Beautiful
 2018-08-20 20:00:15: Elementary.S06E17.The Worms Crawl In, The Worms Crawl Out
-2018-08-20 06:00:13: Last Week Tonight with John Oliver.S05E21.Episode 140
+2018-08-20 06:00:13: Last Week Tonight with John Oliver.S05E21.Trade
 2018-08-19 22:00:19: Fear the Walking Dead.S04E10.Close Your Eyes
 2018-08-19 11:25:03: Real Time with Bill Maher.S16E24.Episode 469
 2018-08-19 00:03:57: The Walking Dead.S00E49.Season 9 Preview Special
@@ -26,8 +29,8 @@
 2018-08-13 21:46:30: Preacher.S03E07.Hilter
 2018-08-13 21:46:23: Preacher.S03E06.Les Enfants du Sang
 2018-08-13 21:46:11: Preacher.S03E05.The Coffin
-2018-08-13 21:46:03: Last Week Tonight with John Oliver.S05E20.Episode 139
-2018-08-13 21:45:55: Last Week Tonight with John Oliver.S05E19.Episode 138
+2018-08-13 21:46:03: Last Week Tonight with John Oliver.S05E20.Astroturfing
+2018-08-13 21:45:55: Last Week Tonight with John Oliver.S05E19.Prosecutors
 2018-08-13 21:45:48: Last Week Tonight with John Oliver.S05E18.Episode 137
 2018-08-13 21:45:37: Fear the Walking Dead.S04E09.People Like Us
 2018-08-13 21:45:29: Elementary.S06E16.Uncanny Valley of the Dolls
@@ -95,6 +98,3 @@
 2018-05-23 17:08:30: The Handmaid's Tale.S02E05.Seeds
 2018-05-23 17:08:17: Last Week Tonight with John Oliver.S05E12.Episode 131
 2018-05-23 17:08:11: Last Week Tonight with John Oliver.S05E11.Episode 130
-2018-05-23 17:08:06: The Simpsons.S29E21.Flanders' Ladder
-2018-05-23 17:08:01: Into the Badlands.S03E05.Carry Tiger to Mountain
-2018-05-23 17:07:52: Family Guy.S16E20.Are You There God? It's Me, Peter
