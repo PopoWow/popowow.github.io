@@ -1,5 +1,9 @@
-2018-09-16 00:02:07: Real Time with Bill Maher.S16E26.Episode 471
-2018-09-16 00:01:39: Last Week Tonight with John Oliver.S05E22.Felony Disenfranchisement
+2018-09-16 06:02:16: Talking Dead.S07E28.Blackjack (FTWD 413)
+2018-09-16 06:02:02: Real Time with Bill Maher.S16E27.Episode 472
+2018-09-16 06:01:58: Real Time with Bill Maher.S16E26.Episode 471
+2018-09-16 06:01:41: Last Week Tonight with John Oliver.S05E22.Felony Disenfranchisement
+2018-09-16 06:01:30: Elementary.S06E20.Fit to Be Tied
+2018-09-16 06:01:25: Better Call Saul.S04E06.Piñata
 2018-09-16 00:01:22: Fear the Walking Dead.S04E13.Blackjack
 2018-09-03 22:01:43: Fear the Walking Dead.S04E12.Weak
 2018-09-03 22:01:27: Talking Dead.S07E27.Weak (FTWD 412)
@@ -94,7 +98,3 @@
 2018-05-23 17:08:57: Bob's Burgers.S08E20.Mission Impos-slug-ble
 2018-05-23 17:08:53: Elementary.S06E04.Our Time Is Up
 2018-05-23 17:08:49: Elementary.S06E03.Pushing Buttons
-2018-05-23 17:08:44: Real Time with Bill Maher.S16E16.Episode 461
-2018-05-23 17:08:30: The Handmaid's Tale.S02E05.Seeds
-2018-05-23 17:08:17: Last Week Tonight with John Oliver.S05E12.Episode 131
-2018-05-23 17:08:11: Last Week Tonight with John Oliver.S05E11.Episode 130
