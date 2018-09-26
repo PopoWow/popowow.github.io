@@ -1,5 +1,12 @@
+2018-09-26 06:03:25: Young Sheldon.S02E01.A High-Pitched Buzz and Training Wheels
+2018-09-26 06:03:16: Tosh.0.S10E12.Mack The Trans Wrestler
+2018-09-26 06:03:11: Tosh.0.S10E11.Web Redemption Reunion Spectacular
+2018-09-26 06:03:04: The Big Bang Theory.S12E01.The Conjugal Configuration
+2018-09-26 06:02:59: Talking Dead.S07E30.I Lose People... (FTWD 415)
+2018-09-26 06:02:48: Real Time with Bill Maher.S16E28.Episode 473
+2018-09-26 06:02:31: Last Week Tonight with John Oliver.S05E23.Episode 142
+2018-09-26 06:02:26: Better Call Saul.S04E08.Coushatta
 2018-09-26 00:03:03: Talking Dead.S07E29.MM 54  (FTWD 414)
-2018-09-26 00:02:48: Real Time with Bill Maher.S16E28.Episode 473
 2018-09-26 00:02:24: Real Time with Bill Maher.S16E27.Episode 472
 2018-09-26 00:01:56: Fear the Walking Dead.S04E15.I Lose People...
 2018-09-24 22:01:54: Fear the Walking Dead.S04E14.MM 54
@@ -79,7 +86,7 @@
 2018-06-21 06:02:44: Last Week Tonight with John Oliver.S05E13.Episode 132
 2018-06-21 06:02:33: Into the Badlands.S03E07.Dragonfly's Last Dance
 2018-06-21 06:02:18: Into the Badlands.S03E06.Black Wind Howls
-2018-06-21 00:00:34: Into the Badlands.S03E08.Leopard Catches Cloud
+2018-06-21 00:00:34: Into the Badlands.S03E08.Chamber of Shadows
 2018-06-21 00:00:10: Last Week Tonight with John Oliver.S05E15.Episode 134
 2018-05-29 20:03:42: iZombie.S04E13.And He Shall Be a Good Man
 2018-05-29 20:03:35: The Handmaid's Tale.S02E06.First Blood
@@ -91,10 +98,3 @@
 2018-05-29 20:03:05: Marvel's Agents of S.H.I.E.L.D..S05E21.The Force of Gravity
 2018-05-29 06:03:21: Real Time with Bill Maher.S16E15.Episode 460
 2018-05-29 06:03:14: Talking Dead.S07E20.Laura (FTWD 405)
-2018-05-29 06:03:04: The Simpsons.S29E20.Throw Grampa from the Dane
-2018-05-29 06:03:00: Into the Badlands.S03E04.Blind Cannibal Assassins
-2018-05-29 06:02:47: Saturday Night Live.S43E20.Amy Schumer/Kacey Musgraves
-2018-05-29 06:02:35: Brooklyn Nine-Nine.S05E21.White Whale
-2018-05-29 06:02:31: Bob's Burgers.S08E19.Mo Mommy Mo Problems
-2018-05-29 06:02:24: Bob's Burgers.S08E18.As I Walk Through the Alley of the Shadow of Ramps
-2018-05-29 06:02:23: Family Guy.S16E19.The Unkindest Cut
