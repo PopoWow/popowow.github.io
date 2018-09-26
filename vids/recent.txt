@@ -1,8 +1,11 @@
+2018-09-26 00:03:03: Talking Dead.S07E29.MM 54  (FTWD 414)
+2018-09-26 00:02:48: Real Time with Bill Maher.S16E28.Episode 473
+2018-09-26 00:02:24: Real Time with Bill Maher.S16E27.Episode 472
+2018-09-26 00:01:56: Fear the Walking Dead.S04E15.I Lose People...
 2018-09-24 22:01:54: Fear the Walking Dead.S04E14.MM 54
 2018-09-24 22:01:37: Elementary.S06E21.Whatever Remains, However Improbable
 2018-09-24 22:01:24: Better Call Saul.S04E07.Something Stupid
 2018-09-16 06:02:16: Talking Dead.S07E28.Blackjack (FTWD 413)
-2018-09-16 06:02:02: Real Time with Bill Maher.S16E27.Episode 472
 2018-09-16 06:01:58: Real Time with Bill Maher.S16E26.Episode 471
 2018-09-16 06:01:41: Last Week Tonight with John Oliver.S05E22.Episode 141
 2018-09-16 06:01:30: Elementary.S06E20.Fit to Be Tied
@@ -95,6 +98,3 @@
 2018-05-29 06:02:31: Bob's Burgers.S08E19.Mo Mommy Mo Problems
 2018-05-29 06:02:24: Bob's Burgers.S08E18.As I Walk Through the Alley of the Shadow of Ramps
 2018-05-29 06:02:23: Family Guy.S16E19.The Unkindest Cut
-2018-05-29 06:02:18: Fear the Walking Dead.S04E05.Laura
-2018-05-23 17:09:07: Tosh.0.S10E08.Knee Shred Girl
-2018-05-23 17:09:02: Bob's Burgers.S08E21.Something Old, Something New, Something Bob Caters for You
