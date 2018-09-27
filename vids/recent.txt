@@ -1,3 +1,12 @@
+2018-09-27 06:01:59: Young Sheldon.S01E17.Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
+2018-09-27 06:01:54: Tosh.0.S10E10.Woah Vicky
+2018-09-27 06:01:51: The Simpsons.S29E12.Homer Is Where the Art Isn't
+2018-09-27 06:01:49: The Simpsons.S29E10.Haw-Haw Land
+2018-09-27 06:01:45: The Mick.S02E14.The Church
+2018-09-27 06:01:40: The Handmaid's Tale.S02E13.The Word
+2018-09-27 06:01:35: The Handmaid's Tale.S02E12.Postpartum
+2018-09-27 06:01:23: The Handmaid's Tale.S02E11.Holly
+2018-09-27 06:01:16: The Handmaid's Tale.S02E07.After
 2018-09-27 00:00:49: The Big Bang Theory.S11E19.The Tenant Disassociation
 2018-09-27 00:00:44: Elementary.S06E13.Breathe
 2018-09-27 00:00:37: Last Week Tonight with John Oliver.S04E05.Episode 94
@@ -89,12 +98,3 @@
 2018-06-21 06:03:00: The Handmaid's Tale.S02E08.Women's Work
 2018-06-21 06:02:52: Last Week Tonight with John Oliver.S05E14.Episode 133
 2018-06-21 06:02:44: Last Week Tonight with John Oliver.S05E13.Episode 132
-2018-06-21 06:02:33: Into the Badlands.S03E07.Dragonfly's Last Dance
-2018-06-21 06:02:18: Into the Badlands.S03E06.Black Wind Howls
-2018-06-21 00:00:34: Into the Badlands.S03E08.Chamber of Shadows
-2018-06-21 00:00:10: Last Week Tonight with John Oliver.S05E15.Episode 134
-2018-05-29 20:03:42: iZombie.S04E13.And He Shall Be a Good Man
-2018-05-29 20:03:35: The Handmaid's Tale.S02E06.First Blood
-2018-05-29 20:03:28: Elementary.S06E05.Bits and Pieces
-2018-05-29 20:03:23: The Big Bang Theory.S11E24.The Bow Tie Asymmetry
-2018-05-29 20:03:18: Mom.S05E22.Diamond Earrings and a Pumpkin Head
