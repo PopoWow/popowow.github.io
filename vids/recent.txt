@@ -1,3 +1,4 @@
+2018-09-26 22:02:18: The Goldbergs (2013).S06E01.Sixteen Candles
 2018-09-26 06:03:25: Young Sheldon.S02E01.A High-Pitched Buzz and Training Wheels
 2018-09-26 06:03:16: Tosh.0.S10E12.Mack The Trans Wrestler
 2018-09-26 06:03:11: Tosh.0.S10E11.Web Redemption Reunion Spectacular
@@ -97,4 +98,3 @@
 2018-05-29 20:03:08: Young Sheldon.S01E22.Vanilla Ice Cream, Gentleman Callers, and a Dinette Set
 2018-05-29 20:03:05: Marvel's Agents of S.H.I.E.L.D..S05E21.The Force of Gravity
 2018-05-29 06:03:21: Real Time with Bill Maher.S16E15.Episode 460
-2018-05-29 06:03:14: Talking Dead.S07E20.Laura (FTWD 405)
