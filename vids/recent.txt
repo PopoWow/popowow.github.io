@@ -1,3 +1,4 @@
+2018-09-28 20:01:16: Bob's Burgers.S07E12.Like Gene for Chocolate
 2018-09-27 20:01:16: Young Sheldon.S02E02.A Rival Prodigy and Sir Isaac Neutron
 2018-09-27 20:01:14: The Good Place.S03E01.Everything Is Bonzer!
 2018-09-27 20:01:14: The Good Place.S03E02.The Brainy Bunch
@@ -97,4 +98,3 @@
 2018-06-21 06:04:32: Talking Dead.S07E23.No One's Gone (FTWD 408)
 2018-06-21 06:04:19: Talking Dead.S07E22.The Wrong Side of Where You Are Now (FTWD 407)
 2018-06-21 06:04:16: Fear the Walking Dead.S04E08.No One's Gone
-2018-06-21 06:04:10: Fear the Walking Dead.S04E07.The Wrong Side of Where You Are Now
