@@ -1,3 +1,4 @@
+2018-10-15 00:01:54: The Walking Dead.S09E02.The Bridge
 2018-10-14 22:04:03: The Simpsons.S30E03.My Way or the Highway to Heaven
 2018-10-14 22:03:15: Saturday Night Live.S44E03.Seth Meyers/Paul Simon
 2018-10-14 22:02:48: Real Time with Bill Maher.S16E31.Episode 476
@@ -97,4 +98,3 @@
 2018-08-20 06:00:13: Last Week Tonight with John Oliver.S05E21.Episode 140
 2018-08-19 22:00:19: Fear the Walking Dead.S04E10.Close Your Eyes
 2018-08-19 11:25:03: Real Time with Bill Maher.S16E24.Episode 469
-2018-08-19 00:03:57: The Walking Dead.S00E49.Season 9 Preview Special
