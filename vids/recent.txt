@@ -1,3 +1,10 @@
+2018-10-18 06:03:19: The Goldbergs (2013).S06E04.Hershey Park
+2018-10-18 06:03:06: The Goldbergs (2013).S05E18.MTV Spring Break
+2018-10-18 06:02:56: Superstore.S03E18.Local Vendors Day
+2018-10-18 06:02:46: Last Week Tonight with John Oliver.S05E17.Episode 136
+2018-10-18 06:02:35: Fresh Off the Boat.S04E13.The Car Wash
+2018-10-18 06:02:24: Criminal Minds.S14E03.Rule 34
+2018-10-18 06:02:13: Criminal Minds.S13E06.The Bunker
 2018-10-17 06:00:17: Tosh.0.S10E15.Flat-Earth Rocket Man
 2018-10-16 20:00:34: Real Time with Bill Maher.S16E31.Episode 476
 2018-10-15 20:02:45: Talking Dead.S08E02.The Bridge
@@ -91,10 +98,3 @@
 2018-08-30 22:01:26: Preacher.S03E10.The Light Above
 2018-08-30 20:04:26: Talking Dead.S07E26.The Code (FTWD 411)
 2018-08-30 20:03:35: Real Time with Bill Maher.S16E25.Episode 470
-2018-08-30 20:03:03: Real Time with Bill Maher.S16E20.Episode 465
-2018-08-30 20:02:43: Fear the Walking Dead.S04E11.The Code
-2018-08-30 20:02:32: Elementary.S06E18.The Visions of Norman P. Horowitz
-2018-08-30 20:02:24: Better Call Saul.S04E04.Talk
-2018-08-30 20:02:13: American Ninja Warrior.S10E12.Minneapolis City Finals
-2018-08-20 22:00:14: Better Call Saul.S04E03.Something Beautiful
-2018-08-20 20:00:15: Elementary.S06E17.The Worms Crawl In, The Worms Crawl Out
