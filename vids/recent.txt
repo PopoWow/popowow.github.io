@@ -1,3 +1,4 @@
+2018-10-19 00:02:57: Superstore.S04E03.Toxic Work Environment
 2018-10-18 20:02:47: Young Sheldon.S02E05.A Research Study and Czechoslovakian Wedding Pastries
 2018-10-18 20:02:40: The Good Place.S03E05.The Ballad Of Donkey Doug
 2018-10-18 20:02:33: The Big Bang Theory.S12E05.The Planetarium Collision
@@ -97,4 +98,3 @@
 2018-09-03 22:01:43: Fear the Walking Dead.S04E12.Weak
 2018-09-03 22:01:27: Talking Dead.S07E27.Weak (FTWD 412)
 2018-09-03 22:01:07: Elementary.S06E19.The Geek Interpreter
-2018-09-03 22:00:58: Better Call Saul.S04E05.Quite a Ride
