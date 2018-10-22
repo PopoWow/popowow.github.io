@@ -1,3 +1,7 @@
+2018-10-22 00:01:52: The Walking Dead.S09E03.Warning Signs
+2018-10-22 00:01:32: The Simpsons.S30E04.Treehouse of Horror XXIX
+2018-10-22 00:01:20: Family Guy.S17E04.Big Trouble in Little Quahog
+2018-10-22 00:01:06: Bob's Burgers.S09E04.Nightmare on Ocean Avenue Street
 2018-10-19 20:02:45: Fresh Off the Boat.S05E03.Workin' the 'Ween
 2018-10-19 06:02:55: Tosh.0.S08E15.Bubble Hat
 2018-10-19 00:02:57: Superstore.S04E03.Toxic Work Environment
@@ -94,7 +98,3 @@
 2018-09-16 06:02:16: Talking Dead.S07E28.Blackjack (FTWD 413)
 2018-09-16 06:01:58: Real Time with Bill Maher.S16E26.Episode 471
 2018-09-16 06:01:41: Last Week Tonight with John Oliver.S05E22.Episode 141
-2018-09-16 06:01:30: Elementary.S06E20.Fit to Be Tied
-2018-09-16 06:01:25: Better Call Saul.S04E06.Piñata
-2018-09-16 00:01:22: Fear the Walking Dead.S04E13.Blackjack
-2018-09-03 22:01:43: Fear the Walking Dead.S04E12.Weak
