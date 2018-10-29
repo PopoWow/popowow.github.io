@@ -1,3 +1,4 @@
+2018-10-28 22:03:42: The Walking Dead.S09E04.The Obliged
 2018-10-28 00:06:52: Young Sheldon.S02E06.Seven Deadly Sins and a Small Carl Sagan
 2018-10-28 00:06:28: Tosh.0.S10E16.Crying Mukbanger
 2018-10-28 00:06:09: The Good Place.S03E06.A Fractured Inheritance
@@ -97,4 +98,3 @@
 2018-09-26 06:03:04: The Big Bang Theory.S12E01.The Conjugal Configuration
 2018-09-26 06:02:59: Talking Dead.S07E30.I Lose People... (FTWD 415)
 2018-09-26 06:02:48: Real Time with Bill Maher.S16E28.Episode 473
-2018-09-26 06:02:31: Last Week Tonight with John Oliver.S05E23.Episode 142
