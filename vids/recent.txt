@@ -1,3 +1,10 @@
+2018-11-01 20:05:17: Young Sheldon.S02E07.Carbon Dating and a Stuffed Raccoon
+2018-11-01 20:05:09: Tosh.0.S10E17.Deafies in Drag
+2018-11-01 20:04:56: The Goldbergs (2013).S06E06.Fiddler
+2018-11-01 20:04:48: The Big Bang Theory.S12E07.The Grant Allocation Derivation
+2018-11-01 20:04:42: Mom.S06E06.Cottage Cheese and a Weird Buzz
+2018-11-01 20:04:32: Last Week Tonight with John Oliver.S05E27.Episode 146
+2018-11-01 20:04:24: Criminal Minds.S14E05.The Tall Man
 2018-10-28 22:03:42: The Walking Dead.S09E04.The Obliged
 2018-10-28 00:06:52: Young Sheldon.S02E06.Seven Deadly Sins and a Small Carl Sagan
 2018-10-28 00:06:28: Tosh.0.S10E16.Crying Mukbanger
@@ -91,10 +98,3 @@
 2018-09-27 00:00:44: Elementary.S06E13.Breathe
 2018-09-27 00:00:37: Last Week Tonight with John Oliver.S04E05.Episode 94
 2018-09-27 00:00:33: Criminal Minds.S13E19.Ex Parte
-2018-09-26 22:02:18: The Goldbergs (2013).S06E01.Sixteen Candles
-2018-09-26 06:03:25: Young Sheldon.S02E01.A High-Pitched Buzz and Training Wheels
-2018-09-26 06:03:16: Tosh.0.S10E12.Mack The Trans Wrestler
-2018-09-26 06:03:11: Tosh.0.S10E11.Web Redemption Reunion Spectacular
-2018-09-26 06:03:04: The Big Bang Theory.S12E01.The Conjugal Configuration
-2018-09-26 06:02:59: Talking Dead.S07E30.I Lose People... (FTWD 415)
-2018-09-26 06:02:48: Real Time with Bill Maher.S16E28.Episode 473
