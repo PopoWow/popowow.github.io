@@ -1,3 +1,6 @@
+2018-11-01 22:07:05: The Good Place.S03E07.The Worst Possible Use of Free Will
+2018-11-01 22:06:58: Talking Dead.S08E04.The Obliged
+2018-11-01 22:06:36: Superstore.S04E05.Delivery Day
 2018-11-01 20:05:17: Young Sheldon.S02E07.Carbon Dating and a Stuffed Raccoon
 2018-11-01 20:05:09: Tosh.0.S10E17.Deafies in Drag
 2018-11-01 20:04:56: The Goldbergs (2013).S06E06.Fiddler
@@ -95,6 +98,3 @@
 2018-09-27 06:01:23: The Handmaid's Tale.S02E11.Holly
 2018-09-27 06:01:16: The Handmaid's Tale.S02E07.After
 2018-09-27 00:00:49: The Big Bang Theory.S11E19.The Tenant Disassociation
-2018-09-27 00:00:44: Elementary.S06E13.Breathe
-2018-09-27 00:00:37: Last Week Tonight with John Oliver.S04E05.Episode 94
-2018-09-27 00:00:33: Criminal Minds.S13E19.Ex Parte
