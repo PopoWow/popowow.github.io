@@ -1,3 +1,4 @@
+2018-11-02 20:00:14: Fresh Off the Boat.S05E04.Driver’s Eddie
 2018-11-01 22:07:05: The Good Place.S03E07.The Worst Possible Use of Free Will
 2018-11-01 22:06:58: Talking Dead.S08E04.The Obliged
 2018-11-01 22:06:36: Superstore.S04E05.Delivery Day
@@ -97,4 +98,3 @@
 2018-09-27 06:01:35: The Handmaid's Tale.S02E12.Postpartum
 2018-09-27 06:01:23: The Handmaid's Tale.S02E11.Holly
 2018-09-27 06:01:16: The Handmaid's Tale.S02E07.After
-2018-09-27 00:00:49: The Big Bang Theory.S11E19.The Tenant Disassociation
