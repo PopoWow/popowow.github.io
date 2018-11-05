@@ -1,3 +1,9 @@
+2018-11-05 06:03:59: The Walking Dead.S09E05.What Comes After
+2018-11-05 06:03:43: The Simpsons.S30E05.Baby You Can't Drive My Car
+2018-11-05 06:03:23: Saturday Night Live.S44E04.Jonah Hill / Maggie Rogers
+2018-11-05 06:02:49: Last Week Tonight with John Oliver.S05E28.Episode 147
+2018-11-05 06:02:42: Family Guy.S17E05.Regarding Carter
+2018-11-05 06:02:33: Bob's Burgers.S09E05.Live and Let Fly
 2018-11-03 20:01:19: Real Time with Bill Maher.S16E33.Episode 478
 2018-11-02 20:00:14: Fresh Off the Boat.S05E04.Driver’s Eddie
 2018-11-01 22:07:05: The Good Place.S03E07.The Worst Possible Use of Free Will
@@ -79,7 +85,7 @@
 2018-10-12 06:09:39: Fresh Off the Boat.S05E01.Fresh Off the RV
 2018-10-12 06:09:26: Fear the Walking Dead.S04E16.... I Lose Myself
 2018-10-12 06:09:07: Family Guy.S17E02.Dead Dog Walking
-2018-10-12 06:09:01: Family Guy.S17E01.Married... With Cancer
+2018-10-12 06:09:01: Family Guy.S17E01.Married... with Cancer
 2018-10-12 06:08:53: Criminal Minds.S14E02.Starter Home
 2018-10-12 06:08:15: Criminal Minds.S14E01.300
 2018-10-12 06:08:06: Bob's Burgers.S09E02.The Taking of Funtime One Two Three
@@ -92,9 +98,3 @@
 2018-09-27 20:01:06: Mom.S06E01.Pre-Washed Lettuce and a Mime
 2018-09-27 06:01:59: Young Sheldon.S01E17.Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
 2018-09-27 06:01:54: Tosh.0.S10E10.Woah Vicky
-2018-09-27 06:01:51: The Simpsons.S29E12.Homer Is Where the Art Isn't
-2018-09-27 06:01:49: The Simpsons.S29E10.Haw-Haw Land
-2018-09-27 06:01:45: The Mick.S02E14.The Church
-2018-09-27 06:01:40: The Handmaid's Tale.S02E13.The Word
-2018-09-27 06:01:35: The Handmaid's Tale.S02E12.Postpartum
-2018-09-27 06:01:23: The Handmaid's Tale.S02E11.Holly
