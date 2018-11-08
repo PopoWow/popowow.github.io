@@ -1,3 +1,4 @@
+2018-11-07 22:00:28: Real Time with Bill Maher.S16E33.Episode 478
 2018-11-07 20:02:40: The Goldbergs (2013).S06E07.Bohemian Rap City
 2018-11-05 20:02:54: Talking Dead.S08E05.What Comes Next
 2018-11-05 06:03:59: The Walking Dead.S09E05.What Comes After
@@ -6,7 +7,6 @@
 2018-11-05 06:02:49: Last Week Tonight with John Oliver.S05E28.Episode 147
 2018-11-05 06:02:42: Family Guy.S17E05.Regarding Carter
 2018-11-05 06:02:33: Bob's Burgers.S09E05.Live and Let Fly
-2018-11-03 20:01:19: Real Time with Bill Maher.S16E33.Episode 478
 2018-11-02 20:00:14: Fresh Off the Boat.S05E04.Driver’s Eddie
 2018-11-01 22:07:05: The Good Place.S03E07.The Worst Possible Use of Free Will
 2018-11-01 22:06:58: Talking Dead.S08E04.The Obliged
