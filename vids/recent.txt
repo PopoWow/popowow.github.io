@@ -1,3 +1,4 @@
+2018-11-07 20:02:40: The Goldbergs (2013).S06E07.Bohemian Rap City
 2018-11-05 20:02:54: Talking Dead.S08E05.What Comes Next
 2018-11-05 06:03:59: The Walking Dead.S09E05.What Comes After
 2018-11-05 06:03:43: The Simpsons.S30E05.Baby You Can't Drive My Car
@@ -97,4 +98,3 @@
 2018-09-27 20:01:16: Young Sheldon.S02E02.A Rival Prodigy and Sir Isaac Neutron
 2018-09-27 20:01:11: The Big Bang Theory.S12E02.The Wedding Gift Wormhole
 2018-09-27 20:01:06: Mom.S06E01.Pre-Washed Lettuce and a Mime
-2018-09-27 06:01:59: Young Sheldon.S01E17.Jiu-Jitsu, Bubble Wrap, and Yoo-hoo
