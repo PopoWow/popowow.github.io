@@ -1,3 +1,9 @@
+2018-11-10 06:03:10: Young Sheldon.S02E08.An 8-Bit Princess and a Flat Tire Genius
+2018-11-10 06:03:02: Tosh.0.S10E18.Adrenaline Junkie Chase
+2018-11-10 06:02:54: The Good Place.S03E08.Don't Let The Good Life Pass You By
+2018-11-10 06:02:43: The Big Bang Theory.S12E08.The Consummation Deviation
+2018-11-10 06:02:34: Superstore.S04E06.Maternity Leave
+2018-11-10 06:02:20: Mom.S06E07.Puzzle Club and a Closet Party
 2018-11-08 06:00:31: Criminal Minds.S14E06.Luke
 2018-11-07 22:00:28: Real Time with Bill Maher.S16E33.Episode 478
 2018-11-07 20:02:40: The Goldbergs (2013).S06E07.Bohemian Rap City
@@ -92,9 +98,3 @@
 2018-10-12 06:08:53: Criminal Minds.S14E02.Starter Home
 2018-10-12 06:08:15: Criminal Minds.S14E01.300
 2018-10-12 06:08:06: Bob's Burgers.S09E02.The Taking of Funtime One Two Three
-2018-10-12 06:08:00: Bob's Burgers.S09E01.Just One of the Boyz 4 Now for Now
-2018-10-12 06:07:54: Better Call Saul.S04E10.Winner
-2018-10-12 06:07:43: Better Call Saul.S04E09.Wiedersehen
-2018-09-28 20:01:16: Bob's Burgers.S07E12.Like Gene for Chocolate
-2018-09-27 20:01:16: Young Sheldon.S02E02.A Rival Prodigy and Sir Isaac Neutron
-2018-09-27 20:01:11: The Big Bang Theory.S12E02.The Wedding Gift Wormhole
