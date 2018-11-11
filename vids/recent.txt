@@ -1,3 +1,7 @@
+2018-11-10 20:00:57: Adam Ruins Everything.S02E06.Adam Ruins What We Learned in School
+2018-11-10 20:00:52: Adam Ruins Everything.S02E05.Adam Ruins Fine Art
+2018-11-10 20:00:49: Adam Ruins Everything.S02E02.Adam Ruins Weight Loss
+2018-11-10 20:00:46: Adam Ruins Everything.S02E01.Adam Ruins Having a Baby
 2018-11-10 06:03:10: Young Sheldon.S02E08.An 8-Bit Princess and a Flat Tire Genius
 2018-11-10 06:03:02: Tosh.0.S10E18.Adrenaline Junkie Chase
 2018-11-10 06:02:54: The Good Place.S03E08.Don't Let The Good Life Pass You By
@@ -94,7 +98,3 @@
 2018-10-12 06:09:39: Fresh Off the Boat.S05E01.Fresh Off the RV
 2018-10-12 06:09:26: Fear the Walking Dead.S04E16.... I Lose Myself
 2018-10-12 06:09:07: Family Guy.S17E02.Dead Dog Walking
-2018-10-12 06:09:01: Family Guy.S17E01.Married... with Cancer
-2018-10-12 06:08:53: Criminal Minds.S14E02.Starter Home
-2018-10-12 06:08:15: Criminal Minds.S14E01.300
-2018-10-12 06:08:06: Bob's Burgers.S09E02.The Taking of Funtime One Two Three
