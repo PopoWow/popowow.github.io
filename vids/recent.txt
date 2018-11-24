@@ -1,3 +1,5 @@
+2018-11-24 06:08:48: Tosh.0.S10E20.Best of Season 10
+2018-11-24 06:08:40: Talking Dead.S08E07.Stradivarius
 2018-11-24 00:20:10: Young Sheldon.S02E09.Family Dynamics and a Red Fiero
 2018-11-24 00:19:59: Tosh.0.S10E19.One Hole or Two?
 2018-11-24 00:18:38: The Walking Dead.S09E07.Stradivarius
@@ -96,5 +98,3 @@
 2018-10-17 06:00:17: Tosh.0.S10E15.Flat-Earth Rocket Man
 2018-10-16 20:00:34: Real Time with Bill Maher.S16E31.Episode 476
 2018-10-15 20:02:45: Talking Dead.S08E02.The Bridge
-2018-10-15 06:02:04: Last Week Tonight with John Oliver.S05E26.Episode 145
-2018-10-15 00:01:54: The Walking Dead.S09E02.The Bridge
