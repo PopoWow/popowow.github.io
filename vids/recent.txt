@@ -1,3 +1,10 @@
+2018-11-23 22:03:39: Adam Ruins Everything.S02E22.100 Years Ago Today
+2018-11-23 22:03:37: Adam Ruins Everything.S02E21.The Copernican Ruin-aissance
+2018-11-23 22:03:35: Adam Ruins Everything.S02E20.An Ancient History of Violence
+2018-11-23 22:03:32: Adam Ruins Everything.S02E19.Mutually Assured Ruination
+2018-11-23 22:03:29: Adam Ruins Everything.S02E18.The First Factsgiving
+2018-11-23 22:03:27: Adam Ruins Everything.S02E15.Adam Ruins Science
+2018-11-23 22:03:26: Adam Ruins Everything.S02E14.Adam Ruins Halloween
 2018-11-23 20:05:00: The Walking Dead.S09E06.Who Are You Now
 2018-11-23 20:04:40: The Simpsons.S30E06.From Russia Without Love
 2018-11-23 20:04:33: Last Week Tonight with John Oliver.S05E29.Episode 148
@@ -91,10 +98,3 @@
 2018-10-12 06:19:36: The Simpsons.S30E01.Bart's Not Dead
 2018-10-12 06:19:29: The Good Place.S03E04.Jeremy Bearimy
 2018-10-12 06:19:22: The Good Place.S03E03.The Snowplow
-2018-10-12 06:17:33: The Goldbergs (2013).S06E02.You Got Zuko'd
-2018-10-12 06:17:23: The Goldbergs (2013).S06E03.RAD!
-2018-10-12 06:17:12: The Big Bang Theory.S12E04.The Tam Turbulence
-2018-10-12 06:17:01: The Big Bang Theory.S12E03.The Procreation Calculation
-2018-10-12 06:16:42: Talking Dead.S08E01.A New Beginning
-2018-10-12 06:15:51: Talking Dead.S07E31.... I Lose Myself  (FTWD 416)
-2018-10-12 06:15:15: Superstore.S04E02.Baby Shower
