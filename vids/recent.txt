@@ -1,3 +1,5 @@
+2018-11-24 22:08:55: Adam Ruins Everything.S02E17.Give Me Liberty or Give Me Truth
+2018-11-24 22:08:48: Adam Ruins Everything.S02E13.Adam Ruins Wellness
 2018-11-24 06:08:48: Tosh.0.S10E20.Best of Season 10
 2018-11-24 06:08:40: Talking Dead.S08E07.Stradivarius
 2018-11-24 00:20:10: Young Sheldon.S02E09.Family Dynamics and a Red Fiero
@@ -96,5 +98,3 @@
 2018-10-18 06:02:24: Criminal Minds.S14E03.Rule 34
 2018-10-18 06:02:13: Criminal Minds.S13E06.The Bunker
 2018-10-17 06:00:17: Tosh.0.S10E15.Flat-Earth Rocket Man
-2018-10-16 20:00:34: Real Time with Bill Maher.S16E31.Episode 476
-2018-10-15 20:02:45: Talking Dead.S08E02.The Bridge
