@@ -1,3 +1,4 @@
+2018-11-25 20:09:11: Adam Ruins Everything.S02E12.Adam Ruins Conspiracy Theories
 2018-11-25 06:09:12: Adam Ruins Everything.S02E09.Adam Ruins His Vacation
 2018-11-25 00:14:56: Adam Ruins Everything.S02E16.Adam Ruins the Future
 2018-11-25 00:14:48: Adam Ruins Everything.S02E07.Adam Ruins College
@@ -97,4 +98,3 @@
 2018-10-18 06:03:06: The Goldbergs (2013).S05E18.MTV Spring Break
 2018-10-18 06:02:56: Superstore.S03E18.Local Vendors Day
 2018-10-18 06:02:46: Last Week Tonight with John Oliver.S05E17.Episode 136
-2018-10-18 06:02:35: Fresh Off the Boat.S04E13.The Car Wash
