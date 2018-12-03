@@ -1,3 +1,5 @@
+2018-12-02 20:02:38: Adam Ruins Everything.S02E04.Adam Ruins Dating
+2018-12-02 20:02:35: Adam Ruins Everything.S01E22.Adam Ruins The Wild West
 2018-12-02 00:04:15: Adam Ruins Everything.S00E01.The Adam Ruins Everything Election Special
 2018-11-25 20:09:11: Adam Ruins Everything.S02E12.Adam Ruins Conspiracy Theories
 2018-11-25 06:09:12: Adam Ruins Everything.S02E09.Adam Ruins His Vacation
@@ -96,5 +98,3 @@
 2018-10-18 20:02:33: The Big Bang Theory.S12E05.The Planetarium Collision
 2018-10-18 20:02:28: Mom.S06E04.Big Sauce and Coconut Water
 2018-10-18 06:03:19: The Goldbergs (2013).S06E04.Hershey Park
-2018-10-18 06:03:06: The Goldbergs (2013).S05E18.MTV Spring Break
-2018-10-18 06:02:56: Superstore.S03E18.Local Vendors Day
