@@ -1,3 +1,14 @@
+2018-12-04 06:04:32: The Walking Dead.S09E08.Evolution
+2018-12-04 06:04:22: The Simpsons.S30E09.Daddicus Finch
+2018-12-04 06:04:18: The Simpsons.S30E08.Krusty the Clown
+2018-12-04 06:04:14: The Simpsons.S30E07.Werking Mom
+2018-12-04 06:04:10: The Goldbergs (2013).S06E08.The Living Room: A 100 Percent True Story
+2018-12-04 06:04:04: Saturday Night Live.S44E07.Claire Foy / Anderson Paak
+2018-12-04 06:03:49: Mom.S06E09.Pork Loin and a Beat-Up Monte Carlo
+2018-12-04 06:03:44: Family Guy.S17E08.Con Heiress
+2018-12-04 06:03:41: Bob's Burgers.S09E09.UFO No You Didn't
+2018-12-04 06:03:35: Bob's Burgers.S09E08.Roller? I Hardly Know Her!
+2018-12-04 06:03:30: Adam Ruins Everything.S02E23.Adam Ruins Guns
 2018-12-03 00:02:17: Adam Ruins Everything.S01E22.Adam Ruins The Wild West
 2018-12-02 20:02:38: Adam Ruins Everything.S02E04.Adam Ruins Dating
 2018-12-02 00:04:15: Adam Ruins Everything.S00E01.The Adam Ruins Everything Election Special
@@ -87,14 +98,3 @@
 2018-10-28 00:03:40: Mom.S06E05.Flying Monkeys and a Tank of Nitrous
 2018-10-28 00:03:28: Criminal Minds.S14E04.Innocence
 2018-10-22 00:01:52: The Walking Dead.S09E03.Warning Signs
-2018-10-22 00:01:32: The Simpsons.S30E04.Treehouse of Horror XXIX
-2018-10-22 00:01:20: Family Guy.S17E04.Big Trouble in Little Quahog
-2018-10-22 00:01:06: Bob's Burgers.S09E04.Nightmare on Ocean Avenue Street
-2018-10-19 20:02:45: Fresh Off the Boat.S05E03.Workin' the 'Ween
-2018-10-19 06:02:55: Tosh.0.S08E15.Bubble Hat
-2018-10-19 00:02:57: Superstore.S04E03.Toxic Work Environment
-2018-10-18 20:02:47: Young Sheldon.S02E05.A Research Study and Czechoslovakian Wedding Pastries
-2018-10-18 20:02:40: The Good Place.S03E05.The Ballad Of Donkey Doug
-2018-10-18 20:02:33: The Big Bang Theory.S12E05.The Planetarium Collision
-2018-10-18 20:02:28: Mom.S06E04.Big Sauce and Coconut Water
-2018-10-18 06:03:19: The Goldbergs (2013).S06E04.Hershey Park
