@@ -1,3 +1,4 @@
+2018-12-05 06:03:24: Adam Ruins Everything.S02E24.Adam Ruins Sleep
 2018-12-04 06:04:32: The Walking Dead.S09E08.Evolution
 2018-12-04 06:04:22: The Simpsons.S30E09.Daddicus Finch
 2018-12-04 06:04:18: The Simpsons.S30E08.Krusty the Clown
@@ -97,4 +98,3 @@
 2018-10-28 00:04:09: Real Time with Bill Maher.S16E32.Episode 477
 2018-10-28 00:03:40: Mom.S06E05.Flying Monkeys and a Tank of Nitrous
 2018-10-28 00:03:28: Criminal Minds.S14E04.Innocence
-2018-10-22 00:01:52: The Walking Dead.S09E03.Warning Signs
