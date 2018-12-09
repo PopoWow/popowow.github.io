@@ -1,3 +1,10 @@
+2018-12-09 06:01:02: Young Sheldon.S02E10.A Stunted Childhood and a Can of Fancy Mixed Nuts
+2018-12-09 06:01:01: The Good Place.S03E10.The Book Of Dougs
+2018-12-09 06:01:00: The Big Bang Theory.S12E10.The VCR Illumination
+2018-12-09 06:00:49: Superstore.S04E08.Manager's Conference
+2018-12-09 06:00:43: Mom.S06E10.Flamingos and a Dance-Based Exercise Class
+2018-12-09 06:00:42: Fresh Off the Boat.S05E07.Where Have All the Cattlemen Gone?
+2018-12-09 06:00:41: Counterpart.S02E01.Inside Out
 2018-12-06 06:00:28: Criminal Minds.S14E09.Broken Wing
 2018-12-06 06:00:28: The Goldbergs (2013).S06E09.Bachelor Party
 2018-12-05 06:03:24: Adam Ruins Everything.S02E24.Adam Ruins Sleep
@@ -91,10 +98,3 @@
 2018-11-01 20:04:24: Criminal Minds.S14E05.The Tall Man
 2018-10-28 22:03:42: The Walking Dead.S09E04.The Obliged
 2018-10-28 00:06:52: Young Sheldon.S02E06.Seven Deadly Sins and a Small Carl Sagan
-2018-10-28 00:06:28: Tosh.0.S10E16.Crying Mukbanger
-2018-10-28 00:06:09: The Good Place.S03E06.A Fractured Inheritance
-2018-10-28 00:05:57: The Goldbergs (2013).S06E05.Mister Knifey-Hands
-2018-10-28 00:05:42: The Big Bang Theory.S12E06.The Imitation Perturbation
-2018-10-28 00:05:04: Talking Dead.S08E03.Warning Signs
-2018-10-28 00:04:28: Superstore.S04E04.Costume Competition
-2018-10-28 00:04:09: Real Time with Bill Maher.S16E32.Episode 477
