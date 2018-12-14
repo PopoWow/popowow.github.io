@@ -1,3 +1,7 @@
+2018-12-13 22:01:15: The Goldbergs (2013).S06E10.Yippee Ki Yay Melon Farmer
+2018-12-13 22:01:14: Superstore.S04E09.Shadowing Glenn
+2018-12-13 22:01:08: Mom.S06E11.Foot Powder and the Barrelworks Pirates
+2018-12-13 22:01:05: Adam Ruins Everything.S02E25.Adam Ruins Tech
 2018-12-09 06:01:02: Young Sheldon.S02E10.A Stunted Childhood and a Can of Fancy Mixed Nuts
 2018-12-09 06:01:01: The Good Place.S03E10.The Book Of Dougs
 2018-12-09 06:01:00: The Big Bang Theory.S12E10.The VCR Illumination
@@ -94,7 +98,3 @@
 2018-11-01 20:04:56: The Goldbergs (2013).S06E06.Fiddler
 2018-11-01 20:04:48: The Big Bang Theory.S12E07.The Grant Allocation Derivation
 2018-11-01 20:04:42: Mom.S06E06.Cottage Cheese and a Weird Buzz
-2018-11-01 20:04:32: Last Week Tonight with John Oliver.S05E27.Episode 146
-2018-11-01 20:04:24: Criminal Minds.S14E05.The Tall Man
-2018-10-28 22:03:42: The Walking Dead.S09E04.The Obliged
-2018-10-28 00:06:52: Young Sheldon.S02E06.Seven Deadly Sins and a Small Carl Sagan
