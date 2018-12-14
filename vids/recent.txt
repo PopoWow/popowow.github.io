@@ -1,3 +1,8 @@
+2018-12-14 00:02:19: The Simpsons.S30E10.'Tis the 30th Season
+2018-12-14 00:02:15: Saturday Night Live.S44E08.Jason Momoa / Mumford & Sons
+2018-12-14 00:01:50: Family Guy.S17E09.Pawtucket Pete
+2018-12-14 00:01:45: Criminal Minds.S14E10.Flesh and Blood
+2018-12-14 00:01:37: Bob's Burgers.S09E10.Better Off Sled
 2018-12-13 22:01:15: The Goldbergs (2013).S06E10.Yippee Ki Yay Melon Farmer
 2018-12-13 22:01:14: Superstore.S04E09.Shadowing Glenn
 2018-12-13 22:01:08: Mom.S06E11.Foot Powder and the Barrelworks Pirates
@@ -93,8 +98,3 @@
 2018-11-01 22:07:05: The Good Place.S03E07.The Worst Possible Use of Free Will
 2018-11-01 22:06:58: Talking Dead.S08E04.The Obliged
 2018-11-01 22:06:36: Superstore.S04E05.Delivery Day
-2018-11-01 20:05:17: Young Sheldon.S02E07.Carbon Dating and a Stuffed Raccoon
-2018-11-01 20:05:09: Tosh.0.S10E17.Deafies in Drag
-2018-11-01 20:04:56: The Goldbergs (2013).S06E06.Fiddler
-2018-11-01 20:04:48: The Big Bang Theory.S12E07.The Grant Allocation Derivation
-2018-11-01 20:04:42: Mom.S06E06.Cottage Cheese and a Weird Buzz
