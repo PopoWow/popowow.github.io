@@ -1,3 +1,6 @@
+2018-12-17 06:02:55: Saturday Night Live.S44E09.Matt Damon / Mark Ronson & Miley Cyrus
+2018-12-17 06:02:22: Fresh Off the Boat.S05E08.Cousin Eddie
+2018-12-17 06:02:14: Counterpart.S02E02.Outside In
 2018-12-14 00:02:19: The Simpsons.S30E10.'Tis the 30th Season
 2018-12-14 00:02:15: Saturday Night Live.S44E08.Jason Momoa / Mumford & Sons
 2018-12-14 00:01:50: Family Guy.S17E09.Pawtucket Pete
@@ -95,6 +98,3 @@
 2018-11-05 06:02:49: Last Week Tonight with John Oliver.S05E28.Episode 147
 2018-11-05 06:02:33: Bob's Burgers.S09E05.Live and Let Fly
 2018-11-02 20:00:14: Fresh Off the Boat.S05E04.Driver’s Eddie
-2018-11-01 22:07:05: The Good Place.S03E07.The Worst Possible Use of Free Will
-2018-11-01 22:06:58: Talking Dead.S08E04.The Obliged
-2018-11-01 22:06:36: Superstore.S04E05.Delivery Day
