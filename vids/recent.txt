@@ -1,3 +1,4 @@
+2019-01-02 22:00:15: Criminal Minds.S14E11.Night Lights
 2018-12-31 00:01:47: The Orville.S02E01.Ja'loja
 2018-12-31 00:01:38: Counterpart.S02E04.Point of Departure
 2018-12-31 00:01:32: Angie Tribeca.S04E10.Air Force Two
@@ -97,4 +98,3 @@
 2018-11-10 20:00:49: Adam Ruins Everything.S02E02.Adam Ruins Weight Loss
 2018-11-10 20:00:46: Adam Ruins Everything.S02E01.Adam Ruins Having a Baby
 2018-11-10 06:03:10: Young Sheldon.S02E08.An 8-Bit Princess and a Flat Tire Genius
-2018-11-10 06:03:02: Tosh.0.S10E18.Adrenaline Junkie Chase
