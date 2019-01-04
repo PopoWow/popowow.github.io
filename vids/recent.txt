@@ -1,3 +1,6 @@
+2019-01-03 20:00:30: Young Sheldon.S02E11.A Race of Superhumans and a Letter to Alf
+2019-01-03 20:00:26: The Orville.S02E02.Primal Urges
+2019-01-03 20:00:21: The Big Bang Theory.S12E11.The Paintball Scattering
 2019-01-02 22:00:15: Criminal Minds.S14E11.Night Lights
 2018-12-31 00:01:47: The Orville.S02E01.Ja'loja
 2018-12-31 00:01:38: Counterpart.S02E04.Point of Departure
@@ -95,6 +98,3 @@
 2018-11-17 06:02:25: Adam Ruins Everything.S01E25.Adam Ruins Christmas
 2018-11-10 20:00:57: Adam Ruins Everything.S02E06.Adam Ruins What We Learned in School
 2018-11-10 20:00:52: Adam Ruins Everything.S02E05.Adam Ruins Fine Art
-2018-11-10 20:00:49: Adam Ruins Everything.S02E02.Adam Ruins Weight Loss
-2018-11-10 20:00:46: Adam Ruins Everything.S02E01.Adam Ruins Having a Baby
-2018-11-10 06:03:10: Young Sheldon.S02E08.An 8-Bit Princess and a Flat Tire Genius
