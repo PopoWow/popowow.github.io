@@ -1,3 +1,8 @@
+2019-01-04 20:01:00: Preacher.S03E04.The Tombs
+2019-01-04 20:00:54: Preacher.S03E03.Gonna Hurt
+2019-01-04 20:00:49: Preacher.S03E02.Sonsabitches
+2019-01-04 20:00:39: Mom.S05E21.Phone Confetti and a Wee Dingle
+2019-01-04 20:00:36: Mom.S05E16.Eight Cats and the Hat Show
 2019-01-03 20:00:30: Young Sheldon.S02E11.A Race of Superhumans and a Letter to Alf
 2019-01-03 20:00:26: The Orville.S02E02.Primal Urges
 2019-01-03 20:00:21: The Big Bang Theory.S12E11.The Paintball Scattering
@@ -93,8 +98,3 @@
 2018-11-23 20:03:54: Adam Ruins Everything.S02E11.Adam Ruins the Economy
 2018-11-23 20:03:42: Adam Ruins Everything.S02E10.Adam Ruins the Suburbs
 2018-11-23 20:03:31: Adam Ruins Everything.S02E08.Emily Ruins Adam Ruins Everything
-2018-11-17 06:03:11: Adam Ruins Everything.S02E03.Adam Ruins the Hospital
-2018-11-17 06:02:37: Adam Ruins Everything.S01E26.Adam Ruins Going Green
-2018-11-17 06:02:25: Adam Ruins Everything.S01E25.Adam Ruins Christmas
-2018-11-10 20:00:57: Adam Ruins Everything.S02E06.Adam Ruins What We Learned in School
-2018-11-10 20:00:52: Adam Ruins Everything.S02E05.Adam Ruins Fine Art
