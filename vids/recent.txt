@@ -1,3 +1,5 @@
+2019-01-05 00:00:27: Killing Eve.S01E08.God, I'm Tired
+2019-01-05 00:00:20: Killing Eve.S01E01.Nice Face
 2019-01-04 20:01:00: Preacher.S03E04.The Tombs
 2019-01-04 20:00:54: Preacher.S03E03.Gonna Hurt
 2019-01-04 20:00:49: Preacher.S03E02.Sonsabitches
@@ -96,5 +98,3 @@
 2018-11-23 20:04:08: Family Guy.S17E06.Stand by Meg
 2018-11-23 20:04:01: Bob's Burgers.S09E06.Bobby Driver
 2018-11-23 20:03:54: Adam Ruins Everything.S02E11.Adam Ruins the Economy
-2018-11-23 20:03:42: Adam Ruins Everything.S02E10.Adam Ruins the Suburbs
-2018-11-23 20:03:31: Adam Ruins Everything.S02E08.Emily Ruins Adam Ruins Everything
