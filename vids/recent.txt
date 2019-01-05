@@ -1,3 +1,25 @@
+2019-01-05 03:19:58: Killing Eve.S01E07.I Don’t Want to Be Free
+2019-01-05 03:19:53: Killing Eve.S01E06.Take Me to the Hole!
+2019-01-05 03:19:41: Killing Eve.S01E05.I Have a Thing About Bathrooms
+2019-01-05 03:19:30: Killing Eve.S01E04.Sorry Baby
+2019-01-05 03:19:19: Killing Eve.S01E03.Don't I Know You?
+2019-01-05 03:19:09: Killing Eve.S01E02.I'll Deal with Him Later
+2019-01-05 03:19:03: Fresh Off the Boat.S05E09.Just the Two of Us
+2019-01-05 03:18:57: Barry.S01E08.Chapter Eight: Know Your Truth
+2019-01-05 03:18:53: Barry.S01E07.Chapter Seven: Loud, Fast and Keep Going
+2019-01-05 03:18:51: Barry.S01E06.Chapter Six: Listen with Your Ears, React with Your Face
+2019-01-05 03:18:45: Barry.S01E05.Chapter Five: Do Your Job
+2019-01-05 03:18:41: Barry.S01E04.Chapter Four: Commit to... YOU
+2019-01-05 03:18:38: Barry.S01E03.Chapter Three: Make the Unsafe Choice
+2019-01-05 03:18:30: Barry.S01E02.Chapter Two: Use It
+2019-01-05 03:18:28: Barry.S01E01.Chapter One: Make Your Mark
+2019-01-05 03:18:23: Escape at Dannemora.S01E07.Part 7
+2019-01-05 03:17:58: Escape at Dannemora.S01E06.Part 6
+2019-01-05 03:17:44: Escape at Dannemora.S01E05.Part 5
+2019-01-05 03:17:30: Escape at Dannemora.S01E04.Part 4
+2019-01-05 03:17:15: Escape at Dannemora.S01E03.Part 3
+2019-01-05 03:16:59: Escape at Dannemora.S01E02.Part 2
+2019-01-05 03:16:47: Escape at Dannemora.S01E01.Part 1
 2019-01-05 00:00:27: Killing Eve.S01E08.God, I'm Tired
 2019-01-05 00:00:20: Killing Eve.S01E01.Nice Face
 2019-01-04 20:01:00: Preacher.S03E04.The Tombs
@@ -76,25 +98,3 @@
 2018-11-24 00:14:01: Saturday Night Live.S44E06.Steve Carell / Ella Mai
 2018-11-24 00:12:19: Real Time with Bill Maher.S16E35.Episode 480
 2018-11-24 00:11:45: Real Time with Bill Maher.S16E34.Episode 479
-2018-11-24 00:11:20: Mom.S06E08.Jell-O Shots and the Truth About Santa
-2018-11-24 00:10:00: Last Week Tonight with John Oliver.S05E30.Episode 149
-2018-11-24 00:09:50: Fresh Off the Boat.S05E06.Sub Standard
-2018-11-24 00:09:37: Family Guy.S17E07.The Griffin Winter Games
-2018-11-24 00:09:28: Family Guy.S17E05.Regarding Carter
-2018-11-24 00:09:19: Criminal Minds.S14E08.Ashley
-2018-11-24 00:09:06: Criminal Minds.S14E07.Twenty Seven
-2018-11-24 00:08:52: Bob's Burgers.S09E07.I Bob Your Pardon
-2018-11-23 22:03:39: Adam Ruins Everything.S02E22.100 Years Ago Today
-2018-11-23 22:03:37: Adam Ruins Everything.S02E21.The Copernican Ruin-aissance
-2018-11-23 22:03:35: Adam Ruins Everything.S02E20.An Ancient History of Violence
-2018-11-23 22:03:32: Adam Ruins Everything.S02E19.Mutually Assured Ruination
-2018-11-23 22:03:29: Adam Ruins Everything.S02E18.The First Factsgiving
-2018-11-23 22:03:27: Adam Ruins Everything.S02E15.Adam Ruins Science
-2018-11-23 22:03:26: Adam Ruins Everything.S02E14.Adam Ruins Halloween
-2018-11-23 20:05:00: The Walking Dead.S09E06.Who Are You Now
-2018-11-23 20:04:40: The Simpsons.S30E06.From Russia Without Love
-2018-11-23 20:04:33: Last Week Tonight with John Oliver.S05E29.Episode 148
-2018-11-23 20:04:23: Fresh Off the Boat.S05E05.Mo' Chinese Mo' Problems
-2018-11-23 20:04:08: Family Guy.S17E06.Stand by Meg
-2018-11-23 20:04:01: Bob's Burgers.S09E06.Bobby Driver
-2018-11-23 20:03:54: Adam Ruins Everything.S02E11.Adam Ruins the Economy
