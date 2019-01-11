@@ -1,3 +1,9 @@
+2019-01-10 22:03:45: The Simpsons.S30E11.Mad About the Toy
+2019-01-10 22:03:35: The Goldbergs (2013).S06E11.The Wedding Singer
+2019-01-10 22:03:25: Family Guy.S17E10.Hefty Shades of Gray (1)
+2019-01-10 22:03:15: Criminal Minds.S14E12.Hamelin'
+2019-01-10 22:03:06: Counterpart.S02E05.Shadow Puppets
+2019-01-10 22:02:50: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
 2019-01-05 03:19:58: Killing Eve.S01E07.I Don’t Want to Be Free
 2019-01-05 03:19:53: Killing Eve.S01E06.Take Me to the Hole!
 2019-01-05 03:19:41: Killing Eve.S01E05.I Have a Thing About Bathrooms
@@ -92,9 +98,3 @@
 2018-11-24 00:20:10: Young Sheldon.S02E09.Family Dynamics and a Red Fiero
 2018-11-24 00:19:59: Tosh.0.S10E19.One Hole or Two?
 2018-11-24 00:18:38: The Walking Dead.S09E07.Stradivarius
-2018-11-24 00:15:49: The Good Place.S03E09.Janet(s)
-2018-11-24 00:15:04: The Big Bang Theory.S12E09.The Citation Negation
-2018-11-24 00:14:12: Superstore.S04E07.New Initiative
-2018-11-24 00:14:01: Saturday Night Live.S44E06.Steve Carell / Ella Mai
-2018-11-24 00:12:19: Real Time with Bill Maher.S16E35.Episode 480
-2018-11-24 00:11:45: Real Time with Bill Maher.S16E34.Episode 479
