@@ -1,3 +1,16 @@
+2019-01-11 06:02:51: Future Man.S02E13.Ultra-Max
+2019-01-11 06:02:47: Future Man.S02E12.The Brain Job
+2019-01-11 06:02:43: Future Man.S02E11.Dia De Los Robots
+2019-01-11 06:02:38: Future Man.S02E10.Exes and OS
+2019-01-11 06:02:33: Future Man.S02E09.The Ballad of PUP-E Q. Barkington
+2019-01-11 06:02:30: Future Man.S02E08.The Last Horchata
+2019-01-11 06:02:25: Future Man.S02E07.Homicide: Life in the Mons
+2019-01-11 06:02:20: Future Man.S02E06.The Binx Ultimatum
+2019-01-11 06:02:15: Future Man.S02E05.J1: Judgment Day
+2019-01-11 06:02:11: Future Man.S02E04.Guess Who's Coming to Lunch
+2019-01-11 06:02:08: Future Man.S02E03.A Wolf in the Torque House
+2019-01-11 06:02:02: Future Man.S02E02.The "i" of the Tiger
+2019-01-11 06:01:57: Future Man.S02E01.Countdown to a Prologue
 2019-01-11 00:02:05: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
 2019-01-11 00:02:02: The Orville.S02E03.Home
 2019-01-11 00:01:54: The Good Place.S03E11.Chidi Sees the Time-Knife
@@ -85,16 +98,3 @@
 2018-12-04 06:04:22: The Simpsons.S30E09.Daddicus Finch
 2018-12-04 06:04:18: The Simpsons.S30E08.Krusty the Clown
 2018-12-04 06:04:14: The Simpsons.S30E07.Werking Mom
-2018-12-04 06:04:10: The Goldbergs (2013).S06E08.The Living Room: A 100 Percent True Story
-2018-12-04 06:04:04: Saturday Night Live.S44E07.Claire Foy / Anderson Paak
-2018-12-04 06:03:49: Mom.S06E09.Pork Loin and a Beat-Up Monte Carlo
-2018-12-04 06:03:44: Family Guy.S17E08.Con Heiress
-2018-12-04 06:03:41: Bob's Burgers.S09E09.UFO No You Didn't
-2018-12-04 06:03:35: Bob's Burgers.S09E08.Roller? I Hardly Know Her!
-2018-12-04 06:03:30: Adam Ruins Everything.S02E23.Adam Ruins Guns
-2018-12-03 00:02:17: Adam Ruins Everything.S01E22.Adam Ruins The Wild West
-2018-12-02 20:02:38: Adam Ruins Everything.S02E04.Adam Ruins Dating
-2018-12-02 00:04:15: Adam Ruins Everything.S00E01.The Adam Ruins Everything Election Special
-2018-11-25 20:09:11: Adam Ruins Everything.S02E12.Adam Ruins Conspiracy Theories
-2018-11-25 06:09:12: Adam Ruins Everything.S02E09.Adam Ruins His Vacation
-2018-11-25 00:14:56: Adam Ruins Everything.S02E16.Adam Ruins the Future
