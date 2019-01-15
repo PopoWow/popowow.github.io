@@ -1,3 +1,6 @@
+2019-01-15 06:00:41: The Simpsons.S30E12.The Girl on the Bus
+2019-01-15 06:00:33: Family Guy.S17E11.Trump Guy (2)
+2019-01-15 06:00:22: Bob's Burgers.S09E12.The Helen Hunt
 2019-01-11 20:01:53: Fresh Off the Boat.S05E10.You've Got a Girlfriend
 2019-01-11 06:02:51: Future Man.S02E13.Ultra-Max
 2019-01-11 06:02:47: Future Man.S02E12.The Brain Job
@@ -95,6 +98,3 @@
 2018-12-06 06:00:28: Criminal Minds.S14E09.Broken Wing
 2018-12-06 06:00:28: The Goldbergs (2013).S06E09.Bachelor Party
 2018-12-05 06:03:24: Adam Ruins Everything.S02E24.Adam Ruins Sleep
-2018-12-04 06:04:32: The Walking Dead.S09E08.Evolution
-2018-12-04 06:04:22: The Simpsons.S30E09.Daddicus Finch
-2018-12-04 06:04:18: The Simpsons.S30E08.Krusty the Clown
