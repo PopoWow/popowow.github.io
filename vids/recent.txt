@@ -1,3 +1,4 @@
+2019-01-16 06:00:10: Adam Ruins Everything.S03E02.Adam Ruins a Sitcom
 2019-01-15 06:00:41: The Simpsons.S30E12.The Girl on the Bus
 2019-01-15 06:00:33: Family Guy.S17E11.Trump Guy (2)
 2019-01-15 06:00:22: Bob's Burgers.S09E12.The Helen Hunt
@@ -13,20 +14,20 @@
 2019-01-11 06:02:15: Future Man.S02E05.J1: Judgment Day
 2019-01-11 06:02:11: Future Man.S02E04.Guess Who's Coming to Lunch
 2019-01-11 06:02:08: Future Man.S02E03.A Wolf in the Torque House
-2019-01-11 06:02:02: Future Man.S02E02.The "i" of the Tiger
+2019-01-11 06:02:02: Future Man.S02E02.The I of the Tiger
 2019-01-11 06:01:57: Future Man.S02E01.Countdown to a Prologue
 2019-01-11 00:02:05: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
 2019-01-11 00:02:02: The Orville.S02E03.Home
 2019-01-11 00:01:54: The Good Place.S03E11.Chidi Sees the Time-Knife
 2019-01-11 00:01:49: The Big Bang Theory.S12E12.The Propagation Proposition
 2019-01-11 00:01:45: Mom.S06E12.Hacky Sack and a Beautiful Experience
-2019-01-11 00:01:40: Death in Paradise.S08E01.Murder on the Honore Express
+2019-01-11 00:01:40: Death in Paradise.S08E01.Episode 1
 2019-01-11 00:01:32: Brooklyn Nine-Nine.S06E01.Honeymoon
 2019-01-11 00:01:26: Adam Ruins Everything.S03E01.Adam Ruins a Plate of Nachos
 2019-01-10 22:03:45: The Simpsons.S30E11.Mad About the Toy
 2019-01-10 22:03:35: The Goldbergs (2013).S06E11.The Wedding Singer
 2019-01-10 22:03:25: Family Guy.S17E10.Hefty Shades of Gray (1)
-2019-01-10 22:03:15: Criminal Minds.S14E12.Hamelin'
+2019-01-10 22:03:15: Criminal Minds.S14E12.Hamelin
 2019-01-10 22:03:06: Counterpart.S02E05.Shadow Puppets
 2019-01-10 22:02:50: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
 2019-01-05 03:19:58: Killing Eve.S01E07.I Don’t Want to Be Free
@@ -89,7 +90,7 @@
 2018-12-13 22:01:08: Mom.S06E11.Foot Powder and the Barrelworks Pirates
 2018-12-13 22:01:05: Adam Ruins Everything.S02E25.Adam Ruins Tech
 2018-12-09 06:01:02: Young Sheldon.S02E10.A Stunted Childhood and a Can of Fancy Mixed Nuts
-2018-12-09 06:01:01: The Good Place.S03E10.The Book Of Dougs
+2018-12-09 06:01:01: The Good Place.S03E10.The Book of Dougs
 2018-12-09 06:01:00: The Big Bang Theory.S12E10.The VCR Illumination
 2018-12-09 06:00:49: Superstore.S04E08.Manager's Conference
 2018-12-09 06:00:43: Mom.S06E10.Flamingos and a Dance-Based Exercise Class
@@ -97,4 +98,3 @@
 2018-12-09 06:00:41: Counterpart.S02E01.Inside Out
 2018-12-06 06:00:28: Criminal Minds.S14E09.Broken Wing
 2018-12-06 06:00:28: The Goldbergs (2013).S06E09.Bachelor Party
-2018-12-05 06:03:24: Adam Ruins Everything.S02E24.Adam Ruins Sleep
