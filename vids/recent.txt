@@ -1,3 +1,4 @@
+2019-01-16 20:00:12: The Goldbergs (2013).S06E12.The Pina Colada Episode
 2019-01-16 06:00:10: Adam Ruins Everything.S03E02.Adam Ruins a Sitcom
 2019-01-15 06:00:41: The Simpsons.S30E12.The Girl on the Bus
 2019-01-15 06:00:33: Family Guy.S17E11.Trump Guy (2)
@@ -97,4 +98,3 @@
 2018-12-09 06:00:42: Fresh Off the Boat.S05E07.Where Have All the Cattlemen Gone?
 2018-12-09 06:00:41: Counterpart.S02E01.Inside Out
 2018-12-06 06:00:28: Criminal Minds.S14E09.Broken Wing
-2018-12-06 06:00:28: The Goldbergs (2013).S06E09.Bachelor Party
