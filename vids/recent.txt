@@ -1,3 +1,4 @@
+2019-01-17 22:00:41: Young Sheldon.S02E13.A Nuclear Reactor And a Boy Called Lovey
 2019-01-17 20:01:31: The Orville.S02E04.Nothing Left on Earth Excepting Fishes
 2019-01-17 20:01:19: The Big Bang Theory.S12E13.The Confirmation Polarization
 2019-01-17 20:01:12: Mom.S06E13.A Whistling Nostril and a Ball Of Fire
@@ -97,4 +98,3 @@
 2018-12-13 22:01:05: Adam Ruins Everything.S02E25.Adam Ruins Tech
 2018-12-09 06:01:02: Young Sheldon.S02E10.A Stunted Childhood and a Can of Fancy Mixed Nuts
 2018-12-09 06:01:01: The Good Place.S03E10.The Book of Dougs
-2018-12-09 06:01:00: The Big Bang Theory.S12E10.The VCR Illumination
