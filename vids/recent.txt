@@ -1,3 +1,4 @@
+2019-01-19 20:01:12: Real Time with Bill Maher.S17E01.Episode 481
 2019-01-18 20:00:56: Fresh Off the Boat.S05E11.Driver’s Eddie 2: Orlando Drift
 2019-01-18 20:00:56: The Simpsons.S30E12.The Girl on the Bus
 2019-01-18 00:00:41: Star Trek: Discovery.S02E01.Brother
@@ -97,4 +98,3 @@
 2018-12-13 22:01:15: The Goldbergs (2013).S06E10.Yippee Ki Yay Melon Farmer
 2018-12-13 22:01:14: Superstore.S04E09.Shadowing Glenn
 2018-12-13 22:01:08: Mom.S06E11.Foot Powder and the Barrelworks Pirates
-2018-12-13 22:01:05: Adam Ruins Everything.S02E25.Adam Ruins Tech
