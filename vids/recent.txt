@@ -1,3 +1,4 @@
+2019-01-21 00:24:02: Real Time with Bill Maher.S17E01.Episode 481
 2019-01-20 11:27:06: Counterpart.S02E05.Shadow Puppets
 2019-01-20 11:01:08: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
 2019-01-20 11:01:05: Young Sheldon.S02E11.A Race of Superhumans and a Letter to Alf
@@ -36,7 +37,6 @@
 2019-01-20 10:57:54: Angie Tribeca.S04E03.Joystick Luck Club
 2019-01-20 10:57:53: Adam Ruins Everything.S03E01.Adam Ruins a Plate of Nachos
 2019-01-20 10:57:53: Angie Tribeca.S04E01.The Force Wakes Up
-2019-01-19 20:01:12: Real Time with Bill Maher.S17E01.Episode 481
 2019-01-18 20:00:56: Fresh Off the Boat.S05E11.Driver’s Eddie 2: Orlando Drift
 2019-01-18 20:00:56: The Simpsons.S30E12.The Girl on the Bus
 2019-01-18 00:00:41: Star Trek: Discovery.S02E01.Brother
