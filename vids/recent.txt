@@ -1,3 +1,4 @@
+2019-01-23 20:00:08: Adam Ruins Everything.S03E03.Adam Ruins Games
 2019-01-21 00:24:02: Real Time with Bill Maher.S17E01.Episode 481
 2019-01-20 11:27:06: Counterpart.S02E05.Shadow Puppets
 2019-01-20 11:01:08: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
@@ -97,4 +98,3 @@
 2018-12-14 00:01:50: Family Guy.S17E09.Pawtucket Pete
 2018-12-14 00:01:45: Criminal Minds.S14E10.Flesh and Blood
 2018-12-14 00:01:37: Bob's Burgers.S09E10.Better Off Sled
-2018-12-13 22:01:15: The Goldbergs (2013).S06E10.Yippee Ki Yay Melon Farmer
