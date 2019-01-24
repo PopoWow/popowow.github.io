@@ -1,3 +1,7 @@
+2019-01-24 00:00:21: Criminal Minds.S14E13.Chameleon
+2019-01-24 00:00:16: The Masked Singer.S01E02.New Masks on the Block
+2019-01-24 00:00:12: The Masked Singer.S01E01.Mask On Face Off
+2019-01-24 00:00:11: The Masked Singer.S01E04.Another Mask Bites the Dust
 2019-01-23 20:00:08: Adam Ruins Everything.S03E03.Adam Ruins Games
 2019-01-21 00:24:02: Real Time with Bill Maher.S17E01.Episode 481
 2019-01-20 11:27:06: Counterpart.S02E05.Shadow Puppets
@@ -94,7 +98,3 @@
 2018-12-17 06:02:22: Fresh Off the Boat.S05E08.Cousin Eddie
 2018-12-17 06:02:14: Counterpart.S02E02.Outside In
 2018-12-14 00:02:19: The Simpsons.S30E10.'Tis the 30th Season
-2018-12-14 00:02:15: Saturday Night Live.S44E08.Jason Momoa / Mumford & Sons
-2018-12-14 00:01:50: Family Guy.S17E09.Pawtucket Pete
-2018-12-14 00:01:45: Criminal Minds.S14E10.Flesh and Blood
-2018-12-14 00:01:37: Bob's Burgers.S09E10.Better Off Sled
