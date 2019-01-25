@@ -1,3 +1,4 @@
+2019-01-24 22:00:30: Star Trek: Discovery.S02E02.New Eden
 2019-01-24 20:00:36: The Orville.S02E05.All the World is Birthday Cake
 2019-01-24 20:00:29: Brooklyn Nine-Nine.S06E03.The Tattler
 2019-01-24 20:00:29: Death in Paradise.S08E03.Episode 3
@@ -97,4 +98,3 @@
 2018-12-31 00:01:47: The Orville.S02E01.Ja'loja
 2018-12-31 00:01:38: Counterpart.S02E04.Point of Departure
 2018-12-28 06:00:34: Counterpart.S02E03.Something Borrowed
-2018-12-28 06:00:14: Adam Ruins Everything.S02E26.Adam Ruins Flying
