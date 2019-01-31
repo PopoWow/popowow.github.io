@@ -1,3 +1,5 @@
+2019-01-31 00:00:07: The Goldbergs (2013).S06E14.Major League
+2019-01-31 00:00:06: Criminal Minds.S14E14.Sick and Evil
 2019-01-30 20:00:08: Adam Ruins Everything.S03E04.Adam Ruins Nature
 2019-01-28 20:00:06: The Good Place.S03E12.Pandemonium
 2019-01-28 06:01:06: American Ninja Warrior.S10E16.USA vs the World 2019
@@ -96,5 +98,3 @@
 2019-01-05 03:16:47: Escape at Dannemora.S01E01.Part 1
 2019-01-05 00:00:27: Killing Eve.S01E08.God, I'm Tired
 2019-01-05 00:00:20: Killing Eve.S01E01.Nice Face
-2019-01-04 20:01:00: Preacher.S03E04.The Tombs
-2019-01-04 20:00:54: Preacher.S03E03.Gonna Hurt
