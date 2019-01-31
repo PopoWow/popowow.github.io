@@ -1,3 +1,4 @@
+2019-01-30 20:00:08: Adam Ruins Everything.S03E04.Adam Ruins Nature
 2019-01-28 20:00:06: The Good Place.S03E12.Pandemonium
 2019-01-28 06:01:06: American Ninja Warrior.S10E16.USA vs the World 2019
 2019-01-27 20:01:20: Real Time with Bill Maher.S17E02.Episode 482
@@ -97,4 +98,3 @@
 2019-01-05 00:00:20: Killing Eve.S01E01.Nice Face
 2019-01-04 20:01:00: Preacher.S03E04.The Tombs
 2019-01-04 20:00:54: Preacher.S03E03.Gonna Hurt
-2019-01-04 20:00:49: Preacher.S03E02.Sonsabitches
