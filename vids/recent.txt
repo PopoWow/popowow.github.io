@@ -1,3 +1,9 @@
+2019-01-31 20:00:32: Young Sheldon.S02E14.David, Goliath, and a Yoo-Hoo from the Back
+2019-01-31 20:00:28: The Orville.S02E06.A Happy Refrain
+2019-01-31 20:00:20: The Big Bang Theory.S12E14.The Meteorite Manifestation
+2019-01-31 20:00:16: Death in Paradise.S08E04.Episode 4
+2019-01-31 20:00:16: Mom.S06E14.Kalamazoo And a Bad Wedge of Brie
+2019-01-31 20:00:15: The Masked Singer.S01E05.Mix and Masks
 2019-01-31 00:00:07: The Goldbergs (2013).S06E14.Major League
 2019-01-31 00:00:06: Criminal Minds.S14E14.Sick and Evil
 2019-01-30 20:00:08: Adam Ruins Everything.S03E04.Adam Ruins Nature
@@ -92,9 +98,3 @@
 2019-01-05 03:18:23: Escape at Dannemora.S01E07.Part 7
 2019-01-05 03:17:58: Escape at Dannemora.S01E06.Part 6
 2019-01-05 03:17:44: Escape at Dannemora.S01E05.Part 5
-2019-01-05 03:17:30: Escape at Dannemora.S01E04.Part 4
-2019-01-05 03:17:15: Escape at Dannemora.S01E03.Part 3
-2019-01-05 03:16:59: Escape at Dannemora.S01E02.Part 2
-2019-01-05 03:16:47: Escape at Dannemora.S01E01.Part 1
-2019-01-05 00:00:27: Killing Eve.S01E08.God, I'm Tired
-2019-01-05 00:00:20: Killing Eve.S01E01.Nice Face
