@@ -1,3 +1,6 @@
+2019-02-04 00:01:10: Real Time with Bill Maher.S17E03.Episode 483
+2019-02-04 00:01:02: Fresh Off the Boat.S05E13.Grand-Mahjong
+2019-02-04 00:01:00: Counterpart.S02E08.In from the Cold
 2019-01-31 22:00:12: Star Trek: Discovery.S02E03.Point of Light
 2019-01-31 22:00:11: Brooklyn Nine-Nine.S06E04.Four Movements
 2019-01-31 20:00:32: Young Sheldon.S02E14.David, Goliath, and a Yoo-Hoo from the Back
@@ -95,6 +98,3 @@
 2019-01-05 03:18:45: Barry.S01E05.Chapter Five: Do Your Job
 2019-01-05 03:18:41: Barry.S01E04.Chapter Four: Commit to... YOU
 2019-01-05 03:18:38: Barry.S01E03.Chapter Three: Make the Unsafe Choice
-2019-01-05 03:18:30: Barry.S01E02.Chapter Two: Use It
-2019-01-05 03:18:28: Barry.S01E01.Chapter One: Make Your Mark
-2019-01-05 03:18:23: Escape at Dannemora.S01E07.Part 7
