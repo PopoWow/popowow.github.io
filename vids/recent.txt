@@ -1,3 +1,6 @@
+2019-02-07 01:12:16: Criminal Minds.S14E15.Truth or Dare
+2019-02-07 01:12:15: The Masked Singer.S01E06.Touchy Feely Clues
+2019-02-07 01:12:14: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
 2019-02-04 00:01:10: Real Time with Bill Maher.S17E03.Episode 483
 2019-02-04 00:01:02: Fresh Off the Boat.S05E13.Grand-Mahjong
 2019-02-04 00:01:00: Counterpart.S02E08.In from the Cold
@@ -9,7 +12,7 @@
 2019-01-31 20:00:16: Death in Paradise.S08E04.Episode 4
 2019-01-31 20:00:16: Mom.S06E14.Kalamazoo And a Bad Wedge of Brie
 2019-01-31 20:00:15: The Masked Singer.S01E05.Mix and Masks
-2019-01-31 00:00:07: The Goldbergs (2013).S06E14.Major League
+2019-01-31 00:00:07: The Goldbergs (2013).S06E14.Major League'd
 2019-01-31 00:00:06: Criminal Minds.S14E14.Sick and Evil
 2019-01-30 20:00:08: Adam Ruins Everything.S03E04.Adam Ruins Nature
 2019-01-28 20:00:06: The Good Place.S03E12.Pandemonium
@@ -38,7 +41,7 @@
 2019-01-20 11:00:48: The Goldbergs (2013).S06E11.The Wedding Singer
 2019-01-20 11:00:47: The Big Bang Theory.S12E11.The Paintball Scattering
 2019-01-20 11:00:47: The Big Bang Theory.S12E12.The Propagation Proposition
-2019-01-20 11:00:46: Saturday Night Live.S44E10.Rachel Brosnahan/Greta Van Fleet
+2019-01-20 11:00:46: Saturday Night Live.S44E10.Rachel Brosnahan / Greta Van Fleet
 2019-01-20 11:00:16: Mom.S06E12.Hacky Sack and a Beautiful Experience
 2019-01-20 11:00:11: Future Man.S02E07.Homicide: Life in the Mons
 2019-01-20 11:00:06: Future Man.S02E06.The Binx Ultimatum
@@ -54,7 +57,6 @@
 2019-01-20 10:58:56: Criminal Minds.S14E11.Night Lights
 2019-01-20 10:58:55: Counterpart.S02E06.Twin Cities
 2019-01-20 10:58:10: Brooklyn Nine-Nine.S06E01.Honeymoon
-2019-01-20 10:58:08: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
 2019-01-20 10:58:05: Angie Tribeca.S04E10.Air Force Two
 2019-01-20 10:58:03: Angie Tribeca.S04E09.Irrational Treasures
 2019-01-20 10:58:01: Angie Tribeca.S04E08.Heading to the Legal Beagle
@@ -96,5 +98,3 @@
 2019-01-05 03:18:53: Barry.S01E07.Chapter Seven: Loud, Fast and Keep Going
 2019-01-05 03:18:51: Barry.S01E06.Chapter Six: Listen with Your Ears, React with Your Face
 2019-01-05 03:18:45: Barry.S01E05.Chapter Five: Do Your Job
-2019-01-05 03:18:41: Barry.S01E04.Chapter Four: Commit to... YOU
-2019-01-05 03:18:38: Barry.S01E03.Chapter Three: Make the Unsafe Choice
