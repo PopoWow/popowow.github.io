@@ -1,3 +1,7 @@
+2019-02-07 20:00:13: Young Sheldon.S02E15.A Math Emergency and Perky Palms
+2019-02-07 20:00:12: The Big Bang Theory.S12E15.The Donation Oscillation
+2019-02-07 20:00:09: Brooklyn Nine-Nine.S06E05.A Tale of Two Bandits
+2019-02-07 20:00:09: Death in Paradise.S08E05.Episode 5 (1)
 2019-02-07 02:25:16: Real Time with Bill Maher.S17E03.Episode 483
 2019-02-07 01:12:16: Criminal Minds.S14E15.Truth or Dare
 2019-02-07 01:12:15: The Masked Singer.S01E06.Touchy Feely Clues
@@ -94,7 +98,3 @@
 2019-01-05 03:19:30: Killing Eve.S01E04.Sorry Baby
 2019-01-05 03:19:19: Killing Eve.S01E03.Don't I Know You?
 2019-01-05 03:19:09: Killing Eve.S01E02.I'll Deal with Him Later
-2019-01-05 03:18:57: Barry.S01E08.Chapter Eight: Know Your Truth
-2019-01-05 03:18:53: Barry.S01E07.Chapter Seven: Loud, Fast and Keep Going
-2019-01-05 03:18:51: Barry.S01E06.Chapter Six: Listen with Your Ears, React with Your Face
-2019-01-05 03:18:45: Barry.S01E05.Chapter Five: Do Your Job
