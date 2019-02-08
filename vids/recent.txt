@@ -1,3 +1,4 @@
+2019-02-07 22:00:07: Star Trek: Discovery.S02E04.An Obol for Charon
 2019-02-07 20:00:13: Young Sheldon.S02E15.A Math Emergency and Perky Palms
 2019-02-07 20:00:12: The Big Bang Theory.S12E15.The Donation Oscillation
 2019-02-07 20:00:09: Brooklyn Nine-Nine.S06E05.A Tale of Two Bandits
@@ -97,4 +98,3 @@
 2019-01-05 03:19:41: Killing Eve.S01E05.I Have a Thing About Bathrooms
 2019-01-05 03:19:30: Killing Eve.S01E04.Sorry Baby
 2019-01-05 03:19:19: Killing Eve.S01E03.Don't I Know You?
-2019-01-05 03:19:09: Killing Eve.S01E02.I'll Deal with Him Later
