@@ -1,3 +1,11 @@
+2019-02-11 06:00:54: The Walking Dead.S09E09.Adaptation
+2019-02-11 06:00:45: Talking Dead.S08E09.Adaptation
+2019-02-11 06:00:45: The Simpsons.S30E13.I'm Dancing as Fat as I Can
+2019-02-11 06:00:39: Saturday Night Live.S44E12.Halsey
+2019-02-11 06:00:31: Real Time with Bill Maher.S17E04.Episode 484
+2019-02-11 06:00:30: Family Guy.S17E12.Bri, Robot
+2019-02-11 06:00:14: Counterpart.S02E09.You to You
+2019-02-11 06:00:13: Bob's Burgers.S09E13.Bed, Bob and Beyond
 2019-02-07 22:00:07: Star Trek: Discovery.S02E04.An Obol for Charon
 2019-02-07 20:00:13: Young Sheldon.S02E15.A Math Emergency and Perky Palms
 2019-02-07 20:00:12: The Big Bang Theory.S12E15.The Donation Oscillation
@@ -90,11 +98,3 @@
 2019-01-11 06:02:51: Future Man.S02E13.Ultra-Max
 2019-01-11 06:02:47: Future Man.S02E12.The Brain Job
 2019-01-11 06:02:43: Future Man.S02E11.Dia De Los Robots
-2019-01-11 06:02:38: Future Man.S02E10.Exes and OS
-2019-01-11 06:02:33: Future Man.S02E09.The Ballad of PUP-E Q. Barkington
-2019-01-11 06:02:30: Future Man.S02E08.The Last Horchata
-2019-01-05 03:19:58: Killing Eve.S01E07.I Don’t Want to Be Free
-2019-01-05 03:19:53: Killing Eve.S01E06.Take Me to the Hole!
-2019-01-05 03:19:41: Killing Eve.S01E05.I Have a Thing About Bathrooms
-2019-01-05 03:19:30: Killing Eve.S01E04.Sorry Baby
-2019-01-05 03:19:19: Killing Eve.S01E03.Don't I Know You?
