@@ -1,3 +1,4 @@
+2019-02-14 20:02:41: Star Trek: Discovery.S02E05.Saints of Imperfection
 2019-02-14 20:00:45: The Orville.S02E07.Deflectors
 2019-02-14 20:00:35: The Masked Singer.S01E07.All Together Now
 2019-02-14 20:00:33: Death in Paradise.S08E06.Beyond the Shining Sea (2)
@@ -97,4 +98,3 @@
 2019-01-17 20:01:08: Death in Paradise.S08E02.The Poison Dart Gun
 2019-01-17 20:00:51: Brooklyn Nine-Nine.S06E02.Hitchcock & Scully
 2019-01-16 20:00:12: The Goldbergs (2013).S06E12.The Pina Colada Episode
-2019-01-16 06:00:10: Adam Ruins Everything.S03E02.Adam Ruins a Sitcom
