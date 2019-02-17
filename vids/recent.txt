@@ -1,3 +1,5 @@
+2019-02-17 06:00:41: Saturday Night Live.S44E13.Don Cheadle / Gary Clark Jr.
+2019-02-17 06:00:27: Counterpart.S02E10.Better Angels
 2019-02-16 20:00:16: Real Time with Bill Maher.S17E05.Episode 485
 2019-02-15 20:00:35: Fresh Off the Boat.S05E14.Cupid’s Crossbow
 2019-02-14 20:02:41: Star Trek: Discovery.S02E05.Saints of Imperfection
@@ -96,5 +98,3 @@
 2019-01-17 22:00:41: Young Sheldon.S02E13.A Nuclear Reactor And a Boy Called Lovey
 2019-01-17 20:01:31: The Orville.S02E04.Nothing Left on Earth Excepting Fishes
 2019-01-17 20:01:19: The Big Bang Theory.S12E13.The Confirmation Polarization
-2019-01-17 20:01:12: Mom.S06E13.Big Floor Pillows and a Ball of Fire
-2019-01-17 20:01:08: Death in Paradise.S08E02.The Poison Dart Gun
