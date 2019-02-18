@@ -1,3 +1,7 @@
+2019-02-17 20:00:47: The Walking Dead.S09E10.Omega
+2019-02-17 20:00:44: The Simpsons.S30E14.The Clown Stays in the Picture
+2019-02-17 20:00:41: Family Guy.S17E13.Trans-Fat
+2019-02-17 20:00:40: Bob's Burgers.S09E14.Every Which Way but Goose
 2019-02-17 06:00:41: Saturday Night Live.S44E13.Don Cheadle / Gary Clark Jr.
 2019-02-17 06:00:27: Counterpart.S02E10.Better Angels
 2019-02-16 20:00:16: Real Time with Bill Maher.S17E05.Episode 485
@@ -94,7 +98,3 @@
 2019-01-20 10:57:53: Angie Tribeca.S04E01.The Force Wakes Up
 2019-01-18 20:00:56: Fresh Off the Boat.S05E11.Driver’s Eddie 2: Orlando Drift
 2019-01-18 20:00:56: The Simpsons.S30E12.The Girl on the Bus
-2019-01-18 00:00:41: Star Trek: Discovery.S02E01.Brother
-2019-01-17 22:00:41: Young Sheldon.S02E13.A Nuclear Reactor And a Boy Called Lovey
-2019-01-17 20:01:31: The Orville.S02E04.Nothing Left on Earth Excepting Fishes
-2019-01-17 20:01:19: The Big Bang Theory.S12E13.The Confirmation Polarization
