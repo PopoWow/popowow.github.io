@@ -1,3 +1,5 @@
+2019-02-22 06:00:33: The Orville.S02E07.Deflectors
+2019-02-22 06:00:25: Mom.S06E16.Skippy And The Knowledge Hole
 2019-02-21 22:00:15: Star Trek: Discovery.S02E06.The Sounds of Thunder
 2019-02-21 22:00:12: Brooklyn Nine-Nine.S06E07.The Honeypot
 2019-02-21 20:00:29: Young Sheldon.S02E16.A Loaf of Bread and a Grand Old Flag
@@ -17,7 +19,6 @@
 2019-02-16 20:00:16: Real Time with Bill Maher.S17E05.Episode 485
 2019-02-15 20:00:35: Fresh Off the Boat.S05E14.Cupid’s Crossbow
 2019-02-14 20:02:41: Star Trek: Discovery.S02E05.Saints of Imperfection
-2019-02-14 20:00:45: The Orville.S02E07.Deflectors
 2019-02-14 20:00:35: The Masked Singer.S01E07.All Together Now
 2019-02-14 20:00:33: Death in Paradise.S08E06.Beyond the Shining Sea (2)
 2019-02-14 20:00:33: Mom.S06E15.Sparkling Banter and a Failing Steel Town
@@ -97,4 +98,3 @@
 2019-01-20 10:58:10: Brooklyn Nine-Nine.S06E01.Honeymoon
 2019-01-20 10:58:05: Angie Tribeca.S04E10.Air Force Two
 2019-01-20 10:58:03: Angie Tribeca.S04E09.Irrational Treasures
-2019-01-20 10:58:01: Angie Tribeca.S04E08.Heading to the Legal Beagle
