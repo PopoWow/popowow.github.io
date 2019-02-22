@@ -1,3 +1,7 @@
+2019-02-21 20:00:29: Young Sheldon.S02E16.A Loaf of Bread and a Grand Old Flag
+2019-02-21 20:00:27: The Orville.S02E08.Identity (1)
+2019-02-21 20:00:19: The Big Bang Theory.S12E16.The D & D Vortex
+2019-02-21 20:00:17: Death in Paradise.S08E07.Episode 7
 2019-02-20 20:00:07: The Masked Singer.S01E08.Semi Finals: Double Unmasking
 2019-02-20 20:00:05: The Goldbergs (2013).S06E16.There Can Be Only One Highlander Club
 2019-02-18 06:00:35: Last Week Tonight with John Oliver.S06E01.Episode 150
@@ -94,7 +98,3 @@
 2019-01-20 10:58:01: Angie Tribeca.S04E08.Heading to the Legal Beagle
 2019-01-20 10:57:59: Angie Tribeca.S04E07.Behind the Scandalabra
 2019-01-20 10:57:57: Angie Tribeca.S04E06.Freezing Cold Prestige Drama
-2019-01-20 10:57:55: Angie Tribeca.S04E04.Just the Fat, Ma'am
-2019-01-20 10:57:55: Angie Tribeca.S04E05.Trader Foes
-2019-01-20 10:57:54: Angie Tribeca.S04E02.Glitch Perfect
-2019-01-20 10:57:54: Angie Tribeca.S04E03.Joystick Luck Club
