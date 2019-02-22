@@ -1,3 +1,5 @@
+2019-02-21 22:00:15: Star Trek: Discovery.S02E06.The Sounds of Thunder
+2019-02-21 22:00:12: Brooklyn Nine-Nine.S06E07.The Honeypot
 2019-02-21 20:00:29: Young Sheldon.S02E16.A Loaf of Bread and a Grand Old Flag
 2019-02-21 20:00:27: The Orville.S02E08.Identity (1)
 2019-02-21 20:00:19: The Big Bang Theory.S12E16.The D & D Vortex
@@ -96,5 +98,3 @@
 2019-01-20 10:58:05: Angie Tribeca.S04E10.Air Force Two
 2019-01-20 10:58:03: Angie Tribeca.S04E09.Irrational Treasures
 2019-01-20 10:58:01: Angie Tribeca.S04E08.Heading to the Legal Beagle
-2019-01-20 10:57:59: Angie Tribeca.S04E07.Behind the Scandalabra
-2019-01-20 10:57:57: Angie Tribeca.S04E06.Freezing Cold Prestige Drama
