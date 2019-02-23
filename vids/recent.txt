@@ -1,3 +1,4 @@
+2019-02-22 23:28:43: Real Time with Bill Maher.S17E06.Episode 486
 2019-02-22 06:00:33: The Orville.S02E07.Deflectors
 2019-02-22 06:00:25: Mom.S06E16.Skippy And The Knowledge Hole
 2019-02-21 22:00:15: Star Trek: Discovery.S02E06.The Sounds of Thunder
@@ -97,4 +98,3 @@
 2019-01-20 10:58:55: Counterpart.S02E06.Twin Cities
 2019-01-20 10:58:10: Brooklyn Nine-Nine.S06E01.Honeymoon
 2019-01-20 10:58:05: Angie Tribeca.S04E10.Air Force Two
-2019-01-20 10:58:03: Angie Tribeca.S04E09.Irrational Treasures
