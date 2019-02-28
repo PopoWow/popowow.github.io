@@ -1,10 +1,12 @@
+2019-02-28 11:00:56: The Masked Singer.S01E09.Road to the Finals
+2019-02-28 11:00:37: The Goldbergs (2013).S06E17.Our Perfect Strangers
 2019-02-25 00:00:35: Last Week Tonight with John Oliver.S06E02.Episode 151
 2019-02-24 22:00:41: The Walking Dead.S09E11.Bounty
 2019-02-23 20:00:31: Real Time with Bill Maher.S17E06.Episode 486
 2019-02-23 06:00:05: Fresh Off the Boat.S05E15.Be a Man
 2019-02-22 06:00:33: The Orville.S02E07.Deflectors
 2019-02-22 06:00:25: Mom.S06E16.Skippy And The Knowledge Hole
-2019-02-21 22:00:15: Star Trek: Discovery.S02E06.The Sounds of Thunder
+2019-02-21 22:00:15: Star Trek: Discovery.S02E06.The Sound of Thunder
 2019-02-21 22:00:12: Brooklyn Nine-Nine.S06E07.The Honeypot
 2019-02-21 20:00:29: Young Sheldon.S02E16.A Loaf of Bread and a Grand Old Flag
 2019-02-21 20:00:27: The Orville.S02E08.Identity (1)
@@ -96,5 +98,3 @@
 2019-01-20 10:59:05: Fresh Off the Boat.S05E09.Just the Two of Us
 2019-01-20 10:59:01: Family Guy.S17E10.Hefty Shades of Gray
 2019-01-20 10:58:59: Death in Paradise.S08E01.Murder on the Honore Express
-2019-01-20 10:58:57: Criminal Minds.S14E12.Hamelin
-2019-01-20 10:58:56: Criminal Minds.S14E11.Night Lights
