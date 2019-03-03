@@ -1,3 +1,4 @@
+2019-03-03 06:00:14: Saturday Night Live.S44E14.John Mulaney / Thomas Rhett
 2019-03-01 20:00:06: Fresh Off the Boat.S05E16.Trentina
 2019-02-28 20:00:14: The Orville.S02E09.Identity (2)
 2019-02-28 20:00:06: Star Trek: Discovery.S02E07.Light and Shadows
@@ -97,4 +98,3 @@
 2019-01-20 10:59:50: Future Man.S02E05.J1: Judgment Day
 2019-01-20 10:59:44: Future Man.S02E04.Guess Who's Coming to Lunch
 2019-01-20 10:59:38: Future Man.S02E03.A Wolf in the Torque House
-2019-01-20 10:59:33: Future Man.S02E02.The I of the Tiger
