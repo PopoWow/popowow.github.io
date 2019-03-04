@@ -1,3 +1,4 @@
+2019-03-04 00:00:10: Last Week Tonight with John Oliver.S06E03.Episode 152
 2019-03-03 20:00:12: The Walking Dead.S09E12.Guardians
 2019-03-03 20:00:10: The Simpsons.S30E15.101 Mitigations
 2019-03-03 20:00:09: Bob's Burgers.S09E15.The Fresh Princ-ipal
@@ -97,4 +98,3 @@
 2019-01-20 11:00:47: The Big Bang Theory.S12E12.The Propagation Proposition
 2019-01-20 11:00:46: Saturday Night Live.S44E10.Rachel Brosnahan / Greta Van Fleet
 2019-01-20 11:00:16: Mom.S06E12.Hacky Sack and a Beautiful Experience
-2019-01-20 11:00:11: Future Man.S02E07.Homicide: Life in the Mons
