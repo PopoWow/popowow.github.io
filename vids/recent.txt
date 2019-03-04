@@ -1,3 +1,7 @@
+2019-03-03 20:00:12: The Walking Dead.S09E12.Guardians
+2019-03-03 20:00:10: The Simpsons.S30E15.101 Mitigations
+2019-03-03 20:00:09: Bob's Burgers.S09E15.The Fresh Princ-ipal
+2019-03-03 20:00:09: Family Guy.S17E14.Family Guy Lite
 2019-03-03 06:00:14: Saturday Night Live.S44E14.John Mulaney / Thomas Rhett
 2019-03-01 20:00:06: Fresh Off the Boat.S05E16.Trentina
 2019-02-28 20:00:14: The Orville.S02E09.Identity (2)
@@ -94,7 +98,3 @@
 2019-01-20 11:00:46: Saturday Night Live.S44E10.Rachel Brosnahan / Greta Van Fleet
 2019-01-20 11:00:16: Mom.S06E12.Hacky Sack and a Beautiful Experience
 2019-01-20 11:00:11: Future Man.S02E07.Homicide: Life in the Mons
-2019-01-20 11:00:06: Future Man.S02E06.The Binx Ultimatum
-2019-01-20 10:59:50: Future Man.S02E05.J1: Judgment Day
-2019-01-20 10:59:44: Future Man.S02E04.Guess Who's Coming to Lunch
-2019-01-20 10:59:38: Future Man.S02E03.A Wolf in the Torque House
