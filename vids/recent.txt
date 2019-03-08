@@ -1,3 +1,4 @@
+2019-03-07 20:01:43: Star Trek: Discovery.S02E08.If Memory Serves
 2019-03-07 20:00:15: Young Sheldon.S02E17.Albert Einstein and the Story of Another Mary
 2019-03-07 20:00:13: The Orville.S02E10.Blood of Patriots
 2019-03-07 20:00:11: The Big Bang Theory.S12E17.The Conference Valuation
@@ -97,4 +98,3 @@
 2019-01-20 11:01:08: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
 2019-01-20 11:01:05: Young Sheldon.S02E11.A Race of Superhumans and a Letter to Alf
 2019-01-20 11:01:03: The Simpsons.S30E11.Mad About the Toy
-2019-01-20 11:01:02: The Orville.S02E03.Home
