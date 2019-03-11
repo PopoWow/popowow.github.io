@@ -1,3 +1,4 @@
+2019-03-11 00:00:07: Last Week Tonight with John Oliver.S06E04.Episode 153
 2019-03-10 22:54:07: The Walking Dead.S09E13.Chokepoint
 2019-03-10 22:53:23: The Simpsons.S30E16.I Want You (She's So Heavy)
 2019-03-10 22:53:21: Real Time with Bill Maher.S17E07.Episode 487
@@ -97,4 +98,3 @@
 2019-01-24 00:00:21: Criminal Minds.S14E13.Chameleon
 2019-01-24 00:00:16: The Masked Singer.S01E02.New Masks on the Block
 2019-01-24 00:00:12: The Masked Singer.S01E01.Season Premiere: Mask On Face Off
-2019-01-24 00:00:11: The Masked Singer.S01E04.Another Mask Bites the Dust
