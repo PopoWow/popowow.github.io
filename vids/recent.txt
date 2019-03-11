@@ -1,3 +1,9 @@
+2019-03-10 22:54:07: The Walking Dead.S09E13.Chokepoint
+2019-03-10 22:53:23: The Simpsons.S30E16.I Want You (She's So Heavy)
+2019-03-10 22:53:21: Real Time with Bill Maher.S17E07.Episode 487
+2019-03-10 22:53:12: Fresh Off the Boat.S05E17.These Boots Are Made for Walkin'
+2019-03-10 22:53:11: Family Guy.S17E15.No Giggity, No Doubt
+2019-03-10 22:53:09: Bob's Burgers.S09E16.Roamin' Bob-iday
 2019-03-07 20:01:43: Star Trek: Discovery.S02E08.If Memory Serves
 2019-03-07 20:00:15: Young Sheldon.S02E17.Albert Einstein and the Story of Another Mary
 2019-03-07 20:00:13: The Orville.S02E10.Blood of Patriots
@@ -92,9 +98,3 @@
 2019-01-24 00:00:16: The Masked Singer.S01E02.New Masks on the Block
 2019-01-24 00:00:12: The Masked Singer.S01E01.Season Premiere: Mask On Face Off
 2019-01-24 00:00:11: The Masked Singer.S01E04.Another Mask Bites the Dust
-2019-01-23 20:00:08: Adam Ruins Everything.S03E03.Adam Ruins Games
-2019-01-21 00:24:02: Real Time with Bill Maher.S17E01.Episode 481
-2019-01-20 11:27:06: Counterpart.S02E05.Shadow Puppets
-2019-01-20 11:01:08: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
-2019-01-20 11:01:05: Young Sheldon.S02E11.A Race of Superhumans and a Letter to Alf
-2019-01-20 11:01:03: The Simpsons.S30E11.Mad About the Toy
