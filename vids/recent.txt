@@ -1,3 +1,4 @@
+2019-03-12 06:00:05: Saturday Night Live.S44E15.Idris Elba / Khalid
 2019-03-11 06:00:09: Talking Dead.S08E13.Chokepoint
 2019-03-11 00:00:07: Last Week Tonight with John Oliver.S06E04.Episode 153
 2019-03-10 22:54:07: The Walking Dead.S09E13.Chokepoint
@@ -97,4 +98,3 @@
 2019-01-24 20:00:29: Death in Paradise.S08E03.Caught Off Camera
 2019-01-24 06:00:12: The Masked Singer.S01E03.Five Masks No More
 2019-01-24 00:00:21: Criminal Minds.S14E13.Chameleon
-2019-01-24 00:00:16: The Masked Singer.S01E02.New Masks on the Block
