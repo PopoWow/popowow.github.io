@@ -1,3 +1,4 @@
+2019-03-14 00:00:11: The Goldbergs (2013).S06E18.The Beverly Goldberg Cookbook
 2019-03-12 06:00:05: Saturday Night Live.S44E15.Idris Elba / Khalid
 2019-03-11 06:00:09: Talking Dead.S08E13.Chokepoint
 2019-03-11 00:00:07: Last Week Tonight with John Oliver.S06E04.Episode 153
@@ -12,7 +13,7 @@
 2019-03-07 20:00:13: The Orville.S02E10.Blood of Patriots
 2019-03-07 20:00:11: The Big Bang Theory.S12E17.The Conference Valuation
 2019-03-07 20:00:08: Brooklyn Nine-Nine.S06E09.The Golden Child
-2019-03-07 20:00:08: Mom.S06E17.Cincinnati and a Toe Situation
+2019-03-07 20:00:08: Mom.S06E17.A Dark Closet and Therapy with Horses
 2019-03-07 20:00:08: Superstore.S04E10.Cloud 9 Academy
 2019-03-06 20:00:04: The Walking Dead.S09E12.Guardians
 2019-03-04 20:00:15: Talking Dead.S08E12.Guardians
@@ -97,4 +98,3 @@
 2019-01-24 20:00:29: Brooklyn Nine-Nine.S06E03.The Tattler
 2019-01-24 20:00:29: Death in Paradise.S08E03.Caught Off Camera
 2019-01-24 06:00:12: The Masked Singer.S01E03.Five Masks No More
-2019-01-24 00:00:21: Criminal Minds.S14E13.Chameleon
