@@ -1,3 +1,7 @@
+2019-03-14 17:49:50: Doom Patrol.S01E04.Cult Patrol
+2019-03-14 17:49:43: Doom Patrol.S01E03.Puppet Patrol
+2019-03-14 17:49:37: Doom Patrol.S01E02.Donkey Patrol
+2019-03-14 17:49:34: Doom Patrol.S01E01.Pilot
 2019-03-14 00:00:11: The Goldbergs (2013).S06E18.The Beverly Goldberg Cookbook
 2019-03-12 06:00:05: Saturday Night Live.S44E15.Idris Elba / Khalid
 2019-03-11 06:00:09: Talking Dead.S08E13.Chokepoint
@@ -94,7 +98,3 @@
 2019-01-27 20:01:01: Counterpart.S02E07.No Strings Attached
 2019-01-25 20:01:01: Fresh Off the Boat.S05E12.Legends of the Fortieth
 2019-01-24 22:00:30: Star Trek: Discovery.S02E02.New Eden
-2019-01-24 20:00:36: The Orville.S02E05.All the World is Birthday Cake
-2019-01-24 20:00:29: Brooklyn Nine-Nine.S06E03.The Tattler
-2019-01-24 20:00:29: Death in Paradise.S08E03.Caught Off Camera
-2019-01-24 06:00:12: The Masked Singer.S01E03.Five Masks No More
