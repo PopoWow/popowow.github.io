@@ -1,3 +1,11 @@
+2019-03-14 20:00:39: Titans (2018).S01E04.Doom Patrol
+2019-03-14 20:00:38: Titans (2018).S01E11.Dick Grayson
+2019-03-14 20:00:34: Titans (2018).S01E10.Koriand'r
+2019-03-14 20:00:30: Titans (2018).S01E09.Hank and Dawn
+2019-03-14 20:00:25: Titans (2018).S01E08.Donna Troy
+2019-03-14 20:00:20: Titans (2018).S01E07.Asylum
+2019-03-14 20:00:15: Titans (2018).S01E05.Together
+2019-03-14 20:00:15: Titans (2018).S01E06.Jason Todd
 2019-03-14 17:55:58: Titans (2018).S01E03.Origins
 2019-03-14 17:55:54: Titans (2018).S01E01.Titans
 2019-03-14 17:55:54: Titans (2018).S01E02.Hawk and Dove
@@ -90,11 +98,3 @@
 2019-01-31 20:00:28: The Orville.S02E06.A Happy Refrain
 2019-01-31 20:00:20: The Big Bang Theory.S12E14.The Meteorite Manifestation
 2019-01-31 20:00:16: Death in Paradise.S08E04.A Different Story
-2019-01-31 20:00:16: Mom.S06E14.Kalamazoo And a Bad Wedge of Brie
-2019-01-31 20:00:15: The Masked Singer.S01E05.Mix and Masks
-2019-01-31 00:00:07: The Goldbergs (2013).S06E14.Major League'd
-2019-01-31 00:00:06: Criminal Minds.S14E14.Sick and Evil
-2019-01-30 20:00:08: Adam Ruins Everything.S03E04.Adam Ruins Nature
-2019-01-28 20:00:06: The Good Place.S03E12.Pandemonium
-2019-01-28 06:01:06: American Ninja Warrior.S10E16.USA vs the World 2019
-2019-01-27 20:01:20: Real Time with Bill Maher.S17E02.Episode 482
