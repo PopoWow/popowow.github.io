@@ -1,3 +1,4 @@
+2019-03-15 20:00:04: Doom Patrol.S01E05.Paw Patrol
 2019-03-14 22:00:19: Star Trek: Discovery.S02E09.Project Daedalus
 2019-03-14 22:00:19: Superstore.S04E11.Steps Challenge
 2019-03-14 22:00:18: Brooklyn Nine-Nine.S06E10.Gintars
@@ -97,4 +98,3 @@
 2019-02-04 00:01:00: Counterpart.S02E08.In from the Cold
 2019-01-31 22:00:12: Star Trek: Discovery.S02E03.Point of Light
 2019-01-31 22:00:11: Brooklyn Nine-Nine.S06E04.Four Movements
-2019-01-31 20:00:32: Young Sheldon.S02E14.David, Goliath, and a Yoo-Hoo from the Back
