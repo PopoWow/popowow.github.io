@@ -1,3 +1,6 @@
+2019-03-17 22:00:09: The Walking Dead.S09E14.Scars
+2019-03-17 22:00:08: The Simpsons.S30E17.E My Sports
+2019-03-17 22:00:07: Bob's Burgers.S09E17.What About Blob?
 2019-03-16 20:00:09: Fresh Off the Boat.S05E18.Rancho Contento
 2019-03-15 20:00:04: Doom Patrol.S01E05.Paw Patrol
 2019-03-14 22:00:19: Star Trek: Discovery.S02E09.Project Daedalus
@@ -95,6 +98,3 @@
 2019-02-07 01:12:16: Criminal Minds.S14E15.Truth or Dare
 2019-02-07 01:12:15: The Masked Singer.S01E06.Touchy Feely Clues
 2019-02-07 01:12:14: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
-2019-02-04 00:01:02: Fresh Off the Boat.S05E13.Grand-Mahjong
-2019-02-04 00:01:00: Counterpart.S02E08.In from the Cold
-2019-01-31 22:00:12: Star Trek: Discovery.S02E03.Point of Light
