@@ -1,3 +1,4 @@
+2019-03-18 06:00:08: Talking Dead.S08E14.Scars
 2019-03-18 00:00:07: Last Week Tonight with John Oliver.S06E05.Episode 154
 2019-03-17 22:00:09: The Walking Dead.S09E14.Scars
 2019-03-17 22:00:08: The Simpsons.S30E17.E My Sports
@@ -97,4 +98,3 @@
 2019-02-07 20:00:09: Death in Paradise.S08E05.Beyond the Shining Sea (1)
 2019-02-07 02:25:16: Real Time with Bill Maher.S17E03.Episode 483
 2019-02-07 01:12:16: Criminal Minds.S14E15.Truth or Dare
-2019-02-07 01:12:15: The Masked Singer.S01E06.Touchy Feely Clues
