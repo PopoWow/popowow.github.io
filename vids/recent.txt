@@ -1,3 +1,7 @@
+2019-03-21 20:00:09: The Orville.S02E11.Lasting Impressions
+2019-03-21 20:00:07: Star Trek: Discovery.S02E10.The Red Angel
+2019-03-21 20:00:07: Superstore.S04E12.Blizzard
+2019-03-21 20:00:06: Brooklyn Nine-Nine.S06E11.The Therapist
 2019-03-20 06:00:09: Tosh.0.S11E01.Hard Rock Nick
 2019-03-19 06:00:22: Real Time with Bill Maher.S17E08.Episode 488
 2019-03-18 06:00:08: Talking Dead.S08E14.Scars
@@ -94,7 +98,3 @@
 2019-02-11 06:00:14: Counterpart.S02E09.You to You
 2019-02-11 06:00:13: Bob's Burgers.S09E13.Bed, Bob and Beyond
 2019-02-07 22:00:07: Star Trek: Discovery.S02E04.An Obol for Charon
-2019-02-07 20:00:13: Young Sheldon.S02E15.A Math Emergency and Perky Palms
-2019-02-07 20:00:12: The Big Bang Theory.S12E15.The Donation Oscillation
-2019-02-07 20:00:09: Brooklyn Nine-Nine.S06E05.A Tale of Two Bandits
-2019-02-07 20:00:09: Death in Paradise.S08E05.Beyond the Shining Sea (1)
