@@ -1,3 +1,5 @@
+2019-03-22 20:00:13: Fresh Off the Boat.S05E19.Vice Mommy
+2019-03-22 20:00:12: Doom Patrol.S01E06.Doom Patrol Patrol
 2019-03-21 20:00:09: The Orville.S02E11.Lasting Impressions
 2019-03-21 20:00:07: Star Trek: Discovery.S02E10.The Red Angel
 2019-03-21 20:00:07: Superstore.S04E12.Blizzard
@@ -96,5 +98,3 @@
 2019-02-11 06:00:39: Saturday Night Live.S44E12.Halsey
 2019-02-11 06:00:30: Family Guy.S17E12.Bri, Robot
 2019-02-11 06:00:14: Counterpart.S02E09.You to You
-2019-02-11 06:00:13: Bob's Burgers.S09E13.Bed, Bob and Beyond
-2019-02-07 22:00:07: Star Trek: Discovery.S02E04.An Obol for Charon
