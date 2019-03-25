@@ -1,3 +1,6 @@
+2019-03-24 20:00:07: The Simpsons.S30E18.Bart vs Itchy & Scratchy
+2019-03-24 20:00:06: Family Guy.S17E16.You Can't Handle the Booth
+2019-03-24 20:00:05: Bob's Burgers.S09E18.If You Love It So Much, Why Don't You Marionette?
 2019-03-23 22:02:20: The Goldbergs (2013).S06E19.Eight-bit Goldbergs
 2019-03-23 20:00:23: Real Time with Bill Maher.S17E09.Episode 489
 2019-03-22 20:00:13: Fresh Off the Boat.S05E19.Vice Mommy
@@ -95,6 +98,3 @@
 2019-02-13 20:00:04: The Goldbergs (2013).S06E15.My Valentine Boy
 2019-02-11 20:01:17: Real Time with Bill Maher.S17E04.Episode 484
 2019-02-11 06:00:54: The Walking Dead.S09E09.Adaptation
-2019-02-11 06:00:45: Talking Dead.S08E09.Adaptation
-2019-02-11 06:00:45: The Simpsons.S30E13.I'm Dancing as Fat as I Can
-2019-02-11 06:00:39: Saturday Night Live.S44E12.Halsey
