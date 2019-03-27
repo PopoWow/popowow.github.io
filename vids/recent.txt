@@ -1,3 +1,4 @@
+2019-03-27 06:00:03: Tosh.0.S11E02.Episode 2
 2019-03-25 22:00:10: Into the Badlands.S03E10.Raven’s Feather, Phoenix Blood
 2019-03-25 20:00:10: The Walking Dead.S09E15.The Calm Before
 2019-03-24 22:00:07: Into the Badlands.S03E09.Chamber of the Scorpion
@@ -97,4 +98,3 @@
 2019-02-14 20:00:35: The Masked Singer.S01E07.All Together Now
 2019-02-14 20:00:33: Death in Paradise.S08E06.Beyond the Shining Sea (2)
 2019-02-14 20:00:33: Mom.S06E15.Sparkling Banter and a Failing Steel Town
-2019-02-14 20:00:32: Brooklyn Nine-Nine.S06E06.The Crime Scene
