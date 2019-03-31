@@ -1,3 +1,4 @@
+2019-03-31 06:00:41: Saturday Night Live.S44E16.Sandra Oh / Tame Impala
 2019-03-30 20:00:39: Real Time with Bill Maher.S17E10.Episode 490
 2019-03-29 20:00:17: Doom Patrol.S01E07.Therapy Patrol
 2019-03-29 20:00:17: Fresh Off the Boat.S05E20.Nerd Watching
@@ -97,4 +98,3 @@
 2019-02-17 20:00:40: Bob's Burgers.S09E14.Every Which Way but Goose
 2019-02-17 06:00:41: Saturday Night Live.S44E13.Don Cheadle / Gary Clark Jr.
 2019-02-17 06:00:27: Counterpart.S02E10.Better Angels
-2019-02-16 20:00:16: Real Time with Bill Maher.S17E05.Episode 485
