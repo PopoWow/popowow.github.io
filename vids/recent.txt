@@ -1,3 +1,6 @@
+2019-03-31 20:00:48: The Walking Dead.S09E16.The Storm
+2019-03-31 20:00:41: The Simpsons.S30E19.Girl's in the Band
+2019-03-31 20:00:40: Family Guy.S17E17.Island Adventure
 2019-03-31 06:00:41: Saturday Night Live.S44E16.Sandra Oh / Tame Impala
 2019-03-30 20:00:39: Real Time with Bill Maher.S17E10.Episode 490
 2019-03-29 20:00:17: Doom Patrol.S01E07.Therapy Patrol
@@ -95,6 +98,3 @@
 2019-02-17 20:00:47: The Walking Dead.S09E10.Omega
 2019-02-17 20:00:44: The Simpsons.S30E14.The Clown Stays in the Picture
 2019-02-17 20:00:41: Family Guy.S17E13.Trans-Fat
-2019-02-17 20:00:40: Bob's Burgers.S09E14.Every Which Way but Goose
-2019-02-17 06:00:41: Saturday Night Live.S44E13.Don Cheadle / Gary Clark Jr.
-2019-02-17 06:00:27: Counterpart.S02E10.Better Angels
