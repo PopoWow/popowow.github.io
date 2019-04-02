@@ -1,3 +1,4 @@
+2019-04-01 22:01:35: Into the Badlands.S03E11.The Boar and the Butterfly
 2019-04-01 20:01:42: The Walking Dead.S09E10.Omega
 2019-04-01 20:01:33: The Walking Dead.S09E09.Adaptation
 2019-04-01 06:01:02: Talking Dead.S08E16.The Storm
@@ -97,4 +98,3 @@
 2019-02-21 20:00:19: The Big Bang Theory.S12E16.The D & D Vortex
 2019-02-21 20:00:17: Death in Paradise.S08E07.Episode 7
 2019-02-20 20:00:07: The Masked Singer.S01E08.Semi Finals: Double Unmasking
-2019-02-20 20:00:05: The Goldbergs (2013).S06E16.There Can Be Only One Highlander Club
