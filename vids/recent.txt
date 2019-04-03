@@ -1,3 +1,5 @@
+2019-04-03 03:02:00: Tosh.0.S11E03.Pony Play
+2019-04-03 03:01:59: Real Time with Bill Maher.S17E10.Episode 490
 2019-04-01 22:01:35: Into the Badlands.S03E11.The Boar and the Butterfly
 2019-04-01 20:01:42: The Walking Dead.S09E10.Omega
 2019-04-01 20:01:33: The Walking Dead.S09E09.Adaptation
@@ -8,12 +10,11 @@
 2019-03-31 20:00:41: The Simpsons.S30E19.Girl's in the Band
 2019-03-31 20:00:40: Family Guy.S17E17.Island Adventure
 2019-03-31 06:00:41: Saturday Night Live.S44E16.Sandra Oh / Tame Impala
-2019-03-30 20:00:39: Real Time with Bill Maher.S17E10.Episode 490
 2019-03-29 20:00:17: Doom Patrol.S01E07.Therapy Patrol
 2019-03-29 20:00:17: Fresh Off the Boat.S05E20.Nerd Watching
 2019-03-28 20:00:05: Star Trek: Discovery.S02E11.Perpetual Infinity
 2019-03-28 20:00:05: Superstore.S04E13.Lovebirds
-2019-03-27 06:00:03: Tosh.0.S11E02.Episode 2
+2019-03-27 06:00:03: Tosh.0.S11E02.Tirdy Works
 2019-03-25 22:00:10: Into the Badlands.S03E10.Raven’s Feather, Phoenix Blood
 2019-03-25 20:00:10: The Walking Dead.S09E15.The Calm Before
 2019-03-24 22:00:07: Into the Badlands.S03E09.Chamber of the Scorpion
@@ -97,4 +98,3 @@
 2019-02-21 20:00:27: The Orville.S02E08.Identity (1)
 2019-02-21 20:00:19: The Big Bang Theory.S12E16.The D & D Vortex
 2019-02-21 20:00:17: Death in Paradise.S08E07.Episode 7
-2019-02-20 20:00:07: The Masked Singer.S01E08.Semi Finals: Double Unmasking
