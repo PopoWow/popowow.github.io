@@ -1,3 +1,4 @@
+2019-04-04 06:00:03: The Goldbergs (2013).S06E20.This is This is Spinal Tap
 2019-04-03 03:02:00: Tosh.0.S11E03.Pony Play
 2019-04-03 03:01:59: Real Time with Bill Maher.S17E10.Episode 490
 2019-04-01 22:01:35: Into the Badlands.S03E11.The Boar and the Butterfly
@@ -97,4 +98,3 @@
 2019-02-21 20:00:29: Young Sheldon.S02E16.A Loaf of Bread and a Grand Old Flag
 2019-02-21 20:00:27: The Orville.S02E08.Identity (1)
 2019-02-21 20:00:19: The Big Bang Theory.S12E16.The D & D Vortex
-2019-02-21 20:00:17: Death in Paradise.S08E07.Episode 7
