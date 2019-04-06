@@ -1,3 +1,4 @@
+2019-04-05 20:00:07: Doom Patrol.S01E08.Danny Patrol
 2019-04-04 22:00:07: Star Trek: Discovery.S02E12.Through the Valley of Shadows
 2019-04-04 22:00:07: Superstore.S04E14.Minor Crimes
 2019-04-04 20:00:06: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
@@ -97,4 +98,3 @@
 2019-02-23 20:00:31: Real Time with Bill Maher.S17E06.Episode 486
 2019-02-23 06:00:05: Fresh Off the Boat.S05E15.Be a Man
 2019-02-22 06:00:33: The Orville.S02E07.Deflectors
-2019-02-22 06:00:25: Mom.S06E16.Skippy And The Knowledge Hole
