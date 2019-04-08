@@ -1,8 +1,9 @@
+2019-04-08 06:00:28: Real Time with Bill Maher.S17E11.Episode 491
+2019-04-08 06:00:16: Killing Eve.S02E01.Do You Know How to Dispose of a Body?
+2019-04-08 06:00:13: Barry.S02E02.The Power of No
 2019-04-07 20:00:41: The Simpsons.S30E20.I'm Just a Girl Who Can't Say D'oh
 2019-04-07 20:00:37: Saturday Night Live.S44E17.Kit Harington / Sara Bareilles
-2019-04-07 20:00:23: Killing Eve.S02E01.Do You Know How to Dispose of a Body?
 2019-04-07 20:00:22: Bob's Burgers.S09E19.Long Time Listener, First Time Bob
-2019-04-06 20:00:12: Real Time with Bill Maher.S17E11.Episode 491
 2019-04-06 06:00:35: Fresh Off the Boat.S05E21.Under the Taipei Sun
 2019-04-05 20:00:07: Doom Patrol.S01E08.Danny Patrol
 2019-04-04 22:00:07: Star Trek: Discovery.S02E12.Through the Valley of Shadows
@@ -97,4 +98,3 @@
 2019-02-28 20:00:14: The Orville.S02E09.Identity (2)
 2019-02-28 20:00:06: Star Trek: Discovery.S02E07.Light and Shadows
 2019-02-28 20:00:05: Brooklyn Nine-Nine.S06E08.He Said, She Said
-2019-02-28 11:00:56: The Masked Singer.S01E09.Road to the Finals
