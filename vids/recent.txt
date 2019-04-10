@@ -1,3 +1,5 @@
+2019-04-10 00:00:27: Tosh.0.S11E04.Energy Drink Reviewer
+2019-04-10 00:00:23: Into the Badlands.S03E12.Cobra Fang, Panther Claw
 2019-04-08 06:00:28: Real Time with Bill Maher.S17E11.Episode 491
 2019-04-08 06:00:16: Killing Eve.S02E01.Do You Know How to Dispose of a Body?
 2019-04-08 06:00:13: Barry.S02E02.The Power of No
@@ -96,5 +98,3 @@
 2019-03-03 06:00:14: Saturday Night Live.S44E14.John Mulaney / Thomas Rhett
 2019-03-01 20:00:06: Fresh Off the Boat.S05E16.Trentina
 2019-02-28 20:00:14: The Orville.S02E09.Identity (2)
-2019-02-28 20:00:06: Star Trek: Discovery.S02E07.Light and Shadows
-2019-02-28 20:00:05: Brooklyn Nine-Nine.S06E08.He Said, She Said
