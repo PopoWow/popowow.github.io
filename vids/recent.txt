@@ -1,3 +1,11 @@
+2019-04-11 20:00:36: Wellington Paranormal.S01E06.Zombie Cops
+2019-04-11 20:00:33: Wellington Paranormal.S01E05.A Normal Night
+2019-04-11 20:00:28: Wellington Paranormal.S01E04.The She Wolf of Kurimarama Street
+2019-04-11 20:00:22: Wellington Paranormal.S01E03.Things That Do The Bump In The Night
+2019-04-11 20:00:18: Wellington Paranormal.S01E02.Cop Circles
+2019-04-11 20:00:12: Wellington Paranormal.S01E01.Demon Girl
+2019-04-11 20:00:10: Brooklyn Nine-Nine.S06E12.Casecation
+2019-04-11 20:00:10: The Orville.S02E12.Sanctuary
 2019-04-11 06:00:05: What We Do in the Shadows.S01E03.Werewolf Feud
 2019-04-10 23:37:44: What We Do in the Shadows.S01E01.Pilot
 2019-04-10 23:37:44: What We Do in the Shadows.S01E02.City Council
@@ -90,11 +98,3 @@
 2019-03-07 20:00:15: Young Sheldon.S02E17.Albert Einstein and the Story of Another Mary
 2019-03-07 20:00:13: The Orville.S02E10.Blood of Patriots
 2019-03-07 20:00:11: The Big Bang Theory.S12E17.The Conference Valuation
-2019-03-07 20:00:08: Brooklyn Nine-Nine.S06E09.The Golden Child
-2019-03-07 20:00:08: Mom.S06E17.A Dark Closet and Therapy with Horses
-2019-03-07 20:00:08: Superstore.S04E10.Cloud 9 Academy
-2019-03-06 20:00:04: The Walking Dead.S09E12.Guardians
-2019-03-04 20:00:15: Talking Dead.S08E12.Guardians
-2019-03-04 00:00:10: Last Week Tonight with John Oliver.S06E03.Episode 152
-2019-03-03 20:00:10: The Simpsons.S30E15.101 Mitigations
-2019-03-03 20:00:09: Bob's Burgers.S09E15.The Fresh Princ-ipal
