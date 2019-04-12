@@ -1,3 +1,4 @@
+2019-04-11 22:00:09: Star Trek: Discovery.S02E13.Such Sweet Sorrow
 2019-04-11 20:00:36: Wellington Paranormal.S01E06.Zombie Cops
 2019-04-11 20:00:33: Wellington Paranormal.S01E05.A Normal Night
 2019-04-11 20:00:28: Wellington Paranormal.S01E04.The She Wolf of Kurimarama Street
@@ -97,4 +98,3 @@
 2019-03-07 20:01:43: Star Trek: Discovery.S02E08.If Memory Serves
 2019-03-07 20:00:15: Young Sheldon.S02E17.Albert Einstein and the Story of Another Mary
 2019-03-07 20:00:13: The Orville.S02E10.Blood of Patriots
-2019-03-07 20:00:11: The Big Bang Theory.S12E17.The Conference Valuation
