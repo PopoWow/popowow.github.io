@@ -1,3 +1,4 @@
+2019-04-13 06:00:03: Fresh Off the Boat.S05E22.No Apology Necessary
 2019-04-12 20:00:35: Doom Patrol.S01E09.Jane Patrol
 2019-04-12 06:00:39: Superstore.S04E15.Salary
 2019-04-11 22:00:09: Star Trek: Discovery.S02E13.Such Sweet Sorrow
@@ -97,4 +98,3 @@
 2019-03-10 22:53:12: Fresh Off the Boat.S05E17.These Boots Are Made for Walkin'
 2019-03-10 22:53:11: Family Guy.S17E15.No Giggity, No Doubt
 2019-03-10 22:53:09: Bob's Burgers.S09E16.Roamin' Bob-iday
-2019-03-07 20:01:43: Star Trek: Discovery.S02E08.If Memory Serves
