@@ -1,3 +1,23 @@
+2019-04-15 16:11:15: Krypton.S01E10.The Phantom Zone
+2019-04-15 16:11:07: Krypton.S01E09.Hope
+2019-04-15 16:11:01: Krypton.S01E08.Savage Night
+2019-04-15 16:10:58: Krypton.S01E07.Transformation
+2019-04-15 16:10:49: Krypton.S01E06.Civil Wars
+2019-04-15 16:10:42: Krypton.S01E05.House of Zod
+2019-04-15 16:10:36: Krypton.S01E04.The Word of Rao
+2019-04-15 16:10:29: Krypton.S01E03.The Rankless Initiative
+2019-04-15 16:10:22: Krypton.S01E02.House of El
+2019-04-15 16:10:18: Krypton.S01E01.Pilot
+2019-04-15 16:10:14: Cobra Kai.S01E10.Mercy
+2019-04-15 16:10:09: Cobra Kai.S01E09.Different but Same
+2019-04-15 16:10:05: Cobra Kai.S01E08.Molting
+2019-04-15 16:10:03: Cobra Kai.S01E07.All Valley
+2019-04-15 16:10:00: Cobra Kai.S01E06.Quiver
+2019-04-15 16:09:58: Cobra Kai.S01E05.Counterbalance
+2019-04-15 16:09:57: Cobra Kai.S01E03.Esqueleto
+2019-04-15 16:09:57: Cobra Kai.S01E04.Cobra Kai Never Dies
+2019-04-15 16:09:56: Cobra Kai.S01E01.Ace Degenerate
+2019-04-15 16:09:56: Cobra Kai.S01E02.Strike First
 2019-04-15 06:00:06: Killing Eve.S02E02.Nice and Neat
 2019-04-14 22:00:05: Last Week Tonight with John Oliver.S06E08.Episode 157
 2019-04-14 20:00:06: Game of Thrones.S08E01.King's Landing
@@ -78,23 +98,3 @@
 2019-03-15 20:00:04: Doom Patrol.S01E05.Paw Patrol
 2019-03-14 22:00:19: Star Trek: Discovery.S02E09.Project Daedalus
 2019-03-14 22:00:19: Superstore.S04E11.Steps Challenge
-2019-03-14 22:00:18: Brooklyn Nine-Nine.S06E10.Gintars
-2019-03-14 20:00:39: Titans (2018).S01E04.Doom Patrol
-2019-03-14 20:00:38: Titans (2018).S01E11.Dick Grayson
-2019-03-14 20:00:34: Titans (2018).S01E10.Koriand'r
-2019-03-14 20:00:30: Titans (2018).S01E09.Hank and Dawn
-2019-03-14 20:00:25: Titans (2018).S01E08.Donna Troy
-2019-03-14 20:00:20: Titans (2018).S01E07.Asylum
-2019-03-14 20:00:15: Titans (2018).S01E05.Together
-2019-03-14 20:00:15: Titans (2018).S01E06.Jason Todd
-2019-03-14 17:55:58: Titans (2018).S01E03.Origins
-2019-03-14 17:55:54: Titans (2018).S01E01.Titans
-2019-03-14 17:55:54: Titans (2018).S01E02.Hawk and Dove
-2019-03-14 17:49:50: Doom Patrol.S01E04.Cult Patrol
-2019-03-14 17:49:43: Doom Patrol.S01E03.Puppet Patrol
-2019-03-14 17:49:37: Doom Patrol.S01E02.Donkey Patrol
-2019-03-14 17:49:34: Doom Patrol.S01E01.Pilot
-2019-03-14 00:00:11: The Goldbergs (2013).S06E18.The Beverly Goldberg Cookbook
-2019-03-12 06:00:05: Saturday Night Live.S44E15.Idris Elba / Khalid
-2019-03-11 06:00:09: Talking Dead.S08E13.Chokepoint
-2019-03-11 00:00:07: Last Week Tonight with John Oliver.S06E04.Episode 153
