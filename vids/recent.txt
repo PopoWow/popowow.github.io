@@ -1,3 +1,4 @@
+2019-04-15 22:00:05: Into the Badlands.S03E13.Black Lotus, White Rose
 2019-04-15 16:13:37: Krypton.S00E01.Krypton: Making of the Legend
 2019-04-15 16:11:15: Krypton.S01E10.The Phantom Zone
 2019-04-15 16:11:07: Krypton.S01E09.Hope
@@ -97,4 +98,3 @@
 2019-03-17 22:00:07: Bob's Burgers.S09E17.What About Blob?
 2019-03-16 20:00:09: Fresh Off the Boat.S05E18.Rancho Contento
 2019-03-15 20:00:04: Doom Patrol.S01E05.Paw Patrol
-2019-03-14 22:00:19: Star Trek: Discovery.S02E09.Project Daedalus
