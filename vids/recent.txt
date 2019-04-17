@@ -1,3 +1,4 @@
+2019-04-17 06:00:05: Tosh.0.S11E05.Vape Bros
 2019-04-15 22:00:05: Into the Badlands.S03E13.Black Lotus, White Rose
 2019-04-15 16:13:37: Krypton.S00E01.Krypton: Making of the Legend
 2019-04-15 16:11:15: Krypton.S01E10.The Phantom Zone
@@ -22,14 +23,14 @@
 2019-04-15 16:09:56: Cobra Kai.S01E02.Strike First
 2019-04-15 06:00:06: Killing Eve.S02E02.Nice and Neat
 2019-04-14 22:00:05: Last Week Tonight with John Oliver.S06E08.Episode 157
-2019-04-14 20:00:06: Game of Thrones.S08E01.King's Landing
+2019-04-14 20:00:06: Game of Thrones.S08E01.Winterfell
 2019-04-14 20:00:05: Barry.S02E03.Past = Present x Future Over Yesterday
 2019-04-14 06:00:08: Saturday Night Live.S44E18.Emma Stone / BTS
 2019-04-13 20:00:06: Real Time with Bill Maher.S17E12.Episode 492
 2019-04-13 06:00:03: Fresh Off the Boat.S05E22.No Apology Necessary
 2019-04-12 20:00:35: Doom Patrol.S01E09.Jane Patrol
 2019-04-12 06:00:39: Superstore.S04E15.Salary
-2019-04-11 22:00:09: Star Trek: Discovery.S02E13.Such Sweet Sorrow
+2019-04-11 22:00:09: Star Trek: Discovery.S02E13.Such Sweet Sorrow (1)
 2019-04-11 20:00:36: Wellington Paranormal.S01E06.Zombie Cops
 2019-04-11 20:00:33: Wellington Paranormal.S01E05.A Normal Night
 2019-04-11 20:00:28: Wellington Paranormal.S01E04.The She Wolf of Kurimarama Street
@@ -97,4 +98,3 @@
 2019-03-17 22:00:08: The Simpsons.S30E17.E My Sports
 2019-03-17 22:00:07: Bob's Burgers.S09E17.What About Blob?
 2019-03-16 20:00:09: Fresh Off the Boat.S05E18.Rancho Contento
-2019-03-15 20:00:04: Doom Patrol.S01E05.Paw Patrol
