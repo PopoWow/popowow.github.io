@@ -1,3 +1,4 @@
+2019-04-19 06:03:44: Superstore.S04E16.Easter
 2019-04-19 00:06:39: Star Trek: Discovery.S02E14.Such Sweet Sorrow (2)
 2019-04-19 00:06:17: Star Trek: Discovery.S02E13.Such Sweet Sorrow (1)
 2019-04-19 00:06:02: Star Trek: Discovery.S02E12.Through the Valley of Shadows
@@ -97,4 +98,3 @@
 2019-03-24 22:00:07: Into the Badlands.S03E09.Chamber of the Scorpion
 2019-03-24 20:00:07: The Simpsons.S30E18.Bart vs Itchy & Scratchy
 2019-03-24 20:00:06: Family Guy.S17E16.You Can't Handle the Booth
-2019-03-24 20:00:05: Bob's Burgers.S09E18.If You Love It So Much, Why Don't You Marionette?
