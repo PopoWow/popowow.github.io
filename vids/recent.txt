@@ -1,3 +1,6 @@
+2019-04-18 22:00:10: Star Trek: Discovery.S02E14.Such Sweet Sorrow (2)
+2019-04-18 22:00:08: Brooklyn Nine-Nine.S06E13.The Bimbo
+2019-04-18 22:00:08: Mom.S06E19.Lumbar Support and Old Pork
 2019-04-18 20:00:14: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow
 2019-04-18 20:00:13: The Big Bang Theory.S12E19.The Inspiration Deprivation
 2019-04-18 06:00:04: What We Do in the Shadows.S01E04.Manhattan Night Club
@@ -95,6 +98,3 @@
 2019-03-21 20:00:06: Brooklyn Nine-Nine.S06E11.The Therapist
 2019-03-20 06:00:09: Tosh.0.S11E01.Hard Rock Nick
 2019-03-19 06:00:22: Real Time with Bill Maher.S17E08.Episode 488
-2019-03-18 06:00:08: Talking Dead.S08E14.Scars
-2019-03-18 00:00:07: Last Week Tonight with John Oliver.S06E05.Episode 154
-2019-03-17 22:00:09: The Walking Dead.S09E14.Scars
