@@ -1,3 +1,5 @@
+2019-04-18 20:00:14: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow
+2019-04-18 20:00:13: The Big Bang Theory.S12E19.The Inspiration Deprivation
 2019-04-18 06:00:04: What We Do in the Shadows.S01E04.Manhattan Night Club
 2019-04-17 06:00:05: Tosh.0.S11E05.Vape Bros
 2019-04-15 22:00:05: Into the Badlands.S03E13.Black Lotus, White Rose
@@ -96,5 +98,3 @@
 2019-03-18 06:00:08: Talking Dead.S08E14.Scars
 2019-03-18 00:00:07: Last Week Tonight with John Oliver.S06E05.Episode 154
 2019-03-17 22:00:09: The Walking Dead.S09E14.Scars
-2019-03-17 22:00:08: The Simpsons.S30E17.E My Sports
-2019-03-17 22:00:07: Bob's Burgers.S09E17.What About Blob?
