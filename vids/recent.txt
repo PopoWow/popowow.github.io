@@ -1,7 +1,8 @@
+2019-04-24 06:00:26: Tosh.0.S11E06.Sneeze Guy
 2019-04-22 22:00:10: Into the Badlands.S03E14.Curse of the Red Rain
 2019-04-22 00:00:06: Last Week Tonight with John Oliver.S06E09.Episode 158
 2019-04-21 22:00:06: Killing Eve.S02E03.The Hungry Caterpillar
-2019-04-21 20:00:09: Game of Thrones.S08E02.The Rightful Queen
+2019-04-21 20:00:09: Game of Thrones.S08E02.A Knight of the Seven Kingdoms
 2019-04-21 20:00:05: Barry.S02E04.What?!
 2019-04-19 06:03:44: Superstore.S04E16.Easter
 2019-04-19 00:06:39: Star Trek: Discovery.S02E14.Such Sweet Sorrow (2)
@@ -97,4 +98,3 @@
 2019-03-29 20:00:17: Doom Patrol.S01E07.Therapy Patrol
 2019-03-29 20:00:17: Fresh Off the Boat.S05E20.Nerd Watching
 2019-03-28 20:00:05: Superstore.S04E13.Lovebirds
-2019-03-27 06:00:03: Tosh.0.S11E02.Tirdy Works
