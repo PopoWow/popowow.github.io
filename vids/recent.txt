@@ -1,3 +1,13 @@
+2019-04-24 20:02:22: Cobra Kai.S02E10.No Mercy
+2019-04-24 20:02:14: Cobra Kai.S02E09.Pulpo
+2019-04-24 20:02:06: Cobra Kai.S02E08.Glory of Love
+2019-04-24 20:01:58: Cobra Kai.S02E07.Lull
+2019-04-24 20:01:50: Cobra Kai.S02E06.Take a Right
+2019-04-24 20:01:42: Cobra Kai.S02E05.All In
+2019-04-24 20:01:34: Cobra Kai.S02E04.The Moment of Truth
+2019-04-24 20:01:24: Cobra Kai.S02E03.Fire and Ice
+2019-04-24 20:01:16: Cobra Kai.S02E02.Back in Black
+2019-04-24 20:01:09: Cobra Kai.S02E01.Mercy Part II
 2019-04-24 06:00:26: Tosh.0.S11E06.Sneeze Guy
 2019-04-22 22:00:10: Into the Badlands.S03E14.Curse of the Red Rain
 2019-04-22 00:00:06: Last Week Tonight with John Oliver.S06E09.Episode 158
@@ -88,13 +98,3 @@
 2019-04-01 22:01:35: Into the Badlands.S03E11.The Boar and the Butterfly
 2019-04-01 20:01:42: The Walking Dead.S09E10.Omega
 2019-04-01 20:01:33: The Walking Dead.S09E09.Adaptation
-2019-04-01 06:01:02: Talking Dead.S08E16.The Storm
-2019-04-01 06:01:00: Last Week Tonight with John Oliver.S06E06.Episode 155
-2019-04-01 00:01:14: Barry.S02E01.The Show Must Go On, Probably?
-2019-03-31 20:00:48: The Walking Dead.S09E16.The Storm
-2019-03-31 20:00:41: The Simpsons.S30E19.Girl's in the Band
-2019-03-31 20:00:40: Family Guy.S17E17.Island Adventure
-2019-03-31 06:00:41: Saturday Night Live.S44E16.Sandra Oh / Tame Impala
-2019-03-29 20:00:17: Doom Patrol.S01E07.Therapy Patrol
-2019-03-29 20:00:17: Fresh Off the Boat.S05E20.Nerd Watching
-2019-03-28 20:00:05: Superstore.S04E13.Lovebirds
