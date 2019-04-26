@@ -1,3 +1,4 @@
+2019-04-26 06:02:38: Superstore.S04E17.Quinceañera
 2019-04-26 00:02:52: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
 2019-04-26 00:02:46: The Orville.S02E14.The Road Not Taken (2)
 2019-04-26 00:02:41: Mom.S06E20.Triple Dip and an Overhand Grip
@@ -97,4 +98,3 @@
 2019-04-04 22:00:07: Superstore.S04E14.Minor Crimes
 2019-04-04 20:00:06: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
 2019-04-04 20:00:05: Mom.S06E18.Soup Town and a Little Blonde Mongoose
-2019-04-04 20:00:05: The Big Bang Theory.S12E18.The Laureate Accumulation
