@@ -1,3 +1,4 @@
+2019-04-25 20:02:09: Brooklyn Nine-Nine.S06E14.Ticking Clocks
 2019-04-25 06:02:09: What We Do in the Shadows.S01E05.Animal Control
 2019-04-25 06:02:06: Cobra Kai.S02E10.No Mercy
 2019-04-25 06:02:00: Cobra Kai.S02E09.Pulpo
@@ -97,4 +98,3 @@
 2019-04-03 03:02:00: Tosh.0.S11E03.Pony Play
 2019-04-03 03:01:59: Real Time with Bill Maher.S17E10.Episode 490
 2019-04-01 22:01:35: Into the Badlands.S03E11.The Boar and the Butterfly
-2019-04-01 20:01:42: The Walking Dead.S09E10.Omega
