@@ -1,3 +1,6 @@
+2019-04-26 00:02:52: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
+2019-04-26 00:02:46: The Orville.S02E14.The Road Not Taken (2)
+2019-04-26 00:02:41: Mom.S06E20.Triple Dip and an Overhand Grip
 2019-04-25 22:03:46: The Big Bang Theory.S12E20.The Decision Reverberation
 2019-04-25 20:02:09: Brooklyn Nine-Nine.S06E14.Ticking Clocks
 2019-04-25 06:02:09: What We Do in the Shadows.S01E05.Animal Control
@@ -34,7 +37,7 @@
 2019-04-19 00:03:29: Star Trek: Discovery.S02E01.Brother
 2019-04-18 22:00:08: Brooklyn Nine-Nine.S06E13.The Bimbo
 2019-04-18 22:00:08: Mom.S06E19.Lumbar Support and Old Pork
-2019-04-18 20:00:14: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow
+2019-04-18 20:00:14: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow (1)
 2019-04-18 20:00:13: The Big Bang Theory.S12E19.The Inspiration Deprivation
 2019-04-18 06:00:04: What We Do in the Shadows.S01E04.Manhattan Night Club
 2019-04-17 06:00:05: Tosh.0.S11E05.Vape Bros
@@ -95,6 +98,3 @@
 2019-04-04 20:00:06: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
 2019-04-04 20:00:05: Mom.S06E18.Soup Town and a Little Blonde Mongoose
 2019-04-04 20:00:05: The Big Bang Theory.S12E18.The Laureate Accumulation
-2019-04-04 06:00:03: The Goldbergs (2013).S06E20.This is This is Spinal Tap
-2019-04-03 03:02:00: Tosh.0.S11E03.Pony Play
-2019-04-03 03:01:59: Real Time with Bill Maher.S17E10.Episode 490
