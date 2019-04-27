@@ -1,6 +1,19 @@
+2019-04-26 20:06:27: The Orville.S02E14.The Road Not Taken
+2019-04-26 20:06:16: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow
+2019-04-26 20:06:07: The Orville.S02E12.Sanctuary
+2019-04-26 20:05:56: The Orville.S02E11.Lasting Impressions
+2019-04-26 20:05:46: The Orville.S02E10.Blood of Patriots
+2019-04-26 20:05:35: The Orville.S02E09.Identity (2)
+2019-04-26 20:05:23: The Orville.S02E08.Identity (1)
+2019-04-26 20:05:12: The Orville.S02E06.A Happy Refrain
+2019-04-26 20:05:01: The Orville.S02E05.All the World is Birthday Cake
+2019-04-26 20:04:50: The Orville.S02E04.Nothing Left on Earth Excepting Fishes
+2019-04-26 20:04:40: The Orville.S02E03.Home
+2019-04-26 20:04:30: The Orville.S02E02.Primal Urges
+2019-04-26 20:04:15: The Orville.S02E01.Ja'loja
+2019-04-26 20:04:12: Doom Patrol.S01E11.Frances Patrol
 2019-04-26 06:02:38: Superstore.S04E17.Quinceañera
 2019-04-26 00:02:52: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
-2019-04-26 00:02:46: The Orville.S02E14.The Road Not Taken (2)
 2019-04-26 00:02:41: Mom.S06E20.Triple Dip and an Overhand Grip
 2019-04-25 22:03:46: The Big Bang Theory.S12E20.The Decision Reverberation
 2019-04-25 20:02:09: Brooklyn Nine-Nine.S06E14.Ticking Clocks
@@ -38,7 +51,6 @@
 2019-04-19 00:03:29: Star Trek: Discovery.S02E01.Brother
 2019-04-18 22:00:08: Brooklyn Nine-Nine.S06E13.The Bimbo
 2019-04-18 22:00:08: Mom.S06E19.Lumbar Support and Old Pork
-2019-04-18 20:00:14: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow (1)
 2019-04-18 20:00:13: The Big Bang Theory.S12E19.The Inspiration Deprivation
 2019-04-18 06:00:04: What We Do in the Shadows.S01E04.Manhattan Night Club
 2019-04-17 06:00:05: Tosh.0.S11E05.Vape Bros
@@ -80,21 +92,9 @@
 2019-04-11 20:00:18: Wellington Paranormal.S01E02.Cop Circles
 2019-04-11 20:00:12: Wellington Paranormal.S01E01.Demon Girl
 2019-04-11 20:00:10: Brooklyn Nine-Nine.S06E12.Casecation
-2019-04-11 20:00:10: The Orville.S02E12.Sanctuary
 2019-04-11 06:00:05: What We Do in the Shadows.S01E03.Werewolf Feud
 2019-04-10 23:37:44: What We Do in the Shadows.S01E01.Pilot
 2019-04-10 23:37:44: What We Do in the Shadows.S01E02.City Council
 2019-04-10 23:37:43: The Goldbergs (2013).S06E21.I Lost on Jeopardy
 2019-04-10 00:00:27: Tosh.0.S11E04.Energy Drink Reviewer
 2019-04-10 00:00:23: Into the Badlands.S03E12.Cobra Fang, Panther Claw
-2019-04-08 06:00:28: Real Time with Bill Maher.S17E11.Episode 491
-2019-04-08 06:00:16: Killing Eve.S02E01.Do You Know How to Dispose of a Body?
-2019-04-08 06:00:13: Barry.S02E02.The Power of No
-2019-04-07 20:00:41: The Simpsons.S30E20.I'm Just a Girl Who Can't Say D'oh
-2019-04-07 20:00:37: Saturday Night Live.S44E17.Kit Harington / Sara Bareilles
-2019-04-07 20:00:22: Bob's Burgers.S09E19.Long Time Listener, First Time Bob
-2019-04-06 06:00:35: Fresh Off the Boat.S05E21.Under the Taipei Sun
-2019-04-05 20:00:07: Doom Patrol.S01E08.Danny Patrol
-2019-04-04 22:00:07: Superstore.S04E14.Minor Crimes
-2019-04-04 20:00:06: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
-2019-04-04 20:00:05: Mom.S06E18.Soup Town and a Little Blonde Mongoose
