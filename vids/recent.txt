@@ -1,3 +1,6 @@
+2019-04-28 21:24:22: The Simpsons.S30E21.D'oh Canada
+2019-04-28 21:24:21: Game of Thrones.S08E03.The Long Night
+2019-04-28 21:24:06: Bob's Burgers.S09E20.The Gene Mile
 2019-04-26 20:06:27: The Orville.S02E14.The Road Not Taken
 2019-04-26 20:06:16: The Orville.S02E13.Tomorrow, and Tomorrow, and Tomorrow
 2019-04-26 20:06:07: The Orville.S02E12.Sanctuary
@@ -95,6 +98,3 @@
 2019-04-11 06:00:05: What We Do in the Shadows.S01E03.Werewolf Feud
 2019-04-10 23:37:44: What We Do in the Shadows.S01E01.Pilot
 2019-04-10 23:37:44: What We Do in the Shadows.S01E02.City Council
-2019-04-10 23:37:43: The Goldbergs (2013).S06E21.I Lost on Jeopardy
-2019-04-10 00:00:27: Tosh.0.S11E04.Energy Drink Reviewer
-2019-04-10 00:00:23: Into the Badlands.S03E12.Cobra Fang, Panther Claw
