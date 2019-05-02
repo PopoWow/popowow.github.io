@@ -1,3 +1,4 @@
+2019-05-02 06:00:04: What We Do in the Shadows.S01E06.Baron's Night Out
 2019-05-01 20:05:12: Tosh.0.S11E07.Big Arms Guy
 2019-05-01 20:05:08: The Goldbergs (2013).S06E22.Mom Trumps Willow
 2019-05-01 20:05:07: American Gods.S02E08.Moon Shadow
@@ -97,4 +98,3 @@
 2019-04-15 16:10:05: Cobra Kai.S01E08.Molting
 2019-04-15 16:10:03: Cobra Kai.S01E07.All Valley
 2019-04-15 16:10:00: Cobra Kai.S01E06.Quiver
-2019-04-15 16:09:58: Cobra Kai.S01E05.Counterbalance
