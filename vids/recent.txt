@@ -1,8 +1,26 @@
+2019-05-01 20:05:12: Tosh.0.S11E07.Big Arms Guy
+2019-05-01 20:05:08: The Goldbergs (2013).S06E22.Mom Trumps Willow
+2019-05-01 20:05:07: American Gods.S02E08.Moon Shadow
+2019-05-01 20:05:01: American Gods.S02E07.Treasure of the Sun
+2019-05-01 20:04:54: American Gods.S02E06.Donar the Great
+2019-05-01 20:04:46: American Gods.S02E05.The Ways of the Dead
+2019-05-01 20:04:42: American Gods.S02E04.The Greatest Story Ever Told
+2019-05-01 20:04:35: American Gods.S02E03.Muninn
+2019-05-01 20:04:27: American Gods.S02E02.The Beguiling Man
+2019-05-01 20:04:18: American Gods.S02E01.House on the Rock
+2019-05-01 20:04:09: American Gods.S01E08.Come to Jesus
+2019-05-01 20:04:01: American Gods.S01E07.A Prayer for Mad Sweeney
+2019-05-01 20:03:57: American Gods.S01E06.A Murder of Gods
+2019-05-01 20:03:51: American Gods.S01E05.Lemon Scented You
+2019-05-01 20:03:40: American Gods.S01E04.Git Gone
+2019-05-01 20:03:30: American Gods.S01E03.Head Full of Snow
+2019-05-01 20:03:24: American Gods.S01E02.The Secret of Spoons
+2019-05-01 20:02:27: American Gods.S01E01.The Bone Orchard
 2019-04-29 22:00:05: Into the Badlands.S03E15.Requiem for the Fallen
 2019-04-28 21:30:58: Real Time with Bill Maher.S17E13.Episode 493
 2019-04-28 21:30:54: Killing Eve.S02E04.Desperate Times
 2019-04-28 21:30:53: Family Guy.S17E18.Throw It Away
-2019-04-28 21:30:51: Barry.S02E05.ronny/lily
+2019-04-28 21:30:51: Barry.S02E05.Ronny/Lily
 2019-04-28 21:24:22: The Simpsons.S30E21.D'oh Canada
 2019-04-28 21:24:21: Game of Thrones.S08E03.The Long Night
 2019-04-28 21:24:06: Bob's Burgers.S09E20.The Gene Mile
@@ -80,21 +98,3 @@
 2019-04-15 16:10:03: Cobra Kai.S01E07.All Valley
 2019-04-15 16:10:00: Cobra Kai.S01E06.Quiver
 2019-04-15 16:09:58: Cobra Kai.S01E05.Counterbalance
-2019-04-15 16:09:57: Cobra Kai.S01E03.Esqueleto
-2019-04-15 16:09:57: Cobra Kai.S01E04.Cobra Kai Never Dies
-2019-04-15 16:09:56: Cobra Kai.S01E01.Ace Degenerate
-2019-04-15 16:09:56: Cobra Kai.S01E02.Strike First
-2019-04-15 06:00:06: Killing Eve.S02E02.Nice and Neat
-2019-04-14 22:00:05: Last Week Tonight with John Oliver.S06E08.Episode 157
-2019-04-14 20:00:06: Game of Thrones.S08E01.Winterfell
-2019-04-14 20:00:05: Barry.S02E03.Past = Present x Future Over Yesterday
-2019-04-14 06:00:08: Saturday Night Live.S44E18.Emma Stone / BTS
-2019-04-13 20:00:06: Real Time with Bill Maher.S17E12.Episode 492
-2019-04-13 06:00:03: Fresh Off the Boat.S05E22.No Apology Necessary
-2019-04-12 20:00:35: Doom Patrol.S01E09.Jane Patrol
-2019-04-12 06:00:39: Superstore.S04E15.Salary
-2019-04-11 20:00:36: Wellington Paranormal.S01E06.Zombie Cops
-2019-04-11 20:00:33: Wellington Paranormal.S01E05.A Normal Night
-2019-04-11 20:00:28: Wellington Paranormal.S01E04.The She Wolf of Kurimarama Street
-2019-04-11 20:00:22: Wellington Paranormal.S01E03.Things That Do The Bump In The Night
-2019-04-11 20:00:18: Wellington Paranormal.S01E02.Cop Circles
