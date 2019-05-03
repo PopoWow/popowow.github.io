@@ -1,3 +1,9 @@
+2019-05-02 20:00:21: Young Sheldon.S02E20.A Proposal and a Popsicle Stick Cross
+2019-05-02 20:00:20: The Big Bang Theory.S12E21.The Plagiarism Schism
+2019-05-02 20:00:19: Superstore.S04E18.Cloud Green
+2019-05-02 20:00:15: Mom.S06E21.Fingers Guns and a Beef Bourguignon
+2019-05-02 20:00:12: iZombie.S05E01.Thug Death
+2019-05-02 20:00:10: Brooklyn Nine-Nine.S06E15.Return of the King
 2019-05-02 06:00:04: What We Do in the Shadows.S01E06.Baron's Night Out
 2019-05-01 20:05:12: Tosh.0.S11E07.Big Arms Guy
 2019-05-01 20:05:08: The Goldbergs (2013).S06E22.Mom Trumps Willow
@@ -92,9 +98,3 @@
 2019-04-15 16:10:36: Krypton.S01E04.The Word of Rao
 2019-04-15 16:10:29: Krypton.S01E03.The Rankless Initiative
 2019-04-15 16:10:22: Krypton.S01E02.House of El
-2019-04-15 16:10:18: Krypton.S01E01.Pilot
-2019-04-15 16:10:14: Cobra Kai.S01E10.Mercy
-2019-04-15 16:10:09: Cobra Kai.S01E09.Different but Same
-2019-04-15 16:10:05: Cobra Kai.S01E08.Molting
-2019-04-15 16:10:03: Cobra Kai.S01E07.All Valley
-2019-04-15 16:10:00: Cobra Kai.S01E06.Quiver
