@@ -1,3 +1,4 @@
+2019-05-03 20:00:09: Doom Patrol.S01E12.Cyborg Patrol
 2019-05-02 20:00:21: Young Sheldon.S02E20.A Proposal and a Popsicle Stick Cross
 2019-05-02 20:00:20: The Big Bang Theory.S12E21.The Plagiarism Schism
 2019-05-02 20:00:19: Superstore.S04E18.Cloud Green
@@ -97,4 +98,3 @@
 2019-04-15 16:10:42: Krypton.S01E05.House of Zod
 2019-04-15 16:10:36: Krypton.S01E04.The Word of Rao
 2019-04-15 16:10:29: Krypton.S01E03.The Rankless Initiative
-2019-04-15 16:10:22: Krypton.S01E02.House of El
