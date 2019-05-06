@@ -1,3 +1,4 @@
+2019-05-06 00:01:50: Last Week Tonight with John Oliver.S06E10.Episode 159
 2019-05-05 21:30:40: Killing Eve.S02E05.Smell Ya Later
 2019-05-05 21:30:39: Barry.S02E06.The Truth Has a Ring to It
 2019-05-05 21:30:39: Family Guy.S17E19.Girl, Internetted
@@ -97,4 +98,3 @@
 2019-04-18 06:00:04: What We Do in the Shadows.S01E04.Manhattan Night Club
 2019-04-17 06:00:05: Tosh.0.S11E05.Vape Bros
 2019-04-15 22:00:05: Into the Badlands.S03E13.Black Lotus, White Rose
-2019-04-15 16:13:37: Krypton.S00E01.Krypton: Making of the Legend
