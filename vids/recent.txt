@@ -1,3 +1,18 @@
+2019-05-08 20:12:54: Into the Badlands.S03E15.Requiem for the Fallen
+2019-05-08 20:12:42: Into the Badlands.S03E14.Curse of the Red Rain
+2019-05-08 20:12:28: Into the Badlands.S03E13.Black Lotus, White Rose
+2019-05-08 20:12:14: Into the Badlands.S03E12.Cobra Fang, Panther Claw
+2019-05-08 20:12:01: Into the Badlands.S03E11.The Boar and the Butterfly
+2019-05-08 20:11:49: Into the Badlands.S03E10.Raven’s Feather, Phoenix Blood
+2019-05-08 20:11:36: Into the Badlands.S03E09.Chamber of the Scorpion
+2019-05-08 20:11:24: Into the Badlands.S03E08.Leopard Catches Cloud
+2019-05-08 20:11:10: Into the Badlands.S03E07.Dragonfly's Last Dance
+2019-05-08 20:10:58: Into the Badlands.S03E06.Black Wind Howls
+2019-05-08 20:10:44: Into the Badlands.S03E05.Carry Tiger to Mountain
+2019-05-08 20:10:31: Into the Badlands.S03E04.Blind Cannibal Assassins
+2019-05-08 20:10:18: Into the Badlands.S03E03.Leopard Snares Rabbit
+2019-05-08 20:10:06: Into the Badlands.S03E02.Moon Rises, Raven Seeks
+2019-05-08 20:09:54: Into the Badlands.S03E01.Enter the Phoenix
 2019-05-08 06:14:18: Into the Badlands.S03E16.Seven Strike as One
 2019-05-08 06:06:29: Tosh.0.S11E08.Mom-Son Sex Podcast
 2019-05-06 06:16:05: Superstore.S03E22.Town Hall
@@ -83,18 +98,3 @@
 2019-05-05 21:29:05: Saturday Night Live.S44E19.Adam Sandler / Shawn Mendes
 2019-05-05 21:25:05: Real Time with Bill Maher.S17E14.Episode 494
 2019-05-05 21:25:03: Game of Thrones.S08E04.The Last of the Starks
-2019-05-05 21:25:02: Bob's Burgers.S09E21.P.T.A. It Ain't So
-2019-05-03 20:00:09: Doom Patrol.S01E12.Cyborg Patrol
-2019-05-02 20:00:21: Young Sheldon.S02E20.A Proposal and a Popsicle Stick Cross
-2019-05-02 20:00:20: The Big Bang Theory.S12E21.The Plagiarism Schism
-2019-05-02 20:00:19: Superstore.S04E18.Cloud Green
-2019-05-02 20:00:15: Mom.S06E21.Fingers Guns and a Beef Bourguignon
-2019-05-02 20:00:12: iZombie.S05E01.Thug Death
-2019-05-02 20:00:10: Brooklyn Nine-Nine.S06E15.Return of the King
-2019-05-02 06:00:04: What We Do in the Shadows.S01E06.Baron's Night Out
-2019-05-01 20:05:12: Tosh.0.S11E07.Big Arms Guy
-2019-05-01 20:05:08: The Goldbergs (2013).S06E22.Mom Trumps Willow
-2019-05-01 20:05:07: American Gods.S02E08.Moon Shadow
-2019-05-01 20:05:01: American Gods.S02E07.Treasure of the Sun
-2019-05-01 20:04:54: American Gods.S02E06.Donar the Great
-2019-05-01 20:04:46: American Gods.S02E05.The Ways of the Dead
