@@ -1,3 +1,5 @@
+2019-05-09 06:09:46: What We Do in the Shadows.S01E07.The Trial
+2019-05-09 06:09:43: The Goldbergs (2013).S06E23.Breakin
 2019-05-08 20:12:54: Into the Badlands.S03E15.Requiem for the Fallen
 2019-05-08 20:12:42: Into the Badlands.S03E14.Curse of the Red Rain
 2019-05-08 20:12:28: Into the Badlands.S03E13.Black Lotus, White Rose
@@ -96,5 +98,3 @@
 2019-05-05 21:30:39: Family Guy.S17E19.Girl, Internetted
 2019-05-05 21:29:06: The Simpsons.S30E22.Woo-Hoo Dunnit
 2019-05-05 21:29:05: Saturday Night Live.S44E19.Adam Sandler / Shawn Mendes
-2019-05-05 21:25:05: Real Time with Bill Maher.S17E14.Episode 494
-2019-05-05 21:25:03: Game of Thrones.S08E04.The Last of the Starks
