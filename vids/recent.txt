@@ -1,3 +1,9 @@
+2019-05-09 20:08:48: The Big Bang Theory.S12E22.The Maternal Conclusion
+2019-05-09 20:08:48: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
+2019-05-09 20:08:46: Superstore.S04E20.#Cloud9Fail
+2019-05-09 20:08:42: Mom.S06E22.Crazy Hair and a Teeny Tiny Part of Canada
+2019-05-09 20:08:42: Superstore.S04E19.Scanners
+2019-05-09 20:08:38: Brooklyn Nine-Nine.S06E16.Cinco de Mayo
 2019-05-09 06:09:46: What We Do in the Shadows.S01E07.The Trial
 2019-05-09 06:09:43: The Goldbergs (2013).S06E23.Breakin
 2019-05-08 20:12:54: Into the Badlands.S03E15.Requiem for the Fallen
@@ -92,9 +98,3 @@
 2019-05-06 06:07:33: Fresh Off the Boat.S05E04.Driver’s Eddie
 2019-05-06 06:07:27: Fresh Off the Boat.S05E03.Workin' the 'Ween
 2019-05-06 06:07:21: Fresh Off the Boat.S05E02.The Hand That Sits the Cradle
-2019-05-06 00:01:50: Last Week Tonight with John Oliver.S06E10.Episode 159
-2019-05-05 21:30:40: Killing Eve.S02E05.Smell Ya Later
-2019-05-05 21:30:39: Barry.S02E06.The Truth Has a Ring to It
-2019-05-05 21:30:39: Family Guy.S17E19.Girl, Internetted
-2019-05-05 21:29:06: The Simpsons.S30E22.Woo-Hoo Dunnit
-2019-05-05 21:29:05: Saturday Night Live.S44E19.Adam Sandler / Shawn Mendes
