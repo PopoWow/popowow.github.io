@@ -1,3 +1,4 @@
+2019-05-10 00:08:41: iZombie.S05E02.Dead Lift
 2019-05-09 20:08:48: The Big Bang Theory.S12E22.The Maternal Conclusion
 2019-05-09 20:08:48: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
 2019-05-09 20:08:46: Superstore.S04E20.#Cloud9Fail
@@ -97,4 +98,3 @@
 2019-05-06 06:07:40: Fresh Off the Boat.S05E05.Mo' Chinese Mo' Problems
 2019-05-06 06:07:33: Fresh Off the Boat.S05E04.Driver’s Eddie
 2019-05-06 06:07:27: Fresh Off the Boat.S05E03.Workin' the 'Ween
-2019-05-06 06:07:21: Fresh Off the Boat.S05E02.The Hand That Sits the Cradle
