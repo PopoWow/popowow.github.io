@@ -1,3 +1,4 @@
+2019-05-12 06:09:57: Saturday Night Live.S44E20.Emma Thompson / Jonas Brothers
 2019-05-11 20:09:33: Real Time with Bill Maher.S17E15.Episode 495
 2019-05-10 20:09:23: Doom Patrol.S01E13.Flex Patrol
 2019-05-10 00:08:41: iZombie.S05E02.Dead Lift
@@ -97,4 +98,3 @@
 2019-05-06 06:08:01: Fresh Off the Boat.S05E08.Cousin Eddie
 2019-05-06 06:07:54: Fresh Off the Boat.S05E07.Where Have All the Cattlemen Gone?
 2019-05-06 06:07:47: Fresh Off the Boat.S05E06.Sub Standard
-2019-05-06 06:07:40: Fresh Off the Boat.S05E05.Mo' Chinese Mo' Problems
