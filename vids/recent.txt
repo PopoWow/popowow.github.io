@@ -1,10 +1,11 @@
+2019-05-13 06:11:04: Saturday Night Live.S44E20.Emma Thompson / Jonas Brothers
+2019-05-13 06:10:45: Last Week Tonight with John Oliver.S06E11.Episode 160
 2019-05-12 20:09:12: The Simpsons.S30E23.Crystal Blue-Haired Persuasion
 2019-05-12 20:09:06: Killing Eve.S02E06.I Hope You Like Missionary!
 2019-05-12 20:09:02: Game of Thrones.S08E05.The Bells
 2019-05-12 20:08:50: Family Guy.S17E20.Adam West High
 2019-05-12 20:08:48: Bob's Burgers.S09E22.Yes Without My Zeke
 2019-05-12 20:08:47: Barry.S02E07.The Audition
-2019-05-12 06:09:57: Saturday Night Live.S44E20.Emma Thompson / Jonas Brothers
 2019-05-11 20:09:33: Real Time with Bill Maher.S17E15.Episode 495
 2019-05-10 20:09:23: Doom Patrol.S01E13.Flex Patrol
 2019-05-10 00:08:41: iZombie.S05E02.Dead Lift
@@ -97,4 +98,3 @@
 2019-05-06 06:08:49: Fresh Off the Boat.S05E15.Be a Man
 2019-05-06 06:08:43: Fresh Off the Boat.S05E14.Cupid’s Crossbow
 2019-05-06 06:08:35: Fresh Off the Boat.S05E13.Grand-Mahjong
-2019-05-06 06:08:29: Fresh Off the Boat.S05E12.Legends of the Fortieth
