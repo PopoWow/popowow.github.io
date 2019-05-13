@@ -1,3 +1,9 @@
+2019-05-12 20:09:12: The Simpsons.S30E23.Crystal Blue-Haired Persuasion
+2019-05-12 20:09:06: Killing Eve.S02E06.I Hope You Like Missionary!
+2019-05-12 20:09:02: Game of Thrones.S08E05.The Bells
+2019-05-12 20:08:50: Family Guy.S17E20.Adam West High
+2019-05-12 20:08:48: Bob's Burgers.S09E22.Yes Without My Zeke
+2019-05-12 20:08:47: Barry.S02E07.The Audition
 2019-05-12 06:09:57: Saturday Night Live.S44E20.Emma Thompson / Jonas Brothers
 2019-05-11 20:09:33: Real Time with Bill Maher.S17E15.Episode 495
 2019-05-10 20:09:23: Doom Patrol.S01E13.Flex Patrol
@@ -92,9 +98,3 @@
 2019-05-06 06:08:43: Fresh Off the Boat.S05E14.Cupid’s Crossbow
 2019-05-06 06:08:35: Fresh Off the Boat.S05E13.Grand-Mahjong
 2019-05-06 06:08:29: Fresh Off the Boat.S05E12.Legends of the Fortieth
-2019-05-06 06:08:23: Fresh Off the Boat.S05E11.Driver’s Eddie 2: Orlando Drift
-2019-05-06 06:08:14: Fresh Off the Boat.S05E10.You've Got a Girlfriend
-2019-05-06 06:08:07: Fresh Off the Boat.S05E09.Just the Two of Us
-2019-05-06 06:08:01: Fresh Off the Boat.S05E08.Cousin Eddie
-2019-05-06 06:07:54: Fresh Off the Boat.S05E07.Where Have All the Cattlemen Gone?
-2019-05-06 06:07:47: Fresh Off the Boat.S05E06.Sub Standard
