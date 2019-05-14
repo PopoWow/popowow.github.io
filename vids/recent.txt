@@ -1,3 +1,31 @@
+2019-05-14 06:12:23: The Leftovers.S02E10.I Live Here Now
+2019-05-14 06:12:07: The Leftovers.S02E09.Ten Thirteen
+2019-05-14 06:11:55: The Leftovers.S02E08.International Assassin
+2019-05-14 06:11:41: The Leftovers.S02E07.A Most Powerful Adversary
+2019-05-14 06:11:28: The Leftovers.S02E06.Lens
+2019-05-14 06:11:15: The Leftovers.S02E05.No Room at the Inn
+2019-05-14 06:11:03: The Leftovers.S02E04.Orange Sticker
+2019-05-14 06:10:53: The Leftovers.S02E03.Off Ramp
+2019-05-14 06:10:40: The Leftovers.S02E02.A Matter of Geography
+2019-05-14 06:10:30: The Leftovers.S02E01.Axis Mundi
+2019-05-14 06:10:14: The Leftovers.S01E10.The Prodigal Son Returns
+2019-05-14 06:10:03: The Leftovers.S01E09.The Garveys at Their Best
+2019-05-14 06:09:50: The Leftovers.S01E08.Cairo
+2019-05-14 06:09:37: The Leftovers.S01E07.Solace for Tired Feet
+2019-05-14 06:09:25: The Leftovers.S01E06.Guest
+2019-05-14 06:09:12: The Leftovers.S01E05.Gladys
+2019-05-14 06:08:59: The Leftovers.S01E04.B.J. and the A.C.
+2019-05-14 06:08:49: The Leftovers.S01E03.Two Boats and a Helicopter
+2019-05-14 06:08:39: The Leftovers.S01E02.Penguin One, Us Zero
+2019-05-14 06:08:27: The Leftovers.S01E01.Pilot
+2019-05-14 06:08:13: The Leftovers.S03E08.The Book of Nora
+2019-05-14 06:07:55: The Leftovers.S03E07.The Most Powerful Man in the World (and His Identical Twin Brother)
+2019-05-14 06:07:40: The Leftovers.S03E06.Certified
+2019-05-14 06:07:17: The Leftovers.S03E05.It's a Matt, Matt, Matt, Matt World
+2019-05-14 06:06:57: The Leftovers.S03E04.G'Day Melbourne
+2019-05-14 06:06:35: The Leftovers.S03E03.Crazy Whitefella Thinking
+2019-05-14 06:06:00: The Leftovers.S03E02.Don't Be Ridiculous
+2019-05-14 06:05:43: The Leftovers.S03E01.The Book of Kevin
 2019-05-13 06:11:04: Saturday Night Live.S44E20.Emma Thompson / Jonas Brothers
 2019-05-13 06:10:45: Last Week Tonight with John Oliver.S06E11.Episode 160
 2019-05-12 20:09:12: The Simpsons.S30E23.Crystal Blue-Haired Persuasion
@@ -70,31 +98,3 @@
 2019-05-06 06:12:13: Superstore.S02E10.Lost and Found
 2019-05-06 06:12:06: Superstore.S02E09.Black Friday
 2019-05-06 06:11:56: Superstore.S02E08.Seasonal Help
-2019-05-06 06:11:50: Superstore.S02E07.Election Day
-2019-05-06 06:11:44: Superstore.S02E06.Halloween Theft
-2019-05-06 06:11:36: Superstore.S02E05.Dog Adoption Day
-2019-05-06 06:11:30: Superstore.S02E04.Spokesman Scandal
-2019-05-06 06:11:23: Superstore.S02E03.Guns, Pills and Birds
-2019-05-06 06:11:17: Superstore.S02E02.Back to Work
-2019-05-06 06:11:09: Superstore.S02E01.Strike
-2019-05-06 06:11:02: Superstore.S01E11.Labor
-2019-05-06 06:10:56: Superstore.S01E10.Demotion
-2019-05-06 06:10:49: Superstore.S01E09.All-Nighter
-2019-05-06 06:10:34: Superstore.S01E08.Wedding Day Sale
-2019-05-06 06:10:26: Superstore.S01E07.Color Wars
-2019-05-06 06:10:19: Superstore.S01E06.Secret Shopper
-2019-05-06 06:10:11: Superstore.S01E05.Shoplifter
-2019-05-06 06:10:04: Superstore.S01E04.Mannequin
-2019-05-06 06:09:58: Superstore.S01E03.Shots and Salsa
-2019-05-06 06:09:52: Superstore.S01E02.Magazine Profile
-2019-05-06 06:09:45: Superstore.S01E01.Pilot
-2019-05-06 06:09:38: Fresh Off the Boat.S05E22.No Apology Necessary
-2019-05-06 06:09:30: Fresh Off the Boat.S05E21.Under the Taipei Sun
-2019-05-06 06:09:24: Fresh Off the Boat.S05E20.Nerd Watching
-2019-05-06 06:09:17: Fresh Off the Boat.S05E19.Vice Mommy
-2019-05-06 06:09:10: Fresh Off the Boat.S05E18.Rancho Contento
-2019-05-06 06:09:05: Fresh Off the Boat.S05E17.These Boots Are Made for Walkin'
-2019-05-06 06:08:58: Fresh Off the Boat.S05E16.Trentina
-2019-05-06 06:08:49: Fresh Off the Boat.S05E15.Be a Man
-2019-05-06 06:08:43: Fresh Off the Boat.S05E14.Cupid’s Crossbow
-2019-05-06 06:08:35: Fresh Off the Boat.S05E13.Grand-Mahjong
