@@ -1,3 +1,4 @@
+2019-05-16 06:07:55: What We Do in the Shadows.S01E08.Citizenship
 2019-05-15 20:10:53: The Simpsons.S30E23.Crystal Blue-Haired Persuasion
 2019-05-15 20:10:47: The Simpsons.S30E22.Woo-Hoo Dunnit
 2019-05-15 20:10:42: The Simpsons.S30E21.D'oh Canada
@@ -97,4 +98,3 @@
 2019-05-06 06:14:58: Superstore.S03E12.Groundhog Day
 2019-05-06 06:14:51: Superstore.S03E11.Angels and Mermaids
 2019-05-06 06:14:44: Superstore.S03E10.High Volume Store
-2019-05-06 06:14:39: Superstore.S03E09.Golden Globes Party
