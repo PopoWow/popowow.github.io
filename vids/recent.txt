@@ -1,3 +1,32 @@
+2019-05-16 20:10:33: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
+2019-05-16 20:10:31: The Big Bang Theory.S12E23.The Change Constant
+2019-05-16 20:10:31: The Big Bang Theory.S12E24.The Stockholm Syndrome
+2019-05-16 20:10:27: Superstore.S04E22.Employee Appreciation Day
+2019-05-16 20:10:26: Superstore.S04E21.Sandra's Fight
+2019-05-16 20:10:20: iZombie.S05E03.Five, Six, Seven, Ate!
+2019-05-16 20:10:16: Bob's Burgers.S09E22.Yes Without My Zeke
+2019-05-16 20:10:16: Brooklyn Nine-Nine.S06E17.Sicko
+2019-05-16 20:10:10: Bob's Burgers.S09E21.P.T.A. It Ain't So
+2019-05-16 20:10:04: Bob's Burgers.S09E20.The Gene Mile
+2019-05-16 20:09:59: Bob's Burgers.S09E19.Long Time Listener, First Time Bob
+2019-05-16 20:09:53: Bob's Burgers.S09E18.If You Love It So Much, Why Don't You Marionette?
+2019-05-16 20:09:47: Bob's Burgers.S09E17.What About Blob?
+2019-05-16 20:09:41: Bob's Burgers.S09E16.Roamin' Bob-iday
+2019-05-16 20:09:36: Bob's Burgers.S09E15.The Fresh Princ-ipal
+2019-05-16 20:09:30: Bob's Burgers.S09E14.Every Which Way but Goose
+2019-05-16 20:09:25: Bob's Burgers.S09E13.Bed, Bob and Beyond
+2019-05-16 20:09:19: Bob's Burgers.S09E12.The Helen Hunt
+2019-05-16 20:09:14: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
+2019-05-16 20:09:08: Bob's Burgers.S09E10.Better Off Sled
+2019-05-16 20:09:04: Bob's Burgers.S09E09.UFO No You Didn't
+2019-05-16 20:08:57: Bob's Burgers.S09E08.Roller? I Hardly Know Her!
+2019-05-16 20:08:52: Bob's Burgers.S09E07.I Bob Your Pardon
+2019-05-16 20:08:46: Bob's Burgers.S09E06.Bobby Driver
+2019-05-16 20:08:42: Bob's Burgers.S09E05.Live and Let Fly
+2019-05-16 20:08:37: Bob's Burgers.S09E04.Nightmare on Ocean Avenue Street
+2019-05-16 20:08:31: Bob's Burgers.S09E03.Tweentrepreneurs
+2019-05-16 20:08:26: Bob's Burgers.S09E02.The Taking of Funtime One Two Three
+2019-05-16 20:08:22: Bob's Burgers.S09E01.Just One of the Boyz 4 Now for Now
 2019-05-16 06:07:55: What We Do in the Shadows.S01E08.Citizenship
 2019-05-15 20:10:53: The Simpsons.S30E23.Crystal Blue-Haired Persuasion
 2019-05-15 20:10:47: The Simpsons.S30E22.Woo-Hoo Dunnit
@@ -55,7 +84,6 @@
 2019-05-12 20:09:06: Killing Eve.S02E06.I Hope You Like Missionary!
 2019-05-12 20:09:02: Game of Thrones.S08E05.The Bells
 2019-05-12 20:08:50: Family Guy.S17E20.Adam West High
-2019-05-12 20:08:48: Bob's Burgers.S09E22.Yes Without My Zeke
 2019-05-12 20:08:47: Barry.S02E07.The Audition
 2019-05-11 20:09:33: Real Time with Bill Maher.S17E15.Episode 495
 2019-05-10 20:09:23: Doom Patrol.S01E13.Flex Patrol
@@ -70,31 +98,3 @@
 2019-05-09 06:09:43: The Goldbergs (2013).S06E23.Breakin
 2019-05-08 20:12:54: Into the Badlands.S03E15.Requiem for the Fallen
 2019-05-08 20:12:42: Into the Badlands.S03E14.Curse of the Red Rain
-2019-05-08 20:12:28: Into the Badlands.S03E13.Black Lotus, White Rose
-2019-05-08 20:12:14: Into the Badlands.S03E12.Cobra Fang, Panther Claw
-2019-05-08 20:12:01: Into the Badlands.S03E11.The Boar and the Butterfly
-2019-05-08 20:11:49: Into the Badlands.S03E10.Raven’s Feather, Phoenix Blood
-2019-05-08 20:11:36: Into the Badlands.S03E09.Chamber of the Scorpion
-2019-05-08 20:11:24: Into the Badlands.S03E08.Leopard Catches Cloud
-2019-05-08 20:11:10: Into the Badlands.S03E07.Dragonfly's Last Dance
-2019-05-08 20:10:58: Into the Badlands.S03E06.Black Wind Howls
-2019-05-08 20:10:44: Into the Badlands.S03E05.Carry Tiger to Mountain
-2019-05-08 20:10:31: Into the Badlands.S03E04.Blind Cannibal Assassins
-2019-05-08 20:10:18: Into the Badlands.S03E03.Leopard Snares Rabbit
-2019-05-08 20:10:06: Into the Badlands.S03E02.Moon Rises, Raven Seeks
-2019-05-08 20:09:54: Into the Badlands.S03E01.Enter the Phoenix
-2019-05-08 06:14:18: Into the Badlands.S03E16.Seven Strike as One
-2019-05-08 06:06:29: Tosh.0.S11E08.Mom-Son Sex Podcast
-2019-05-06 06:16:05: Superstore.S03E22.Town Hall
-2019-05-06 06:15:59: Superstore.S03E21.Aftermath
-2019-05-06 06:15:51: Superstore.S03E20.Gender Reveal
-2019-05-06 06:15:45: Superstore.S03E19.Lottery
-2019-05-06 06:15:39: Superstore.S03E18.Local Vendors Day
-2019-05-06 06:15:32: Superstore.S03E17.District Manager
-2019-05-06 06:15:25: Superstore.S03E16.Target
-2019-05-06 06:15:18: Superstore.S03E15.Amnesty
-2019-05-06 06:15:11: Superstore.S03E14.Safety Training
-2019-05-06 06:15:04: Superstore.S03E13.Video Game Release
-2019-05-06 06:14:58: Superstore.S03E12.Groundhog Day
-2019-05-06 06:14:51: Superstore.S03E11.Angels and Mermaids
-2019-05-06 06:14:44: Superstore.S03E10.High Volume Store
