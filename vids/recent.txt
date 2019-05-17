@@ -1,6 +1,7 @@
+2019-05-17 06:10:09: The Big Bang Theory.S12E23.The Change Constant
+2019-05-17 06:10:02: Brooklyn Nine-Nine.S06E18.Suicide Squad
 2019-05-17 00:09:29: The Big Bang Theory.S12E24.The Stockholm Syndrome
 2019-05-16 20:10:33: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
-2019-05-16 20:10:31: The Big Bang Theory.S12E23.The Change Constant
 2019-05-16 20:10:27: Superstore.S04E22.Employee Appreciation Day
 2019-05-16 20:10:26: Superstore.S04E21.Sandra's Fight
 2019-05-16 20:10:20: iZombie.S05E03.Five, Six, Seven, Ate!
@@ -97,4 +98,3 @@
 2019-05-09 06:09:46: What We Do in the Shadows.S01E07.The Trial
 2019-05-09 06:09:43: The Goldbergs (2013).S06E23.Breakin
 2019-05-08 20:12:54: Into the Badlands.S03E15.Requiem for the Fallen
-2019-05-08 20:12:42: Into the Badlands.S03E14.Curse of the Red Rain
