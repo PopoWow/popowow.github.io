@@ -1,6 +1,29 @@
+2019-05-17 20:14:55: The Big Bang Theory.S12E24.The Stockholm Syndrome
+2019-05-17 20:14:49: The Big Bang Theory.S12E22.The Maternal Conclusion
+2019-05-17 20:14:44: The Big Bang Theory.S12E21.The Plagiarism Schism
+2019-05-17 20:14:38: The Big Bang Theory.S12E20.The Decision Reverberation
+2019-05-17 20:14:34: The Big Bang Theory.S12E19.The Inspiration Deprivation
+2019-05-17 20:14:28: The Big Bang Theory.S12E18.The Laureate Accumulation
+2019-05-17 20:14:22: The Big Bang Theory.S12E17.The Conference Valuation
+2019-05-17 20:14:16: The Big Bang Theory.S12E16.The D & D Vortex
+2019-05-17 20:14:11: The Big Bang Theory.S12E15.The Donation Oscillation
+2019-05-17 20:14:05: The Big Bang Theory.S12E14.The Meteorite Manifestation
+2019-05-17 20:14:00: The Big Bang Theory.S12E13.The Confirmation Polarization
+2019-05-17 20:13:54: The Big Bang Theory.S12E12.The Propagation Proposition
+2019-05-17 20:13:47: The Big Bang Theory.S12E11.The Paintball Scattering
+2019-05-17 20:13:40: The Big Bang Theory.S12E10.The VCR Illumination
+2019-05-17 20:13:34: The Big Bang Theory.S12E09.The Citation Negation
+2019-05-17 20:13:29: The Big Bang Theory.S12E08.The Consummation Deviation
+2019-05-17 20:13:23: The Big Bang Theory.S12E07.The Grant Allocation Derivation
+2019-05-17 20:13:17: The Big Bang Theory.S12E06.The Imitation Perturbation
+2019-05-17 20:13:11: The Big Bang Theory.S12E05.The Planetarium Collision
+2019-05-17 20:13:04: The Big Bang Theory.S12E04.The Tam Turbulence
+2019-05-17 20:12:59: The Big Bang Theory.S12E03.The Procreation Calculation
+2019-05-17 20:12:53: The Big Bang Theory.S12E02.The Wedding Gift Wormhole
+2019-05-17 20:12:48: The Big Bang Theory.S12E01.The Conjugal Configuration
+2019-05-17 20:12:43: Doom Patrol.S01E14.Penultimate Patrol
 2019-05-17 06:10:09: The Big Bang Theory.S12E23.The Change Constant
 2019-05-17 06:10:02: Brooklyn Nine-Nine.S06E18.Suicide Squad
-2019-05-17 00:09:29: The Big Bang Theory.S12E24.The Stockholm Syndrome
 2019-05-16 20:10:33: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
 2019-05-16 20:10:27: Superstore.S04E22.Employee Appreciation Day
 2019-05-16 20:10:26: Superstore.S04E21.Sandra's Fight
@@ -75,26 +98,3 @@
 2019-05-14 06:08:13: The Leftovers.S03E08.The Book of Nora
 2019-05-14 06:07:55: The Leftovers.S03E07.The Most Powerful Man in the World (and His Identical Twin Brother)
 2019-05-14 06:07:40: The Leftovers.S03E06.Certified
-2019-05-14 06:07:17: The Leftovers.S03E05.It's a Matt, Matt, Matt, Matt World
-2019-05-14 06:06:57: The Leftovers.S03E04.G'Day Melbourne
-2019-05-14 06:06:35: The Leftovers.S03E03.Crazy Whitefella Thinking
-2019-05-14 06:06:00: The Leftovers.S03E02.Don't Be Ridiculous
-2019-05-14 06:05:43: The Leftovers.S03E01.The Book of Kevin
-2019-05-13 06:11:04: Saturday Night Live.S44E20.Emma Thompson / Jonas Brothers
-2019-05-13 06:10:45: Last Week Tonight with John Oliver.S06E11.Episode 160
-2019-05-12 20:09:06: Killing Eve.S02E06.I Hope You Like Missionary!
-2019-05-12 20:09:02: Game of Thrones.S08E05.The Bells
-2019-05-12 20:08:50: Family Guy.S17E20.Adam West High
-2019-05-12 20:08:47: Barry.S02E07.The Audition
-2019-05-11 20:09:33: Real Time with Bill Maher.S17E15.Episode 495
-2019-05-10 20:09:23: Doom Patrol.S01E13.Flex Patrol
-2019-05-10 00:08:41: iZombie.S05E02.Dead Lift
-2019-05-09 20:08:48: The Big Bang Theory.S12E22.The Maternal Conclusion
-2019-05-09 20:08:48: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
-2019-05-09 20:08:46: Superstore.S04E20.#Cloud9Fail
-2019-05-09 20:08:42: Mom.S06E22.Crazy Hair and a Teeny Tiny Part of Canada
-2019-05-09 20:08:42: Superstore.S04E19.Scanners
-2019-05-09 20:08:38: Brooklyn Nine-Nine.S06E16.Cinco de Mayo
-2019-05-09 06:09:46: What We Do in the Shadows.S01E07.The Trial
-2019-05-09 06:09:43: The Goldbergs (2013).S06E23.Breakin
-2019-05-08 20:12:54: Into the Badlands.S03E15.Requiem for the Fallen
