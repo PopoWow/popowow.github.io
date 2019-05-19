@@ -1,3 +1,24 @@
+2019-05-19 06:18:00: Saturday Night Live.S44E21.Paul Rudd / DJ Khaled
+2019-05-19 06:17:49: Fresh Off the Boat.S05E20.Nerd Watching
+2019-05-19 06:17:43: Family Guy.S17E20.Adam West High
+2019-05-19 06:17:38: Family Guy.S17E19.Girl, Internetted
+2019-05-19 06:17:33: Family Guy.S17E18.Throw It Away
+2019-05-19 06:17:29: Family Guy.S17E17.Island Adventure
+2019-05-19 06:17:21: Family Guy.S17E16.You Can't Handle the Booth
+2019-05-19 06:17:15: Family Guy.S17E15.No Giggity, No Doubt
+2019-05-19 06:17:11: Family Guy.S17E14.Family Guy Lite
+2019-05-19 06:17:05: Family Guy.S17E13.Trans-Fat
+2019-05-19 06:17:00: Family Guy.S17E12.Bri, Robot
+2019-05-19 06:16:56: Family Guy.S17E11.Trump Guy
+2019-05-19 06:16:50: Family Guy.S17E10.Hefty Shades of Gray
+2019-05-19 06:16:46: Family Guy.S17E09.Pawtucket Pete
+2019-05-19 06:16:42: Family Guy.S17E08.Con Heiress
+2019-05-19 06:16:37: Family Guy.S17E07.The Griffin Winter Games
+2019-05-19 06:16:33: Family Guy.S17E06.Stand by Meg
+2019-05-19 06:16:30: Family Guy.S17E04.Big Trouble in Little Quahog
+2019-05-19 06:16:25: Family Guy.S17E03.Pal Stewie
+2019-05-19 06:16:22: Family Guy.S17E02.Dead Dog Walking
+2019-05-19 06:16:19: Family Guy.S17E01.Married... with Cancer
 2019-05-18 20:19:44: The Goldbergs (2013).S06E23.Breakin'
 2019-05-18 20:19:39: The Goldbergs (2013).S06E22.Mom Trumps Willow
 2019-05-18 20:19:32: The Goldbergs (2013).S06E21.I Lost on Jeopardy
@@ -77,24 +98,3 @@
 2019-05-16 20:09:59: Bob's Burgers.S09E19.Long Time Listener, First Time Bob
 2019-05-16 20:09:53: Bob's Burgers.S09E18.If You Love It So Much, Why Don't You Marionette?
 2019-05-16 20:09:47: Bob's Burgers.S09E17.What About Blob?
-2019-05-16 20:09:41: Bob's Burgers.S09E16.Roamin' Bob-iday
-2019-05-16 20:09:36: Bob's Burgers.S09E15.The Fresh Princ-ipal
-2019-05-16 20:09:30: Bob's Burgers.S09E14.Every Which Way but Goose
-2019-05-16 20:09:25: Bob's Burgers.S09E13.Bed, Bob and Beyond
-2019-05-16 20:09:19: Bob's Burgers.S09E12.The Helen Hunt
-2019-05-16 20:09:14: Bob's Burgers.S09E11.Lorenzo's Oil? No, Linda's
-2019-05-16 20:09:08: Bob's Burgers.S09E10.Better Off Sled
-2019-05-16 20:09:04: Bob's Burgers.S09E09.UFO No You Didn't
-2019-05-16 20:08:57: Bob's Burgers.S09E08.Roller? I Hardly Know Her!
-2019-05-16 20:08:52: Bob's Burgers.S09E07.I Bob Your Pardon
-2019-05-16 20:08:46: Bob's Burgers.S09E06.Bobby Driver
-2019-05-16 20:08:42: Bob's Burgers.S09E05.Live and Let Fly
-2019-05-16 20:08:37: Bob's Burgers.S09E04.Nightmare on Ocean Avenue Street
-2019-05-16 20:08:31: Bob's Burgers.S09E03.Tweentrepreneurs
-2019-05-16 20:08:26: Bob's Burgers.S09E02.The Taking of Funtime One Two Three
-2019-05-16 20:08:22: Bob's Burgers.S09E01.Just One of the Boyz 4 Now for Now
-2019-05-16 06:07:55: What We Do in the Shadows.S01E08.Citizenship
-2019-05-15 20:10:53: The Simpsons.S30E23.Crystal Blue-Haired Persuasion
-2019-05-15 20:10:47: The Simpsons.S30E22.Woo-Hoo Dunnit
-2019-05-15 20:10:42: The Simpsons.S30E21.D'oh Canada
-2019-05-15 20:10:37: The Simpsons.S30E20.I'm Just a Girl Who Can't Say D'oh
