@@ -1,3 +1,47 @@
+2019-05-18 20:19:44: The Goldbergs (2013).S06E23.Breakin'
+2019-05-18 20:19:39: The Goldbergs (2013).S06E22.Mom Trumps Willow
+2019-05-18 20:19:32: The Goldbergs (2013).S06E21.I Lost on Jeopardy
+2019-05-18 20:19:24: The Goldbergs (2013).S06E20.This is This is Spinal Tap
+2019-05-18 20:19:17: The Goldbergs (2013).S06E19.Eight-bit Goldbergs
+2019-05-18 20:19:11: The Goldbergs (2013).S06E18.The Beverly Goldberg Cookbook
+2019-05-18 20:19:04: The Goldbergs (2013).S06E17.Our Perfect Strangers
+2019-05-18 20:18:58: The Goldbergs (2013).S06E16.There Can Be Only One Highlander Club
+2019-05-18 20:18:50: The Goldbergs (2013).S06E15.My Valentine Boy
+2019-05-18 20:18:43: The Goldbergs (2013).S06E14.Major League'd
+2019-05-18 20:18:36: The Goldbergs (2013).S06E13.I Coulda Been a Lawyer
+2019-05-18 20:18:31: The Goldbergs (2013).S06E12.The Piña Colada Episode
+2019-05-18 20:18:25: The Goldbergs (2013).S06E11.The Wedding Singer
+2019-05-18 20:18:10: The Goldbergs (2013).S06E10.Yippee Ki Yay Melon Farmer
+2019-05-18 20:18:02: The Goldbergs (2013).S06E09.Bachelor Party
+2019-05-18 20:17:57: The Goldbergs (2013).S06E08.The Living Room: A 100 Percent True Story
+2019-05-18 20:17:51: The Goldbergs (2013).S06E07.Bohemian Rap City
+2019-05-18 20:17:43: The Goldbergs (2013).S06E06.Fiddler
+2019-05-18 20:17:38: The Goldbergs (2013).S06E05.Mister Knifey-Hands
+2019-05-18 20:17:32: The Goldbergs (2013).S06E04.Hershey Park
+2019-05-18 20:17:25: The Goldbergs (2013).S06E03.RAD!
+2019-05-18 20:17:17: The Goldbergs (2013).S06E01.Sixteen Candles
+2019-05-18 20:17:11: Superstore.S04E22.Employee Appreciation Day
+2019-05-18 20:17:04: Superstore.S04E21.Sandra's Fight
+2019-05-18 20:16:57: Superstore.S04E20.#Cloud9Fail
+2019-05-18 20:16:51: Superstore.S04E19.Scanners
+2019-05-18 20:16:46: Superstore.S04E18.Cloud Green
+2019-05-18 20:16:41: Superstore.S04E17.Quinceañera
+2019-05-18 20:16:35: Superstore.S04E16.Easter
+2019-05-18 20:16:28: Superstore.S04E14.Minor Crimes
+2019-05-18 20:16:20: Superstore.S04E13.Lovebirds
+2019-05-18 20:16:15: Superstore.S04E12.Blizzard
+2019-05-18 20:16:06: Superstore.S04E11.Steps Challenge
+2019-05-18 20:16:01: Superstore.S04E10.Cloud 9 Academy
+2019-05-18 20:15:55: Superstore.S04E09.Shadowing Glenn
+2019-05-18 20:15:50: Superstore.S04E08.Managers' Conference
+2019-05-18 20:15:46: Superstore.S04E07.New Initiative
+2019-05-18 20:15:40: Superstore.S04E06.Maternity Leave
+2019-05-18 20:15:34: Superstore.S04E05.Delivery Day
+2019-05-18 20:15:27: Superstore.S04E04.Costume Competition
+2019-05-18 20:15:23: Superstore.S04E03.Toxic Work Environment
+2019-05-18 20:15:17: Superstore.S04E02.Baby Shower
+2019-05-18 20:15:12: Superstore.S04E01.Back To School
+2019-05-18 20:15:06: Real Time with Bill Maher.S17E16.Episode 496
 2019-05-17 20:14:55: The Big Bang Theory.S12E24.The Stockholm Syndrome
 2019-05-17 20:14:49: The Big Bang Theory.S12E22.The Maternal Conclusion
 2019-05-17 20:14:44: The Big Bang Theory.S12E21.The Plagiarism Schism
@@ -25,8 +69,6 @@
 2019-05-17 06:10:09: The Big Bang Theory.S12E23.The Change Constant
 2019-05-17 06:10:02: Brooklyn Nine-Nine.S06E18.Suicide Squad
 2019-05-16 20:10:33: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
-2019-05-16 20:10:27: Superstore.S04E22.Employee Appreciation Day
-2019-05-16 20:10:26: Superstore.S04E21.Sandra's Fight
 2019-05-16 20:10:20: iZombie.S05E03.Five, Six, Seven, Ate!
 2019-05-16 20:10:16: Bob's Burgers.S09E22.Yes Without My Zeke
 2019-05-16 20:10:16: Brooklyn Nine-Nine.S06E17.Sicko
@@ -56,45 +98,3 @@
 2019-05-15 20:10:47: The Simpsons.S30E22.Woo-Hoo Dunnit
 2019-05-15 20:10:42: The Simpsons.S30E21.D'oh Canada
 2019-05-15 20:10:37: The Simpsons.S30E20.I'm Just a Girl Who Can't Say D'oh
-2019-05-15 20:10:31: The Simpsons.S30E19.Girl's in the Band
-2019-05-15 20:10:25: The Simpsons.S30E18.Bart vs Itchy & Scratchy
-2019-05-15 20:10:19: The Simpsons.S30E17.E My Sports
-2019-05-15 20:10:13: The Simpsons.S30E16.I Want You (She's So Heavy)
-2019-05-15 20:10:08: The Simpsons.S30E15.101 Mitigations
-2019-05-15 20:10:02: The Simpsons.S30E14.The Clown Stays in the Picture
-2019-05-15 20:09:56: The Simpsons.S30E13.I'm Dancing as Fat as I Can
-2019-05-15 20:09:50: The Simpsons.S30E11.Mad About the Toy
-2019-05-15 20:09:45: The Simpsons.S30E10.'Tis the 30th Season
-2019-05-15 20:09:40: The Simpsons.S30E09.Daddicus Finch
-2019-05-15 20:09:35: The Simpsons.S30E08.Krusty the Clown
-2019-05-15 20:09:29: The Simpsons.S30E07.Werking Mom
-2019-05-15 20:09:24: The Simpsons.S30E06.From Russia Without Love
-2019-05-15 20:09:18: The Simpsons.S30E05.Baby You Can't Drive My Car
-2019-05-15 20:09:12: The Simpsons.S30E04.Treehouse of Horror XXIX
-2019-05-15 20:09:05: The Simpsons.S30E03.My Way or the Highway to Heaven
-2019-05-15 20:08:59: The Simpsons.S30E02.Heartbreak Hotel
-2019-05-15 20:08:55: The Simpsons.S30E01.Bart's Not Dead
-2019-05-15 06:05:28: Tosh.0.S11E09.Golf Girl Trick Shots
-2019-05-14 06:12:23: The Leftovers.S02E10.I Live Here Now
-2019-05-14 06:12:07: The Leftovers.S02E09.Ten Thirteen
-2019-05-14 06:11:55: The Leftovers.S02E08.International Assassin
-2019-05-14 06:11:41: The Leftovers.S02E07.A Most Powerful Adversary
-2019-05-14 06:11:28: The Leftovers.S02E06.Lens
-2019-05-14 06:11:15: The Leftovers.S02E05.No Room at the Inn
-2019-05-14 06:11:03: The Leftovers.S02E04.Orange Sticker
-2019-05-14 06:10:53: The Leftovers.S02E03.Off Ramp
-2019-05-14 06:10:40: The Leftovers.S02E02.A Matter of Geography
-2019-05-14 06:10:30: The Leftovers.S02E01.Axis Mundi
-2019-05-14 06:10:14: The Leftovers.S01E10.The Prodigal Son Returns
-2019-05-14 06:10:03: The Leftovers.S01E09.The Garveys at Their Best
-2019-05-14 06:09:50: The Leftovers.S01E08.Cairo
-2019-05-14 06:09:37: The Leftovers.S01E07.Solace for Tired Feet
-2019-05-14 06:09:25: The Leftovers.S01E06.Guest
-2019-05-14 06:09:12: The Leftovers.S01E05.Gladys
-2019-05-14 06:08:59: The Leftovers.S01E04.B.J. and the A.C.
-2019-05-14 06:08:49: The Leftovers.S01E03.Two Boats and a Helicopter
-2019-05-14 06:08:39: The Leftovers.S01E02.Penguin One, Us Zero
-2019-05-14 06:08:27: The Leftovers.S01E01.Pilot
-2019-05-14 06:08:13: The Leftovers.S03E08.The Book of Nora
-2019-05-14 06:07:55: The Leftovers.S03E07.The Most Powerful Man in the World (and His Identical Twin Brother)
-2019-05-14 06:07:40: The Leftovers.S03E06.Certified
