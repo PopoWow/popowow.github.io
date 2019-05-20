@@ -1,3 +1,6 @@
+2019-05-19 20:17:18: Game of Thrones.S08E06.The Iron Throne
+2019-05-19 20:17:17: Doom Patrol.S01E14.Penultimate Patrol
+2019-05-19 20:17:05: Barry.S02E08.berkman > block
 2019-05-19 06:18:00: Saturday Night Live.S44E21.Paul Rudd / DJ Khaled
 2019-05-19 06:17:49: Fresh Off the Boat.S05E20.Nerd Watching
 2019-05-19 06:17:43: Family Guy.S17E20.Adam West High
@@ -86,7 +89,6 @@
 2019-05-17 20:12:59: The Big Bang Theory.S12E03.The Procreation Calculation
 2019-05-17 20:12:53: The Big Bang Theory.S12E02.The Wedding Gift Wormhole
 2019-05-17 20:12:48: The Big Bang Theory.S12E01.The Conjugal Configuration
-2019-05-17 20:12:43: Doom Patrol.S01E14.Penultimate Patrol
 2019-05-17 06:10:09: The Big Bang Theory.S12E23.The Change Constant
 2019-05-17 06:10:02: Brooklyn Nine-Nine.S06E18.Suicide Squad
 2019-05-16 20:10:33: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
@@ -96,5 +98,3 @@
 2019-05-16 20:10:10: Bob's Burgers.S09E21.P.T.A. It Ain't So
 2019-05-16 20:10:04: Bob's Burgers.S09E20.The Gene Mile
 2019-05-16 20:09:59: Bob's Burgers.S09E19.Long Time Listener, First Time Bob
-2019-05-16 20:09:53: Bob's Burgers.S09E18.If You Love It So Much, Why Don't You Marionette?
-2019-05-16 20:09:47: Bob's Burgers.S09E17.What About Blob?
