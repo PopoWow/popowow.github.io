@@ -1,3 +1,4 @@
+2019-05-20 00:00:12: Real Time with Bill Maher.S17E16.Episode 496
 2019-05-19 22:17:10: Killing Eve.S02E07.Wide Awake
 2019-05-19 20:17:18: Game of Thrones.S08E06.The Iron Throne
 2019-05-19 20:17:17: Doom Patrol.S01E14.Penultimate Patrol
@@ -66,7 +67,6 @@
 2019-05-18 20:15:23: Superstore.S04E03.Toxic Work Environment
 2019-05-18 20:15:17: Superstore.S04E02.Baby Shower
 2019-05-18 20:15:12: Superstore.S04E01.Back To School
-2019-05-18 20:15:06: Real Time with Bill Maher.S17E16.Episode 496
 2019-05-17 20:14:55: The Big Bang Theory.S12E24.The Stockholm Syndrome
 2019-05-17 20:14:49: The Big Bang Theory.S12E22.The Maternal Conclusion
 2019-05-17 20:14:44: The Big Bang Theory.S12E21.The Plagiarism Schism
