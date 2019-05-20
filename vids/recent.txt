@@ -1,3 +1,4 @@
+2019-05-20 06:00:10: Last Week Tonight with John Oliver.S06E12.Episode 161
 2019-05-20 00:00:12: Real Time with Bill Maher.S17E16.Episode 496
 2019-05-19 22:17:10: Killing Eve.S02E07.Wide Awake
 2019-05-19 20:17:18: Game of Thrones.S08E06.The Iron Throne
@@ -97,4 +98,3 @@
 2019-05-16 20:10:16: Bob's Burgers.S09E22.Yes Without My Zeke
 2019-05-16 20:10:16: Brooklyn Nine-Nine.S06E17.Sicko
 2019-05-16 20:10:10: Bob's Burgers.S09E21.P.T.A. It Ain't So
-2019-05-16 20:10:04: Bob's Burgers.S09E20.The Gene Mile
