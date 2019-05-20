@@ -1,3 +1,4 @@
+2019-05-19 22:17:10: Killing Eve.S02E07.Wide Awake
 2019-05-19 20:17:18: Game of Thrones.S08E06.The Iron Throne
 2019-05-19 20:17:17: Doom Patrol.S01E14.Penultimate Patrol
 2019-05-19 20:17:05: Barry.S02E08.berkman > block
@@ -97,4 +98,3 @@
 2019-05-16 20:10:16: Brooklyn Nine-Nine.S06E17.Sicko
 2019-05-16 20:10:10: Bob's Burgers.S09E21.P.T.A. It Ain't So
 2019-05-16 20:10:04: Bob's Burgers.S09E20.The Gene Mile
-2019-05-16 20:09:59: Bob's Burgers.S09E19.Long Time Listener, First Time Bob
