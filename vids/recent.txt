@@ -1,9 +1,14 @@
+2019-05-20 20:01:55: Barry.S02E08.berkman > block
+2019-05-20 20:01:45: Barry.S02E07.The Audition
+2019-05-20 20:01:36: Barry.S02E06.The Truth Has a Ring to It
+2019-05-20 20:01:27: Barry.S02E05.ronny/lily
+2019-05-20 20:01:18: Barry.S02E04.What?!
+2019-05-20 20:01:08: Barry.S02E03.Past = Present x Future Over Yesterday
 2019-05-20 06:00:10: Last Week Tonight with John Oliver.S06E12.Episode 161
 2019-05-20 00:00:12: Real Time with Bill Maher.S17E16.Episode 496
 2019-05-19 22:17:10: Killing Eve.S02E07.Wide Awake
 2019-05-19 20:17:18: Game of Thrones.S08E06.The Iron Throne
 2019-05-19 20:17:17: Doom Patrol.S01E14.Penultimate Patrol
-2019-05-19 20:17:05: Barry.S02E08.berkman > block
 2019-05-19 06:18:00: Saturday Night Live.S44E21.Paul Rudd / DJ Khaled
 2019-05-19 06:17:49: Fresh Off the Boat.S05E20.Nerd Watching
 2019-05-19 06:17:43: Family Guy.S17E20.Adam West High
@@ -93,8 +98,3 @@
 2019-05-17 20:12:48: The Big Bang Theory.S12E01.The Conjugal Configuration
 2019-05-17 06:10:09: The Big Bang Theory.S12E23.The Change Constant
 2019-05-17 06:10:02: Brooklyn Nine-Nine.S06E18.Suicide Squad
-2019-05-16 20:10:33: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
-2019-05-16 20:10:20: iZombie.S05E03.Five, Six, Seven, Ate!
-2019-05-16 20:10:16: Bob's Burgers.S09E22.Yes Without My Zeke
-2019-05-16 20:10:16: Brooklyn Nine-Nine.S06E17.Sicko
-2019-05-16 20:10:10: Bob's Burgers.S09E21.P.T.A. It Ain't So
