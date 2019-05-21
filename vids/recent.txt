@@ -1,3 +1,4 @@
+2019-05-21 00:00:38: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
 2019-05-20 20:01:55: Barry.S02E08.berkman > block
 2019-05-20 20:01:45: Barry.S02E07.The Audition
 2019-05-20 20:01:36: Barry.S02E06.The Truth Has a Ring to It
@@ -97,4 +98,3 @@
 2019-05-17 20:12:53: The Big Bang Theory.S12E02.The Wedding Gift Wormhole
 2019-05-17 20:12:48: The Big Bang Theory.S12E01.The Conjugal Configuration
 2019-05-17 06:10:09: The Big Bang Theory.S12E23.The Change Constant
-2019-05-17 06:10:02: Brooklyn Nine-Nine.S06E18.Suicide Squad
