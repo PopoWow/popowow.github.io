@@ -1,3 +1,15 @@
+2019-05-24 06:01:32: PEN15.S01E10.Dance
+2019-05-24 06:01:31: PEN15.S01E09.Anna Ishi-Peters
+2019-05-24 06:01:30: PEN15.S01E08.Wild Things
+2019-05-24 06:01:27: PEN15.S01E07.AIM
+2019-05-24 06:01:24: PEN15.S01E06.Posh
+2019-05-24 06:01:20: PEN15.S01E05.Community Service
+2019-05-24 06:01:19: PEN15.S01E04.Solo
+2019-05-24 06:01:17: PEN15.S01E03.Ojichan
+2019-05-24 06:01:16: PEN15.S01E02.Miranda
+2019-05-24 06:01:15: PEN15.S01E01.First Day
+2019-05-24 06:01:13: iZombie.S05E04.Dot Zom
+2019-05-24 06:01:11: Elementary.S07E01.The Further Adventures
 2019-05-23 06:01:03: What We Do in the Shadows.S01E09.The Orgy
 2019-05-23 06:01:03: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
 2019-05-22 06:04:01: Tosh.0.S11E10.ToshCon: Where Are They Now?
@@ -86,15 +98,3 @@
 2019-05-18 20:16:51: Superstore.S04E19.Scanners
 2019-05-18 20:16:46: Superstore.S04E18.Cloud Green
 2019-05-18 20:16:41: Superstore.S04E17.Quinceañera
-2019-05-18 20:16:35: Superstore.S04E16.Easter
-2019-05-18 20:16:28: Superstore.S04E14.Minor Crimes
-2019-05-18 20:16:20: Superstore.S04E13.Lovebirds
-2019-05-18 20:16:15: Superstore.S04E12.Blizzard
-2019-05-18 20:16:06: Superstore.S04E11.Steps Challenge
-2019-05-18 20:16:01: Superstore.S04E10.Cloud 9 Academy
-2019-05-18 20:15:55: Superstore.S04E09.Shadowing Glenn
-2019-05-18 20:15:50: Superstore.S04E08.Managers' Conference
-2019-05-18 20:15:46: Superstore.S04E07.New Initiative
-2019-05-18 20:15:40: Superstore.S04E06.Maternity Leave
-2019-05-18 20:15:34: Superstore.S04E05.Delivery Day
-2019-05-18 20:15:27: Superstore.S04E04.Costume Competition
