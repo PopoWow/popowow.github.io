@@ -1,3 +1,10 @@
+2019-05-27 20:07:30: Killing Eve.S02E08.You're Mine
+2019-05-27 20:07:20: Killing Eve.S02E07.Wide Awake
+2019-05-27 20:07:10: Killing Eve.S02E06.I Hope You Like Missionary!
+2019-05-27 20:07:00: Killing Eve.S02E05.Smell Ya Later
+2019-05-27 20:06:50: Killing Eve.S02E04.Desperate Times
+2019-05-27 20:06:40: Killing Eve.S02E03.The Hungry Caterpillar
+2019-05-27 20:06:32: Killing Eve.S02E01.Do You Know How to Dispose of a Body?
 2019-05-27 06:10:55: Saturday Night Live.S43E21.Tina Fey/Nicki Minaj
 2019-05-27 06:10:38: Saturday Night Live.S43E20.Amy Schumer/Kacey Musgraves
 2019-05-27 06:10:19: Saturday Night Live.S43E19.Donald Glover/Childish Gambino
@@ -19,7 +26,6 @@
 2019-05-27 06:05:26: Saturday Night Live.S43E03.Kumail Nanjiani/P!nk
 2019-05-27 06:05:08: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
 2019-05-27 06:04:53: Saturday Night Live.S43E01.Ryan Gosling/Jay-Z
-2019-05-27 06:04:28: Killing Eve.S02E08.You're Mine
 2019-05-24 20:18:35: Doom Patrol.S01E15.Ezekiel Patrol
 2019-05-24 20:18:17: Doom Patrol.S01E14.Penultimate Patrol
 2019-05-24 20:18:05: Doom Patrol.S01E13.Flex Patrol
@@ -92,9 +98,3 @@
 2019-05-21 06:03:08: Game of Thrones.S08E02.A Knight of the Seven Kingdoms
 2019-05-21 06:03:00: Game of Thrones.S08E01.Winterfell
 2019-05-20 20:01:55: Barry.S02E08.berkman > block
-2019-05-20 20:01:45: Barry.S02E07.The Audition
-2019-05-20 20:01:36: Barry.S02E06.The Truth Has a Ring to It
-2019-05-20 20:01:27: Barry.S02E05.ronny/lily
-2019-05-20 20:01:18: Barry.S02E04.What?!
-2019-05-20 20:01:08: Barry.S02E03.Past = Present x Future Over Yesterday
-2019-05-20 06:00:10: Last Week Tonight with John Oliver.S06E12.Episode 161
