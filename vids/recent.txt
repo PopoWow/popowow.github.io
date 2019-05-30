@@ -1,3 +1,5 @@
+2019-05-30 06:00:21: What We Do in the Shadows.S01E10.Ancestry
+2019-05-30 06:00:20: American Ninja Warrior.S11E01.Los Angeles City Qualifiers
 2019-05-27 20:07:30: Killing Eve.S02E08.You're Mine
 2019-05-27 20:07:20: Killing Eve.S02E07.Wide Awake
 2019-05-27 20:07:10: Killing Eve.S02E06.I Hope You Like Missionary!
@@ -96,5 +98,3 @@
 2019-05-21 06:03:29: Game of Thrones.S08E04.The Last of the Starks
 2019-05-21 06:03:19: Game of Thrones.S08E03.The Long Night
 2019-05-21 06:03:08: Game of Thrones.S08E02.A Knight of the Seven Kingdoms
-2019-05-21 06:03:00: Game of Thrones.S08E01.Winterfell
-2019-05-20 20:01:55: Barry.S02E08.berkman > block
