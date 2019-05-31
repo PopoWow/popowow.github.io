@@ -1,3 +1,5 @@
+2019-05-30 20:00:22: iZombie.S05E05.Death Moves Pretty Fast
+2019-05-30 20:00:21: Elementary.S07E02.Gutshot
 2019-05-30 06:00:21: What We Do in the Shadows.S01E10.Ancestry
 2019-05-30 06:00:20: American Ninja Warrior.S11E01.Los Angeles City Qualifiers
 2019-05-27 20:07:30: Killing Eve.S02E08.You're Mine
@@ -96,5 +98,3 @@
 2019-05-21 06:03:49: Game of Thrones.S08E06.The Iron Throne
 2019-05-21 06:03:39: Game of Thrones.S08E05.The Bells
 2019-05-21 06:03:29: Game of Thrones.S08E04.The Last of the Starks
-2019-05-21 06:03:19: Game of Thrones.S08E03.The Long Night
-2019-05-21 06:03:08: Game of Thrones.S08E02.A Knight of the Seven Kingdoms
