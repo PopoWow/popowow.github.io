@@ -1,6 +1,15 @@
+2019-05-31 20:01:16: What We Do in the Shadows.S01E10.Ancestry
+2019-05-31 20:01:12: What We Do in the Shadows.S01E09.The Orgy
+2019-05-31 20:01:10: What We Do in the Shadows.S01E08.Citizenship
+2019-05-31 20:01:04: What We Do in the Shadows.S01E07.The Trial
+2019-05-31 20:00:58: What We Do in the Shadows.S01E06.Baron's Night Out
+2019-05-31 20:00:55: What We Do in the Shadows.S01E05.Animal Control
+2019-05-31 20:00:50: What We Do in the Shadows.S01E04.Manhattan Night Club
+2019-05-31 20:00:45: What We Do in the Shadows.S01E03.Werewolf Feud
+2019-05-31 20:00:42: What We Do in the Shadows.S01E02.City Council
+2019-05-31 20:00:39: What We Do in the Shadows.S01E01.Pilot
 2019-05-30 20:00:22: iZombie.S05E05.Death Moves Pretty Fast
 2019-05-30 20:00:21: Elementary.S07E02.Gutshot
-2019-05-30 06:00:21: What We Do in the Shadows.S01E10.Ancestry
 2019-05-30 06:00:20: American Ninja Warrior.S11E01.Los Angeles City Qualifiers
 2019-05-27 20:07:30: Killing Eve.S02E08.You're Mine
 2019-05-27 20:07:20: Killing Eve.S02E07.Wide Awake
@@ -72,7 +81,6 @@
 2019-05-24 06:01:15: PEN15.S01E01.First Day
 2019-05-24 06:01:13: iZombie.S05E04.Dot Zom
 2019-05-24 06:01:11: Elementary.S07E01.The Further Adventures
-2019-05-23 06:01:03: What We Do in the Shadows.S01E09.The Orgy
 2019-05-23 06:01:03: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
 2019-05-22 06:04:01: Tosh.0.S11E10.ToshCon: Where Are They Now?
 2019-05-21 06:05:43: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
@@ -90,11 +98,3 @@
 2019-05-21 06:04:35: Young Sheldon.S02E09.Family Dynamics and a Red Fiero
 2019-05-21 06:04:30: Young Sheldon.S02E08.An 8-Bit Princess and a Flat Tire Genius
 2019-05-21 06:04:23: Young Sheldon.S02E07.Carbon Dating and a Stuffed Raccoon
-2019-05-21 06:04:18: Young Sheldon.S02E06.Seven Deadly Sins and a Small Carl Sagan
-2019-05-21 06:04:13: Young Sheldon.S02E05.A Research Study and Czechoslovakian Wedding Pastries
-2019-05-21 06:04:09: Young Sheldon.S02E04.A Financial Secret and Fish Sauce
-2019-05-21 06:04:04: Young Sheldon.S02E03.A Crisis of Faith and Octopus Aliens
-2019-05-21 06:03:59: Young Sheldon.S02E02.A Rival Prodigy and Sir Isaac Neutron
-2019-05-21 06:03:49: Game of Thrones.S08E06.The Iron Throne
-2019-05-21 06:03:39: Game of Thrones.S08E05.The Bells
-2019-05-21 06:03:29: Game of Thrones.S08E04.The Last of the Starks
