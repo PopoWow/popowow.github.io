@@ -1,3 +1,4 @@
+2019-06-03 00:01:08: Last Week Tonight with John Oliver.S06E13.Episode 162
 2019-06-02 20:00:47: Fear the Walking Dead.S05E01.Here to Help
 2019-06-02 06:00:56: Real Time with Bill Maher.S17E17.Episode 497
 2019-05-31 20:01:16: What We Do in the Shadows.S01E10.Ancestry
@@ -97,4 +98,3 @@
 2019-05-21 06:04:56: Young Sheldon.S02E12.A Tummy Ache and a Whale of a Metaphor
 2019-05-21 06:04:46: Young Sheldon.S02E11.A Race of Superhumans and a Letter to Alf
 2019-05-21 06:04:41: Young Sheldon.S02E10.A Stunted Childhood and a Can of Fancy Mixed Nuts
-2019-05-21 06:04:35: Young Sheldon.S02E09.Family Dynamics and a Red Fiero
