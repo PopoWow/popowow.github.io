@@ -1,4 +1,5 @@
-2019-06-09 22:22:47: Real Time with Bill Maher.S17E18.Episode 498
+2019-06-09 22:28:55: Real Time with Bill Maher.S17E18.Episode 498
+2019-06-09 22:28:50: Game of Thrones.S00E41.The Last Watch
 2019-06-09 22:22:35: Elementary.S07E03.The Price of Admission
 2019-06-09 22:22:35: iZombie.S05E06.The Scratchmaker
 2019-06-06 06:00:38: American Ninja Warrior.S11E02.Atlanta City Qualifiers
@@ -97,4 +98,3 @@
 2019-05-21 06:05:39: Young Sheldon.S02E20.A Proposal and a Popsicle Stick Cross
 2019-05-21 06:05:32: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
 2019-05-21 06:05:28: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
-2019-05-21 06:05:22: Young Sheldon.S02E17.Albert Einstein and the Story of Another Mary
