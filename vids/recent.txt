@@ -1,3 +1,6 @@
+2019-06-09 22:22:47: Real Time with Bill Maher.S17E18.Episode 498
+2019-06-09 22:22:35: Elementary.S07E03.The Price of Admission
+2019-06-09 22:22:35: iZombie.S05E06.The Scratchmaker
 2019-06-06 06:00:38: American Ninja Warrior.S11E02.Atlanta City Qualifiers
 2019-06-05 00:01:09: The Handmaid's Tale.S03E03.Watch Out
 2019-06-05 00:01:06: The Handmaid's Tale.S03E02.Mary and Martha
@@ -95,6 +98,3 @@
 2019-05-21 06:05:32: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
 2019-05-21 06:05:28: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
 2019-05-21 06:05:22: Young Sheldon.S02E17.Albert Einstein and the Story of Another Mary
-2019-05-21 06:05:17: Young Sheldon.S02E16.A Loaf of Bread and a Grand Old Flag
-2019-05-21 06:05:12: Young Sheldon.S02E15.A Math Emergency and Perky Palms
-2019-05-21 06:05:06: Young Sheldon.S02E14.David, Goliath, and a Yoo-Hoo from the Back
