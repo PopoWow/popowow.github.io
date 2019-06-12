@@ -1,3 +1,4 @@
+2019-06-12 00:00:40: Death in Paradise.S08E08.Episode 8
 2019-06-11 22:00:17: Marvel's Agents of S.H.I.E.L.D..S06E04.Code Yellow
 2019-06-11 22:00:16: Marvel's Agents of S.H.I.E.L.D..S06E03.Fear and Loathing on the Planet of Kitson
 2019-06-11 22:00:08: Marvel's Agents of S.H.I.E.L.D..S06E02.Window of Opportunity
@@ -97,4 +98,3 @@
 2019-05-24 06:01:15: PEN15.S01E01.First Day
 2019-05-24 06:01:13: iZombie.S05E04.Dot Zom
 2019-05-24 06:01:11: Elementary.S07E01.The Further Adventures
-2019-05-23 06:01:03: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
