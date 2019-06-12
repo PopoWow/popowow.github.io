@@ -1,3 +1,7 @@
+2019-06-11 22:00:17: Marvel's Agents of S.H.I.E.L.D..S06E04.Code Yellow
+2019-06-11 22:00:16: Marvel's Agents of S.H.I.E.L.D..S06E03.Fear and Loathing on the Planet of Kitson
+2019-06-11 22:00:08: Marvel's Agents of S.H.I.E.L.D..S06E02.Window of Opportunity
+2019-06-11 22:00:07: Marvel's Agents of S.H.I.E.L.D..S06E01.Missing Pieces
 2019-06-11 20:00:10: Last Week Tonight with John Oliver.S06E14.Episode 163
 2019-06-09 22:28:55: Real Time with Bill Maher.S17E18.Episode 498
 2019-06-09 22:28:50: Game of Thrones.S00E41.The Last Watch
@@ -94,7 +98,3 @@
 2019-05-24 06:01:13: iZombie.S05E04.Dot Zom
 2019-05-24 06:01:11: Elementary.S07E01.The Further Adventures
 2019-05-23 06:01:03: Young Sheldon.S02E21.A Broken Heart and a Crock Monster
-2019-05-22 06:04:01: Tosh.0.S11E10.ToshCon: Where Are They Now?
-2019-05-21 06:05:43: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
-2019-05-21 06:05:39: Young Sheldon.S02E20.A Proposal and a Popsicle Stick Cross
-2019-05-21 06:05:32: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
