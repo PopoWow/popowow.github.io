@@ -1,3 +1,4 @@
+2019-06-12 06:01:24: The Handmaid's Tale.S03E04.God Bless the Child
 2019-06-12 00:00:40: Death in Paradise.S08E08.Episode 8
 2019-06-11 22:00:17: Marvel's Agents of S.H.I.E.L.D..S06E04.Code Yellow
 2019-06-11 22:00:16: Marvel's Agents of S.H.I.E.L.D..S06E03.Fear and Loathing on the Planet of Kitson
@@ -9,7 +10,7 @@
 2019-06-09 22:22:35: Elementary.S07E03.The Price of Admission
 2019-06-09 22:22:35: iZombie.S05E06.The Scratchmaker
 2019-06-06 06:00:38: American Ninja Warrior.S11E02.Atlanta City Qualifiers
-2019-06-05 00:01:09: The Handmaid's Tale.S03E03.Watch Out
+2019-06-05 00:01:09: The Handmaid's Tale.S03E03.Useful
 2019-06-05 00:01:06: The Handmaid's Tale.S03E02.Mary and Martha
 2019-06-05 00:01:05: The Handmaid's Tale.S03E01.Night
 2019-06-03 00:01:08: Last Week Tonight with John Oliver.S06E13.Episode 162
@@ -97,4 +98,3 @@
 2019-05-24 06:01:16: PEN15.S01E02.Miranda
 2019-05-24 06:01:15: PEN15.S01E01.First Day
 2019-05-24 06:01:13: iZombie.S05E04.Dot Zom
-2019-05-24 06:01:11: Elementary.S07E01.The Further Adventures
