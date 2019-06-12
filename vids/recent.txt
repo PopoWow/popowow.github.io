@@ -1,3 +1,4 @@
+2019-06-11 20:00:10: Last Week Tonight with John Oliver.S06E14.Episode 163
 2019-06-09 22:28:55: Real Time with Bill Maher.S17E18.Episode 498
 2019-06-09 22:28:50: Game of Thrones.S00E41.The Last Watch
 2019-06-09 22:22:35: Elementary.S07E03.The Price of Admission
@@ -97,4 +98,3 @@
 2019-05-21 06:05:43: Young Sheldon.S02E22.A Swedish Science Thing and the Equation for Toast
 2019-05-21 06:05:39: Young Sheldon.S02E20.A Proposal and a Popsicle Stick Cross
 2019-05-21 06:05:32: Young Sheldon.S02E19.A Political Campaign and a Candy Land Cheater
-2019-05-21 06:05:28: Young Sheldon.S02E18.A Perfect Score and a Bunsen Burner Marshmallow
