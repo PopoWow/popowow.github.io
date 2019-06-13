@@ -1,3 +1,7 @@
+2019-06-12 17:37:02: Luther.S05E03.Episode 3
+2019-06-12 17:36:55: Luther.S05E04.Episode 4
+2019-06-12 17:36:51: Luther.S05E02.Episode 2
+2019-06-12 17:36:50: Luther.S05E01.Episode 1
 2019-06-12 06:01:24: The Handmaid's Tale.S03E04.God Bless the Child
 2019-06-12 00:00:40: Death in Paradise.S08E08.Episode 8
 2019-06-11 22:00:17: Marvel's Agents of S.H.I.E.L.D..S06E04.Code Yellow
@@ -94,7 +98,3 @@
 2019-05-24 06:01:24: PEN15.S01E06.Posh
 2019-05-24 06:01:20: PEN15.S01E05.Community Service
 2019-05-24 06:01:19: PEN15.S01E04.Solo
-2019-05-24 06:01:17: PEN15.S01E03.Ojichan
-2019-05-24 06:01:16: PEN15.S01E02.Miranda
-2019-05-24 06:01:15: PEN15.S01E01.First Day
-2019-05-24 06:01:13: iZombie.S05E04.Dot Zom
