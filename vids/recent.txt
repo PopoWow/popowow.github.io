@@ -1,3 +1,21 @@
+2019-06-22 00:01:51: The Handmaid's Tale.S03E05.Unknown Caller
+2019-06-22 00:01:46: Real Time with Bill Maher.S17E19.Episode 499
+2019-06-22 00:01:41: Marvel's Agents of S.H.I.E.L.D..S06E06.Inescapable
+2019-06-22 00:01:37: Marvel's Agents of S.H.I.E.L.D..S06E05.The Other Thing
+2019-06-22 00:01:33: Last Week Tonight with John Oliver.S06E15.Episode 164
+2019-06-22 00:01:31: Krypton.S02E02.Ghost in the Fire
+2019-06-22 00:01:29: iZombie.S05E08.Death of a Car Salesman
+2019-06-22 00:01:26: iZombie.S05E07.Filleted to Rest
+2019-06-22 00:01:20: iZombie.S05E06.The Scratchmaker
+2019-06-22 00:01:13: iZombie.S05E05.Death Moves Pretty Fast
+2019-06-22 00:01:10: iZombie.S05E04.Dot Zom
+2019-06-22 00:01:04: iZombie.S05E01.Thug Death
+2019-06-22 00:00:56: Fear the Walking Dead.S05E03.Humbug's Gulch
+2019-06-22 00:00:52: Elementary.S07E05.Into the Woods
+2019-06-22 00:00:48: Elementary.S07E04.Red Light, Green Light
+2019-06-22 00:00:46: Baskets.S04E02.Baby Chip
+2019-06-22 00:00:45: Baskets.S04E01.Cat People
+2019-06-22 00:00:43: American Ninja Warrior.S11E03.Oklahoma City City Qualifiers
 2019-06-12 22:00:06: Krypton.S02E01.Light-Years from Home
 2019-06-12 17:37:02: Luther.S05E03.Episode 3
 2019-06-12 17:36:55: Luther.S05E04.Episode 4
@@ -13,7 +31,6 @@
 2019-06-09 22:28:55: Real Time with Bill Maher.S17E18.Episode 498
 2019-06-09 22:28:50: Game of Thrones.S00E41.The Last Watch
 2019-06-09 22:22:35: Elementary.S07E03.The Price of Admission
-2019-06-09 22:22:35: iZombie.S05E06.The Scratchmaker
 2019-06-06 06:00:38: American Ninja Warrior.S11E02.Atlanta City Qualifiers
 2019-06-05 00:01:09: The Handmaid's Tale.S03E03.Useful
 2019-06-05 00:01:06: The Handmaid's Tale.S03E02.Mary and Martha
@@ -31,7 +48,6 @@
 2019-05-31 20:00:45: What We Do in the Shadows.S01E03.Werewolf Feud
 2019-05-31 20:00:42: What We Do in the Shadows.S01E02.City Council
 2019-05-31 20:00:39: What We Do in the Shadows.S01E01.Pilot
-2019-05-30 20:00:22: iZombie.S05E05.Death Moves Pretty Fast
 2019-05-30 20:00:21: Elementary.S07E02.Gutshot
 2019-05-30 06:00:20: American Ninja Warrior.S11E01.Los Angeles City Qualifiers
 2019-05-27 20:07:30: Killing Eve.S02E08.You're Mine
@@ -82,19 +98,3 @@
 2019-05-24 20:14:17: American Ninja Warrior.S10E13.Las Vegas Finals Night 1
 2019-05-24 20:13:54: American Ninja Warrior.S10E12.Minneapolis City Finals
 2019-05-24 20:13:31: American Ninja Warrior.S10E11.Philadelphia City Finals
-2019-05-24 20:13:10: American Ninja Warrior.S10E10.Indianapolis City Finals
-2019-05-24 20:12:48: American Ninja Warrior.S10E09.Miami City Finals
-2019-05-24 20:12:26: American Ninja Warrior.S10E08.Dallas City Finals
-2019-05-24 20:12:04: American Ninja Warrior.S10E07.Los Angeles City Finals
-2019-05-24 20:11:42: American Ninja Warrior.S10E06.Minneapolis City Qualifiers
-2019-05-24 20:11:20: American Ninja Warrior.S10E05.Philadelphia City Qualifiers
-2019-05-24 20:10:58: American Ninja Warrior.S10E04.Indianapolis City Qualifiers
-2019-05-24 20:10:36: American Ninja Warrior.S10E03.Miami City Qualifiers
-2019-05-24 20:10:12: American Ninja Warrior.S10E02.Los Angeles City Qualifiers
-2019-05-24 20:09:49: American Ninja Warrior.S10E01.Dallas City Qualifiers
-2019-05-24 06:01:32: PEN15.S01E10.Dance
-2019-05-24 06:01:31: PEN15.S01E09.Anna Ishi-Peters
-2019-05-24 06:01:30: PEN15.S01E08.Wild Things
-2019-05-24 06:01:27: PEN15.S01E07.AIM
-2019-05-24 06:01:24: PEN15.S01E06.Posh
-2019-05-24 06:01:20: PEN15.S01E05.Community Service
