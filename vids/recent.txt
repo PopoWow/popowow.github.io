@@ -1,3 +1,4 @@
+2019-06-23 22:01:48: Fear the Walking Dead.S05E04.Skidmark
 2019-06-22 20:01:51: Real Time with Bill Maher.S17E20.Episode 500
 2019-06-22 00:01:51: The Handmaid's Tale.S03E05.Unknown Caller
 2019-06-22 00:01:46: Real Time with Bill Maher.S17E19.Episode 499
@@ -97,4 +98,3 @@
 2019-05-24 20:15:03: American Ninja Warrior.S10E15.Las Vegas Season Finale
 2019-05-24 20:14:41: American Ninja Warrior.S10E14.Las Vegas Finals Night 2
 2019-05-24 20:14:17: American Ninja Warrior.S10E13.Las Vegas Finals Night 1
-2019-05-24 20:13:54: American Ninja Warrior.S10E12.Minneapolis City Finals
