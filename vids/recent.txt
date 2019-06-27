@@ -1,3 +1,4 @@
+2019-06-26 22:02:09: Krypton.S02E03.Will to Power
 2019-06-26 06:02:05: The Handmaid's Tale.S03E06.Household
 2019-06-25 06:01:33: American Ninja Warrior.S11E04.Seattle/Tacoma City Qualifiers
 2019-06-24 06:01:39: Last Week Tonight with John Oliver.S06E16.Episode 165
@@ -97,4 +98,3 @@
 2019-05-24 20:15:57: Doom Patrol.S01E04.Cult Patrol
 2019-05-24 20:15:45: Doom Patrol.S01E03.Puppet Patrol
 2019-05-24 20:15:31: Doom Patrol.S01E02.Donkey Patrol
-2019-05-24 20:15:17: Doom Patrol.S01E01.Pilot
