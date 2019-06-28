@@ -1,3 +1,5 @@
+2019-06-28 06:00:24: Real Time with Bill Maher.S17E20.Episode 500
+2019-06-28 06:00:18: Real Time with Bill Maher.S17E19.Episode 499
 2019-06-27 20:02:11: iZombie.S05E09.The Fresh Princess
 2019-06-27 20:02:10: Elementary.S07E06.Command: Delete
 2019-06-26 22:02:09: Krypton.S02E03.Will to Power
@@ -5,9 +7,7 @@
 2019-06-25 06:01:33: American Ninja Warrior.S11E04.Seattle/Tacoma City Qualifiers
 2019-06-24 06:01:39: Last Week Tonight with John Oliver.S06E16.Episode 165
 2019-06-23 22:01:48: Fear the Walking Dead.S05E04.Skidmark
-2019-06-22 20:01:51: Real Time with Bill Maher.S17E20.Episode 500
 2019-06-22 00:01:51: The Handmaid's Tale.S03E05.Unknown Caller
-2019-06-22 00:01:46: Real Time with Bill Maher.S17E19.Episode 499
 2019-06-22 00:01:41: Marvel's Agents of S.H.I.E.L.D..S06E06.Inescapable
 2019-06-22 00:01:37: Marvel's Agents of S.H.I.E.L.D..S06E05.The Other Thing
 2019-06-22 00:01:33: Last Week Tonight with John Oliver.S06E15.Episode 164
