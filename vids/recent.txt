@@ -1,3 +1,4 @@
+2019-06-28 20:00:12: Marvel's Agents of S.H.I.E.L.D..S06E07.Toldja
 2019-06-28 06:00:24: Real Time with Bill Maher.S17E20.Episode 500
 2019-06-28 06:00:18: Real Time with Bill Maher.S17E19.Episode 499
 2019-06-27 20:02:11: iZombie.S05E09.The Fresh Princess
@@ -97,4 +98,3 @@
 2019-05-24 20:16:50: Doom Patrol.S01E07.Therapy Patrol
 2019-05-24 20:16:38: Doom Patrol.S01E06.Doom Patrol Patrol
 2019-05-24 20:16:24: Doom Patrol.S01E05.Paw Patrol
-2019-05-24 20:15:57: Doom Patrol.S01E04.Cult Patrol
