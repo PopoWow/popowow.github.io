@@ -1,3 +1,4 @@
+2019-06-30 22:00:27: Fear the Walking Dead.S05E05.The End of Everything
 2019-06-29 20:00:28: Real Time with Bill Maher.S17E21.Episode 501
 2019-06-28 20:00:12: Marvel's Agents of S.H.I.E.L.D..S06E07.Toldja
 2019-06-28 06:00:24: Real Time with Bill Maher.S17E20.Episode 500
@@ -97,4 +98,3 @@
 2019-05-24 20:17:18: Doom Patrol.S01E09.Jane Patrol
 2019-05-24 20:17:05: Doom Patrol.S01E08.Danny Patrol
 2019-05-24 20:16:50: Doom Patrol.S01E07.Therapy Patrol
-2019-05-24 20:16:38: Doom Patrol.S01E06.Doom Patrol Patrol
