@@ -1,3 +1,4 @@
+2019-07-04 20:00:54: Elementary.S07E07.From Russia with Drugs
 2019-07-04 06:00:38: Krypton.S02E04.Danger Close
 2019-07-03 20:00:43: American Ninja Warrior.S11E05.Baltimore City Qualifiers
 2019-07-01 20:00:44: Last Week Tonight with John Oliver.S06E17.Episode 166
@@ -97,4 +98,3 @@
 2019-05-24 20:18:05: Doom Patrol.S01E13.Flex Patrol
 2019-05-24 20:17:52: Doom Patrol.S01E12.Cyborg Patrol
 2019-05-24 20:17:41: Doom Patrol.S01E11.Frances Patrol
-2019-05-24 20:17:29: Doom Patrol.S01E10.Hair Patrol
