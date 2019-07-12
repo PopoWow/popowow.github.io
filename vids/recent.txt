@@ -1,3 +1,4 @@
+2019-07-12 00:00:05: iZombie.S05E10.Night and the Zombie City
 2019-07-09 06:00:13: American Ninja Warrior.S11E06.Cincinnati City Qualifiers
 2019-07-06 06:00:38: Fear the Walking Dead.S05E06.The Little Prince
 2019-07-05 20:00:54: Real Time with Bill Maher.S17E21.Episode 501
@@ -97,4 +98,3 @@
 2019-05-27 06:05:08: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
 2019-05-27 06:04:53: Saturday Night Live.S43E01.Ryan Gosling/Jay-Z
 2019-05-24 20:18:35: Doom Patrol.S01E15.Ezekiel Patrol
-2019-05-24 20:18:17: Doom Patrol.S01E14.Penultimate Patrol
