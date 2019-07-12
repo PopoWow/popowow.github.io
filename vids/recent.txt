@@ -1,3 +1,6 @@
+2019-07-12 06:00:24: Krypton.S02E05.A Better Yesterday
+2019-07-12 06:00:20: Elementary.S07E08.Miss Understood
+2019-07-12 06:00:16: Baskets.S04E04.Affirmations
 2019-07-12 00:00:05: iZombie.S05E10.Night and the Zombie City
 2019-07-09 06:00:13: American Ninja Warrior.S11E06.Cincinnati City Qualifiers
 2019-07-06 06:00:38: Fear the Walking Dead.S05E06.The Little Prince
@@ -95,6 +98,3 @@
 2019-05-27 06:06:11: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
 2019-05-27 06:05:49: Saturday Night Live.S43E04.Larry David/Miley Cyrus
 2019-05-27 06:05:26: Saturday Night Live.S43E03.Kumail Nanjiani/P!nk
-2019-05-27 06:05:08: Saturday Night Live.S43E02.Gal Gadot/Sam Smith
-2019-05-27 06:04:53: Saturday Night Live.S43E01.Ryan Gosling/Jay-Z
-2019-05-24 20:18:35: Doom Patrol.S01E15.Ezekiel Patrol
