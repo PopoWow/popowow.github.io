@@ -1,3 +1,4 @@
+2019-07-12 22:00:27: Fear the Walking Dead.S05E07.Still Standing
 2019-07-12 20:00:26: Marvel's Agents of S.H.I.E.L.D..S06E09.Collision Course (2)
 2019-07-12 06:00:24: Krypton.S02E05.A Better Yesterday
 2019-07-12 06:00:20: Elementary.S07E08.Miss Understood
@@ -97,4 +98,3 @@
 2019-05-27 06:06:48: Saturday Night Live.S43E07.Saoirse Ronan/U2
 2019-05-27 06:06:31: Saturday Night Live.S43E06.Chance the Rapper/Eminem
 2019-05-27 06:06:11: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
-2019-05-27 06:05:49: Saturday Night Live.S43E04.Larry David/Miley Cyrus
