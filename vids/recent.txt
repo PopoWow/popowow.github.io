@@ -1,3 +1,4 @@
+2019-07-16 06:00:15: American Ninja Warrior.S11E07.Los Angeles City Finals
 2019-07-15 20:00:11: Fear the Walking Dead.S05E07.Still Standing
 2019-07-12 20:00:26: Marvel's Agents of S.H.I.E.L.D..S06E09.Collision Course (2)
 2019-07-12 06:00:24: Krypton.S02E05.A Better Yesterday
@@ -97,4 +98,3 @@
 2019-05-27 06:07:09: Saturday Night Live.S43E08.James Franco/SZA
 2019-05-27 06:06:48: Saturday Night Live.S43E07.Saoirse Ronan/U2
 2019-05-27 06:06:31: Saturday Night Live.S43E06.Chance the Rapper/Eminem
-2019-05-27 06:06:11: Saturday Night Live.S43E05.Tiffany Haddish/Taylor Swift
