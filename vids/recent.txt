@@ -1,3 +1,4 @@
+2019-07-21 20:00:03: The Handmaid's Tale.S03E07.Under His Eye
 2019-07-19 22:00:47: Fear the Walking Dead.S05E08.Is Anybody Out There?
 2019-07-19 20:00:43: Marvel's Agents of S.H.I.E.L.D..S06E10.Leap
 2019-07-19 00:00:36: Baskets.S04E05.Denver Revisited
@@ -97,4 +98,3 @@
 2019-05-27 06:09:10: Saturday Night Live.S43E15.Sterling K. Brown/James Bay
 2019-05-27 06:08:53: Saturday Night Live.S43E14.Charles Barkley/Migos
 2019-05-27 06:08:37: Saturday Night Live.S43E13.Natalie Portman/Dua Lipa
-2019-05-27 06:08:22: Saturday Night Live.S43E12.Will Ferrell/Chris Stapleton
