@@ -1,3 +1,4 @@
+2019-07-31 22:21:07: Krypton.S02E08.Mercy
 2019-07-31 20:54:46: The Bionic Woman.S02E06.Kill Oscar (3)
 2019-07-31 20:54:24: The Bionic Woman.S02E05.Kill Oscar (1)
 2019-07-31 20:53:58: The Bionic Woman.S02E01.The Return of Bigfoot (2)
@@ -97,4 +98,3 @@
 2019-07-31 20:24:46: The Six Million Dollar Man.S01E09.Dr. Wells is Missing
 2019-07-31 20:24:35: The Six Million Dollar Man.S01E08.The Rescue of Athena One
 2019-07-31 20:24:23: The Six Million Dollar Man.S01E07.Eyewitness to Murder
-2019-07-31 20:24:10: The Six Million Dollar Man.S01E06.Doomsday, and Counting
