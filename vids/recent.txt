@@ -1,3 +1,20 @@
+2019-08-02 06:27:14: Death in Paradise.S04E08.Unlike Father, Unlike Son
+2019-08-02 06:27:02: Death in Paradise.S04E07.She Was Murdered Twice
+2019-08-02 06:26:48: Death in Paradise.S04E06.The Perfect Murder
+2019-08-02 06:26:32: Death in Paradise.S04E05.Swimming in Murder
+2019-08-02 06:26:16: Death in Paradise.S04E04.Until Death Do You Part
+2019-08-02 06:26:08: Death in Paradise.S04E03.Damned If You Do...
+2019-08-02 06:25:57: Death in Paradise.S04E02.Hidden Secrets
+2019-08-02 06:25:44: Death in Paradise.S04E01.Stab in the Dark
+2019-08-02 06:25:32: Death in Paradise.S03E08.Rue Morgue
+2019-08-02 06:25:20: Death in Paradise.S03E07.The Man with the Golden Gun
+2019-08-02 06:25:09: Death in Paradise.S03E06.The Early Bird
+2019-08-02 06:24:58: Death in Paradise.S03E05.Political Suicide
+2019-08-02 06:24:47: Death in Paradise.S03E04.Ye of Little Faith
+2019-08-02 06:24:36: Death in Paradise.S03E03.An Artistic Murder
+2019-08-02 06:24:25: Death in Paradise.S03E02.The Wrong Man
+2019-08-02 06:24:20: Death in Paradise.S03E01.Death of a Detective
+2019-08-02 06:24:10: Baskets.S04E07.Housewarming
 2019-08-01 20:24:42: Elementary.S07E11.Unfriended
 2019-08-01 20:24:42: iZombie.S05E13.All's Well That Ends Well
 2019-07-31 22:21:07: Krypton.S02E08.Mercy
@@ -81,20 +98,3 @@
 2019-07-31 20:30:26: The Six Million Dollar Man.S02E15.Return of the Robot Maker
 2019-07-31 20:30:09: The Six Million Dollar Man.S02E14.The Last Kamikaze
 2019-07-31 20:29:51: The Six Million Dollar Man.S02E13.Lost Love
-2019-07-31 20:29:32: The Six Million Dollar Man.S02E12.The Cross-Country Kidnap
-2019-07-31 20:29:16: The Six Million Dollar Man.S02E11.The Peeping Blonde
-2019-07-31 20:28:57: The Six Million Dollar Man.S02E10.Stranger in Broken Fork
-2019-07-31 20:28:39: The Six Million Dollar Man.S02E09.Act of Piracy
-2019-07-31 20:28:19: The Six Million Dollar Man.S02E08.The Deadly Replay
-2019-07-31 20:28:00: The Six Million Dollar Man.S02E07.The Midas Touch
-2019-07-31 20:27:38: The Six Million Dollar Man.S02E06.Straight on 'til Morning
-2019-07-31 20:27:15: The Six Million Dollar Man.S02E05.The Seven Million Dollar Man
-2019-07-31 20:26:56: The Six Million Dollar Man.S02E04.The Pal-Mir Escort
-2019-07-31 20:26:35: The Six Million Dollar Man.S02E03.Pilot Error
-2019-07-31 20:26:16: The Six Million Dollar Man.S02E02.The Pioneers
-2019-07-31 20:25:56: The Six Million Dollar Man.S02E01.Nuclear Alert
-2019-07-31 20:25:37: The Six Million Dollar Man.S01E13.Run, Steve, Run
-2019-07-31 20:25:24: The Six Million Dollar Man.S01E12.The Coward
-2019-07-31 20:25:12: The Six Million Dollar Man.S01E11.Burning Bright
-2019-07-31 20:25:01: The Six Million Dollar Man.S01E10.The Last of the Fourth of Julys
-2019-07-31 20:24:46: The Six Million Dollar Man.S01E09.Dr. Wells is Missing
