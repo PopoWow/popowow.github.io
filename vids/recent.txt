@@ -1,3 +1,5 @@
+2019-08-01 20:24:42: Elementary.S07E11.Unfriended
+2019-08-01 20:24:42: iZombie.S05E13.All's Well That Ends Well
 2019-07-31 22:21:07: Krypton.S02E08.Mercy
 2019-07-31 20:54:46: The Bionic Woman.S02E06.Kill Oscar (3)
 2019-07-31 20:54:24: The Bionic Woman.S02E05.Kill Oscar (1)
@@ -96,5 +98,3 @@
 2019-07-31 20:25:12: The Six Million Dollar Man.S01E11.Burning Bright
 2019-07-31 20:25:01: The Six Million Dollar Man.S01E10.The Last of the Fourth of Julys
 2019-07-31 20:24:46: The Six Million Dollar Man.S01E09.Dr. Wells is Missing
-2019-07-31 20:24:35: The Six Million Dollar Man.S01E08.The Rescue of Athena One
-2019-07-31 20:24:23: The Six Million Dollar Man.S01E07.Eyewitness to Murder
