@@ -1,3 +1,20 @@
+2019-08-02 22:30:29: Marvel's Agents of S.H.I.E.L.D..S06E12.The Sign
+2019-08-02 22:30:17: Death in Paradise.S02E07.A Stormy Occurrence
+2019-08-02 22:30:04: Death in Paradise.S02E05.Murder Onboard
+2019-08-02 22:29:51: Death in Paradise.S02E04.A Deadly Curse
+2019-08-02 22:29:37: Death in Paradise.S02E02.An Unholy Death
+2019-08-02 22:29:27: Death in Paradise.S01E08.Amongst Us
+2019-08-02 22:29:12: Death in Paradise.S01E07.Music of Murder
+2019-08-02 22:28:58: Death in Paradise.S01E06.An Unhelpful Aid
+2019-08-02 22:28:44: Death in Paradise.S01E05.Spot the Difference
+2019-08-02 22:28:28: Death in Paradise.S01E04.Missing a Body?
+2019-08-02 22:28:11: Death in Paradise.S01E03.Predicting Murder
+2019-08-02 22:27:56: Death in Paradise.S01E02.Wicked Wedding Night
+2019-08-02 22:27:41: Death in Paradise.S01E01.Arriving in Paradise
+2019-08-02 22:27:29: Death in Paradise.S02E01.A Murder on the Plantation
+2019-08-02 22:27:13: Death in Paradise.S02E03.Death in the Clinic
+2019-08-02 22:26:58: Death in Paradise.S02E08.A Deadly Party
+2019-08-02 22:26:46: Death in Paradise.S02E06.A Dash of Sunshine
 2019-08-02 06:27:14: Death in Paradise.S04E08.Unlike Father, Unlike Son
 2019-08-02 06:27:02: Death in Paradise.S04E07.She Was Murdered Twice
 2019-08-02 06:26:48: Death in Paradise.S04E06.The Perfect Murder
@@ -81,20 +98,3 @@
 2019-07-31 20:35:45: The Six Million Dollar Man.S03E10.The Blue Flash
 2019-07-31 20:35:25: The Six Million Dollar Man.S03E09.The Bionic Criminal
 2019-07-31 20:35:06: The Six Million Dollar Man.S03E08.One of Our Running Backs is Missing
-2019-07-31 20:34:47: The Six Million Dollar Man.S03E07.Target in the Sky
-2019-07-31 20:34:29: The Six Million Dollar Man.S03E06.The Deadly Test
-2019-07-31 20:34:10: The Six Million Dollar Man.S03E05.The Wolf Boy
-2019-07-31 20:33:54: The Six Million Dollar Man.S03E04.The Song and Dance Spy
-2019-07-31 20:33:31: The Six Million Dollar Man.S03E03.The Price of Liberty
-2019-07-31 20:33:16: The Six Million Dollar Man.S03E02.The Return of the Bionic Woman (2)
-2019-07-31 20:32:57: The Six Million Dollar Man.S03E01.The Return of the Bionic Woman (1)
-2019-07-31 20:32:38: The Six Million Dollar Man.S02E22.Steve Austin, Fugitive
-2019-07-31 20:32:21: The Six Million Dollar Man.S02E21.Outrage in Balinderry
-2019-07-31 20:31:59: The Six Million Dollar Man.S02E20.The Bionic Woman (2)
-2019-07-31 20:31:39: The Six Million Dollar Man.S02E19.The Bionic Woman (1)
-2019-07-31 20:31:21: The Six Million Dollar Man.S02E18.The E.S.P. Spy
-2019-07-31 20:31:02: The Six Million Dollar Man.S02E17.Look Alike
-2019-07-31 20:30:44: The Six Million Dollar Man.S02E16.Taneha
-2019-07-31 20:30:26: The Six Million Dollar Man.S02E15.Return of the Robot Maker
-2019-07-31 20:30:09: The Six Million Dollar Man.S02E14.The Last Kamikaze
-2019-07-31 20:29:51: The Six Million Dollar Man.S02E13.Lost Love
