@@ -1,3 +1,4 @@
+2019-08-03 00:25:44: Marvel's Agents of S.H.I.E.L.D..S06E13.New Life
 2019-08-02 22:30:29: Marvel's Agents of S.H.I.E.L.D..S06E12.The Sign
 2019-08-02 22:30:17: Death in Paradise.S02E07.A Stormy Occurrence
 2019-08-02 22:30:04: Death in Paradise.S02E05.Murder Onboard
@@ -97,4 +98,3 @@
 2019-07-31 20:36:02: The Six Million Dollar Man.S03E11.The White Lightning War
 2019-07-31 20:35:45: The Six Million Dollar Man.S03E10.The Blue Flash
 2019-07-31 20:35:25: The Six Million Dollar Man.S03E09.The Bionic Criminal
-2019-07-31 20:35:06: The Six Million Dollar Man.S03E08.One of Our Running Backs is Missing
