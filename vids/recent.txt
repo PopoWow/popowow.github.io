@@ -1,4 +1,5 @@
-2019-08-03 20:26:50: Real Time with Bill Maher.S17E22.Episode 502
+2019-08-04 20:22:49: The Handmaid's Tale.S03E09.Heroic
+2019-08-04 20:22:43: Real Time with Bill Maher.S17E22.Episode 502
 2019-08-03 00:25:44: Marvel's Agents of S.H.I.E.L.D..S06E13.New Life
 2019-08-02 22:30:29: Marvel's Agents of S.H.I.E.L.D..S06E12.The Sign
 2019-08-02 22:30:17: Death in Paradise.S02E07.A Stormy Occurrence
@@ -97,4 +98,3 @@
 2019-07-31 20:36:38: The Six Million Dollar Man.S03E13.Clark Templeton O'Flaherty
 2019-07-31 20:36:21: The Six Million Dollar Man.S03E12.Divided Loyalty
 2019-07-31 20:36:02: The Six Million Dollar Man.S03E11.The White Lightning War
-2019-07-31 20:35:45: The Six Million Dollar Man.S03E10.The Blue Flash
