@@ -1,3 +1,4 @@
+2019-08-06 06:20:17: American Ninja Warrior.S11E10.Seattle/Tacoma City Finals
 2019-08-05 00:52:49: Last Week Tonight with John Oliver.S06E19.Episode 168
 2019-08-04 20:22:49: The Handmaid's Tale.S03E09.Heroic
 2019-08-04 20:22:43: Real Time with Bill Maher.S17E22.Episode 502
@@ -97,4 +98,3 @@
 2019-07-31 20:37:10: The Six Million Dollar Man.S03E15.Welcome Home, Jaime (1)
 2019-07-31 20:36:54: The Six Million Dollar Man.S03E14.The Winning Smile
 2019-07-31 20:36:38: The Six Million Dollar Man.S03E13.Clark Templeton O'Flaherty
-2019-07-31 20:36:21: The Six Million Dollar Man.S03E12.Divided Loyalty
