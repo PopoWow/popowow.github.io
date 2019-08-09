@@ -1,3 +1,4 @@
+2019-08-08 20:21:55: Elementary.S07E12.Reichenbach Falls
 2019-08-07 22:21:49: Krypton.S02E09.Blood Moon
 2019-08-06 06:20:17: American Ninja Warrior.S11E10.Seattle/Tacoma City Finals
 2019-08-05 00:52:49: Last Week Tonight with John Oliver.S06E19.Episode 168
@@ -97,4 +98,3 @@
 2019-07-31 20:37:48: The Six Million Dollar Man.S03E17.Hocus-Pocus
 2019-07-31 20:37:28: The Six Million Dollar Man.S03E16.Welcome Home, Jaime (2)
 2019-07-31 20:37:10: The Six Million Dollar Man.S03E15.Welcome Home, Jaime (1)
-2019-07-31 20:36:54: The Six Million Dollar Man.S03E14.The Winning Smile
