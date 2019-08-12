@@ -1,3 +1,4 @@
+2019-08-11 20:20:59: The Handmaid's Tale.S03E10.Witness
 2019-08-10 20:21:36: Real Time with Bill Maher.S17E23.Episode 503
 2019-08-09 22:21:45: Fear the Walking Dead.S05E09.Channel 4
 2019-08-09 00:22:16: Baskets.S04E08.Grandma's Day
@@ -97,4 +98,3 @@
 2019-07-31 20:38:58: The Six Million Dollar Man.S03E21.Love Song for Tanya
 2019-07-31 20:38:42: The Six Million Dollar Man.S03E20.The Golden Pharaoh
 2019-07-31 20:38:25: The Six Million Dollar Man.S03E19.The Secret of Bigfoot (2)
-2019-07-31 20:38:04: The Six Million Dollar Man.S03E18.The Secret of Bigfoot (1)
