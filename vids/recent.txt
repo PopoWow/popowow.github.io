@@ -1,3 +1,4 @@
+2019-08-13 06:20:45: American Ninja Warrior.S11E11.Baltimore City Finals
 2019-08-12 00:23:04: Last Week Tonight with John Oliver.S06E20.Episode 169
 2019-08-11 20:20:59: The Handmaid's Tale.S03E10.Witness
 2019-08-10 20:21:36: Real Time with Bill Maher.S17E23.Episode 503
@@ -97,4 +98,3 @@
 2019-07-31 20:39:36: The Six Million Dollar Man.S04E02.The Return of Bigfoot (2)
 2019-07-31 20:39:20: The Six Million Dollar Man.S04E01.The Return of Bigfoot (1)
 2019-07-31 20:38:58: The Six Million Dollar Man.S03E21.Love Song for Tanya
-2019-07-31 20:38:42: The Six Million Dollar Man.S03E20.The Golden Pharaoh
