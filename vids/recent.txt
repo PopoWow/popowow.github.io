@@ -1,3 +1,6 @@
+2019-08-17 03:09:05: Fear the Walking Dead.S05E10.210 Words Per Minute
+2019-08-17 03:08:59: Elementary.S07E13.Their Last Bow
+2019-08-17 03:08:58: Baskets.S04E09.Mrs. Baskets Goes to Sacramento
 2019-08-15 06:22:04: Real Time with Bill Maher.S17E23.Episode 503
 2019-08-15 06:21:59: Last Week Tonight with John Oliver.S06E18.Episode 167
 2019-08-15 06:21:55: Krypton.S02E10.The Alpha and the Omega
@@ -95,6 +98,3 @@
 2019-07-31 20:41:49: The Six Million Dollar Man.S04E08.The Bionic Boy
 2019-07-31 20:41:31: The Six Million Dollar Man.S04E07.Kill Oscar (Part 2)
 2019-07-31 20:40:54: The Six Million Dollar Man.S04E06.H+2+O = Death
-2019-07-31 20:40:34: The Six Million Dollar Man.S04E05.The Most Dangerous Enemy
-2019-07-31 20:40:15: The Six Million Dollar Man.S04E04.Double Trouble
-2019-07-31 20:39:54: The Six Million Dollar Man.S04E03.Nightmare in the Sky
