@@ -1,3 +1,4 @@
+2019-08-18 00:03:50: Real Time with Bill Maher.S17E24.Episode 504
 2019-08-17 03:09:05: Fear the Walking Dead.S05E10.210 Words Per Minute
 2019-08-17 03:08:59: Elementary.S07E13.Their Last Bow
 2019-08-17 03:08:58: Baskets.S04E09.Mrs. Baskets Goes to Sacramento
@@ -97,4 +98,3 @@
 2019-07-31 20:42:19: The Six Million Dollar Man.S04E09.Vulture of the Andes
 2019-07-31 20:41:49: The Six Million Dollar Man.S04E08.The Bionic Boy
 2019-07-31 20:41:31: The Six Million Dollar Man.S04E07.Kill Oscar (Part 2)
-2019-07-31 20:40:54: The Six Million Dollar Man.S04E06.H+2+O = Death
