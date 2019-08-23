@@ -1,3 +1,4 @@
+2019-08-22 22:00:34: Baskets.S04E10.Moving On
 2019-08-20 22:00:33: Real Time with Bill Maher.S17E24.Episode 504
 2019-08-20 06:03:39: American Ninja Warrior.S11E12.Cincinnati City Finals
 2019-08-19 06:03:25: Last Week Tonight with John Oliver.S06E21.Episode 170
@@ -97,4 +98,3 @@
 2019-07-31 20:43:36: The Six Million Dollar Man.S04E13.The Ultimate Imposter
 2019-07-31 20:43:17: The Six Million Dollar Man.S04E12.Task Force
 2019-07-31 20:42:59: The Six Million Dollar Man.S04E11.A Bionic Christmas Carol
-2019-07-31 20:42:42: The Six Million Dollar Man.S04E10.The Thunderbird Connection
