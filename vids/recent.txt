@@ -1,3 +1,4 @@
+2019-08-24 20:00:33: Real Time with Bill Maher.S17E25.Episode 505
 2019-08-23 20:00:21: Fear the Walking Dead.S05E11.You're Still Here
 2019-08-22 22:00:34: Baskets.S04E10.Moving On
 2019-08-20 22:00:33: Real Time with Bill Maher.S17E24.Episode 504
@@ -97,4 +98,3 @@
 2019-07-31 20:44:10: The Six Million Dollar Man.S04E15.Death Probe (2)
 2019-07-31 20:43:54: The Six Million Dollar Man.S04E14.Death Probe (1)
 2019-07-31 20:43:36: The Six Million Dollar Man.S04E13.The Ultimate Imposter
-2019-07-31 20:43:17: The Six Million Dollar Man.S04E12.Task Force
