@@ -1,3 +1,37 @@
+2019-08-30 22:34:11: The Legend of Korra.S03E11.The Ultimatum
+2019-08-30 22:34:07: The Legend of Korra.S03E10.Long Live the Queen
+2019-08-30 22:34:00: The Legend of Korra.S03E09.The Stakeout
+2019-08-30 22:33:56: The Legend of Korra.S03E08.The Terror Within
+2019-08-30 22:33:50: The Legend of Korra.S03E07.Original Airbenders
+2019-08-30 22:33:46: The Legend of Korra.S03E06.Old Wounds
+2019-08-30 22:33:41: The Legend of Korra.S03E05.The Metal Clan
+2019-08-30 22:33:34: The Legend of Korra.S03E04.In Harm's Way
+2019-08-30 22:33:28: The Legend of Korra.S03E03.The Earth Queen
+2019-08-30 22:33:23: The Legend of Korra.S03E02.Rebirth
+2019-08-30 22:33:18: The Legend of Korra.S03E12.Enter the Void
+2019-08-30 22:33:07: The Legend of Korra.S03E01.A Breath of Fresh Air
+2019-08-30 22:33:00: The Legend of Korra.S03E13.Venom of the Red Lotus
+2019-08-30 22:31:26: The Legend of Korra.S02E13.Darkness Falls
+2019-08-30 22:31:01: The Legend of Korra.S02E11.Night of a Thousand Stars
+2019-08-30 22:30:42: The Legend of Korra.S02E10.A New Spiritual Age
+2019-08-30 22:30:35: The Legend of Korra.S02E09.The Guide
+2019-08-30 22:30:24: The Legend of Korra.S02E07.Beginnings (1)
+2019-08-30 22:30:08: The Legend of Korra.S02E06.The Sting
+2019-08-30 22:30:03: The Legend of Korra.S02E05.Peacekeepers
+2019-08-30 22:29:55: The Legend of Korra.S02E04.Civil Wars (2)
+2019-08-30 22:29:49: The Legend of Korra.S02E03.Civil Wars (1)
+2019-08-30 22:29:43: The Legend of Korra.S02E01.Rebel Spirit
+2019-08-30 22:29:26: The Legend of Korra.S01E12.Endgame
+2019-08-30 22:29:12: The Legend of Korra.S01E11.Skeletons in the Closet
+2019-08-30 22:28:57: The Legend of Korra.S01E10.Turning the Tides
+2019-08-30 22:28:40: The Legend of Korra.S01E09.Out of the Past
+2019-08-30 22:28:29: The Legend of Korra.S01E08.When Extremes Meet
+2019-08-30 22:28:18: The Legend of Korra.S01E07.The Aftermath
+2019-08-30 22:28:01: The Legend of Korra.S01E06.And the Winner Is...
+2019-08-30 22:27:48: The Legend of Korra.S01E05.The Spirit of Competition
+2019-08-30 22:27:35: The Legend of Korra.S01E04.The Voice in the Night
+2019-08-30 22:27:25: The Legend of Korra.S01E03.The Revelation
+2019-08-30 22:27:12: The Legend of Korra.S01E01.Welcome to Republic City
 2019-08-30 22:00:13: Fear the Walking Dead.S05E12.Ner Tamid
 2019-08-27 06:00:35: American Ninja Warrior.S11E13.Las Vegas National Finals Night 1
 2019-08-26 22:00:26: Real Time with Bill Maher.S17E25.Episode 505
@@ -64,37 +98,3 @@
 2019-08-01 20:24:42: Elementary.S07E11.Unfriended
 2019-08-01 20:24:42: iZombie.S05E13.All's Well That Ends Well
 2019-07-31 22:21:07: Krypton.S02E08.Mercy
-2019-07-31 20:54:46: The Bionic Woman.S02E06.Kill Oscar (3)
-2019-07-31 20:54:24: The Bionic Woman.S02E05.Kill Oscar (1)
-2019-07-31 20:53:58: The Bionic Woman.S02E01.The Return of Bigfoot (2)
-2019-07-31 20:53:40: The Bionic Woman.S01E06.The Deadly Missiles
-2019-07-31 20:53:32: The Bionic Woman.S01E04.A Thing of the Past
-2019-07-31 20:53:25: The Bionic Woman.S01E01.Welcome Home, Jaime (1)
-2019-07-31 20:53:06: The Six Million Dollar Man.S05E21.The Moving Mountain
-2019-07-31 20:52:48: The Six Million Dollar Man.S05E20.Date With Danger (2)
-2019-07-31 20:52:31: The Six Million Dollar Man.S05E19.Date With Danger (1)
-2019-07-31 20:52:14: The Six Million Dollar Man.S05E18.Dead Ringer
-2019-07-31 20:51:54: The Six Million Dollar Man.S05E17.The Madonna Caper
-2019-07-31 20:51:32: The Six Million Dollar Man.S05E16.The Lost Island
-2019-07-31 20:50:58: The Six Million Dollar Man.S05E15.Return of the Deathprobe (2)
-2019-07-31 20:50:38: The Six Million Dollar Man.S05E14.Return of the Deathprobe (1)
-2019-07-31 20:50:17: The Six Million Dollar Man.S05E13.Just a Matter of Time
-2019-07-31 20:50:02: The Six Million Dollar Man.S05E12.Walk a Deadly Wing
-2019-07-31 20:49:44: The Six Million Dollar Man.S05E11.The Cheshire Project
-2019-07-31 20:49:24: The Six Million Dollar Man.S05E10.Target: Steve Austin
-2019-07-31 20:49:04: The Six Million Dollar Man.S05E09.Dark Side of the Moon (2)
-2019-07-31 20:48:43: The Six Million Dollar Man.S05E08.Dark Side of the Moon (1)
-2019-07-31 20:48:24: The Six Million Dollar Man.S05E07.Rollback
-2019-07-31 20:48:07: The Six Million Dollar Man.S05E06.Killer Wind
-2019-07-31 20:47:50: The Six Million Dollar Man.S05E05.Bigfoot V
-2019-07-31 20:47:33: The Six Million Dollar Man.S05E04.Deadly Countdown (2)
-2019-07-31 20:47:08: The Six Million Dollar Man.S05E03.Deadly Countdown (1)
-2019-07-31 20:46:49: The Six Million Dollar Man.S05E02.Sharks (2)
-2019-07-31 20:46:33: The Six Million Dollar Man.S05E01.Sharks (1)
-2019-07-31 20:46:18: The Six Million Dollar Man.S04E22.To Catch the Eagle
-2019-07-31 20:46:00: The Six Million Dollar Man.S04E21.The Privacy of the Mind
-2019-07-31 20:45:42: The Six Million Dollar Man.S04E20.U-509
-2019-07-31 20:45:25: The Six Million Dollar Man.S04E19.Carnival of Spies
-2019-07-31 20:45:08: The Six Million Dollar Man.S04E18.The Infiltrators
-2019-07-31 20:44:51: The Six Million Dollar Man.S04E17.Fires of Hell
-2019-07-31 20:44:32: The Six Million Dollar Man.S04E16.Danny's Inferno
