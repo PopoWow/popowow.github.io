@@ -1,16 +1,28 @@
-2019-08-30 22:34:11: The Legend of Korra.S03E11.The Ultimatum
-2019-08-30 22:34:07: The Legend of Korra.S03E10.Long Live the Queen
-2019-08-30 22:34:00: The Legend of Korra.S03E09.The Stakeout
-2019-08-30 22:33:56: The Legend of Korra.S03E08.The Terror Within
-2019-08-30 22:33:50: The Legend of Korra.S03E07.Original Airbenders
-2019-08-30 22:33:46: The Legend of Korra.S03E06.Old Wounds
-2019-08-30 22:33:41: The Legend of Korra.S03E05.The Metal Clan
-2019-08-30 22:33:34: The Legend of Korra.S03E04.In Harm's Way
-2019-08-30 22:33:28: The Legend of Korra.S03E03.The Earth Queen
-2019-08-30 22:33:23: The Legend of Korra.S03E02.Rebirth
-2019-08-30 22:33:18: The Legend of Korra.S03E12.Enter the Void
-2019-08-30 22:33:07: The Legend of Korra.S03E01.A Breath of Fresh Air
-2019-08-30 22:33:00: The Legend of Korra.S03E13.Venom of the Red Lotus
+2019-08-30 22:55:16: The Legend of Korra.S04E11.Kuvira's Gambit
+2019-08-30 22:55:10: The Legend of Korra.S04E10.Operation: Beifong
+2019-08-30 22:55:05: The Legend of Korra.S04E09.Beyond the Wilds
+2019-08-30 22:54:59: The Legend of Korra.S04E08.Remembrances
+2019-08-30 22:54:55: The Legend of Korra.S04E07.Reunion
+2019-08-30 22:54:52: The Legend of Korra.S04E06.The Battle of Zaofu
+2019-08-30 22:54:47: The Legend of Korra.S04E05.Enemy at the Gates
+2019-08-30 22:54:41: The Legend of Korra.S04E04.The Calling
+2019-08-30 22:54:34: The Legend of Korra.S04E03.The Coronation
+2019-08-30 22:54:29: The Legend of Korra.S04E02.Korra Alone
+2019-08-30 22:54:23: The Legend of Korra.S04E12.Day of the Colossus
+2019-08-30 22:54:10: The Legend of Korra.S04E01.After All These Years
+2019-08-30 22:54:02: The Legend of Korra.S03E13.Venom of the Red Lotus
+2019-08-30 22:53:52: The Legend of Korra.S03E12.Enter the Void
+2019-08-30 22:53:46: The Legend of Korra.S03E11.The Ultimatum
+2019-08-30 22:53:40: The Legend of Korra.S03E10.Long Live the Queen
+2019-08-30 22:53:36: The Legend of Korra.S03E09.The Stakeout
+2019-08-30 22:53:29: The Legend of Korra.S03E08.The Terror Within
+2019-08-30 22:53:23: The Legend of Korra.S03E07.Original Airbenders
+2019-08-30 22:53:14: The Legend of Korra.S03E06.Old Wounds
+2019-08-30 22:53:09: The Legend of Korra.S03E05.The Metal Clan
+2019-08-30 22:53:02: The Legend of Korra.S03E04.In Harm's Way
+2019-08-30 22:52:56: The Legend of Korra.S03E03.The Earth Queen
+2019-08-30 22:52:51: The Legend of Korra.S03E02.Rebirth
+2019-08-30 22:52:47: The Legend of Korra.S03E01.A Breath of Fresh Air
 2019-08-30 22:31:26: The Legend of Korra.S02E13.Darkness Falls
 2019-08-30 22:31:01: The Legend of Korra.S02E11.Night of a Thousand Stars
 2019-08-30 22:30:42: The Legend of Korra.S02E10.A New Spiritual Age
@@ -86,15 +98,3 @@
 2019-08-02 06:26:08: Death in Paradise.S04E03.Damned If You Do...
 2019-08-02 06:25:57: Death in Paradise.S04E02.Hidden Secrets
 2019-08-02 06:25:44: Death in Paradise.S04E01.Stab in the Dark
-2019-08-02 06:25:32: Death in Paradise.S03E08.Rue Morgue
-2019-08-02 06:25:20: Death in Paradise.S03E07.The Man with the Golden Gun
-2019-08-02 06:25:09: Death in Paradise.S03E06.The Early Bird
-2019-08-02 06:24:58: Death in Paradise.S03E05.Political Suicide
-2019-08-02 06:24:47: Death in Paradise.S03E04.Ye of Little Faith
-2019-08-02 06:24:36: Death in Paradise.S03E03.An Artistic Murder
-2019-08-02 06:24:25: Death in Paradise.S03E02.The Wrong Man
-2019-08-02 06:24:20: Death in Paradise.S03E01.Death of a Detective
-2019-08-02 06:24:10: Baskets.S04E07.Housewarming
-2019-08-01 20:24:42: Elementary.S07E11.Unfriended
-2019-08-01 20:24:42: iZombie.S05E13.All's Well That Ends Well
-2019-07-31 22:21:07: Krypton.S02E08.Mercy
