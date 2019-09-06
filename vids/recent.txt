@@ -1,3 +1,4 @@
+2019-09-05 22:02:02: American Ninja Warrior.S11E14.Las Vegas National Finals Night 2
 2019-09-05 22:00:20: The Handmaid's Tale.S03E13.Mayday
 2019-08-30 22:55:16: The Legend of Korra.S04E11.Kuvira's Gambit
 2019-08-30 22:55:10: The Legend of Korra.S04E10.Operation: Beifong
@@ -97,4 +98,3 @@
 2019-08-02 06:26:32: Death in Paradise.S04E05.Episode 5
 2019-08-02 06:26:16: Death in Paradise.S04E04.Episode 4
 2019-08-02 06:26:08: Death in Paradise.S04E03.Episode 3
-2019-08-02 06:25:57: Death in Paradise.S04E02.Episode 2
