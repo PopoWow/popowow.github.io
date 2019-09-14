@@ -1,3 +1,4 @@
+2019-09-14 06:00:07: Fear the Walking Dead.S05E14.Today and Tomorrow
 2019-09-10 06:00:25: American Ninja Warrior.S11E15.Las Vegas National Finals Night 3
 2019-09-09 20:00:24: Last Week Tonight with John Oliver.S06E22.Episode 171
 2019-09-07 20:00:08: Real Time with Bill Maher.S17E26.Episode 506
@@ -97,4 +98,3 @@
 2019-08-02 22:26:58: Death in Paradise.S02E08.Episode 8
 2019-08-02 22:26:46: Death in Paradise.S02E06.Episode 6
 2019-08-02 06:27:14: Death in Paradise.S04E08.Episode 8
-2019-08-02 06:27:02: Death in Paradise.S04E07.Episode 7
