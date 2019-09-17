@@ -1,3 +1,4 @@
+2019-09-17 06:00:14: American Ninja Warrior.S11E16.Las Vegas National Finals Night 4
 2019-09-16 06:00:06: Last Week Tonight with John Oliver.S06E23.Episode 172
 2019-09-15 22:14:23: The Masked Singer.S00E01.Super Sneak Peek
 2019-09-14 20:00:14: Real Time with Bill Maher.S17E27.Episode 507
@@ -97,4 +98,3 @@
 2019-08-02 22:27:56: Death in Paradise.S01E02.Episode 2
 2019-08-02 22:27:41: Death in Paradise.S01E01.Episode 1
 2019-08-02 22:27:29: Death in Paradise.S02E01.Episode 1
-2019-08-02 22:27:13: Death in Paradise.S02E03.Episode 3
