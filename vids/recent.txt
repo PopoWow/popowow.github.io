@@ -1,7 +1,12 @@
+2019-09-17 23:48:35: Real Time with Bill Maher.S17E27.Episode 507
+2019-09-17 23:48:35: Tosh.0.S11E11.Episode 11
+2019-09-17 23:48:34: Adam Ruins Everything.S03E09.Adam Ruins Music
+2019-09-17 23:48:33: Adam Ruins Everything.S03E06.Adam Ruins a Night Out
+2019-09-17 23:48:33: Adam Ruins Everything.S03E07.Adam Ruins Doing Good
+2019-09-17 23:48:33: Adam Ruins Everything.S03E08.Adam Ruins A Murder
 2019-09-17 06:00:14: American Ninja Warrior.S11E16.Las Vegas National Finals Night 4
 2019-09-16 06:00:06: Last Week Tonight with John Oliver.S06E23.Episode 172
 2019-09-15 22:14:23: The Masked Singer.S00E01.Super Sneak Peek
-2019-09-14 20:00:14: Real Time with Bill Maher.S17E27.Episode 507
 2019-09-14 06:00:07: Fear the Walking Dead.S05E14.Today and Tomorrow
 2019-09-10 06:00:25: American Ninja Warrior.S11E15.Las Vegas National Finals Night 3
 2019-09-09 20:00:24: Last Week Tonight with John Oliver.S06E22.Episode 171
@@ -93,8 +98,3 @@
 2019-08-02 22:29:12: Death in Paradise.S01E07.Episode 7
 2019-08-02 22:28:58: Death in Paradise.S01E06.Episode 6
 2019-08-02 22:28:44: Death in Paradise.S01E05.Episode 5
-2019-08-02 22:28:28: Death in Paradise.S01E04.Episode 4
-2019-08-02 22:28:11: Death in Paradise.S01E03.Episode 3
-2019-08-02 22:27:56: Death in Paradise.S01E02.Episode 2
-2019-08-02 22:27:41: Death in Paradise.S01E01.Episode 1
-2019-08-02 22:27:29: Death in Paradise.S02E01.Episode 1
