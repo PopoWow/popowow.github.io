@@ -1,3 +1,4 @@
+2019-09-20 20:00:06: Fear the Walking Dead.S05E15.Channel 5
 2019-09-17 23:48:35: Real Time with Bill Maher.S17E27.Episode 507
 2019-09-17 23:48:35: Tosh.0.S11E11.Episode 11
 2019-09-17 23:48:34: Adam Ruins Everything.S03E09.Adam Ruins Music
@@ -90,11 +91,10 @@
 2019-08-04 20:22:43: Real Time with Bill Maher.S17E22.Episode 502
 2019-08-03 00:25:44: Marvel's Agents of S.H.I.E.L.D..S06E13.New Life
 2019-08-02 22:30:29: Marvel's Agents of S.H.I.E.L.D..S06E12.The Sign
-2019-08-02 22:30:17: Death in Paradise.S02E07.Episode 7
-2019-08-02 22:30:04: Death in Paradise.S02E05.Episode 5
-2019-08-02 22:29:51: Death in Paradise.S02E04.Episode 4
-2019-08-02 22:29:37: Death in Paradise.S02E02.Episode 2
-2019-08-02 22:29:27: Death in Paradise.S01E08.Episode 8
-2019-08-02 22:29:12: Death in Paradise.S01E07.Episode 7
-2019-08-02 22:28:58: Death in Paradise.S01E06.Episode 6
-2019-08-02 22:28:44: Death in Paradise.S01E05.Episode 5
+2019-08-02 22:30:17: Death in Paradise.S02E07.A Stormy Occurrence
+2019-08-02 22:30:04: Death in Paradise.S02E05.Murder Onboard
+2019-08-02 22:29:51: Death in Paradise.S02E04.A Deadly Curse
+2019-08-02 22:29:37: Death in Paradise.S02E02.An Unholy Death
+2019-08-02 22:29:27: Death in Paradise.S01E08.Amongst Us
+2019-08-02 22:29:12: Death in Paradise.S01E07.Music of Murder
+2019-08-02 22:28:58: Death in Paradise.S01E06.An Unhelpful Aid
