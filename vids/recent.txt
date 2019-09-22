@@ -1,3 +1,4 @@
+2019-09-21 20:01:53: Real Time with Bill Maher.S17E28.Episode 508
 2019-09-20 23:48:29: Titans (2018).S02E03.Ghosts
 2019-09-20 23:48:12: A Crime to Remember.S05E01.Once Upon a Crime
 2019-09-20 20:00:06: Fear the Walking Dead.S05E15.Channel 5
@@ -97,4 +98,3 @@
 2019-08-02 22:30:04: Death in Paradise.S02E05.Murder Onboard
 2019-08-02 22:29:51: Death in Paradise.S02E04.A Deadly Curse
 2019-08-02 22:29:37: Death in Paradise.S02E02.An Unholy Death
-2019-08-02 22:29:27: Death in Paradise.S01E08.Amongst Us
