@@ -1,4 +1,10 @@
-2019-09-21 20:01:53: Real Time with Bill Maher.S17E28.Episode 508
+2019-09-22 20:03:10: Red Dwarf.S12E04.Mechocracy
+2019-09-22 20:03:10: Red Dwarf.S12E05.M-Corp
+2019-09-22 20:03:10: Red Dwarf.S12E06.Skipper
+2019-09-22 20:03:09: Red Dwarf.S12E02.Siliconia
+2019-09-22 20:03:09: Red Dwarf.S12E03.Timewave
+2019-09-22 20:03:08: Real Time with Bill Maher.S17E28.Episode 508
+2019-09-22 20:03:08: Red Dwarf.S12E01.Cured
 2019-09-20 23:48:29: Titans (2018).S02E03.Ghosts
 2019-09-20 23:48:12: A Crime to Remember.S05E01.Once Upon a Crime
 2019-09-20 20:00:06: Fear the Walking Dead.S05E15.Channel 5
@@ -92,9 +98,3 @@
 2019-08-05 00:52:49: Last Week Tonight with John Oliver.S06E19.Episode 168
 2019-08-04 20:22:49: The Handmaid's Tale.S03E09.Heroic
 2019-08-04 20:22:43: Real Time with Bill Maher.S17E22.Episode 502
-2019-08-03 00:25:44: Marvel's Agents of S.H.I.E.L.D..S06E13.New Life
-2019-08-02 22:30:29: Marvel's Agents of S.H.I.E.L.D..S06E12.The Sign
-2019-08-02 22:30:17: Death in Paradise.S02E07.A Stormy Occurrence
-2019-08-02 22:30:04: Death in Paradise.S02E05.Murder Onboard
-2019-08-02 22:29:51: Death in Paradise.S02E04.A Deadly Curse
-2019-08-02 22:29:37: Death in Paradise.S02E02.An Unholy Death
