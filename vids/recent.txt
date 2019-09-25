@@ -1,3 +1,4 @@
+2019-09-25 06:01:37: Tosh.0.S11E12.Episode 12
 2019-09-22 20:03:10: Red Dwarf.S12E04.Mechocracy
 2019-09-22 20:03:10: Red Dwarf.S12E05.M-Corp
 2019-09-22 20:03:10: Red Dwarf.S12E06.Skipper
@@ -9,7 +10,7 @@
 2019-09-20 23:48:12: A Crime to Remember.S05E01.Once Upon a Crime
 2019-09-20 20:00:06: Fear the Walking Dead.S05E15.Channel 5
 2019-09-17 23:48:35: Real Time with Bill Maher.S17E27.Episode 507
-2019-09-17 23:48:35: Tosh.0.S11E11.Episode 11
+2019-09-17 23:48:35: Tosh.0.S11E11.SteveWillDoIt
 2019-09-17 23:48:34: Adam Ruins Everything.S03E09.Adam Ruins Music
 2019-09-17 23:48:33: Adam Ruins Everything.S03E06.Adam Ruins a Night Out
 2019-09-17 23:48:33: Adam Ruins Everything.S03E07.Adam Ruins Doing Good
@@ -97,4 +98,3 @@
 2019-08-06 06:20:17: American Ninja Warrior.S11E10.Seattle/Tacoma City Finals
 2019-08-05 00:52:49: Last Week Tonight with John Oliver.S06E19.Episode 168
 2019-08-04 20:22:49: The Handmaid's Tale.S03E09.Heroic
-2019-08-04 20:22:43: Real Time with Bill Maher.S17E22.Episode 502
