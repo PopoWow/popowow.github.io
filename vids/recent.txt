@@ -1,3 +1,4 @@
+2019-09-28 00:40:52: Warrior (2019).S01E03.John Chinaman
 2019-09-27 22:02:29: Fear the Walking Dead.S05E16.End of the Line
 2019-09-27 20:02:28: Fresh Off the Boat.S06E01.Help Unwanted?
 2019-09-26 20:02:47: Young Sheldon.S03E01.Quirky Eggheads and Texas Snow Globes
@@ -97,4 +98,3 @@
 2019-08-15 06:21:55: Krypton.S02E10.The Alpha and the Omega
 2019-08-14 06:21:38: Adam Ruins Everything.S03E05.Adam Ruins America
 2019-08-13 06:20:45: American Ninja Warrior.S11E11.Baltimore City Finals
-2019-08-12 00:23:04: Last Week Tonight with John Oliver.S06E20.Episode 169
