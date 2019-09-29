@@ -1,3 +1,5 @@
+2019-09-28 20:05:11: Titans (2018).S02E04.Aqualad
+2019-09-28 20:05:10: Real Time with Bill Maher.S17E29.Episode 509
 2019-09-28 06:05:58: Warrior (2019).S01E10.If You're Going to Bow, Bow Low
 2019-09-28 06:05:53: Warrior (2019).S01E09.Chinese Boxing
 2019-09-28 06:05:47: Warrior (2019).S01E08.They Don't Pay Us Enough to Think
@@ -96,5 +98,3 @@
 2019-08-23 20:00:21: Fear the Walking Dead.S05E11.You're Still Here
 2019-08-22 22:00:34: Baskets.S04E10.Moving On
 2019-08-20 22:00:33: Real Time with Bill Maher.S17E24.Episode 504
-2019-08-20 06:03:39: American Ninja Warrior.S11E12.Cincinnati City Finals
-2019-08-19 06:03:25: Last Week Tonight with John Oliver.S06E21.Episode 170
