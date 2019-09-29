@@ -1,3 +1,16 @@
+2019-09-28 21:53:43: Snapped.S01E13.Carolyn Warmus
+2019-09-28 21:53:42: Snapped.S01E12.Debra Baker
+2019-09-28 21:53:41: Snapped.S01E11.Kristin Rossum
+2019-09-28 21:53:40: Snapped.S01E09.Susan Wright
+2019-09-28 21:53:40: Snapped.S01E10.Diane Zamora
+2019-09-28 21:53:39: Snapped.S01E07.Ruth Ann Aron
+2019-09-28 21:53:39: Snapped.S01E08.Joyce Cohen
+2019-09-28 21:53:38: Snapped.S01E04.Elena Kiejliches
+2019-09-28 21:53:38: Snapped.S01E05.Kimberly Hricko
+2019-09-28 21:53:38: Snapped.S01E06.Lee Ann Reidel
+2019-09-28 21:53:37: Snapped.S01E01.Celeste Beard Johnson
+2019-09-28 21:53:37: Snapped.S01E02.Virginia Larzelere
+2019-09-28 21:53:37: Snapped.S01E03.Clara Harris
 2019-09-28 20:43:08: Chernobyl.S01E05.Vichnaya Pamyat
 2019-09-28 20:41:50: Chernobyl.S01E04.The Happiness of All Mankind
 2019-09-28 20:40:58: Chernobyl.S01E03.Open Wide, O Earth
@@ -85,16 +98,3 @@
 2019-08-30 22:29:55: The Legend of Korra.S02E04.Civil Wars (2)
 2019-08-30 22:29:49: The Legend of Korra.S02E03.Civil Wars (1)
 2019-08-30 22:29:43: The Legend of Korra.S02E01.Rebel Spirit
-2019-08-30 22:29:26: The Legend of Korra.S01E12.Endgame
-2019-08-30 22:29:12: The Legend of Korra.S01E11.Skeletons in the Closet
-2019-08-30 22:28:57: The Legend of Korra.S01E10.Turning the Tides
-2019-08-30 22:28:40: The Legend of Korra.S01E09.Out of the Past
-2019-08-30 22:28:29: The Legend of Korra.S01E08.When Extremes Meet
-2019-08-30 22:28:18: The Legend of Korra.S01E07.The Aftermath
-2019-08-30 22:28:01: The Legend of Korra.S01E06.And the Winner Is...
-2019-08-30 22:27:48: The Legend of Korra.S01E05.The Spirit of Competition
-2019-08-30 22:27:35: The Legend of Korra.S01E04.The Voice in the Night
-2019-08-30 22:27:25: The Legend of Korra.S01E03.The Revelation
-2019-08-30 22:27:12: The Legend of Korra.S01E01.Welcome to Republic City
-2019-08-30 22:00:13: Fear the Walking Dead.S05E12.Ner Tamid
-2019-08-27 06:00:35: American Ninja Warrior.S11E13.Las Vegas National Finals Night 1
