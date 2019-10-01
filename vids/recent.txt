@@ -1,3 +1,4 @@
+2019-09-30 20:03:49: Last Week Tonight with John Oliver.S06E24.Episode 173
 2019-09-29 20:05:02: The Walking Dead.S10E01.Lines We Cross
 2019-09-29 20:05:01: The Simpsons.S31E01.The Winter of Our Monetized Content
 2019-09-29 20:05:00: Bob's Burgers.S10E01.The Ring (But Not Scary)
@@ -97,4 +98,3 @@
 2019-08-30 22:31:01: The Legend of Korra.S02E11.Night of a Thousand Stars
 2019-08-30 22:30:42: The Legend of Korra.S02E10.A New Spiritual Age
 2019-08-30 22:30:35: The Legend of Korra.S02E09.The Guide
-2019-08-30 22:30:24: The Legend of Korra.S02E07.Beginnings (1)
