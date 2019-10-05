@@ -1,3 +1,4 @@
+2019-10-04 22:02:48: The Masked Singer.S02E02.Return of the Masks: Group C
 2019-10-04 20:03:03: Young Sheldon.S03E02.A Broom Closet and Satan's Monopoly Board
 2019-10-04 20:03:02: Titans (2018).S02E05.Deathstroke
 2019-10-04 20:03:00: The Good Place.S04E02.A Girl from Arizona (2)
@@ -97,4 +98,3 @@
 2019-08-30 22:53:23: The Legend of Korra.S03E07.Original Airbenders
 2019-08-30 22:53:14: The Legend of Korra.S03E06.Old Wounds
 2019-08-30 22:53:09: The Legend of Korra.S03E05.The Metal Clan
-2019-08-30 22:53:02: The Legend of Korra.S03E04.In Harm's Way
