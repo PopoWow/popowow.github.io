@@ -1,3 +1,9 @@
+2019-10-04 20:03:03: Young Sheldon.S03E02.A Broom Closet and Satan's Monopoly Board
+2019-10-04 20:03:02: Titans (2018).S02E05.Deathstroke
+2019-10-04 20:03:00: The Good Place.S04E02.A Girl from Arizona (2)
+2019-10-04 20:02:59: The Goldbergs (2013).S07E02.Dana's Back
+2019-10-04 20:02:58: Superstore.S05E02.Testimonials
+2019-10-04 20:02:57: Mom.S07E02.Pop Pop and a Puma
 2019-10-02 00:02:07: Tosh.0.S11E13.Episode 13
 2019-09-30 20:03:49: Last Week Tonight with John Oliver.S06E24.Episode 173
 2019-09-29 20:05:02: The Walking Dead.S10E01.Lines We Cross
@@ -92,9 +98,3 @@
 2019-08-30 22:53:14: The Legend of Korra.S03E06.Old Wounds
 2019-08-30 22:53:09: The Legend of Korra.S03E05.The Metal Clan
 2019-08-30 22:53:02: The Legend of Korra.S03E04.In Harm's Way
-2019-08-30 22:52:56: The Legend of Korra.S03E03.The Earth Queen
-2019-08-30 22:52:51: The Legend of Korra.S03E02.Rebirth
-2019-08-30 22:52:47: The Legend of Korra.S03E01.A Breath of Fresh Air
-2019-08-30 22:31:26: The Legend of Korra.S02E13.Darkness Falls
-2019-08-30 22:31:01: The Legend of Korra.S02E11.Night of a Thousand Stars
-2019-08-30 22:30:42: The Legend of Korra.S02E10.A New Spiritual Age
