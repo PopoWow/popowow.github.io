@@ -1,3 +1,6 @@
+2019-10-06 20:03:13: The Simpsons.S31E02.Go Big or Go Homer
+2019-10-06 20:03:12: Family Guy.S18E02.Bri-Da
+2019-10-06 20:03:11: Bob's Burgers.S10E02.Boys Just Wanna Have Fungus
 2019-10-06 00:02:56: Saturday Night Live.S45E02.Phoebe Waller-Bridge / Taylor Swift
 2019-10-05 06:02:49: Fresh Off the Boat.S06E02.College
 2019-10-04 22:02:48: The Masked Singer.S02E02.Return of the Masks: Group C
@@ -95,6 +98,3 @@
 2019-08-30 22:53:52: The Legend of Korra.S03E12.Enter the Void
 2019-08-30 22:53:46: The Legend of Korra.S03E11.The Ultimatum
 2019-08-30 22:53:40: The Legend of Korra.S03E10.Long Live the Queen
-2019-08-30 22:53:36: The Legend of Korra.S03E09.The Stakeout
-2019-08-30 22:53:29: The Legend of Korra.S03E08.The Terror Within
-2019-08-30 22:53:23: The Legend of Korra.S03E07.Original Airbenders
