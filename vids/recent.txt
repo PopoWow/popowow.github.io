@@ -1,3 +1,4 @@
+2019-10-07 20:01:46: Last Week Tonight with John Oliver.S06E25.Episode 174
 2019-10-06 20:03:13: The Simpsons.S31E02.Go Big or Go Homer
 2019-10-06 20:03:12: Family Guy.S18E02.Bri-Da
 2019-10-06 20:03:11: Bob's Burgers.S10E02.Boys Just Wanna Have Fungus
@@ -97,4 +98,3 @@
 2019-08-30 22:54:02: The Legend of Korra.S03E13.Venom of the Red Lotus
 2019-08-30 22:53:52: The Legend of Korra.S03E12.Enter the Void
 2019-08-30 22:53:46: The Legend of Korra.S03E11.The Ultimatum
-2019-08-30 22:53:40: The Legend of Korra.S03E10.Long Live the Queen
