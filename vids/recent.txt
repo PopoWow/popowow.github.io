@@ -1,3 +1,4 @@
+2019-10-09 00:02:22: Tosh.0.S11E14.Episode 14
 2019-10-07 20:01:46: Last Week Tonight with John Oliver.S06E25.Episode 174
 2019-10-06 20:03:13: The Simpsons.S31E02.Go Big or Go Homer
 2019-10-06 20:03:12: Family Guy.S18E02.Bri-Da
@@ -11,7 +12,7 @@
 2019-10-04 20:02:59: The Goldbergs (2013).S07E02.Dana's Back
 2019-10-04 20:02:58: Superstore.S05E02.Testimonials
 2019-10-04 20:02:57: Mom.S07E02.Pop Pop and a Puma
-2019-10-02 00:02:07: Tosh.0.S11E13.Episode 13
+2019-10-02 00:02:07: Tosh.0.S11E13.“I Eat Ass” Free Speech Defender
 2019-09-30 20:03:49: Last Week Tonight with John Oliver.S06E24.Episode 173
 2019-09-29 20:05:02: The Walking Dead.S10E01.Lines We Cross
 2019-09-29 20:05:01: The Simpsons.S31E01.The Winter of Our Monetized Content
@@ -97,4 +98,3 @@
 2019-08-30 22:54:10: The Legend of Korra.S04E01.After All These Years
 2019-08-30 22:54:02: The Legend of Korra.S03E13.Venom of the Red Lotus
 2019-08-30 22:53:52: The Legend of Korra.S03E12.Enter the Void
-2019-08-30 22:53:46: The Legend of Korra.S03E11.The Ultimatum
