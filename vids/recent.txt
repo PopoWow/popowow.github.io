@@ -1,3 +1,4 @@
+2019-10-11 00:02:43: Mom.S07E03.Goat Yogurt and Ample Parking
 2019-10-10 20:03:01: The Goldbergs (2013).S07E03.Food in a Geoffy
 2019-10-10 20:03:01: The Masked Singer.S02E03.Return of the Masks: Group D
 2019-10-10 20:03:01: Young Sheldon.S03E03.An Entrepreneurialist and a Swat on the Bottom
@@ -97,4 +98,3 @@
 2019-08-30 22:54:41: The Legend of Korra.S04E04.The Calling
 2019-08-30 22:54:34: The Legend of Korra.S04E03.The Coronation
 2019-08-30 22:54:29: The Legend of Korra.S04E02.Korra Alone
-2019-08-30 22:54:23: The Legend of Korra.S04E12.Day of the Colossus
