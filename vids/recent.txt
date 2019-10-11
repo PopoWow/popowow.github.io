@@ -1,3 +1,6 @@
+2019-10-10 20:03:01: The Goldbergs (2013).S07E03.Food in a Geoffy
+2019-10-10 20:03:01: The Masked Singer.S02E03.Return of the Masks: Group D
+2019-10-10 20:03:01: Young Sheldon.S03E03.An Entrepreneurialist and a Swat on the Bottom
 2019-10-09 00:02:22: Tosh.0.S11E14.Episode 14
 2019-10-07 20:01:46: Last Week Tonight with John Oliver.S06E25.Episode 174
 2019-10-06 20:03:13: The Simpsons.S31E02.Go Big or Go Homer
@@ -95,6 +98,3 @@
 2019-08-30 22:54:34: The Legend of Korra.S04E03.The Coronation
 2019-08-30 22:54:29: The Legend of Korra.S04E02.Korra Alone
 2019-08-30 22:54:23: The Legend of Korra.S04E12.Day of the Colossus
-2019-08-30 22:54:10: The Legend of Korra.S04E01.After All These Years
-2019-08-30 22:54:02: The Legend of Korra.S03E13.Venom of the Red Lotus
-2019-08-30 22:53:52: The Legend of Korra.S03E12.Enter the Void
