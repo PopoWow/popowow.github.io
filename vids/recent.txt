@@ -1,3 +1,6 @@
+2019-10-11 20:02:35: Titans (2018).S02E06.Conner
+2019-10-11 20:02:32: The Walking Dead.S10E02.We Are the End of the World
+2019-10-11 20:02:31: Fresh Off the Boat.S06E03.Grandma's Boys
 2019-10-11 06:02:42: Superstore.S05E03.Forced Hire
 2019-10-11 06:02:42: The Good Place.S04E03.Chillaxing
 2019-10-11 00:02:43: Mom.S07E03.Goat Yogurt and Ample Parking
@@ -95,6 +98,3 @@
 2019-08-30 22:55:05: The Legend of Korra.S04E09.Beyond the Wilds
 2019-08-30 22:54:59: The Legend of Korra.S04E08.Remembrances
 2019-08-30 22:54:55: The Legend of Korra.S04E07.Reunion
-2019-08-30 22:54:52: The Legend of Korra.S04E06.The Battle of Zaofu
-2019-08-30 22:54:47: The Legend of Korra.S04E05.Enemy at the Gates
-2019-08-30 22:54:41: The Legend of Korra.S04E04.The Calling
