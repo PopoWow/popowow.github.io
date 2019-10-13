@@ -1,3 +1,4 @@
+2019-10-12 23:51:35: Saturday Night Live.S45E03.David Harbour / Camila Cabello
 2019-10-12 20:01:37: Real Time with Bill Maher.S17E30.Episode 510
 2019-10-11 20:02:35: Titans (2018).S02E06.Conner
 2019-10-11 20:02:32: The Walking Dead.S10E02.We Are the End of the World
@@ -97,4 +98,3 @@
 2019-08-30 22:55:16: The Legend of Korra.S04E11.Kuvira's Gambit
 2019-08-30 22:55:10: The Legend of Korra.S04E10.Operation: Beifong
 2019-08-30 22:55:05: The Legend of Korra.S04E09.Beyond the Wilds
-2019-08-30 22:54:59: The Legend of Korra.S04E08.Remembrances
