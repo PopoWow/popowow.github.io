@@ -1,3 +1,6 @@
+2019-10-14 06:01:33: Family Guy.S18E03.Absolutely Babulous
+2019-10-14 06:01:33: The Simpsons.S31E03.The Fat Blue Line
+2019-10-14 06:01:32: Bob's Burgers.S10E03.Motor, She Boat
 2019-10-12 23:51:35: Saturday Night Live.S45E03.David Harbour / Camila Cabello
 2019-10-12 20:01:37: Real Time with Bill Maher.S17E30.Episode 510
 2019-10-11 20:02:35: Titans (2018).S02E06.Conner
@@ -95,6 +98,3 @@
 2019-09-06 20:00:05: Fear the Walking Dead.S05E13.Leave What You Don't
 2019-09-05 22:02:02: American Ninja Warrior.S11E14.Las Vegas National Finals Night 2
 2019-09-05 22:00:20: The Handmaid's Tale.S03E13.Mayday
-2019-08-30 22:55:16: The Legend of Korra.S04E11.Kuvira's Gambit
-2019-08-30 22:55:10: The Legend of Korra.S04E10.Operation: Beifong
-2019-08-30 22:55:05: The Legend of Korra.S04E09.Beyond the Wilds
