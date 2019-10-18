@@ -1,3 +1,7 @@
+2019-10-17 20:01:40: The Good Place.S04E04.Tinker, Tailor, Demon, Spy
+2019-10-17 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
+2019-10-17 20:01:39: Mom.S07E04.Twirly Flippy Men and a Dirty Bird
+2019-10-17 20:01:39: Superstore.S05E04.Mall Closing
 2019-10-16 20:01:32: The Goldbergs (2013).S07E04.Animal House
 2019-10-16 20:01:32: The Masked Singer.S02E04.Once Upon a Mask
 2019-10-16 00:00:30: Tosh.0.S11E15.Episode 15
@@ -94,7 +98,3 @@
 2019-09-17 23:48:33: Adam Ruins Everything.S03E08.Adam Ruins A Murder
 2019-09-17 06:00:14: American Ninja Warrior.S11E16.Las Vegas National Finals Night 4
 2019-09-16 06:00:06: Last Week Tonight with John Oliver.S06E23.Episode 172
-2019-09-15 22:14:23: The Masked Singer.S00E01.Super Sneak Peek
-2019-09-14 06:00:07: Fear the Walking Dead.S05E14.Today and Tomorrow
-2019-09-10 06:00:25: American Ninja Warrior.S11E15.Las Vegas National Finals Night 3
-2019-09-09 20:00:24: Last Week Tonight with John Oliver.S06E22.Episode 171
