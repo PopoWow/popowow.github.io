@@ -1,3 +1,6 @@
+2019-10-18 20:01:35: The Walking Dead.S10E03.Ghosts
+2019-10-18 20:01:35: Titans (2018).S02E07.Bruce Wayne
+2019-10-18 20:01:34: Fresh Off the Boat.S06E04.S'Mothered
 2019-10-17 20:01:40: The Good Place.S04E04.Tinker, Tailor, Demon, Spy
 2019-10-17 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
 2019-10-17 20:01:39: Mom.S07E04.Twirly Flippy Men and a Dirty Bird
@@ -95,6 +98,3 @@
 2019-09-17 23:48:34: Adam Ruins Everything.S03E09.Adam Ruins Music
 2019-09-17 23:48:33: Adam Ruins Everything.S03E06.Adam Ruins a Night Out
 2019-09-17 23:48:33: Adam Ruins Everything.S03E07.Adam Ruins Doing Good
-2019-09-17 23:48:33: Adam Ruins Everything.S03E08.Adam Ruins A Murder
-2019-09-17 06:00:14: American Ninja Warrior.S11E16.Las Vegas National Finals Night 4
-2019-09-16 06:00:06: Last Week Tonight with John Oliver.S06E23.Episode 172
