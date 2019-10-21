@@ -1,4 +1,6 @@
-2019-10-19 20:01:38: Real Time with Bill Maher.S17E31.Episode 511
+2019-10-20 20:02:38: Real Time with Bill Maher.S17E31.Episode 511
+2019-10-20 20:02:17: Family Guy.S18E04.Disney's The Reboot
+2019-10-20 20:02:14: Bob's Burgers.S10E04.Pig Trouble in Little Tina
 2019-10-18 20:01:35: The Walking Dead.S10E03.Ghosts
 2019-10-18 20:01:35: Titans (2018).S02E07.Bruce Wayne
 2019-10-18 20:01:34: Fresh Off the Boat.S06E04.S'Mothered
@@ -96,5 +98,3 @@
 2019-09-20 20:00:06: Fear the Walking Dead.S05E15.Channel 5
 2019-09-17 23:48:35: Real Time with Bill Maher.S17E27.Episode 507
 2019-09-17 23:48:35: Tosh.0.S11E11.SteveWillDoIt
-2019-09-17 23:48:34: Adam Ruins Everything.S03E09.Adam Ruins Music
-2019-09-17 23:48:33: Adam Ruins Everything.S03E06.Adam Ruins a Night Out
