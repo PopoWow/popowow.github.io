@@ -1,3 +1,6 @@
+2019-10-24 01:02:34: The Goldbergs (2013).S07E05.Parents Thursday
+2019-10-24 01:02:34: Tosh.0.S11E16.Burping Girl
+2019-10-24 01:02:33: Talking Dead.S09E03.Ghosts
 2019-10-20 22:02:26: The Simpsons.S31E04.Treehouse of Horror XXX
 2019-10-20 20:02:38: Real Time with Bill Maher.S17E31.Episode 511
 2019-10-20 20:02:17: Family Guy.S18E04.Disney's The Reboot
@@ -11,7 +14,7 @@
 2019-10-17 20:01:39: Superstore.S05E04.Mall Closing
 2019-10-16 20:01:32: The Goldbergs (2013).S07E04.Animal House
 2019-10-16 20:01:32: The Masked Singer.S02E04.Once Upon a Mask
-2019-10-16 00:00:30: Tosh.0.S11E15.Episode 15
+2019-10-16 00:00:30: Tosh.0.S11E15.BarSoap Guy
 2019-10-14 20:00:20: Last Week Tonight with John Oliver.S06E26.Episode 175
 2019-10-14 06:01:33: Family Guy.S18E03.Absolutely Babulous
 2019-10-14 06:01:33: The Simpsons.S31E03.The Fat Blue Line
@@ -95,6 +98,3 @@
 2019-09-22 20:03:08: Real Time with Bill Maher.S17E28.Episode 508
 2019-09-22 20:03:08: Red Dwarf.S12E01.Cured
 2019-09-20 23:48:29: Titans (2018).S02E03.Ghosts
-2019-09-20 23:48:12: A Crime to Remember.S05E01.Once Upon a Crime
-2019-09-20 20:00:06: Fear the Walking Dead.S05E15.Channel 5
-2019-09-17 23:48:35: Real Time with Bill Maher.S17E27.Episode 507
