@@ -1,3 +1,4 @@
+2019-10-26 23:51:18: Real Time with Bill Maher.S17E32.Episode 512
 2019-10-25 22:35:32: Titans (2018).S02E02.Rose
 2019-10-25 22:35:31: Titans (2018).S02E01.Trigon
 2019-10-25 20:01:39: Young Sheldon.S03E05.A Pineapple and the Bosom of Male Friendship
@@ -97,4 +98,3 @@
 2019-09-26 20:02:46: The Good Place.S04E01.A Girl from Arizona (1)
 2019-09-25 20:01:28: The Masked Singer.S02E01.Return of the Masks: Groups A & B
 2019-09-25 20:01:27: The Goldbergs (2013).S07E01.Vacation
-2019-09-25 06:01:37: Tosh.0.S11E12.Brother K
