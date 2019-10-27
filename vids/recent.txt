@@ -1,3 +1,5 @@
+2019-10-27 00:30:55: Saturday Night Live.S45E04.Chance the Rapper
+2019-10-27 00:30:55: Titans (2018).S02E08.Jericho
 2019-10-26 23:51:18: Real Time with Bill Maher.S17E32.Episode 512
 2019-10-25 22:35:32: Titans (2018).S02E02.Rose
 2019-10-25 22:35:31: Titans (2018).S02E01.Trigon
@@ -96,5 +98,3 @@
 2019-09-26 20:02:46: Mom.S07E01.Audrey Hepburn and a Jalepeño Pepper
 2019-09-26 20:02:46: Superstore.S05E01.Cloud 9.0
 2019-09-26 20:02:46: The Good Place.S04E01.A Girl from Arizona (1)
-2019-09-25 20:01:28: The Masked Singer.S02E01.Return of the Masks: Groups A & B
-2019-09-25 20:01:27: The Goldbergs (2013).S07E01.Vacation
