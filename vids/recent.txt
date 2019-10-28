@@ -1,3 +1,5 @@
+2019-10-28 14:38:29: Talking Dead.S09E04.Silence the Whisperers
+2019-10-28 14:38:25: Last Week Tonight with John Oliver.S06E27.Episode 176
 2019-10-27 00:30:55: Saturday Night Live.S45E04.Chance the Rapper
 2019-10-27 00:30:55: Titans (2018).S02E08.Jericho
 2019-10-26 23:51:18: Real Time with Bill Maher.S17E32.Episode 512
@@ -96,5 +98,3 @@
 2019-09-27 20:02:28: Fresh Off the Boat.S06E01.Help Unwanted?
 2019-09-26 20:02:47: Young Sheldon.S03E01.Quirky Eggheads and Texas Snow Globes
 2019-09-26 20:02:46: Mom.S07E01.Audrey Hepburn and a Jalepeño Pepper
-2019-09-26 20:02:46: Superstore.S05E01.Cloud 9.0
-2019-09-26 20:02:46: The Good Place.S04E01.A Girl from Arizona (1)
