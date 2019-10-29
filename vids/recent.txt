@@ -1,3 +1,5 @@
+2019-10-28 20:01:52: Watchmen: Motion Comic.S01E02.Chapter II - Absent Friends
+2019-10-28 20:01:48: Watchmen: Motion Comic.S01E01.Chapter I - At Midnight, All the Agents...
 2019-10-28 14:38:29: Talking Dead.S09E04.Silence the Whisperers
 2019-10-28 14:38:25: Last Week Tonight with John Oliver.S06E27.Episode 176
 2019-10-27 00:30:55: Saturday Night Live.S45E04.Chance the Rapper
@@ -96,5 +98,3 @@
 2019-09-28 00:40:52: Warrior (2019).S01E03.John Chinaman
 2019-09-27 22:02:29: Fear the Walking Dead.S05E16.End of the Line
 2019-09-27 20:02:28: Fresh Off the Boat.S06E01.Help Unwanted?
-2019-09-26 20:02:47: Young Sheldon.S03E01.Quirky Eggheads and Texas Snow Globes
-2019-09-26 20:02:46: Mom.S07E01.Audrey Hepburn and a Jalepeño Pepper
