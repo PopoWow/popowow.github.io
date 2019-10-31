@@ -1,3 +1,5 @@
+2019-10-30 20:01:35: Tosh.0.S11E17.Super Bitch
+2019-10-30 20:01:34: The Goldbergs (2013).S07E06.A 100% True Ghost Story
 2019-10-28 20:01:52: Watchmen: Motion Comic.S01E02.Chapter II - Absent Friends
 2019-10-28 20:01:48: Watchmen: Motion Comic.S01E01.Chapter I - At Midnight, All the Agents...
 2019-10-28 14:38:29: Talking Dead.S09E04.Silence the Whisperers
@@ -96,5 +98,3 @@
 2019-09-28 06:05:24: Warrior (2019).S01E02.There's No China in the Bible
 2019-09-28 06:05:02: Warrior (2019).S01E01.The Itchy Onion
 2019-09-28 00:40:52: Warrior (2019).S01E03.John Chinaman
-2019-09-27 22:02:29: Fear the Walking Dead.S05E16.End of the Line
-2019-09-27 20:02:28: Fresh Off the Boat.S06E01.Help Unwanted?
