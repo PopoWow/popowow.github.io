@@ -1,9 +1,12 @@
+2019-11-01 20:01:53: Titans (2018).S02E09.Atonement
+2019-11-01 20:01:48: The Good Place.S04E06.A Chip Driver Mystery
+2019-11-01 20:01:47: Superstore.S05E06.Trick-or-Treat
+2019-11-01 20:01:46: Last Week Tonight with John Oliver.S06E27.Episode 176
 2019-10-30 20:01:35: Tosh.0.S11E17.Super Bitch
 2019-10-30 20:01:34: The Goldbergs (2013).S07E06.A 100% True Ghost Story
 2019-10-28 20:01:52: Watchmen: Motion Comic.S01E02.Chapter II - Absent Friends
 2019-10-28 20:01:48: Watchmen: Motion Comic.S01E01.Chapter I - At Midnight, All the Agents...
 2019-10-28 14:38:29: Talking Dead.S09E04.Silence the Whisperers
-2019-10-28 14:38:25: Last Week Tonight with John Oliver.S06E27.Episode 176
 2019-10-27 00:30:55: Saturday Night Live.S45E04.Chance the Rapper
 2019-10-27 00:30:55: Titans (2018).S02E08.Jericho
 2019-10-26 23:51:18: Real Time with Bill Maher.S17E32.Episode 512
@@ -95,6 +98,3 @@
 2019-09-28 06:05:38: Warrior (2019).S01E06.Chewed Up, Spit Out, and Stepped On
 2019-09-28 06:05:33: Warrior (2019).S01E05.The Blood and the Shit
 2019-09-28 06:05:28: Warrior (2019).S01E04.The White Mountain
-2019-09-28 06:05:24: Warrior (2019).S01E02.There's No China in the Bible
-2019-09-28 06:05:02: Warrior (2019).S01E01.The Itchy Onion
-2019-09-28 00:40:52: Warrior (2019).S01E03.John Chinaman
