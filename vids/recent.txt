@@ -1,3 +1,4 @@
+2019-11-01 22:01:46: The Walking Dead.S10E05.What It Always Is
 2019-11-01 20:01:53: Titans (2018).S02E09.Atonement
 2019-11-01 20:01:48: The Good Place.S04E06.A Chip Driver Mystery
 2019-11-01 20:01:47: Superstore.S05E06.Trick-or-Treat
@@ -97,4 +98,3 @@
 2019-09-28 06:05:42: Warrior (2019).S01E07.The Tiger and the Fox
 2019-09-28 06:05:38: Warrior (2019).S01E06.Chewed Up, Spit Out, and Stepped On
 2019-09-28 06:05:33: Warrior (2019).S01E05.The Blood and the Shit
-2019-09-28 06:05:28: Warrior (2019).S01E04.The White Mountain
