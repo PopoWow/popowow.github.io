@@ -1,3 +1,4 @@
+2019-11-02 20:02:24: Real Time with Bill Maher.S17E33.Episode 513
 2019-11-02 06:01:56: Fresh Off the Boat.S06E06.Chestnut Gardens
 2019-11-01 22:01:46: The Walking Dead.S10E05.What It Always Is
 2019-11-01 20:01:53: Titans (2018).S02E09.Atonement
@@ -97,4 +98,3 @@
 2019-09-28 06:05:53: Warrior (2019).S01E09.Chinese Boxing
 2019-09-28 06:05:47: Warrior (2019).S01E08.They Don't Pay Us Enough to Think
 2019-09-28 06:05:42: Warrior (2019).S01E07.The Tiger and the Fox
-2019-09-28 06:05:38: Warrior (2019).S01E06.Chewed Up, Spit Out, and Stepped On
