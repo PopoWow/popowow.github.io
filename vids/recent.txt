@@ -1,5 +1,9 @@
+2019-11-04 00:00:38: Watchmen: Motion Comic.S01E03.Chapter III - The Judge of All the Earth
+2019-11-04 00:00:25: Real Time with Bill Maher.S17E33.Episode 513
+2019-11-04 00:00:25: The Simpsons.S31E05.Gorillas on the Mast
+2019-11-04 00:00:24: Bob's Burgers.S10E05.Legends of the Mall
+2019-11-04 00:00:24: Family Guy.S18E05.Cat Fight
 2019-11-03 00:02:19: Saturday Night Live.S45E05.Kristen Stewart / Coldplay
-2019-11-02 20:02:24: Real Time with Bill Maher.S17E33.Episode 513
 2019-11-02 06:01:56: Fresh Off the Boat.S06E06.Chestnut Gardens
 2019-11-01 22:01:46: The Walking Dead.S10E05.What It Always Is
 2019-11-01 20:01:53: Titans (2018).S02E09.Atonement
@@ -94,7 +98,3 @@
 2019-09-28 20:40:14: Chernobyl.S01E02.Please Remain Calm
 2019-09-28 20:39:23: Chernobyl.S01E01.1:23:45
 2019-09-28 20:05:11: Titans (2018).S02E04.Aqualad
-2019-09-28 20:05:10: Real Time with Bill Maher.S17E29.Episode 509
-2019-09-28 06:05:58: Warrior (2019).S01E10.If You're Going to Bow, Bow Low
-2019-09-28 06:05:53: Warrior (2019).S01E09.Chinese Boxing
-2019-09-28 06:05:47: Warrior (2019).S01E08.They Don't Pay Us Enough to Think
