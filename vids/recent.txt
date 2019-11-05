@@ -1,3 +1,13 @@
+2019-11-04 23:33:12: Dickinson.S01E10.I felt a Funeral, in my Brain
+2019-11-04 23:33:10: Dickinson.S01E09.'Faith' is a fine invention
+2019-11-04 23:33:09: Dickinson.S01E08.There's a certain Slant of light
+2019-11-04 23:33:08: Dickinson.S01E06.A brief, but patient illness
+2019-11-04 23:33:08: Dickinson.S01E07.We lose - because we win
+2019-11-04 23:33:07: Dickinson.S01E02.I have never seen 'Volcanoes'
+2019-11-04 23:33:07: Dickinson.S01E03.Wild nights
+2019-11-04 23:33:07: Dickinson.S01E04.Alone, I cannot be
+2019-11-04 23:33:07: Dickinson.S01E05.I am afraid to own a Body
+2019-11-04 23:33:06: Dickinson.S01E01.Because I could not stop
 2019-11-04 20:03:30: Talking Dead.S09E05.What it Always Is
 2019-11-04 20:03:22: Last Week Tonight with John Oliver.S06E28.Episode 177
 2019-11-04 03:14:54: See.S01E02.Message in a Bottle
@@ -88,13 +98,3 @@
 2019-09-28 21:53:42: Snapped.S01E12.Debra Baker
 2019-09-28 21:53:41: Snapped.S01E11.Kristin Rossum
 2019-09-28 21:53:40: Snapped.S01E09.Susan Wright
-2019-09-28 21:53:40: Snapped.S01E10.Diane Zamora
-2019-09-28 21:53:39: Snapped.S01E07.Ruth Ann Aron
-2019-09-28 21:53:39: Snapped.S01E08.Joyce Cohen
-2019-09-28 21:53:38: Snapped.S01E04.Elena Kiejliches
-2019-09-28 21:53:38: Snapped.S01E05.Kimberly Hricko
-2019-09-28 21:53:38: Snapped.S01E06.Lee Ann Reidel
-2019-09-28 21:53:37: Snapped.S01E01.Celeste Beard Johnson
-2019-09-28 21:53:37: Snapped.S01E02.Virginia Larzelere
-2019-09-28 21:53:37: Snapped.S01E03.Clara Harris
-2019-09-28 20:43:08: Chernobyl.S01E05.Vichnaya Pamyat
