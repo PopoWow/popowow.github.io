@@ -1,3 +1,4 @@
+2019-11-05 20:02:52: The Walking Dead.S10E04.Silence the Whisperers
 2019-11-04 23:33:12: Dickinson.S01E10.I felt a Funeral, in my Brain
 2019-11-04 23:33:10: Dickinson.S01E09.'Faith' is a fine invention
 2019-11-04 23:33:09: Dickinson.S01E08.There's a certain Slant of light
@@ -36,7 +37,6 @@
 2019-10-25 22:35:32: Titans (2018).S02E02.Rose
 2019-10-25 22:35:31: Titans (2018).S02E01.Trigon
 2019-10-25 20:01:39: Young Sheldon.S03E05.A Pineapple and the Bosom of Male Friendship
-2019-10-25 20:01:37: The Walking Dead.S10E04.Silence the Whisperers
 2019-10-25 20:01:36: The Good Place.S04E05.Employee of the Bearimy
 2019-10-25 20:01:34: Superstore.S05E05.Self-Care
 2019-10-25 20:01:33: Mom.S07E05.Fake Bacon and a Plan to Kill All of Us
