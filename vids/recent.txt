@@ -1,3 +1,6 @@
+2019-11-06 20:01:32: Tosh.0.S11E18.Pot Brothers at Law
+2019-11-06 20:01:31: The Masked Singer.S02E05.Mask Us Anything
+2019-11-06 20:01:30: The Goldbergs (2013).S07E07.WrestleMania
 2019-11-05 20:02:52: The Walking Dead.S10E04.Silence the Whisperers
 2019-11-04 23:33:12: Dickinson.S01E10.I felt a Funeral, in my Brain
 2019-11-04 23:33:10: Dickinson.S01E09.'Faith' is a fine invention
@@ -95,6 +98,3 @@
 2019-09-29 20:05:00: Family Guy.S18E01.Yacht Rocky
 2019-09-29 00:00:43: Saturday Night Live.S45E01.Woody Harrelson / Billie Eilish
 2019-09-28 21:53:43: Snapped.S01E13.Carolyn Warmus
-2019-09-28 21:53:42: Snapped.S01E12.Debra Baker
-2019-09-28 21:53:41: Snapped.S01E11.Kristin Rossum
-2019-09-28 21:53:40: Snapped.S01E09.Susan Wright
