@@ -1,3 +1,18 @@
+2019-11-13 20:02:26: Young Sheldon.S03E06.A Parasol and a Hell of an Arm
+2019-11-13 20:02:24: Tosh.0.S11E19.Episode 19
+2019-11-13 20:02:20: Titans (2018).S02E10.Fallen
+2019-11-13 20:02:18: The Walking Dead.S10E06.Bonds
+2019-11-13 20:02:15: The Simpsons.S31E06.Marge the Lumberjill
+2019-11-13 20:02:11: The Masked Singer.S02E07.Triumph Over Masks
+2019-11-13 20:02:08: The Good Place.S04E07.Help Is Other People
+2019-11-13 20:02:07: Talking Dead.S09E06.Bonds
+2019-11-13 20:02:04: Superstore.S05E07.Shoplifter Rehab
+2019-11-13 20:02:02: Rick and Morty.S04E01.Edge of Tomorty: Rick Die Rickpeat
+2019-11-13 20:02:00: Real Time with Bill Maher.S17E34.Episode 514
+2019-11-13 20:01:54: Mom.S07E06.Wile E. Coyote and a Pretentious Douche
+2019-11-13 20:01:53: Last Week Tonight with John Oliver.S06E29.Episode 178
+2019-11-13 20:01:49: Family Guy.S18E06.Peter & Lois' Wedding
+2019-11-13 20:01:46: Bob's Burgers.S10E06.The Hawkening: Look Who's Hawking Now!
 2019-11-06 22:01:27: The Masked Singer.S02E06.Mask-ish
 2019-11-06 20:01:32: Tosh.0.S11E18.Pot Brothers at Law
 2019-11-06 20:01:31: The Masked Singer.S02E05.Mask Us Anything
@@ -83,18 +98,3 @@
 2019-10-06 20:03:12: Family Guy.S18E02.Bri-Da
 2019-10-06 20:03:11: Bob's Burgers.S10E02.Boys Just Wanna Have Fungus
 2019-10-06 00:02:56: Saturday Night Live.S45E02.Phoebe Waller-Bridge / Taylor Swift
-2019-10-05 06:02:49: Fresh Off the Boat.S06E02.College
-2019-10-04 22:02:48: The Masked Singer.S02E02.Return of the Masks: Group C
-2019-10-04 20:03:03: Young Sheldon.S03E02.A Broom Closet and Satan's Monopoly Board
-2019-10-04 20:03:02: Titans (2018).S02E05.Deathstroke
-2019-10-04 20:03:00: The Good Place.S04E02.A Girl from Arizona (2)
-2019-10-04 20:02:59: The Goldbergs (2013).S07E02.Dana's Back
-2019-10-04 20:02:58: Superstore.S05E02.Testimonials
-2019-10-04 20:02:57: Mom.S07E02.Pop Pop and a Puma
-2019-10-02 00:02:07: Tosh.0.S11E13.“I Eat Ass” Free Speech Defender
-2019-09-30 20:03:49: Last Week Tonight with John Oliver.S06E24.Episode 173
-2019-09-29 20:05:02: The Walking Dead.S10E01.Lines We Cross
-2019-09-29 20:05:01: The Simpsons.S31E01.The Winter of Our Monetized Content
-2019-09-29 20:05:00: Bob's Burgers.S10E01.The Ring (But Not Scary)
-2019-09-29 20:05:00: Family Guy.S18E01.Yacht Rocky
-2019-09-29 00:00:43: Saturday Night Live.S45E01.Woody Harrelson / Billie Eilish
