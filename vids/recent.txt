@@ -1,3 +1,22 @@
+2019-11-24 22:38:06: Young Sheldon.S03E08.The Sin of Greed and a Chimichanga from Chi-Chi's
+2019-11-24 22:38:04: Young Sheldon.S03E07.Pongo Pygmaeus and a Culture that Encourages Spitting
+2019-11-24 22:38:02: Tosh.0.S11E20.2019 Year In Review
+2019-11-24 22:37:59: The Walking Dead.S10E08.The World Before
+2019-11-24 22:37:51: The Walking Dead.S10E07.Open Your Eyes
+2019-11-24 22:37:42: The Simpsons.S31E07.Livin La Pura Vida
+2019-11-24 22:37:38: The Masked Singer.S02E08.Mask and You Shall Receive
+2019-11-24 22:37:33: The Good Place.S04E09.The Answer
+2019-11-24 22:37:32: The Good Place.S04E08.The Funeral to End All Funerals
+2019-11-24 22:37:31: Superstore.S05E09.Curbside Pickup
+2019-11-24 22:37:31: The Goldbergs (2013).S07E08.Angst-Giving
+2019-11-24 22:37:29: Superstore.S05E08.Toy Drive
+2019-11-24 22:37:28: Saturday Night Live.S45E07.Will Ferrell / King Princess
+2019-11-24 22:37:27: Rick and Morty.S04E02.The Old Man and the Seat
+2019-11-24 22:37:27: Saturday Night Live.S45E06.Harry Styles
+2019-11-24 22:37:26: Mom.S07E07.Pork Butt and a Mall Walker
+2019-11-24 22:37:26: Mom.S07E08.Hot Butter and Toxic Narcissism
+2019-11-24 22:37:25: Fresh Off the Boat.S06E08.TMI: Too Much Integrity
+2019-11-24 22:37:25: Last Week Tonight with John Oliver.S06E30.Episode 179
 2019-11-24 22:31:16: Watchmen: Motion Comic.S01E06.Chapter VI - The Abyss Gazes Also
 2019-11-24 22:31:11: The Simpsons.S31E08.Thanksgiving of Horror
 2019-11-24 22:31:10: The Mandalorian.S01E03.Chapter 3: The Sin
@@ -9,7 +28,7 @@
 2019-11-24 22:31:05: Bob's Burgers.S10E07.Land of the Loft
 2019-11-24 22:31:05: Bob's Burgers.S10E08.Now We're Not Cooking With Gas
 2019-11-13 20:02:26: Young Sheldon.S03E06.A Parasol and a Hell of an Arm
-2019-11-13 20:02:24: Tosh.0.S11E19.Episode 19
+2019-11-13 20:02:24: Tosh.0.S11E19.Dumped Wife's Revenge
 2019-11-13 20:02:20: Titans (2018).S02E10.Fallen
 2019-11-13 20:02:18: The Walking Dead.S10E06.Bonds
 2019-11-13 20:02:15: The Simpsons.S31E06.Marge the Lumberjill
@@ -79,22 +98,3 @@
 2019-10-20 20:02:14: Bob's Burgers.S10E04.Pig Trouble in Little Tina
 2019-10-18 20:01:35: The Walking Dead.S10E03.Ghosts
 2019-10-18 20:01:35: Titans (2018).S02E07.Bruce Wayne
-2019-10-18 20:01:34: Fresh Off the Boat.S06E04.S'Mothered
-2019-10-17 20:01:40: The Good Place.S04E04.Tinker, Tailor, Demon, Spy
-2019-10-17 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
-2019-10-17 20:01:39: Mom.S07E04.Twirly Flippy Men and a Dirty Bird
-2019-10-17 20:01:39: Superstore.S05E04.Mall Closing
-2019-10-16 20:01:32: The Goldbergs (2013).S07E04.Animal House
-2019-10-16 20:01:32: The Masked Singer.S02E04.Once Upon a Mask
-2019-10-16 00:00:30: Tosh.0.S11E15.BarSoap Guy
-2019-10-14 20:00:20: Last Week Tonight with John Oliver.S06E26.Episode 175
-2019-10-14 06:01:33: Family Guy.S18E03.Absolutely Babulous
-2019-10-14 06:01:33: The Simpsons.S31E03.The Fat Blue Line
-2019-10-14 06:01:32: Bob's Burgers.S10E03.Motor, She Boat
-2019-10-12 23:51:35: Saturday Night Live.S45E03.David Harbour / Camila Cabello
-2019-10-12 20:01:37: Real Time with Bill Maher.S17E30.Episode 510
-2019-10-11 20:02:35: Titans (2018).S02E06.Conner
-2019-10-11 20:02:32: The Walking Dead.S10E02.We Are the End of the World
-2019-10-11 20:02:31: Fresh Off the Boat.S06E03.Grandma's Boys
-2019-10-11 06:02:42: Superstore.S05E03.Forced Hire
-2019-10-11 06:02:42: The Good Place.S04E03.Chillaxing
