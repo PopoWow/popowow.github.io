@@ -1,3 +1,7 @@
+2019-11-30 06:01:36: Titans (2018).S02E13.Nightwing
+2019-11-30 06:01:35: The Mandalorian.S01E04.Chapter 4: Sanctuary
+2019-11-30 06:01:33: Saturday Night Live.S45E07.Will Ferrell / King Princess
+2019-11-30 06:01:31: Fresh Off the Boat.S06E09.Lou Wants to Be a Millionaire
 2019-11-25 06:01:24: Rick and Morty.S04E03.One Crew Over the Crewcoo's Morty
 2019-11-24 22:43:09: Titans (2018).S02E11.E.L._.O.
 2019-11-24 22:38:06: Young Sheldon.S03E08.The Sin of Greed and a Chimichanga from Chi-Chi's
@@ -12,7 +16,6 @@
 2019-11-24 22:37:31: Superstore.S05E09.Curbside Pickup
 2019-11-24 22:37:31: The Goldbergs (2013).S07E08.Angst-Giving
 2019-11-24 22:37:29: Superstore.S05E08.Toy Drive
-2019-11-24 22:37:28: Saturday Night Live.S45E07.Will Ferrell / King Princess
 2019-11-24 22:37:27: Rick and Morty.S04E02.The Old Man and the Seat
 2019-11-24 22:37:27: Saturday Night Live.S45E06.Harry Styles
 2019-11-24 22:37:26: Mom.S07E07.Pork Butt and a Mall Walker
@@ -95,6 +98,3 @@
 2019-10-24 01:02:34: Tosh.0.S11E16.Burping Girl
 2019-10-24 01:02:33: Talking Dead.S09E03.Ghosts
 2019-10-20 22:02:26: The Simpsons.S31E04.Treehouse of Horror XXX
-2019-10-20 20:02:38: Real Time with Bill Maher.S17E31.Episode 511
-2019-10-20 20:02:17: Family Guy.S18E04.Disney's The Reboot
-2019-10-20 20:02:14: Bob's Burgers.S10E04.Pig Trouble in Little Tina
