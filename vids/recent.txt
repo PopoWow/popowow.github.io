@@ -1,3 +1,4 @@
+2019-12-08 22:01:41: Watchmen: Motion Comic.S01E08.Chapter VIII - Old Ghosts
 2019-12-08 06:01:55: Saturday Night Live.S45E08.Jennifer Lopez / DaBaby
 2019-12-06 06:01:34: The Mandalorian.S01E05.Chapter 5
 2019-12-05 22:01:39: Mom.S07E09.Tuna Florentine and a Clean Handoff
@@ -97,4 +98,3 @@
 2019-10-27 00:30:55: Saturday Night Live.S45E04.Chance the Rapper
 2019-10-27 00:30:55: Titans (2018).S02E08.Jericho
 2019-10-26 23:51:18: Real Time with Bill Maher.S17E32.Episode 512
-2019-10-25 22:35:32: Titans (2018).S02E02.Rose
