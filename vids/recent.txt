@@ -1,3 +1,4 @@
+2019-12-10 20:01:00: The Masked Singer.S02E10.A Pain in the Mask
 2019-12-10 16:46:04: Bob Hearts Abishola.S01E08.Useless Potheads
 2019-12-10 16:46:04: Bob Hearts Abishola.S01E09.We Were Beggars, Now We Are Choosers
 2019-12-10 16:46:04: Bob Hearts Abishola.S01E10.Ice Cream for Breakfast
@@ -97,4 +98,3 @@
 2019-11-03 00:02:19: Saturday Night Live.S45E05.Kristen Stewart / Coldplay
 2019-11-02 06:01:56: Fresh Off the Boat.S06E06.Chestnut Gardens
 2019-11-01 22:01:46: The Walking Dead.S10E05.What It Always Is
-2019-11-01 20:01:53: Titans (2018).S02E09.Atonement
