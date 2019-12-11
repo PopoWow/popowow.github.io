@@ -1,3 +1,13 @@
+2019-12-10 16:46:04: Bob Hearts Abishola.S01E08.Useless Potheads
+2019-12-10 16:46:04: Bob Hearts Abishola.S01E09.We Were Beggars, Now We Are Choosers
+2019-12-10 16:46:04: Bob Hearts Abishola.S01E10.Ice Cream for Breakfast
+2019-12-10 16:46:02: Bob Hearts Abishola.S01E06.Ralph Lauren and Fish
+2019-12-10 16:46:02: Bob Hearts Abishola.S01E07.Tough Like a Laundromat Washing Machine
+2019-12-10 16:46:01: Bob Hearts Abishola.S01E03.A Bird May Love a Fish
+2019-12-10 16:46:01: Bob Hearts Abishola.S01E04.Square Hamburger, Round Buns
+2019-12-10 16:46:01: Bob Hearts Abishola.S01E05.Whacking the Mole
+2019-12-10 16:46:00: Bob Hearts Abishola.S01E01.Pilot
+2019-12-10 16:46:00: Bob Hearts Abishola.S01E02.Nigerians Don't Do Useless Things
 2019-12-09 06:01:42: Rick and Morty.S04E04.Claw and Hoarder: Special Ricktim's Morty
 2019-12-08 22:01:41: Watchmen: Motion Comic.S01E08.Chapter VIII - Old Ghosts
 2019-12-08 06:01:55: Saturday Night Live.S45E08.Jennifer Lopez / DaBaby
@@ -88,13 +98,3 @@
 2019-11-02 06:01:56: Fresh Off the Boat.S06E06.Chestnut Gardens
 2019-11-01 22:01:46: The Walking Dead.S10E05.What It Always Is
 2019-11-01 20:01:53: Titans (2018).S02E09.Atonement
-2019-11-01 20:01:48: The Good Place.S04E06.A Chip Driver Mystery
-2019-11-01 20:01:47: Superstore.S05E06.Trick-or-Treat
-2019-11-01 20:01:46: Last Week Tonight with John Oliver.S06E27.Episode 176
-2019-10-30 20:01:35: Tosh.0.S11E17.Super Bitch
-2019-10-30 20:01:34: The Goldbergs (2013).S07E06.A 100% True Ghost Story
-2019-10-28 20:01:52: Watchmen: Motion Comic.S01E02.Chapter II - Absent Friends
-2019-10-28 20:01:48: Watchmen: Motion Comic.S01E01.Chapter I - At Midnight, All the Agents...
-2019-10-28 14:38:29: Talking Dead.S09E04.Silence the Whisperers
-2019-10-27 00:30:55: Saturday Night Live.S45E04.Chance the Rapper
-2019-10-27 00:30:55: Titans (2018).S02E08.Jericho
