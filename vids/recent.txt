@@ -1,3 +1,5 @@
+2019-12-11 20:01:23: The Masked Singer.S02E11.Two Masks Take It Off: Holiday Semi-Finals
+2019-12-11 20:01:22: The Goldbergs (2013).S07E10.It's A Wonderful Life
 2019-12-10 20:01:00: The Masked Singer.S02E10.A Pain in the Mask
 2019-12-10 16:46:04: Bob Hearts Abishola.S01E08.Useless Potheads
 2019-12-10 16:46:04: Bob Hearts Abishola.S01E09.We Were Beggars, Now We Are Choosers
@@ -12,7 +14,7 @@
 2019-12-09 06:01:42: Rick and Morty.S04E04.Claw and Hoarder: Special Ricktim's Morty
 2019-12-08 22:01:41: Watchmen: Motion Comic.S01E08.Chapter VIII - Old Ghosts
 2019-12-08 06:01:55: Saturday Night Live.S45E08.Jennifer Lopez / DaBaby
-2019-12-06 06:01:34: The Mandalorian.S01E05.Chapter 5
+2019-12-06 06:01:34: The Mandalorian.S01E05.Chapter 5: The Gunslinger
 2019-12-05 22:01:39: Mom.S07E09.Tuna Florentine and a Clean Handoff
 2019-12-05 20:01:40: Young Sheldon.S03E09.A Party Invitation, Football Grapes and an Earth Chicken
 2019-12-04 20:01:28: The Masked Singer.S02E09.Clash of the Masks
@@ -49,7 +51,7 @@
 2019-11-24 22:31:11: The Simpsons.S31E08.Thanksgiving of Horror
 2019-11-24 22:31:10: The Mandalorian.S01E03.Chapter 3: The Sin
 2019-11-24 22:31:09: The Mandalorian.S01E02.Chapter 2: The Child
-2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1: The Mandalorian
+2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1
 2019-11-24 22:31:06: Family Guy.S18E07.Heart Burn
 2019-11-24 22:31:06: Family Guy.S18E08.Shanksgiving
 2019-11-24 22:31:06: Fresh Off the Boat.S06E07.Practicum?!
@@ -96,5 +98,3 @@
 2019-11-04 00:00:24: Bob's Burgers.S10E05.Legends of the Mall
 2019-11-04 00:00:24: Family Guy.S18E05.Cat Fight
 2019-11-03 00:02:19: Saturday Night Live.S45E05.Kristen Stewart / Coldplay
-2019-11-02 06:01:56: Fresh Off the Boat.S06E06.Chestnut Gardens
-2019-11-01 22:01:46: The Walking Dead.S10E05.What It Always Is
