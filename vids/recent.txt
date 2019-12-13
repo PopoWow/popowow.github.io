@@ -1,3 +1,4 @@
+2019-12-13 06:01:25: The Mandalorian.S01E06.Chapter 6
 2019-12-12 22:01:29: Mom.S07E10.Higgledy-Piggledy and a Cat Show
 2019-12-12 22:01:29: Superstore.S05E10.Negotiations
 2019-12-12 20:01:23: Young Sheldon.S03E10.Teenager Soup and a Little Ball of Fib
@@ -97,4 +98,3 @@
 2019-11-04 03:14:53: See.S01E01.Godflame
 2019-11-04 00:00:38: Watchmen: Motion Comic.S01E03.Chapter III - The Judge of All the Earth
 2019-11-04 00:00:25: Real Time with Bill Maher.S17E33.Episode 513
-2019-11-04 00:00:25: The Simpsons.S31E05.Gorillas on the Mast
