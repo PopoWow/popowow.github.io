@@ -1,3 +1,4 @@
+2019-12-12 20:01:23: Young Sheldon.S03E10.Teenager Soup and a Little Ball of Fib
 2019-12-11 20:01:23: The Masked Singer.S02E11.Two Masks Take It Off: Holiday Semi-Finals
 2019-12-11 20:01:22: The Goldbergs (2013).S07E10.It's A Wonderful Life
 2019-12-10 20:01:00: The Masked Singer.S02E10.A Pain in the Mask
@@ -97,4 +98,3 @@
 2019-11-04 00:00:25: The Simpsons.S31E05.Gorillas on the Mast
 2019-11-04 00:00:24: Bob's Burgers.S10E05.Legends of the Mall
 2019-11-04 00:00:24: Family Guy.S18E05.Cat Fight
-2019-11-03 00:02:19: Saturday Night Live.S45E05.Kristen Stewart / Coldplay
