@@ -1,3 +1,5 @@
+2019-12-12 22:01:29: Mom.S07E10.Higgledy-Piggledy and a Cat Show
+2019-12-12 22:01:29: Superstore.S05E10.Negotiations
 2019-12-12 20:01:23: Young Sheldon.S03E10.Teenager Soup and a Little Ball of Fib
 2019-12-11 20:01:23: The Masked Singer.S02E11.Two Masks Take It Off: Holiday Semi-Finals
 2019-12-11 20:01:22: The Goldbergs (2013).S07E10.It's A Wonderful Life
@@ -96,5 +98,3 @@
 2019-11-04 00:00:38: Watchmen: Motion Comic.S01E03.Chapter III - The Judge of All the Earth
 2019-11-04 00:00:25: Real Time with Bill Maher.S17E33.Episode 513
 2019-11-04 00:00:25: The Simpsons.S31E05.Gorillas on the Mast
-2019-11-04 00:00:24: Bob's Burgers.S10E05.Legends of the Mall
-2019-11-04 00:00:24: Family Guy.S18E05.Cat Fight
