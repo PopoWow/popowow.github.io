@@ -1,3 +1,6 @@
+2019-12-15 22:01:33: Family Guy.S18E09.Christmas Is Coming
+2019-12-15 22:01:33: Watchmen: Motion Comic.S01E09.Chapter IX - The Darkness of Mere Being
+2019-12-15 22:01:32: Bob's Burgers.S10E10.Have Yourself A Maily Linda Christmas
 2019-12-15 20:01:30: The Simpsons.S31E10.Bobby, It's Cold Outside
 2019-12-15 06:01:31: Saturday Night Live.S45E09.Scarlett Johansson / Niall Horan
 2019-12-13 22:01:26: Fresh Off the Boat.S06E10.Jessica Town
@@ -95,6 +98,3 @@
 2019-11-04 23:33:07: Dickinson.S01E05.I am afraid to own a Body
 2019-11-04 23:33:06: Dickinson.S01E01.Because I could not stop
 2019-11-04 20:03:30: Talking Dead.S09E05.What it Always Is
-2019-11-04 20:03:22: Last Week Tonight with John Oliver.S06E28.Episode 177
-2019-11-04 03:14:54: See.S01E02.Message in a Bottle
-2019-11-04 03:14:54: See.S01E03.Fresh Blood
