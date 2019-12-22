@@ -1,3 +1,4 @@
+2019-12-22 12:11:00: The Mandalorian.S01E07.Chapter 7: The Reckoning
 2019-12-16 22:01:28: Bob Hearts Abishola.S01E11.Splitting the Hairs
 2019-12-16 06:01:31: Rick and Morty.S04E05.Rattlestar Ricklactica
 2019-12-15 22:01:33: Family Guy.S18E09.Christmas Is Coming
@@ -6,7 +7,7 @@
 2019-12-15 20:01:30: The Simpsons.S31E10.Bobby, It's Cold Outside
 2019-12-15 06:01:31: Saturday Night Live.S45E09.Scarlett Johansson / Niall Horan
 2019-12-13 22:01:26: Fresh Off the Boat.S06E10.Jessica Town
-2019-12-13 06:01:25: The Mandalorian.S01E06.Chapter 6
+2019-12-13 06:01:25: The Mandalorian.S01E06.Chapter 6: The Prisoner
 2019-12-12 22:01:29: Mom.S07E10.Higgledy-Piggledy and a Cat Show
 2019-12-12 22:01:29: Superstore.S05E10.Negotiations
 2019-12-12 20:01:23: Young Sheldon.S03E10.Teenager Soup and a Little Ball of Fib
@@ -63,7 +64,7 @@
 2019-11-24 22:31:11: The Simpsons.S31E08.Thanksgiving of Horror
 2019-11-24 22:31:10: The Mandalorian.S01E03.Chapter 3: The Sin
 2019-11-24 22:31:09: The Mandalorian.S01E02.Chapter 2: The Child
-2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1
+2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1: The Mandalorian
 2019-11-24 22:31:06: Family Guy.S18E07.Heart Burn
 2019-11-24 22:31:06: Family Guy.S18E08.Shanksgiving
 2019-11-24 22:31:06: Fresh Off the Boat.S06E07.Practicum?!
@@ -97,4 +98,3 @@
 2019-11-04 23:33:07: Dickinson.S01E02.I have never seen 'Volcanoes'
 2019-11-04 23:33:07: Dickinson.S01E03.Wild nights
 2019-11-04 23:33:07: Dickinson.S01E04.Alone, I cannot be
-2019-11-04 23:33:07: Dickinson.S01E05.I am afraid to own a Body
