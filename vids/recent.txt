@@ -1,3 +1,4 @@
+2019-12-22 12:12:38: Saturday Night Live.S45E10.Eddie Murphy / Lizzo
 2019-12-22 12:11:00: The Mandalorian.S01E07.Chapter 7: The Reckoning
 2019-12-16 22:01:28: Bob Hearts Abishola.S01E11.Splitting the Hairs
 2019-12-16 06:01:31: Rick and Morty.S04E05.Rattlestar Ricklactica
@@ -97,4 +98,3 @@
 2019-11-04 23:33:08: Dickinson.S01E07.We lose - because we win
 2019-11-04 23:33:07: Dickinson.S01E02.I have never seen 'Volcanoes'
 2019-11-04 23:33:07: Dickinson.S01E03.Wild nights
-2019-11-04 23:33:07: Dickinson.S01E04.Alone, I cannot be
