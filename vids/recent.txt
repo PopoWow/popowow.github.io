@@ -1,9 +1,10 @@
-2019-12-28 23:50:13: The Mandalorian.S01E08.Chapter 8: Redemption
+2020-01-01 06:00:22: The Masked Singer.S01E01.Season Premiere: Mask On Face Off
+2019-12-28 23:50:13: The Mandalorian.S01E08.Redemption
 2019-12-24 20:00:46: Wellington Paranormal.S02E07.Christmas Special
 2019-12-22 20:00:24: The Masked Singer.S02E13.Season Finale: And The Winner Takes It All and Takes It Off
 2019-12-22 20:00:23: The Masked Singer.S02E12.Road to the Finals
 2019-12-22 12:12:38: Saturday Night Live.S45E10.Eddie Murphy / Lizzo
-2019-12-22 12:11:00: The Mandalorian.S01E07.Chapter 7: The Reckoning
+2019-12-22 12:11:00: The Mandalorian.S01E07.The Reckoning
 2019-12-16 22:01:28: Bob Hearts Abishola.S01E11.Splitting the Hairs
 2019-12-16 06:01:31: Rick and Morty.S04E05.Rattlestar Ricklactica
 2019-12-15 22:01:33: Family Guy.S18E09.Christmas Is Coming
@@ -12,7 +13,7 @@
 2019-12-15 20:01:30: The Simpsons.S31E10.Bobby, It's Cold Outside
 2019-12-15 06:01:31: Saturday Night Live.S45E09.Scarlett Johansson / Niall Horan
 2019-12-13 22:01:26: Fresh Off the Boat.S06E10.Jessica Town
-2019-12-13 06:01:25: The Mandalorian.S01E06.Chapter 6: The Prisoner
+2019-12-13 06:01:25: The Mandalorian.S01E06.The Prisoner
 2019-12-12 22:01:29: Mom.S07E10.Higgledy-Piggledy and a Cat Show
 2019-12-12 22:01:29: Superstore.S05E10.Negotiations
 2019-12-12 20:01:23: Young Sheldon.S03E10.Teenager Soup and a Little Ball of Fib
@@ -32,7 +33,7 @@
 2019-12-09 06:01:42: Rick and Morty.S04E04.Claw and Hoarder: Special Ricktim's Morty
 2019-12-08 22:01:41: Watchmen: Motion Comic.S01E08.Chapter VIII - Old Ghosts
 2019-12-08 06:01:55: Saturday Night Live.S45E08.Jennifer Lopez / DaBaby
-2019-12-06 06:01:34: The Mandalorian.S01E05.Chapter 5: The Gunslinger
+2019-12-06 06:01:34: The Mandalorian.S01E05.The Gunslinger
 2019-12-05 22:01:39: Mom.S07E09.Tuna Florentine and a Clean Handoff
 2019-12-05 20:01:40: Young Sheldon.S03E09.A Party Invitation, Football Grapes and an Earth Chicken
 2019-12-04 20:01:28: The Masked Singer.S02E09.Clash of the Masks
@@ -43,7 +44,7 @@
 2019-11-30 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
 2019-11-30 20:01:39: Fresh Off the Boat.S06E09.Lou Wants to Be a Millionaire
 2019-11-30 06:01:36: Titans (2018).S02E13.Nightwing
-2019-11-30 06:01:35: The Mandalorian.S01E04.Chapter 4: Sanctuary
+2019-11-30 06:01:35: The Mandalorian.S01E04.Sanctuary
 2019-11-30 06:01:33: Saturday Night Live.S45E07.Will Ferrell / King Princess
 2019-11-25 06:01:24: Rick and Morty.S04E03.One Crew Over the Crewcoo's Morty
 2019-11-24 22:43:09: Titans (2018).S02E11.E.L._.O.
@@ -67,9 +68,9 @@
 2019-11-24 22:37:25: Last Week Tonight with John Oliver.S06E30.Episode 179
 2019-11-24 22:31:16: Watchmen: Motion Comic.S01E06.Chapter VI - The Abyss Gazes Also
 2019-11-24 22:31:11: The Simpsons.S31E08.Thanksgiving of Horror
-2019-11-24 22:31:10: The Mandalorian.S01E03.Chapter 3: The Sin
-2019-11-24 22:31:09: The Mandalorian.S01E02.Chapter 2: The Child
-2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1: The Mandalorian
+2019-11-24 22:31:10: The Mandalorian.S01E03.The Sin
+2019-11-24 22:31:09: The Mandalorian.S01E02.The Child
+2019-11-24 22:31:08: The Mandalorian.S01E01.The Mandalorian
 2019-11-24 22:31:06: Family Guy.S18E07.Heart Burn
 2019-11-24 22:31:06: Family Guy.S18E08.Shanksgiving
 2019-11-24 22:31:06: Fresh Off the Boat.S06E07.Practicum?!
@@ -97,4 +98,3 @@
 2019-11-05 20:02:52: The Walking Dead.S10E04.Silence the Whisperers
 2019-11-04 23:33:12: Dickinson.S01E10.I felt a Funeral, in my Brain
 2019-11-04 23:33:10: Dickinson.S01E09.'Faith' is a fine invention
-2019-11-04 23:33:09: Dickinson.S01E08.There's a certain Slant of light
