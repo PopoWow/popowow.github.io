@@ -1,3 +1,4 @@
+2020-01-06 20:01:23: Bob Hearts Abishola.S01E12.There's My Nigerians
 2020-01-05 20:01:28: The Simpsons.S31E11.Hail to the Teeth
 2020-01-05 20:01:27: Family Guy.S18E10.Connie's Celica
 2020-01-01 06:00:22: The Masked Singer.S01E01.Season Premiere: Mask On Face Off
@@ -97,4 +98,3 @@
 2019-11-06 20:01:32: Tosh.0.S11E18.Pot Brothers at Law
 2019-11-06 20:01:31: The Masked Singer.S02E05.Mask Us Anything
 2019-11-06 20:01:30: The Goldbergs (2013).S07E07.WrestleMania
-2019-11-05 20:02:52: The Walking Dead.S10E04.Silence the Whisperers
