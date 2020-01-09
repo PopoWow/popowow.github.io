@@ -1,3 +1,4 @@
+2020-01-09 00:01:24: Criminal Minds.S15E02.Awakenings
 2020-01-08 20:01:22: Criminal Minds.S15E01.Under the Skin
 2020-01-06 20:01:23: Bob Hearts Abishola.S01E12.There's My Nigerians
 2020-01-05 20:01:28: The Simpsons.S31E11.Hail to the Teeth
@@ -97,4 +98,3 @@
 2019-11-13 20:01:46: Bob's Burgers.S10E06.The Hawkening: Look Who's Hawking Now!
 2019-11-06 22:01:27: The Masked Singer.S02E06.Mask-ish
 2019-11-06 20:01:32: Tosh.0.S11E18.Pot Brothers at Law
-2019-11-06 20:01:31: The Masked Singer.S02E05.Mask Us Anything
