@@ -1,3 +1,4 @@
+2020-01-12 00:00:28: Jeopardy! The Greatest of All Time.S01E03.Match 3
 2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E01.Match 1
 2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E02.Match 2
 2020-01-11 23:38:37: Death in Paradise.S09E01.Episode 1
@@ -97,4 +98,3 @@
 2019-11-13 20:02:08: The Good Place.S04E07.Help Is Other People
 2019-11-13 20:02:07: Talking Dead.S09E06.Bonds
 2019-11-13 20:02:04: Superstore.S05E07.Shoplifter Rehab
-2019-11-13 20:02:02: Rick and Morty.S04E01.Edge of Tomorty: Rick Die Rickpeat
