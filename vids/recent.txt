@@ -1,7 +1,9 @@
+2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E01.Match 1
+2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E02.Match 2
+2020-01-11 23:38:37: Death in Paradise.S09E01.Episode 1
 2020-01-10 20:01:26: Superstore.S05E11.Lady Boss
 2020-01-09 20:01:32: Young Sheldon.S03E11.A Live Chicken, a Fried Chicken and Holy Matrimony
 2020-01-09 20:01:31: The Good Place.S04E10.You’ve Changed, Man
-2020-01-09 20:01:30: Death in Paradise.S09E01.Episode 1
 2020-01-09 20:01:30: Mom.S07E11.One Tiny Incision and a Coffin Dress
 2020-01-09 00:01:24: Criminal Minds.S15E02.Awakenings
 2020-01-08 20:01:22: Criminal Minds.S15E01.Under the Skin
@@ -96,5 +98,3 @@
 2019-11-13 20:02:07: Talking Dead.S09E06.Bonds
 2019-11-13 20:02:04: Superstore.S05E07.Shoplifter Rehab
 2019-11-13 20:02:02: Rick and Morty.S04E01.Edge of Tomorty: Rick Die Rickpeat
-2019-11-13 20:02:00: Real Time with Bill Maher.S17E34.Episode 514
-2019-11-13 20:01:54: Mom.S07E06.Wile E. Coyote and a Pretentious Douche
