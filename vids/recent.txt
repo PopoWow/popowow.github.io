@@ -1,3 +1,4 @@
+2020-01-16 20:01:28: Death in Paradise.S09E02.Episode 2
 2020-01-16 00:01:37: Criminal Minds.S15E03.Spectator Slowing
 2020-01-15 20:00:19: The Goldbergs (2013).S07E11.Pickleball
 2020-01-12 22:00:27: Bob's Burgers.S10E11.Drumforgiven
@@ -97,4 +98,3 @@
 2019-11-13 20:02:20: Titans (2018).S02E10.Fallen
 2019-11-13 20:02:18: The Walking Dead.S10E06.Bonds
 2019-11-13 20:02:15: The Simpsons.S31E06.Marge the Lumberjill
-2019-11-13 20:02:11: The Masked Singer.S02E07.Triumph Over Masks
