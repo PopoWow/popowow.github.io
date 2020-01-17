@@ -1,3 +1,7 @@
+2020-01-16 22:01:35: Young Sheldon.S03E12.Body Glitter and a Mall Safety Kit
+2020-01-16 22:01:33: The Good Place.S04E11.Mondays, Am I Right?
+2020-01-16 22:01:32: Superstore.S05E12.Myrtle
+2020-01-16 22:01:31: Mom.S07E12.A Depressed Garden Gnome and a Mud Flap
 2020-01-16 20:01:28: Death in Paradise.S09E02.Episode 2
 2020-01-16 00:01:37: Criminal Minds.S15E03.Spectator Slowing
 2020-01-15 20:00:19: The Goldbergs (2013).S07E11.Pickleball
@@ -94,7 +98,3 @@
 2019-11-24 22:31:05: Bob's Burgers.S10E07.Land of the Loft
 2019-11-24 22:31:05: Bob's Burgers.S10E08.Now We're Not Cooking With Gas
 2019-11-13 20:02:26: Young Sheldon.S03E06.A Parasol and a Hell of an Arm
-2019-11-13 20:02:24: Tosh.0.S11E19.Dumped Wife's Revenge
-2019-11-13 20:02:20: Titans (2018).S02E10.Fallen
-2019-11-13 20:02:18: The Walking Dead.S10E06.Bonds
-2019-11-13 20:02:15: The Simpsons.S31E06.Marge the Lumberjill
