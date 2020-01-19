@@ -1,3 +1,4 @@
+2020-01-19 00:02:18: Real Time with Bill Maher.S18E01.Episode 516
 2020-01-18 06:01:38: Fresh Off the Boat.S06E11.Episode 11
 2020-01-16 22:01:35: Young Sheldon.S03E12.Body Glitter and a Mall Safety Kit
 2020-01-16 22:01:33: The Good Place.S04E11.Mondays, Am I Right?
@@ -97,4 +98,3 @@
 2019-11-24 22:31:06: Family Guy.S18E08.Shanksgiving
 2019-11-24 22:31:06: Fresh Off the Boat.S06E07.Practicum?!
 2019-11-24 22:31:05: Bob's Burgers.S10E07.Land of the Loft
-2019-11-24 22:31:05: Bob's Burgers.S10E08.Now We're Not Cooking With Gas
