@@ -1,10 +1,12 @@
+2020-01-22 20:01:32: Criminal Minds.S15E04.Saturday
+2020-01-22 20:01:32: The Goldbergs (2013).S07E12.Game Night
 2020-01-21 20:01:34: Real Time with Bill Maher.S18E01.Episode 516
 2020-01-20 20:01:25: Bob Hearts Abishola.S01E13.The Canadians of Africa
-2020-01-18 06:01:38: Fresh Off the Boat.S06E11.Episode 11
+2020-01-18 06:01:38: Fresh Off the Boat.S06E11.A Seat at the Table
 2020-01-16 22:01:35: Young Sheldon.S03E12.Body Glitter and a Mall Safety Kit
 2020-01-16 22:01:33: The Good Place.S04E11.Mondays, Am I Right?
 2020-01-16 22:01:32: Superstore.S05E12.Myrtle
-2020-01-16 22:01:31: Mom.S07E12.A Depressed Garden Gnome and a Mud Flap
+2020-01-16 22:01:31: Mom.S07E12.Silly Frills and a Depressed Garden Gnome
 2020-01-16 20:01:28: Death in Paradise.S09E02.Episode 2
 2020-01-16 00:01:37: Criminal Minds.S15E03.Spectator Slowing
 2020-01-15 20:00:19: The Goldbergs (2013).S07E11.Pickleball
@@ -24,7 +26,7 @@
 2020-01-05 20:01:27: Family Guy.S18E10.Connie's Celica
 2020-01-01 06:00:22: The Masked Singer.S01E01.Season Premiere: Mask On Face Off
 2019-12-28 23:50:13: The Mandalorian.S01E08.Chapter 8: Redemption
-2019-12-24 20:00:46: Wellington Paranormal.S02E07.Christmas Special
+2019-12-24 20:00:46: Wellington Paranormal.S00E02.Christmas Special
 2019-12-22 20:00:24: The Masked Singer.S02E13.Season Finale: And The Winner Takes It All and Takes It Off
 2019-12-22 20:00:23: The Masked Singer.S02E12.Road to the Finals
 2019-12-22 12:12:38: Saturday Night Live.S45E10.Eddie Murphy / Lizzo
@@ -96,5 +98,3 @@
 2019-11-24 22:31:09: The Mandalorian.S01E02.Chapter 2: The Child
 2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1: The Mandalorian
 2019-11-24 22:31:06: Family Guy.S18E07.Heart Burn
-2019-11-24 22:31:06: Family Guy.S18E08.Shanksgiving
-2019-11-24 22:31:06: Fresh Off the Boat.S06E07.Practicum?!
