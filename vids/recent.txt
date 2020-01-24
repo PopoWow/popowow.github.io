@@ -1,3 +1,6 @@
+2020-01-23 20:01:58: The Good Place.S04E12.Patty
+2020-01-23 20:01:56: Death in Paradise.S09E03.Episode 3
+2020-01-23 20:01:56: Superstore.S05E13.Favoritism
 2020-01-22 20:01:32: Criminal Minds.S15E04.Saturday
 2020-01-22 20:01:32: The Goldbergs (2013).S07E12.Game Night
 2020-01-21 20:01:34: Real Time with Bill Maher.S18E01.Episode 516
@@ -95,6 +98,3 @@
 2019-11-24 22:31:16: Watchmen: Motion Comic.S01E06.Chapter VI - The Abyss Gazes Also
 2019-11-24 22:31:11: The Simpsons.S31E08.Thanksgiving of Horror
 2019-11-24 22:31:10: The Mandalorian.S01E03.Chapter 3: The Sin
-2019-11-24 22:31:09: The Mandalorian.S01E02.Chapter 2: The Child
-2019-11-24 22:31:08: The Mandalorian.S01E01.Chapter 1: The Mandalorian
-2019-11-24 22:31:06: Family Guy.S18E07.Heart Burn
