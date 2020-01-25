@@ -1,3 +1,4 @@
+2020-01-24 20:02:03: Fresh Off the Boat.S06E12.The Magic Motor Inn
 2020-01-23 20:01:58: The Good Place.S04E12.Patty
 2020-01-23 20:01:56: Death in Paradise.S09E03.Episode 3
 2020-01-23 20:01:56: Superstore.S05E13.Favoritism
@@ -97,4 +98,3 @@
 2019-11-24 22:37:25: Last Week Tonight with John Oliver.S06E30.Episode 179
 2019-11-24 22:31:16: Watchmen: Motion Comic.S01E06.Chapter VI - The Abyss Gazes Also
 2019-11-24 22:31:11: The Simpsons.S31E08.Thanksgiving of Horror
-2019-11-24 22:31:10: The Mandalorian.S01E03.Chapter 3: The Sin
