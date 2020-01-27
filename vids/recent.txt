@@ -1,3 +1,4 @@
+2020-01-27 00:01:35: Saturday Night Live.S45E11.Adam Driver / Halsey
 2020-01-25 20:01:33: Star Trek: Picard.S01E01.Remembrance
 2020-01-25 20:01:32: Real Time with Bill Maher.S18E02.Episode 517
 2020-01-24 20:02:03: Fresh Off the Boat.S06E12.The Magic Motor Inn
@@ -97,4 +98,3 @@
 2019-11-24 22:37:26: Mom.S07E07.Pork Butt and a Mall Walker
 2019-11-24 22:37:26: Mom.S07E08.Hot Butter and Toxic Narcissism
 2019-11-24 22:37:25: Fresh Off the Boat.S06E08.TMI: Too Much Integrity
-2019-11-24 22:37:25: Last Week Tonight with John Oliver.S06E30.Episode 179
