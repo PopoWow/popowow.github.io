@@ -1,3 +1,12 @@
+2020-02-01 00:01:56: Young Sheldon.S03E13.Contracts, Rules and a Little Bit of Pig Brains
+2020-02-01 00:01:55: The Good Place.S04E13.Whenever You're Ready
+2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
+2020-02-01 00:01:48: Superstore.S05E14.Sandra's Wedding
+2020-02-01 00:01:46: Star Trek: Picard.S01E02.Maps and Legends
+2020-02-01 00:01:44: Mom.S07E13.Dammit Sandra and the Money Bus
+2020-02-01 00:01:43: Fresh Off the Boat.S06E13.Mommy and Me
+2020-02-01 00:01:39: Death in Paradise.S09E04.Episode 4
+2020-02-01 00:01:37: Criminal Minds.S15E05.Ghost
 2020-01-27 00:01:35: Saturday Night Live.S45E11.Adam Driver / Halsey
 2020-01-25 20:01:33: Star Trek: Picard.S01E01.Remembrance
 2020-01-25 20:01:32: Real Time with Bill Maher.S18E02.Episode 517
@@ -24,7 +33,7 @@
 2020-01-11 23:38:37: Death in Paradise.S09E01.Episode 1
 2020-01-10 20:01:26: Superstore.S05E11.Lady Boss
 2020-01-09 20:01:32: Young Sheldon.S03E11.A Live Chicken, a Fried Chicken and Holy Matrimony
-2020-01-09 20:01:31: The Good Place.S04E10.You’ve Changed, Man
+2020-01-09 20:01:31: The Good Place.S04E10.You've Changed, Man
 2020-01-09 20:01:30: Mom.S07E11.One Tiny Incision and a Coffin Dress
 2020-01-09 00:01:24: Criminal Minds.S15E02.Awakenings
 2020-01-08 20:01:22: Criminal Minds.S15E01.Under the Skin
@@ -89,12 +98,3 @@
 2019-11-24 22:37:42: The Simpsons.S31E07.Livin La Pura Vida
 2019-11-24 22:37:38: The Masked Singer.S02E08.Mask and You Shall Receive
 2019-11-24 22:37:33: The Good Place.S04E09.The Answer
-2019-11-24 22:37:32: The Good Place.S04E08.The Funeral to End All Funerals
-2019-11-24 22:37:31: Superstore.S05E09.Curbside Pickup
-2019-11-24 22:37:31: The Goldbergs (2013).S07E08.Angst-Giving
-2019-11-24 22:37:29: Superstore.S05E08.Toy Drive
-2019-11-24 22:37:27: Rick and Morty.S04E02.The Old Man and the Seat
-2019-11-24 22:37:27: Saturday Night Live.S45E06.Harry Styles
-2019-11-24 22:37:26: Mom.S07E07.Pork Butt and a Mall Walker
-2019-11-24 22:37:26: Mom.S07E08.Hot Butter and Toxic Narcissism
-2019-11-24 22:37:25: Fresh Off the Boat.S06E08.TMI: Too Much Integrity
