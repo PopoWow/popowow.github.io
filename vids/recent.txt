@@ -1,3 +1,4 @@
+2020-02-01 20:01:30: Real Time with Bill Maher.S18E03.Episode 518
 2020-02-01 00:01:56: Young Sheldon.S03E13.Contracts, Rules and a Little Bit of Pig Brains
 2020-02-01 00:01:55: The Good Place.S04E13.Whenever You're Ready
 2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
@@ -97,4 +98,3 @@
 2019-11-24 22:37:51: The Walking Dead.S10E07.Open Your Eyes
 2019-11-24 22:37:42: The Simpsons.S31E07.Livin La Pura Vida
 2019-11-24 22:37:38: The Masked Singer.S02E08.Mask and You Shall Receive
-2019-11-24 22:37:33: The Good Place.S04E09.The Answer
