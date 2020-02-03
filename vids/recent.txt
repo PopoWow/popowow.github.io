@@ -1,3 +1,4 @@
+2020-02-02 22:01:34: The Masked Singer.S03E01.The Season Kick off Mask Off: Group A
 2020-02-02 00:01:35: Saturday Night Live.S45E12.JJ Watt / Luke Combs
 2020-02-01 20:01:30: Real Time with Bill Maher.S18E03.Episode 518
 2020-02-01 00:01:56: Young Sheldon.S03E13.Contracts, Rules and a Little Bit of Pig Brains
@@ -97,4 +98,3 @@
 2019-11-24 22:38:02: Tosh.0.S11E20.2019 Year In Review
 2019-11-24 22:37:59: The Walking Dead.S10E08.The World Before
 2019-11-24 22:37:51: The Walking Dead.S10E07.Open Your Eyes
-2019-11-24 22:37:42: The Simpsons.S31E07.Livin La Pura Vida
