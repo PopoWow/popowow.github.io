@@ -1,3 +1,4 @@
+2020-02-03 20:01:34: Bob Hearts Abishola.S01E14.Full-Frontal Dottie
 2020-02-02 22:01:34: The Masked Singer.S03E01.The Season Kick off Mask Off: Group A
 2020-02-02 00:01:35: Saturday Night Live.S45E12.JJ Watt / Luke Combs
 2020-02-01 20:01:30: Real Time with Bill Maher.S18E03.Episode 518
@@ -97,4 +98,3 @@
 2019-11-24 22:38:04: Young Sheldon.S03E07.Pongo Pygmaeus and a Culture that Encourages Spitting
 2019-11-24 22:38:02: Tosh.0.S11E20.2019 Year In Review
 2019-11-24 22:37:59: The Walking Dead.S10E08.The World Before
-2019-11-24 22:37:51: The Walking Dead.S10E07.Open Your Eyes
