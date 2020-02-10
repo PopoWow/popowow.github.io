@@ -1,3 +1,11 @@
+2020-02-09 22:01:58: Young Sheldon.S03E14.A Slump, a Cross and Roadside Gravel
+2020-02-09 22:01:55: The Masked Singer.S03E02.The Playoffs: Group A
+2020-02-09 22:01:53: Saturday Night Live.S45E13.RuPaul / Justin Bieber
+2020-02-09 22:01:51: Mom.S07E14.Cheddar Cheese and a Squirrel Circus
+2020-02-09 22:01:50: Criminal Minds.S15E07.Rusty
+2020-02-09 22:01:49: Criminal Minds.S15E06.Date Night
+2020-02-09 22:01:48: Brooklyn Nine-Nine.S07E02.Captain Kim
+2020-02-09 22:01:47: Brooklyn Nine-Nine.S07E01.Manhunter
 2020-02-03 20:01:34: Bob Hearts Abishola.S01E14.Full-Frontal Dottie
 2020-02-02 22:01:34: The Masked Singer.S03E01.The Season Kick off Mask Off: Group A
 2020-02-02 00:01:35: Saturday Night Live.S45E12.JJ Watt / Luke Combs
@@ -7,7 +15,7 @@
 2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
 2020-02-01 00:01:48: Superstore.S05E14.Sandra's Wedding
 2020-02-01 00:01:46: Star Trek: Picard.S01E02.Maps and Legends
-2020-02-01 00:01:44: Mom.S07E13.Dammit Sandra and the Money Bus
+2020-02-01 00:01:44: Mom.S07E13.Dammit Sandra and Viking Ancestors
 2020-02-01 00:01:43: Fresh Off the Boat.S06E13.Mommy and Me
 2020-02-01 00:01:39: Death in Paradise.S09E04.Episode 4
 2020-02-01 00:01:37: Criminal Minds.S15E05.Ghost
@@ -90,11 +98,3 @@
 2019-11-30 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
 2019-11-30 20:01:39: Fresh Off the Boat.S06E09.Lou Wants to Be a Millionaire
 2019-11-30 06:01:36: Titans (2018).S02E13.Nightwing
-2019-11-30 06:01:35: The Mandalorian.S01E04.Chapter 4: Sanctuary
-2019-11-30 06:01:33: Saturday Night Live.S45E07.Will Ferrell / King Princess
-2019-11-25 06:01:24: Rick and Morty.S04E03.One Crew Over the Crewcoo's Morty
-2019-11-24 22:43:09: Titans (2018).S02E11.E.L._.O.
-2019-11-24 22:38:06: Young Sheldon.S03E08.The Sin of Greed and a Chimichanga from Chi-Chi's
-2019-11-24 22:38:04: Young Sheldon.S03E07.Pongo Pygmaeus and a Culture that Encourages Spitting
-2019-11-24 22:38:02: Tosh.0.S11E20.2019 Year In Review
-2019-11-24 22:37:59: The Walking Dead.S10E08.The World Before
