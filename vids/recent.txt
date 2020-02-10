@@ -1,3 +1,4 @@
+2020-02-10 00:01:37: Death in Paradise.S09E05.Episode 5
 2020-02-09 22:01:58: Young Sheldon.S03E14.A Slump, a Cross and Roadside Gravel
 2020-02-09 22:01:55: The Masked Singer.S03E02.The Playoffs: Group A
 2020-02-09 22:01:53: Saturday Night Live.S45E13.RuPaul / Justin Bieber
@@ -24,7 +25,7 @@
 2020-01-25 20:01:32: Real Time with Bill Maher.S18E02.Episode 517
 2020-01-24 20:02:03: Fresh Off the Boat.S06E12.The Magic Motor Inn
 2020-01-23 20:01:58: The Good Place.S04E12.Patty
-2020-01-23 20:01:56: Death in Paradise.S09E03.Episode 3
+2020-01-23 20:01:56: Death in Paradise.S09E03.Tour De Murder
 2020-01-23 20:01:56: Superstore.S05E13.Favoritism
 2020-01-22 20:01:32: Criminal Minds.S15E04.Saturday
 2020-01-22 20:01:32: The Goldbergs (2013).S07E12.Game Night
@@ -35,14 +36,14 @@
 2020-01-16 22:01:33: The Good Place.S04E11.Mondays, Am I Right?
 2020-01-16 22:01:32: Superstore.S05E12.Myrtle
 2020-01-16 22:01:31: Mom.S07E12.Silly Frills and a Depressed Garden Gnome
-2020-01-16 20:01:28: Death in Paradise.S09E02.Episode 2
+2020-01-16 20:01:28: Death in Paradise.S09E02.A Murder in Portrait
 2020-01-16 00:01:37: Criminal Minds.S15E03.Spectator Slowing
 2020-01-15 20:00:19: The Goldbergs (2013).S07E11.Pickleball
 2020-01-12 22:00:27: Bob's Burgers.S10E11.Drumforgiven
 2020-01-12 00:00:28: Jeopardy! The Greatest of All Time.S01E03.Match 3
 2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E01.Match 1
 2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E02.Match 2
-2020-01-11 23:38:37: Death in Paradise.S09E01.Episode 1
+2020-01-11 23:38:37: Death in Paradise.S09E01.La Murder Le Diablé
 2020-01-10 20:01:26: Superstore.S05E11.Lady Boss
 2020-01-09 20:01:32: Young Sheldon.S03E11.A Live Chicken, a Fried Chicken and Holy Matrimony
 2020-01-09 20:01:31: The Good Place.S04E10.You've Changed, Man
@@ -97,4 +98,3 @@
 2019-12-01 20:01:34: Bob's Burgers.S10E09.All That Gene
 2019-11-30 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
 2019-11-30 20:01:39: Fresh Off the Boat.S06E09.Lou Wants to Be a Millionaire
-2019-11-30 06:01:36: Titans (2018).S02E13.Nightwing
