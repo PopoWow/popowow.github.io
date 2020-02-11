@@ -1,3 +1,4 @@
+2020-02-10 20:02:15: Bob Hearts Abishola.S01E15.Black Ice
 2020-02-10 00:01:37: Death in Paradise.S09E05.Episode 5
 2020-02-09 22:01:58: Young Sheldon.S03E14.A Slump, a Cross and Roadside Gravel
 2020-02-09 22:01:55: The Masked Singer.S03E02.The Playoffs: Group A
@@ -97,4 +98,3 @@
 2019-12-01 20:01:35: The Simpsons.S31E09.Todd, Todd, Why Hast Thou Forsaken Me?
 2019-12-01 20:01:34: Bob's Burgers.S10E09.All That Gene
 2019-11-30 20:01:40: Young Sheldon.S03E04.Hobbitses, Physicses and a Ball with Zip
-2019-11-30 20:01:39: Fresh Off the Boat.S06E09.Lou Wants to Be a Millionaire
