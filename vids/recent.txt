@@ -1,8 +1,18 @@
+2020-02-15 06:04:11: Young Sheldon.S03E15.A Boyfriend's Ex-Wife and a Good Luck Head Rub
+2020-02-15 06:04:07: The Masked Singer.S03E03.Masking for a Friend: Group A
+2020-02-15 06:03:56: Superstore.S05E15.Cereal Bar
+2020-02-15 06:03:52: Star Trek: Picard.S01E02.Maps and Legends
+2020-02-15 06:03:39: Star Trek: Picard.S01E01.Remembrance
+2020-02-15 06:03:27: Real Time with Bill Maher.S18E05.Episode 520
+2020-02-15 06:03:12: Mom.S07E15.Somebody's Grandmother and the A-List
+2020-02-15 06:03:01: Death in Paradise.S09E06.Murder on Mosquito Island
+2020-02-15 06:02:50: Criminal Minds.S15E08.Family Tree
+2020-02-15 06:02:46: Brooklyn Nine-Nine.S07E03.Pimemento
 2020-02-14 16:25:47: Star Trek: Picard.S01E04.Absolute Candor
 2020-02-14 16:25:46: Star Trek: Picard.S01E03.The End is the Beginning
 2020-02-11 22:01:21: The Goldbergs (2013).S07E14.Preventa Mode
 2020-02-10 20:02:15: Bob Hearts Abishola.S01E15.Black Ice
-2020-02-10 00:01:37: Death in Paradise.S09E05.Episode 5
+2020-02-10 00:01:37: Death in Paradise.S09E05.Switcharoo
 2020-02-09 22:01:58: Young Sheldon.S03E14.A Slump, a Cross and Roadside Gravel
 2020-02-09 22:01:55: The Masked Singer.S03E02.The Playoffs: Group A
 2020-02-09 22:01:53: Saturday Night Live.S45E13.RuPaul / Justin Bieber
@@ -19,13 +29,11 @@
 2020-02-01 00:01:55: The Good Place.S04E13.Whenever You're Ready
 2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
 2020-02-01 00:01:48: Superstore.S05E14.Sandra's Wedding
-2020-02-01 00:01:46: Star Trek: Picard.S01E02.Maps and Legends
 2020-02-01 00:01:44: Mom.S07E13.Dammit Sandra and Viking Ancestors
 2020-02-01 00:01:43: Fresh Off the Boat.S06E13.Mommy and Me
-2020-02-01 00:01:39: Death in Paradise.S09E04.Episode 4
+2020-02-01 00:01:39: Death in Paradise.S09E04.Pirates of the Murder Scene
 2020-02-01 00:01:37: Criminal Minds.S15E05.Ghost
 2020-01-27 00:01:35: Saturday Night Live.S45E11.Adam Driver / Halsey
-2020-01-25 20:01:33: Star Trek: Picard.S01E01.Remembrance
 2020-01-25 20:01:32: Real Time with Bill Maher.S18E02.Episode 517
 2020-01-24 20:02:03: Fresh Off the Boat.S06E12.The Magic Motor Inn
 2020-01-23 20:01:58: The Good Place.S04E12.Patty
@@ -90,11 +98,3 @@
 2019-12-10 16:46:00: Bob Hearts Abishola.S01E01.Pilot
 2019-12-10 16:46:00: Bob Hearts Abishola.S01E02.Nigerians Don't Do Useless Things
 2019-12-09 06:01:42: Rick and Morty.S04E04.Claw and Hoarder: Special Ricktim's Morty
-2019-12-08 22:01:41: Watchmen: Motion Comic.S01E08.Chapter VIII - Old Ghosts
-2019-12-08 06:01:55: Saturday Night Live.S45E08.Jennifer Lopez / DaBaby
-2019-12-06 06:01:34: The Mandalorian.S01E05.Chapter 5: The Gunslinger
-2019-12-05 22:01:39: Mom.S07E09.Tuna Florentine and a Clean Handoff
-2019-12-05 20:01:40: Young Sheldon.S03E09.A Party Invitation, Football Grapes and an Earth Chicken
-2019-12-04 20:01:28: The Masked Singer.S02E09.Clash of the Masks
-2019-12-04 20:01:27: The Goldbergs (2013).S07E09.The Beverly Goldberg Cookbook: Part 2
-2019-12-01 22:01:38: Watchmen: Motion Comic.S01E07.Chapter VII - A Brother to Dragons
