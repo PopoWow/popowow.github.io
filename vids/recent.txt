@@ -1,3 +1,5 @@
+2020-02-14 16:25:47: Star Trek: Picard.S01E04.Absolute Candor
+2020-02-14 16:25:46: Star Trek: Picard.S01E03.The End is the Beginning
 2020-02-11 22:01:21: The Goldbergs (2013).S07E14.Preventa Mode
 2020-02-10 20:02:15: Bob Hearts Abishola.S01E15.Black Ice
 2020-02-10 00:01:37: Death in Paradise.S09E05.Episode 5
@@ -96,5 +98,3 @@
 2019-12-04 20:01:28: The Masked Singer.S02E09.Clash of the Masks
 2019-12-04 20:01:27: The Goldbergs (2013).S07E09.The Beverly Goldberg Cookbook: Part 2
 2019-12-01 22:01:38: Watchmen: Motion Comic.S01E07.Chapter VII - A Brother to Dragons
-2019-12-01 20:01:35: The Simpsons.S31E09.Todd, Todd, Why Hast Thou Forsaken Me?
-2019-12-01 20:01:34: Bob's Burgers.S10E09.All That Gene
