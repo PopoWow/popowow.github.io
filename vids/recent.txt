@@ -1,3 +1,4 @@
+2020-02-16 22:02:00: Last Week Tonight with John Oliver.S07E01.Episode 180
 2020-02-16 20:02:08: The Simpsons.S31E12.The Miseducation of Lisa Simpson
 2020-02-16 20:02:06: Family Guy.S18E11.Short Cuts
 2020-02-16 20:02:05: Bob's Burgers.S10E12.A Fish Called Tina
@@ -97,4 +98,3 @@
 2019-12-10 16:46:02: Bob Hearts Abishola.S01E07.Tough Like a Laundromat Washing Machine
 2019-12-10 16:46:01: Bob Hearts Abishola.S01E03.A Bird May Love a Fish
 2019-12-10 16:46:01: Bob Hearts Abishola.S01E04.Square Hamburger, Round Buns
-2019-12-10 16:46:01: Bob Hearts Abishola.S01E05.Whacking the Mole
