@@ -1,3 +1,31 @@
+2020-02-29 00:04:46: Young Sheldon.S03E16.Pasadena
+2020-02-29 00:04:44: The Walking Dead.S10E10.Stalker
+2020-02-29 00:04:37: The Walking Dead.S10E09.Squeeze
+2020-02-29 00:04:28: The Simpsons.S31E13.Frinkcoin
+2020-02-29 00:04:25: The Masked Singer.S03E05.Mask-Matics: Group B Playoffs
+2020-02-29 00:04:20: The Masked Singer.S03E04.A Brand New Six Pack: Group B Kickoff!
+2020-02-29 00:04:16: The Goldbergs (2013).S07E16.Body Swap
+2020-02-29 00:04:14: The Goldbergs (2013).S07E15.Dave Kim's Party
+2020-02-29 00:04:11: Talking Dead.S09E09.Squeeze
+2020-02-29 00:04:06: Superstore.S05E17.Zephra Cares
+2020-02-29 00:04:04: Superstore.S05E16.Employee App
+2020-02-29 00:04:02: Star Trek: Picard.S01E06.The Impossible Box
+2020-02-29 00:03:54: Star Trek: Picard.S01E05.Stardust City Rag
+2020-02-29 00:03:52: Real Time with Bill Maher.S18E06.Episode 521
+2020-02-29 00:03:45: Mom.S07E16.Judy Garland and a Sexy Troll Doll
+2020-02-29 00:03:43: Last Week Tonight with John Oliver.S07E02.Episode 181
+2020-02-29 00:03:40: Fresh Off the Boat.S06E15.Commencement
+2020-02-29 00:03:39: Fresh Off the Boat.S06E14.Family Van
+2020-02-29 00:03:36: Family Guy.S18E12.Undergrounded
+2020-02-29 00:03:33: Death in Paradise.S09E08.Now You See Him, Now You Don't
+2020-02-29 00:03:32: Death in Paradise.S09E07.Death in the Salon
+2020-02-29 00:03:29: Criminal Minds.S15E10.And in the End (2)
+2020-02-29 00:03:28: Criminal Minds.S15E09.Face Off (1)
+2020-02-29 00:03:25: Brooklyn Nine-Nine.S07E05.Debbie
+2020-02-29 00:03:24: Brooklyn Nine-Nine.S07E04.The Jimmy Jab Games II
+2020-02-29 00:03:22: Bob's Burgers.S10E13.Three Girls and a Little Wharfy
+2020-02-29 00:03:21: Better Call Saul.S05E02.50% Off
+2020-02-29 00:03:20: Better Call Saul.S05E01.Magic Man
 2020-02-17 20:01:50: Bob Hearts Abishola.S01E16.Where's Your Other Wives, Tunde?
 2020-02-16 22:02:00: Last Week Tonight with John Oliver.S07E01.Episode 180
 2020-02-16 20:02:08: The Simpsons.S31E12.The Miseducation of Lisa Simpson
@@ -70,31 +98,3 @@
 2020-01-06 20:01:23: Bob Hearts Abishola.S01E12.There's My Nigerians
 2020-01-05 20:01:28: The Simpsons.S31E11.Hail to the Teeth
 2020-01-05 20:01:27: Family Guy.S18E10.Connie's Celica
-2020-01-01 06:00:22: The Masked Singer.S01E01.Season Premiere: Mask On Face Off
-2019-12-28 23:50:13: The Mandalorian.S01E08.Chapter 8: Redemption
-2019-12-24 20:00:46: Wellington Paranormal.S00E02.Christmas Special
-2019-12-22 20:00:24: The Masked Singer.S02E13.Season Finale: And The Winner Takes It All and Takes It Off
-2019-12-22 20:00:23: The Masked Singer.S02E12.Road to the Finals
-2019-12-22 12:12:38: Saturday Night Live.S45E10.Eddie Murphy / Lizzo
-2019-12-22 12:11:00: The Mandalorian.S01E07.Chapter 7:  The Reckoning
-2019-12-16 22:01:28: Bob Hearts Abishola.S01E11.Splitting the Hairs
-2019-12-16 06:01:31: Rick and Morty.S04E05.Rattlestar Ricklactica
-2019-12-15 22:01:33: Family Guy.S18E09.Christmas Is Coming
-2019-12-15 22:01:33: Watchmen: Motion Comic.S01E09.Chapter IX - The Darkness of Mere Being
-2019-12-15 22:01:32: Bob's Burgers.S10E10.Have Yourself A Maily Linda Christmas
-2019-12-15 20:01:30: The Simpsons.S31E10.Bobby, It's Cold Outside
-2019-12-15 06:01:31: Saturday Night Live.S45E09.Scarlett Johansson / Niall Horan
-2019-12-13 22:01:26: Fresh Off the Boat.S06E10.Jessica Town
-2019-12-13 06:01:25: The Mandalorian.S01E06.Chapter 6:  The Prisoner
-2019-12-12 22:01:29: Mom.S07E10.Higgledy-Piggledy and a Cat Show
-2019-12-12 22:01:29: Superstore.S05E10.Negotiations
-2019-12-12 20:01:23: Young Sheldon.S03E10.Teenager Soup and a Little Ball of Fib
-2019-12-11 20:01:23: The Masked Singer.S02E11.Two Masks Take It Off: Holiday Semi-Finals
-2019-12-11 20:01:22: The Goldbergs (2013).S07E10.It's A Wonderful Life
-2019-12-10 20:01:00: The Masked Singer.S02E10.A Pain in the Mask
-2019-12-10 16:46:04: Bob Hearts Abishola.S01E08.Useless Potheads
-2019-12-10 16:46:04: Bob Hearts Abishola.S01E09.We Were Beggars, Now We Are Choosers
-2019-12-10 16:46:04: Bob Hearts Abishola.S01E10.Ice Cream for Breakfast
-2019-12-10 16:46:02: Bob Hearts Abishola.S01E06.Ralph Lauren and Fish
-2019-12-10 16:46:02: Bob Hearts Abishola.S01E07.Tough Like a Laundromat Washing Machine
-2019-12-10 16:46:01: Bob Hearts Abishola.S01E03.A Bird May Love a Fish
