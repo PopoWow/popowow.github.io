@@ -1,3 +1,4 @@
+2020-03-09 22:02:03: Better Call Saul.S05E04.Namaste
 2020-03-09 20:05:57: Young Sheldon.S03E17.An Academic Crime and a More Romantic Taco Bell
 2020-03-09 20:05:55: The Walking Dead.S10E11.Morning Star
 2020-03-09 20:05:48: The Simpsons.S31E15.Screenless
@@ -97,4 +98,3 @@
 2020-01-22 20:01:32: Criminal Minds.S15E04.Saturday
 2020-01-22 20:01:32: The Goldbergs (2013).S07E12.Game Night
 2020-01-21 20:01:34: Real Time with Bill Maher.S18E01.Episode 516
-2020-01-20 20:01:25: Bob Hearts Abishola.S01E13.The Canadians of Africa
