@@ -1,3 +1,23 @@
+2020-03-09 20:05:57: Young Sheldon.S03E17.An Academic Crime and a More Romantic Taco Bell
+2020-03-09 20:05:55: The Walking Dead.S10E11.Morning Star
+2020-03-09 20:05:48: The Simpsons.S31E15.Screenless
+2020-03-09 20:05:46: The Simpsons.S31E14.Bart the Bad Guy
+2020-03-09 20:05:44: The Masked Singer.S03E06.Friends in High Places: Group B Championships
+2020-03-09 20:05:34: Talking Dead.S09E10.Stalker
+2020-03-09 20:05:28: Star Trek: Picard.S01E07.Nepenthe
+2020-03-09 20:05:19: Star Trek: Picard.S01E05.Stardust City Rag
+2020-03-09 20:05:14: Saturday Night Live.S45E15.Daniel Craig / The Weeknd
+2020-03-09 20:05:07: Real Time with Bill Maher.S18E07.Episode 522
+2020-03-09 20:05:01: Mom.S07E17.Beef Baloney Dan and the Hot Zone
+2020-03-09 20:05:00: Last Week Tonight with John Oliver.S07E04.Episode 183
+2020-03-09 20:04:59: Last Week Tonight with John Oliver.S07E03.Episode 182
+2020-03-09 20:04:58: Family Guy.S18E14.The Movement
+2020-03-09 20:04:57: Brooklyn Nine-Nine.S07E06.Trying
+2020-03-09 20:04:57: Family Guy.S18E13.Rich Old Stewie
+2020-03-09 20:04:56: Bob's Burgers.S10E14.Wag the Song
+2020-03-09 20:04:56: Bob's Burgers.S10E15.Yurty Rotten Scoundrels
+2020-03-09 20:04:55: Bob Hearts Abishola.S01E17.A Big, White Thumb
+2020-03-09 20:04:54: Better Call Saul.S05E03.The Guy for This
 2020-03-01 00:01:15: Saturday Night Live.S45E14.John Mulaney / David Byrne
 2020-02-29 00:15:43: Star Wars: The Clone Wars.S07E02.A Distant Echo
 2020-02-29 00:15:42: Star Wars: The Clone Wars.S07E01.The Bad Batch
@@ -13,7 +33,6 @@
 2020-02-29 00:04:06: Superstore.S05E17.Zephra Cares
 2020-02-29 00:04:04: Superstore.S05E16.Employee App
 2020-02-29 00:04:02: Star Trek: Picard.S01E06.The Impossible Box
-2020-02-29 00:03:54: Star Trek: Picard.S01E05.Stardust City Rag
 2020-02-29 00:03:52: Real Time with Bill Maher.S18E06.Episode 521
 2020-02-29 00:03:45: Mom.S07E16.Judy Garland and a Sexy Troll Doll
 2020-02-29 00:03:43: Last Week Tonight with John Oliver.S07E02.Episode 181
@@ -79,22 +98,3 @@
 2020-01-22 20:01:32: The Goldbergs (2013).S07E12.Game Night
 2020-01-21 20:01:34: Real Time with Bill Maher.S18E01.Episode 516
 2020-01-20 20:01:25: Bob Hearts Abishola.S01E13.The Canadians of Africa
-2020-01-18 06:01:38: Fresh Off the Boat.S06E11.A Seat at the Table
-2020-01-16 22:01:35: Young Sheldon.S03E12.Body Glitter and a Mall Safety Kit
-2020-01-16 22:01:33: The Good Place.S04E11.Mondays, Am I Right?
-2020-01-16 22:01:32: Superstore.S05E12.Myrtle
-2020-01-16 22:01:31: Mom.S07E12.Silly Frills and a Depressed Garden Gnome
-2020-01-16 20:01:28: Death in Paradise.S09E02.A Murder in Portrait
-2020-01-16 00:01:37: Criminal Minds.S15E03.Spectator Slowing
-2020-01-15 20:00:19: The Goldbergs (2013).S07E11.Pickleball
-2020-01-12 22:00:27: Bob's Burgers.S10E11.Drumforgiven
-2020-01-12 00:00:28: Jeopardy! The Greatest of All Time.S01E03.Match 3
-2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E01.Match 1
-2020-01-11 23:38:38: Jeopardy! The Greatest of All Time.S01E02.Match 2
-2020-01-11 23:38:37: Death in Paradise.S09E01.La Murder Le Diablé
-2020-01-10 20:01:26: Superstore.S05E11.Lady Boss
-2020-01-09 20:01:32: Young Sheldon.S03E11.A Live Chicken, a Fried Chicken and Holy Matrimony
-2020-01-09 20:01:31: The Good Place.S04E10.You've Changed, Man
-2020-01-09 20:01:30: Mom.S07E11.One Tiny Incision and a Coffin Dress
-2020-01-09 00:01:24: Criminal Minds.S15E02.Awakenings
-2020-01-08 20:01:22: Criminal Minds.S15E01.Under the Skin
