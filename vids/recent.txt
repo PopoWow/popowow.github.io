@@ -1,3 +1,4 @@
+2020-03-11 20:02:01: The Masked Singer.S03E07.Last But Not Least: Group C Kickoff!
 2020-03-10 06:01:51: Star Wars: The Clone Wars.S07E03.On the Wings of Keeradaks
 2020-03-10 06:01:44: Star Wars: The Clone Wars.S07E02.A Distant Echo
 2020-03-10 06:01:43: Star Wars: The Clone Wars.S07E01.The Bad Batch
@@ -97,4 +98,3 @@
 2020-01-23 20:01:56: Death in Paradise.S09E03.Tour De Murder
 2020-01-23 20:01:56: Superstore.S05E13.Favoritism
 2020-01-22 20:01:32: Criminal Minds.S15E04.Saturday
-2020-01-22 20:01:32: The Goldbergs (2013).S07E12.Game Night
