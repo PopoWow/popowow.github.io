@@ -1,3 +1,4 @@
+2020-03-12 22:02:19: Mom.S07E18.A Judgy Face and Your Grandma's Drawers
 2020-03-12 20:09:47: Brooklyn Nine-Nine.S07E07.Ding Dong
 2020-03-12 06:01:47: Star Trek: Picard.S01E08.Broken Pieces
 2020-03-11 20:02:01: The Masked Singer.S03E07.Last But Not Least: Group C Kickoff!
@@ -97,4 +98,3 @@
 2020-01-25 20:01:32: Real Time with Bill Maher.S18E02.Episode 517
 2020-01-24 20:02:03: Fresh Off the Boat.S06E12.The Magic Motor Inn
 2020-01-23 20:01:58: The Good Place.S04E12.Patty
-2020-01-23 20:01:56: Death in Paradise.S09E03.Tour De Murder
