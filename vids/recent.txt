@@ -1,3 +1,9 @@
+2020-03-16 00:01:41: The Walking Dead.S10E12.Walk With Us
+2020-03-16 00:01:39: The Simpsons.S31E16.Better Off Ned
+2020-03-16 00:01:38: Real Time with Bill Maher.S18E08.Episode 523
+2020-03-16 00:01:36: Last Week Tonight with John Oliver.S07E05.Episode 184
+2020-03-16 00:01:35: Family Guy.S18E15.Baby Stewie
+2020-03-16 00:01:34: Bob's Burgers.S10E16.Flat-Top O' the Morning to Ya
 2020-03-14 20:01:19: Star Trek: Picard.S01E08.Broken Pieces
 2020-03-14 20:01:19: Star Wars: The Clone Wars.S07E04.Unfinished Business
 2020-03-12 22:02:19: Mom.S07E18.A Judgy Face and Your Grandma's Drawers
@@ -92,9 +98,3 @@
 2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
 2020-02-01 00:01:48: Superstore.S05E14.Sandra's Wedding
 2020-02-01 00:01:44: Mom.S07E13.Dammit Sandra and Viking Ancestors
-2020-02-01 00:01:43: Fresh Off the Boat.S06E13.Mommy and Me
-2020-02-01 00:01:39: Death in Paradise.S09E04.Pirates of the Murder Scene
-2020-02-01 00:01:37: Criminal Minds.S15E05.Ghost
-2020-01-27 00:01:35: Saturday Night Live.S45E11.Adam Driver / Halsey
-2020-01-25 20:01:32: Real Time with Bill Maher.S18E02.Episode 517
-2020-01-24 20:02:03: Fresh Off the Boat.S06E12.The Magic Motor Inn
