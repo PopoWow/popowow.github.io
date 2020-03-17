@@ -1,3 +1,5 @@
+2020-03-16 20:01:31: Better Call Saul.S05E05.Dedicado a Max
+2020-03-16 20:01:31: Bob Hearts Abishola.S01E18.Sock Wife!
 2020-03-16 00:01:41: The Walking Dead.S10E12.Walk With Us
 2020-03-16 00:01:39: The Simpsons.S31E16.Better Off Ned
 2020-03-16 00:01:38: Real Time with Bill Maher.S18E08.Episode 523
@@ -96,5 +98,3 @@
 2020-02-01 00:01:56: Young Sheldon.S03E13.Contracts, Rules and a Little Bit of Pig Brains
 2020-02-01 00:01:55: The Good Place.S04E13.Whenever You're Ready
 2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
-2020-02-01 00:01:48: Superstore.S05E14.Sandra's Wedding
-2020-02-01 00:01:44: Mom.S07E13.Dammit Sandra and Viking Ancestors
