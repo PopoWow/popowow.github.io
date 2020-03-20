@@ -1,6 +1,10 @@
+2020-03-19 20:00:27: Star Trek: Picard.S01E09.Et in Arcadia EGO (1)
+2020-03-19 20:00:27: The Goldbergs (2013).S07E17.A Fish Story
+2020-03-19 20:00:27: The Masked Singer.S03E08.It Never Hurts to Mask: Group C Playoffs
+2020-03-19 20:00:26: Brooklyn Nine-Nine.S07E08.The Takeback
 2020-03-16 20:01:31: Better Call Saul.S05E05.Dedicado a Max
 2020-03-16 20:01:31: Bob Hearts Abishola.S01E18.Sock Wife!
-2020-03-16 00:01:41: The Walking Dead.S10E12.Walk With Us
+2020-03-16 00:01:41: The Walking Dead.S10E12.Walk with Us
 2020-03-16 00:01:39: The Simpsons.S31E16.Better Off Ned
 2020-03-16 00:01:38: Real Time with Bill Maher.S18E08.Episode 523
 2020-03-16 00:01:36: Last Week Tonight with John Oliver.S07E05.Episode 184
@@ -94,7 +98,3 @@
 2020-02-03 20:01:34: Bob Hearts Abishola.S01E14.Full-Frontal Dottie
 2020-02-02 22:01:34: The Masked Singer.S03E01.The Season Kick off Mask Off: Group A
 2020-02-02 00:01:35: Saturday Night Live.S45E12.JJ Watt / Luke Combs
-2020-02-01 20:01:30: Real Time with Bill Maher.S18E03.Episode 518
-2020-02-01 00:01:56: Young Sheldon.S03E13.Contracts, Rules and a Little Bit of Pig Brains
-2020-02-01 00:01:55: The Good Place.S04E13.Whenever You're Ready
-2020-02-01 00:01:51: The Goldbergs (2013).S07E13.Geoff the Pleaser
