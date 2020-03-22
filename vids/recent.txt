@@ -1,3 +1,4 @@
+2020-03-21 20:03:24: Star Wars: The Clone Wars.S07E05.Gone With a Trace
 2020-03-21 06:00:19: Star Trek: Picard.S01E09.Et in Arcadia Ego (1)
 2020-03-20 20:00:22: The Walking Dead.S10E13.What We Become
 2020-03-20 00:00:25: Superstore.S05E18.Playdate
@@ -97,4 +98,3 @@
 2020-02-09 22:01:49: Criminal Minds.S15E06.Date Night
 2020-02-09 22:01:48: Brooklyn Nine-Nine.S07E02.Captain Kim
 2020-02-09 22:01:47: Brooklyn Nine-Nine.S07E01.Manhunter
-2020-02-03 20:01:34: Bob Hearts Abishola.S01E14.Full-Frontal Dottie
