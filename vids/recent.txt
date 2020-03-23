@@ -1,3 +1,4 @@
+2020-03-23 06:01:27: Talking Dead.S09E13.What We Become
 2020-03-22 20:01:34: The Simpsons.S31E17.Highway to Well
 2020-03-22 20:01:32: Bob's Burgers.S10E17.Just the Trip
 2020-03-21 20:03:24: Star Wars: The Clone Wars.S07E05.Gone With a Trace
@@ -97,4 +98,3 @@
 2020-02-09 22:01:53: Saturday Night Live.S45E13.RuPaul / Justin Bieber
 2020-02-09 22:01:51: Mom.S07E14.Cheddar Cheese and a Squirrel Circus
 2020-02-09 22:01:50: Criminal Minds.S15E07.Rusty
-2020-02-09 22:01:49: Criminal Minds.S15E06.Date Night
