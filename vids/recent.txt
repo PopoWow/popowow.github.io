@@ -1,3 +1,5 @@
+2020-03-30 00:01:28: Last Week Tonight with John Oliver.S07E06.Episode 185
+2020-03-30 00:01:28: Talking Dead.S09E14.Look at the Flowers
 2020-03-27 20:01:42: The Walking Dead.S10E14.Look at the Flowers
 2020-03-27 20:01:40: Star Wars: The Clone Wars.S07E06.Deal No Deal
 2020-03-27 06:01:34: Star Trek: Picard.S01E10.Et in Arcadia Ego (2)
@@ -96,5 +98,3 @@
 2020-02-15 06:03:01: Death in Paradise.S09E06.Murder on Mosquito Island
 2020-02-15 06:02:50: Criminal Minds.S15E08.Family Tree
 2020-02-15 06:02:46: Brooklyn Nine-Nine.S07E03.Pimemento
-2020-02-14 16:25:47: Star Trek: Picard.S01E04.Absolute Candor
-2020-02-14 16:25:46: Star Trek: Picard.S01E03.The End is the Beginning
