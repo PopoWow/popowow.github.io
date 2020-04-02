@@ -1,5 +1,8 @@
+2020-04-01 20:01:32: The Masked Singer.S03E10.The Super Nine Masked Singer Special: Groups A, B & C
+2020-04-01 20:01:30: The Goldbergs (2013).S07E19.Island Time
 2020-03-30 20:01:27: Better Call Saul.S05E07.JMM
 2020-03-30 00:01:28: Last Week Tonight with John Oliver.S07E06.Episode 185
+2020-03-30 00:01:28: Talking Dead.S09E13.Look at the Flowers
 2020-03-30 00:01:28: Talking Dead.S09E14.Look at the Flowers
 2020-03-27 20:01:42: The Walking Dead.S10E14.Look at the Flowers
 2020-03-27 20:01:40: Star Wars: The Clone Wars.S07E06.Deal No Deal
@@ -9,7 +12,6 @@
 2020-03-25 20:01:37: The Masked Singer.S03E09.Old Friends, New Clues: Group C Championships
 2020-03-25 20:01:35: The Goldbergs (2013).S07E18.Schmoopie's Big Adventure
 2020-03-23 20:01:31: Better Call Saul.S05E06.Wexler v. Goodman
-2020-03-23 06:01:27: Talking Dead.S09E13.What We Become
 2020-03-22 20:01:34: The Simpsons.S31E17.Highway to Well
 2020-03-22 20:01:32: Bob's Burgers.S10E17.Just the Trip
 2020-03-21 20:03:24: Star Wars: The Clone Wars.S07E05.Gone With a Trace
@@ -96,5 +98,3 @@
 2020-02-15 06:03:39: Star Trek: Picard.S01E01.Remembrance
 2020-02-15 06:03:27: Real Time with Bill Maher.S18E05.Episode 520
 2020-02-15 06:03:12: Mom.S07E15.Somebody's Grandmother and the A-List
-2020-02-15 06:03:01: Death in Paradise.S09E06.Murder on Mosquito Island
-2020-02-15 06:02:50: Criminal Minds.S15E08.Family Tree
