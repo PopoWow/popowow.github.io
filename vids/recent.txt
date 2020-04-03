@@ -1,3 +1,9 @@
+2020-04-03 06:01:36: Star Wars: The Clone Wars.S07E07.Dangerous Debt
+2020-04-03 06:01:35: Future Man.S03E08.Return of the Present
+2020-04-03 06:01:34: Future Man.S03E07.Time Rogues III: Escape From Forever
+2020-04-03 06:01:33: Future Man.S03E04.The Outlaw Wild Sam
+2020-04-03 06:01:33: Future Man.S03E05.Haven Is for Real
+2020-04-03 06:01:33: Future Man.S03E06.The Land After Time
 2020-04-03 00:01:33: Young Sheldon.S03E19.A House for Sale and Serious Woman Stuff
 2020-04-02 20:01:32: Superstore.S05E20.Customer Safari
 2020-04-02 20:01:31: Mom.S07E19.Texas Pete and a Parking Lot Carnival
@@ -92,9 +98,3 @@
 2020-02-29 00:03:20: Better Call Saul.S05E01.Magic Man
 2020-02-17 20:01:50: Bob Hearts Abishola.S01E16.Where's Your Other Wives, Tunde?
 2020-02-16 22:02:00: Last Week Tonight with John Oliver.S07E01.Episode 180
-2020-02-16 20:02:08: The Simpsons.S31E12.The Miseducation of Lisa Simpson
-2020-02-16 20:02:06: Family Guy.S18E11.Short Cuts
-2020-02-16 20:02:05: Bob's Burgers.S10E12.A Fish Called Tina
-2020-02-15 06:04:11: Young Sheldon.S03E15.A Boyfriend's Ex-Wife and a Good Luck Head Rub
-2020-02-15 06:04:07: The Masked Singer.S03E03.Masking for a Friend: Group A
-2020-02-15 06:03:56: Superstore.S05E15.Cereal Bar
