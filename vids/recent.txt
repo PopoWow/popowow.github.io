@@ -1,3 +1,4 @@
+2020-04-04 20:01:37: Real Time with Bill Maher.S18E09.Episode 524
 2020-04-03 20:01:47: The Walking Dead.S10E15.The Tower
 2020-04-03 06:01:36: Star Wars: The Clone Wars.S07E07.Dangerous Debt
 2020-04-03 06:01:35: Future Man.S03E08.Return of the Present
@@ -97,4 +98,3 @@
 2020-02-29 00:03:22: Bob's Burgers.S10E13.Three Girls and a Little Wharfy
 2020-02-29 00:03:21: Better Call Saul.S05E02.50% Off
 2020-02-29 00:03:20: Better Call Saul.S05E01.Magic Man
-2020-02-17 20:01:50: Bob Hearts Abishola.S01E16.Where's Your Other Wives, Tunde?
