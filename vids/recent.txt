@@ -1,10 +1,14 @@
+2020-04-06 20:01:45: Future Man.S03E03.Trapper’s Delight
+2020-04-06 20:01:44: Future Man.S03E02.There Will Be Borscht
+2020-04-06 20:01:42: Bob Hearts Abishola.S01E19.Angry, Happy, Same Face
+2020-04-06 20:01:41: Better Call Saul.S05E08.Bagman
 2020-04-06 06:01:36: Last Week Tonight with John Oliver.S07E07.Episode 186
 2020-04-04 20:01:37: Real Time with Bill Maher.S18E09.Episode 524
 2020-04-03 20:01:47: The Walking Dead.S10E15.The Tower
 2020-04-03 06:01:36: Star Wars: The Clone Wars.S07E07.Dangerous Debt
 2020-04-03 06:01:35: Future Man.S03E08.Return of the Present
 2020-04-03 06:01:34: Future Man.S03E07.Time Rogues III: Escape From Forever
-2020-04-03 06:01:33: Future Man.S03E04.The Outlaw Wild Sam
+2020-04-03 06:01:33: Future Man.S03E04.The Outlaw Wild Sam Bladden
 2020-04-03 06:01:33: Future Man.S03E05.Haven Is for Real
 2020-04-03 06:01:33: Future Man.S03E06.The Land After Time
 2020-04-03 00:01:33: Young Sheldon.S03E19.A House for Sale and Serious Woman Stuff
@@ -94,7 +98,3 @@
 2020-02-29 00:03:32: Death in Paradise.S09E07.Death in the Salon
 2020-02-29 00:03:29: Criminal Minds.S15E10.And in the End (2)
 2020-02-29 00:03:28: Criminal Minds.S15E09.Face Off (1)
-2020-02-29 00:03:25: Brooklyn Nine-Nine.S07E05.Debbie
-2020-02-29 00:03:24: Brooklyn Nine-Nine.S07E04.The Jimmy Jab Games II
-2020-02-29 00:03:22: Bob's Burgers.S10E13.Three Girls and a Little Wharfy
-2020-02-29 00:03:21: Better Call Saul.S05E02.50% Off
