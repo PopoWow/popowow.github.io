@@ -1,9 +1,13 @@
+2020-04-11 22:01:39: The Masked Singer.S03E11.The Mother Of All Final Face Offs, Part 1
+2020-04-11 22:01:37: Star Wars: The Clone Wars.S07E08.Together Again
+2020-04-11 22:01:35: Real Time with Bill Maher.S18E10.Episode 525
+2020-04-11 22:01:33: Brooklyn Nine-Nine.S07E11.Valloweaster
 2020-04-07 20:01:31: Future Man.S03E01.The Precipice of Yesterday
 2020-04-06 20:01:45: Future Man.S03E03.Trapper’s Delight
 2020-04-06 20:01:44: Future Man.S03E02.There Will Be Borscht
 2020-04-06 20:01:42: Bob Hearts Abishola.S01E19.Angry, Happy, Same Face
 2020-04-06 20:01:41: Better Call Saul.S05E08.Bagman
-2020-04-06 06:01:36: Last Week Tonight with John Oliver.S07E07.Episode 186
+2020-04-06 06:01:36: Last Week Tonight with John Oliver.S07E07.One America News Network
 2020-04-04 20:01:37: Real Time with Bill Maher.S18E09.Episode 524
 2020-04-03 20:01:47: The Walking Dead.S10E15.The Tower
 2020-04-03 06:01:36: Star Wars: The Clone Wars.S07E07.Dangerous Debt
@@ -19,7 +23,7 @@
 2020-04-01 20:01:32: The Masked Singer.S03E10.The Super Nine Masked Singer Special: Groups A, B & C
 2020-04-01 20:01:30: The Goldbergs (2013).S07E19.Island Time
 2020-03-30 20:01:27: Better Call Saul.S05E07.JMM
-2020-03-30 00:01:28: Last Week Tonight with John Oliver.S07E06.Episode 185
+2020-03-30 00:01:28: Last Week Tonight with John Oliver.S07E06.Coronavirus III
 2020-03-30 00:01:28: Talking Dead.S09E13.Look at the Flowers
 2020-03-30 00:01:28: Talking Dead.S09E14.Look at the Flowers
 2020-03-27 20:01:42: The Walking Dead.S10E14.Look at the Flowers
@@ -30,7 +34,7 @@
 2020-03-25 20:01:37: The Masked Singer.S03E09.Old Friends, New Clues: Group C Championships
 2020-03-25 20:01:35: The Goldbergs (2013).S07E18.Schmoopie's Big Adventure
 2020-03-23 20:01:31: Better Call Saul.S05E06.Wexler v. Goodman
-2020-03-22 20:01:34: The Simpsons.S31E17.Highway to Well
+2020-03-22 20:01:34: The Simpsons.S31E17.Highway To Well
 2020-03-22 20:01:32: Bob's Burgers.S10E17.Just the Trip
 2020-03-21 20:03:24: Star Wars: The Clone Wars.S07E05.Gone With a Trace
 2020-03-21 06:00:19: Star Trek: Picard.S01E09.Et in Arcadia Ego (1)
@@ -44,7 +48,7 @@
 2020-03-16 00:01:41: The Walking Dead.S10E12.Walk with Us
 2020-03-16 00:01:39: The Simpsons.S31E16.Better Off Ned
 2020-03-16 00:01:38: Real Time with Bill Maher.S18E08.Episode 523
-2020-03-16 00:01:36: Last Week Tonight with John Oliver.S07E05.Episode 184
+2020-03-16 00:01:36: Last Week Tonight with John Oliver.S07E05.Coronavirus II
 2020-03-16 00:01:35: Family Guy.S18E15.Baby Stewie
 2020-03-16 00:01:34: Bob's Burgers.S10E16.Flat-Top O' the Morning to Ya
 2020-03-14 20:01:19: Star Trek: Picard.S01E08.Broken Pieces
@@ -67,8 +71,8 @@
 2020-03-09 20:05:19: Star Trek: Picard.S01E05.Stardust City Rag
 2020-03-09 20:05:14: Saturday Night Live.S45E15.Daniel Craig / The Weeknd
 2020-03-09 20:05:01: Mom.S07E17.Beef Baloney Dan and the Hot Zone
-2020-03-09 20:05:00: Last Week Tonight with John Oliver.S07E04.Episode 183
-2020-03-09 20:04:59: Last Week Tonight with John Oliver.S07E03.Episode 182
+2020-03-09 20:05:00: Last Week Tonight with John Oliver.S07E04.Sheriffs
+2020-03-09 20:04:59: Last Week Tonight with John Oliver.S07E03.Coronavirus
 2020-03-09 20:04:58: Family Guy.S18E14.The Movement
 2020-03-09 20:04:57: Brooklyn Nine-Nine.S07E06.Trying
 2020-03-09 20:04:57: Family Guy.S18E13.Rich Old Stewie
@@ -91,10 +95,6 @@
 2020-02-29 00:04:02: Star Trek: Picard.S01E06.The Impossible Box
 2020-02-29 00:03:52: Real Time with Bill Maher.S18E06.Episode 521
 2020-02-29 00:03:45: Mom.S07E16.Judy Garland and a Sexy Troll Doll
-2020-02-29 00:03:43: Last Week Tonight with John Oliver.S07E02.Episode 181
+2020-02-29 00:03:43: Last Week Tonight with John Oliver.S07E02.Modi
 2020-02-29 00:03:40: Fresh Off the Boat.S06E15.Commencement
 2020-02-29 00:03:39: Fresh Off the Boat.S06E14.Family Van
-2020-02-29 00:03:36: Family Guy.S18E12.Undergrounded
-2020-02-29 00:03:33: Death in Paradise.S09E08.Now You See Him, Now You Don't
-2020-02-29 00:03:32: Death in Paradise.S09E07.Death in the Salon
-2020-02-29 00:03:29: Criminal Minds.S15E10.And in the End (2)
