@@ -1,3 +1,19 @@
+2020-04-20 20:02:39: Young Sheldon.S03E20.A Baby Tooth and the Egyptian God of Knowledge
+2020-04-20 20:02:37: What We Do in the Shadows.S02E02.Ghosts
+2020-04-20 20:02:36: What We Do in the Shadows.S02E01.Resurrection
+2020-04-20 20:02:34: The Masked Singer.S03E12.The Mother Of All Final Face Offs, Part 2
+2020-04-20 20:02:34: The Simpsons.S31E18.The Incredible Lightness of Being a Baby
+2020-04-20 20:02:29: The Goldbergs (2013).S07E20.The Return of the Formica King
+2020-04-20 20:02:24: Star Wars: The Clone Wars.S07E09.Old Friends Not Forgotten
+2020-04-20 20:02:20: Real Time with Bill Maher.S18E11.Episode 526
+2020-04-20 20:02:18: Mom.S07E20.Big Sad Eyes and an Antique Hot Dog
+2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Episode 188
+2020-04-20 20:02:10: Killing Eve.S03E02.Management Sucks
+2020-04-20 20:02:08: Family Guy.S18E16.Start Me Up
+2020-04-20 20:02:06: Brooklyn Nine-Nine.S07E12.Ransom
+2020-04-20 20:02:05: Bob's Burgers.S10E18.Tappy Tappy Tappy Tap Tap Tap
+2020-04-20 20:02:03: Bob Hearts Abishola.S01E20.Randy's a Wrangler
+2020-04-20 20:02:02: Better Call Saul.S05E09.Bad Choice Road
 2020-04-16 06:01:45: Red Dwarf.S00E23.The Promised Land
 2020-04-13 06:01:42: Last Week Tonight with John Oliver.S07E08.Essential Workers
 2020-04-13 06:01:41: Killing Eve.S03E01.Slowly Slowly Catchy Monkey
@@ -82,19 +98,3 @@
 2020-03-09 20:04:56: Bob's Burgers.S10E14.Wag the Song
 2020-03-09 20:04:56: Bob's Burgers.S10E15.Yurty Rotten Scoundrels
 2020-03-09 20:04:55: Bob Hearts Abishola.S01E17.A Big, White Thumb
-2020-03-09 20:04:54: Better Call Saul.S05E03.The Guy for This
-2020-03-01 00:01:15: Saturday Night Live.S45E14.John Mulaney / David Byrne
-2020-02-29 00:04:46: Young Sheldon.S03E16.Pasadena
-2020-02-29 00:04:44: The Walking Dead.S10E10.Stalker
-2020-02-29 00:04:37: The Walking Dead.S10E09.Squeeze
-2020-02-29 00:04:28: The Simpsons.S31E13.Frinkcoin
-2020-02-29 00:04:25: The Masked Singer.S03E05.Mask-Matics: Group B Playoffs
-2020-02-29 00:04:20: The Masked Singer.S03E04.A Brand New Six Pack: Group B Kickoff!
-2020-02-29 00:04:16: The Goldbergs (2013).S07E16.Body Swap
-2020-02-29 00:04:14: The Goldbergs (2013).S07E15.Dave Kim's Party
-2020-02-29 00:04:11: Talking Dead.S09E09.Squeeze
-2020-02-29 00:04:06: Superstore.S05E17.Zephra Cares
-2020-02-29 00:04:04: Superstore.S05E16.Employee App
-2020-02-29 00:04:02: Star Trek: Picard.S01E06.The Impossible Box
-2020-02-29 00:03:52: Real Time with Bill Maher.S18E06.Episode 521
-2020-02-29 00:03:45: Mom.S07E16.Judy Garland and a Sexy Troll Doll
