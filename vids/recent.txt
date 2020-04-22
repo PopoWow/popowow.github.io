@@ -1,3 +1,4 @@
+2020-04-21 20:01:59: The Goldbergs (2013).S07E21.Oates & Oates
 2020-04-21 00:01:59: Better Call Saul.S05E10.Something Unforgivable
 2020-04-20 20:02:39: Young Sheldon.S03E20.A Baby Tooth and the Egyptian God of Knowledge
 2020-04-20 20:02:37: What We Do in the Shadows.S02E02.Ghosts
@@ -97,4 +98,3 @@
 2020-03-09 20:04:57: Brooklyn Nine-Nine.S07E06.Trying
 2020-03-09 20:04:57: Family Guy.S18E13.Rich Old Stewie
 2020-03-09 20:04:56: Bob's Burgers.S10E14.Wag the Song
-2020-03-09 20:04:56: Bob's Burgers.S10E15.Yurty Rotten Scoundrels
