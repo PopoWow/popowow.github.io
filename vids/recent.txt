@@ -1,3 +1,4 @@
+2020-04-23 06:01:58: What We Do in the Shadows.S02E03.Brain Scramblies
 2020-04-21 20:01:59: The Goldbergs (2013).S07E21.Oates & Oates
 2020-04-21 00:01:59: Better Call Saul.S05E10.Something Unforgivable
 2020-04-20 20:02:39: Young Sheldon.S03E20.A Baby Tooth and the Egyptian God of Knowledge
@@ -9,7 +10,7 @@
 2020-04-20 20:02:24: Star Wars: The Clone Wars.S07E09.Old Friends Not Forgotten
 2020-04-20 20:02:20: Real Time with Bill Maher.S18E11.Episode 526
 2020-04-20 20:02:18: Mom.S07E20.Big Sad Eyes and an Antique Hot Dog
-2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Episode 188
+2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Coronavirus Misinformation
 2020-04-20 20:02:10: Killing Eve.S03E02.Management Sucks
 2020-04-20 20:02:08: Family Guy.S18E16.Start Me Up
 2020-04-20 20:02:06: Brooklyn Nine-Nine.S07E12.Ransom
@@ -97,4 +98,3 @@
 2020-03-09 20:04:58: Family Guy.S18E14.The Movement
 2020-03-09 20:04:57: Brooklyn Nine-Nine.S07E06.Trying
 2020-03-09 20:04:57: Family Guy.S18E13.Rich Old Stewie
-2020-03-09 20:04:56: Bob's Burgers.S10E14.Wag the Song
