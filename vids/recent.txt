@@ -1,3 +1,4 @@
+2020-04-25 20:01:48: Real Time with Bill Maher.S18E12.Episode 527
 2020-04-24 20:01:46: Superstore.S05E04.Mall Closing
 2020-04-24 06:01:47: Star Wars: The Clone Wars.S07E10.The Phantom Apprentice
 2020-04-23 20:02:02: Superstore.S05E21.California
@@ -97,4 +98,3 @@
 2020-03-09 20:05:19: Star Trek: Picard.S01E05.Stardust City Rag
 2020-03-09 20:05:14: Saturday Night Live.S45E15.Daniel Craig / The Weeknd
 2020-03-09 20:05:01: Mom.S07E17.Beef Baloney Dan and the Hot Zone
-2020-03-09 20:05:00: Last Week Tonight with John Oliver.S07E04.Sheriffs
