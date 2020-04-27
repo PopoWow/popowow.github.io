@@ -1,3 +1,4 @@
+2020-04-26 20:05:03: Bob's Burgers.S10E19.The Handyman Can
 2020-04-26 20:01:55: The Simpsons.S31E19.Warrin' Priests (1)
 2020-04-26 20:01:54: Family Guy.S18E17.Coma Guy
 2020-04-26 00:01:58: Saturday Night Live.S45E17.SNL at Home
@@ -97,4 +98,3 @@
 2020-03-09 20:05:46: The Simpsons.S31E14.Bart the Bad Guy
 2020-03-09 20:05:44: The Masked Singer.S03E06.Friends in High Places: Group B Championships
 2020-03-09 20:05:34: Talking Dead.S09E10.Stalker
-2020-03-09 20:05:28: Star Trek: Picard.S01E07.Nepenthe
