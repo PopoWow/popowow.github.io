@@ -1,3 +1,5 @@
+2020-04-26 20:01:55: The Simpsons.S31E19.Warrin' Priests (1)
+2020-04-26 20:01:54: Family Guy.S18E17.Coma Guy
 2020-04-26 00:01:58: Saturday Night Live.S45E17.SNL at Home
 2020-04-25 20:01:48: Real Time with Bill Maher.S18E12.Episode 527
 2020-04-24 20:01:46: Superstore.S05E04.Mall Closing
@@ -62,7 +64,7 @@
 2020-03-25 20:01:37: The Masked Singer.S03E09.Old Friends, New Clues: Group C Championships
 2020-03-25 20:01:35: The Goldbergs (2013).S07E18.Schmoopie's Big Adventure
 2020-03-23 20:01:31: Better Call Saul.S05E06.Wexler v. Goodman
-2020-03-22 20:01:34: The Simpsons.S31E17.Highway To Well
+2020-03-22 20:01:34: The Simpsons.S31E17.Highway to Well
 2020-03-22 20:01:32: Bob's Burgers.S10E17.Just the Trip
 2020-03-21 20:03:24: Star Wars: The Clone Wars.S07E05.Gone With a Trace
 2020-03-21 06:00:19: Star Trek: Picard.S01E09.Et in Arcadia Ego (1)
@@ -96,5 +98,3 @@
 2020-03-09 20:05:44: The Masked Singer.S03E06.Friends in High Places: Group B Championships
 2020-03-09 20:05:34: Talking Dead.S09E10.Stalker
 2020-03-09 20:05:28: Star Trek: Picard.S01E07.Nepenthe
-2020-03-09 20:05:19: Star Trek: Picard.S01E05.Stardust City Rag
-2020-03-09 20:05:14: Saturday Night Live.S45E15.Daniel Craig / The Weeknd
