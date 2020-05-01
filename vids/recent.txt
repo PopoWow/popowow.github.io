@@ -1,3 +1,4 @@
+2020-05-01 06:01:49: Star Wars: The Clone Wars.S07E11.Shattered
 2020-05-01 00:02:06: Young Sheldon.S03E21.A Secret Letter and a Lowly Disc of Processed Meat
 2020-04-30 20:01:51: What We Do in the Shadows.S02E04.The Curse
 2020-04-30 20:01:50: The Masked Singer.S03E13.The Mother Of All Final Face Offs, Part 2
@@ -97,4 +98,3 @@
 2020-03-09 22:02:03: Better Call Saul.S05E04.Namaste
 2020-03-09 20:05:57: Young Sheldon.S03E17.An Academic Crime and a More Romantic Taco Bell
 2020-03-09 20:05:55: The Walking Dead.S10E11.Morning Star
-2020-03-09 20:05:48: The Simpsons.S31E15.Screenless
