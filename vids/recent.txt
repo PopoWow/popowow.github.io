@@ -1,3 +1,23 @@
+2020-05-03 22:06:16: Family Guy.S18E18.Better Off Meg
+2020-05-03 22:05:51: Bob's Burgers.S10E20.Poops!... I Didn't Do It Again
+2020-05-03 22:05:49: Agatha Raisin.S03E07.As the Pig Turns (Part 2)
+2020-05-03 22:05:36: Agatha Raisin.S03E06.Agatha Raisin: As the Pig Turns (Part 1)
+2020-05-03 22:05:35: Agatha Raisin.S03E05.The Love from Hell (Part 2)
+2020-05-03 22:05:30: Agatha Raisin.S03E04.Agatha Raisin & the Love from Hell (Part 1)
+2020-05-03 22:05:03: Agatha Raisin.S03E03.The Deadly Dance (Part 2)
+2020-05-03 22:04:58: Agatha Raisin.S03E02.Agatha Raisin & the Deadly Dance (Part 1)
+2020-05-03 22:04:54: Agatha Raisin.S03E01.Agatha Raisin & The Haunted House
+2020-05-03 22:04:10: Agatha Raisin.S02E03.The Curious Curate
+2020-05-03 22:03:53: Agatha Raisin.S02E02.The Fairies of Fryfam
+2020-05-03 22:03:25: Agatha Raisin.S02E01.The Wizard of Evesham
+2020-05-03 22:03:08: Agatha Raisin.S01E08.Murderous Marriage
+2020-05-03 22:03:03: Agatha Raisin.S01E07.Witch of Wyckhadden
+2020-05-03 22:03:00: Agatha Raisin.S01E06.The Day the Floods Came
+2020-05-03 22:02:55: Agatha Raisin.S01E05.The Vicious Vet
+2020-05-03 22:02:52: Agatha Raisin.S01E04.The Potted Gardener
+2020-05-03 22:02:48: Agatha Raisin.S01E03.The Wellspring of Death
+2020-05-03 22:02:47: Agatha Raisin.S01E02.Hell's Bells
+2020-05-03 22:02:45: Agatha Raisin.S01E01.The Walkers of Dembley
 2020-05-03 20:07:17: The Simpsons.S31E20.Warrin' Priests (2)
 2020-05-03 20:03:34: Star Wars: The Clone Wars.S07E12.Victory and Death
 2020-05-03 20:03:33: Real Time with Bill Maher.S18E13.Episode 528
@@ -78,23 +98,3 @@
 2020-03-21 06:00:19: Star Trek: Picard.S01E09.Et in Arcadia Ego (1)
 2020-03-20 20:00:22: The Walking Dead.S10E13.What We Become
 2020-03-20 00:00:25: Superstore.S05E18.Playdate
-2020-03-19 20:00:27: The Goldbergs (2013).S07E17.A Fish Story
-2020-03-19 20:00:27: The Masked Singer.S03E08.It Never Hurts to Mask: Group C Playoffs
-2020-03-19 20:00:26: Brooklyn Nine-Nine.S07E08.The Takeback
-2020-03-16 20:01:31: Better Call Saul.S05E05.Dedicado a Max
-2020-03-16 20:01:31: Bob Hearts Abishola.S01E18.Sock Wife!
-2020-03-16 00:01:41: The Walking Dead.S10E12.Walk with Us
-2020-03-16 00:01:39: The Simpsons.S31E16.Better Off Ned
-2020-03-16 00:01:38: Real Time with Bill Maher.S18E08.Episode 523
-2020-03-16 00:01:36: Last Week Tonight with John Oliver.S07E05.Coronavirus II
-2020-03-16 00:01:35: Family Guy.S18E15.Baby Stewie
-2020-03-16 00:01:34: Bob's Burgers.S10E16.Flat-Top O' the Morning to Ya
-2020-03-14 20:01:19: Star Trek: Picard.S01E08.Broken Pieces
-2020-03-14 20:01:19: Star Wars: The Clone Wars.S07E04.Unfinished Business
-2020-03-12 22:02:19: Mom.S07E18.A Judgy Face and Your Grandma's Drawers
-2020-03-12 20:09:47: Brooklyn Nine-Nine.S07E07.Ding Dong
-2020-03-11 20:02:01: The Masked Singer.S03E07.Last But Not Least: Group C Kickoff!
-2020-03-10 06:01:51: Star Wars: The Clone Wars.S07E03.On the Wings of Keeradaks
-2020-03-10 06:01:44: Star Wars: The Clone Wars.S07E02.A Distant Echo
-2020-03-10 06:01:43: Star Wars: The Clone Wars.S07E01.The Bad Batch
-2020-03-10 06:01:42: Real Time with Bill Maher.S18E07.Episode 522
