@@ -1,3 +1,4 @@
+2020-05-04 23:41:08: Agatha Raisin.S00E01.The Quiche of Death
 2020-05-04 13:22:14: Agatha Raisin.S03E07.As the Pig Turns (Part 2)
 2020-05-04 13:22:10: Agatha Raisin.S03E06.Agatha Raisin: As the Pig Turns (Part 1)
 2020-05-04 13:22:05: Agatha Raisin.S03E05.The Love from Hell (Part 2)
@@ -97,4 +98,3 @@
 2020-03-23 20:01:31: Better Call Saul.S05E06.Wexler v. Goodman
 2020-03-22 20:01:34: The Simpsons.S31E17.Highway to Well
 2020-03-22 20:01:32: Bob's Burgers.S10E17.Just the Trip
-2020-03-21 20:03:24: Star Wars: The Clone Wars.S07E05.Gone With a Trace
