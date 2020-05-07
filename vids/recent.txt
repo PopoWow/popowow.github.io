@@ -1,3 +1,4 @@
+2020-05-06 22:00:27: The Masked Singer.S03E14.The Battle of The Sixes: The Final 6
 2020-05-05 22:00:26: The Goldbergs (2013).S07E22.The Fake-Up
 2020-05-04 23:41:08: Agatha Raisin.S00E01.The Quiche of Death
 2020-05-04 13:22:14: Agatha Raisin.S03E07.As the Pig Turns (Part 2)
@@ -24,7 +25,7 @@
 2020-05-03 22:06:16: Family Guy.S18E18.Better Off Meg
 2020-05-03 22:05:51: Bob's Burgers.S10E20.Poops!... I Didn't Do It Again
 2020-05-03 20:07:17: The Simpsons.S31E20.Warrin' Priests (2)
-2020-05-03 20:03:34: Star Wars: The Clone Wars.S07E12.Victory and Death
+2020-05-03 20:03:34: Star Wars: The Clone Wars.S07E12.Victory and Death (4)
 2020-05-03 20:03:33: Real Time with Bill Maher.S18E13.Episode 528
 2020-05-01 06:01:49: Star Wars: The Clone Wars.S07E11.Shattered (3)
 2020-05-01 00:02:06: Young Sheldon.S03E21.A Secret Letter and a Lowly Disc of Processed Meat
@@ -97,4 +98,3 @@
 2020-03-25 20:01:37: The Masked Singer.S03E09.Old Friends, New Clues: Group C Championships
 2020-03-25 20:01:35: The Goldbergs (2013).S07E18.Schmoopie's Big Adventure
 2020-03-23 20:01:31: Better Call Saul.S05E06.Wexler v. Goodman
-2020-03-22 20:01:34: The Simpsons.S31E17.Highway to Well
