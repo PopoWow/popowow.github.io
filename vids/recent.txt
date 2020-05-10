@@ -1,3 +1,4 @@
+2020-05-09 20:02:05: Real Time with Bill Maher.S18E14.Episode 529
 2020-05-07 06:02:10: The Masked Singer.S03E14.The Battle of The Sixes: The Final 6
 2020-05-07 00:00:28: What We Do in the Shadows.S02E05.Colin's Promotion
 2020-05-05 22:00:26: The Goldbergs (2013).S07E22.The Fake-Up
@@ -97,4 +98,3 @@
 2020-03-26 20:01:34: Superstore.S05E19.Carol's Back
 2020-03-26 20:01:33: Brooklyn Nine-Nine.S07E09.Dillman
 2020-03-25 20:01:37: The Masked Singer.S03E09.Old Friends, New Clues: Group C Championships
-2020-03-25 20:01:35: The Goldbergs (2013).S07E18.Schmoopie's Big Adventure
