@@ -1,4 +1,14 @@
-2020-05-09 20:02:05: Real Time with Bill Maher.S18E14.Episode 529
+2020-05-14 20:02:36: What We Do in the Shadows.S02E06.On the Run
+2020-05-14 20:02:34: The Simpsons.S31E21.The Hateful Eight-Year-Olds
+2020-05-14 20:02:32: The Masked Singer.S03E15.A Quarter Mask Crisis: The Quarter Finals
+2020-05-14 20:02:27: The Goldbergs (2013).S07E23.Pretty in Pink
+2020-05-14 20:02:25: Saturday Night Live.S45E18.SNL at Home: Kristen Wiig / Boyz II Men
+2020-05-14 20:02:22: Rick and Morty.S04E07.Promortyus
+2020-05-14 20:02:21: Real Time with Bill Maher.S18E14.Episode 529
+2020-05-14 20:02:13: Last Week Tonight with John Oliver.S07E11.United States Postal Service
+2020-05-14 20:02:08: Killing Eve.S03E05.Are you from Pinner?
+2020-05-14 20:02:07: Bob's Burgers.S10E21.Local She-ro
+2020-05-14 20:02:07: Family Guy.S18E19.Holly Bibble
 2020-05-07 06:02:10: The Masked Singer.S03E14.The Battle of The Sixes: The Final 6
 2020-05-07 00:00:28: What We Do in the Shadows.S02E05.Colin's Promotion
 2020-05-05 22:00:26: The Goldbergs (2013).S07E22.The Fake-Up
@@ -22,8 +32,8 @@
 2020-05-04 13:21:23: Agatha Raisin.S01E02.Hell's Bells
 2020-05-04 13:21:23: Agatha Raisin.S01E03.The Wellspring of Death
 2020-05-04 00:16:41: Rick and Morty.S04E06.Never Ricking Morty
-2020-05-04 00:16:40: Last Week Tonight with John Oliver.S07E10.COVID-19 Testing
-2020-05-04 00:16:39: Killing Eve.S03E04.Still Got It
+2020-05-04 00:16:40: Last Week Tonight with John Oliver.S07E10.Coronavirus VI: Testing
+2020-05-04 00:16:39: Killing Eve.S03E04.Still got it
 2020-05-03 22:06:16: Family Guy.S18E18.Better Off Meg
 2020-05-03 22:05:51: Bob's Burgers.S10E20.Poops!... I Didn't Do It Again
 2020-05-03 20:07:17: The Simpsons.S31E20.Warrin' Priests (2)
@@ -34,11 +44,11 @@
 2020-04-30 20:01:51: What We Do in the Shadows.S02E04.The Curse
 2020-04-30 20:01:50: The Masked Singer.S03E13.The Mother Of All Final Face Offs, Part 2
 2020-04-30 00:01:55: Real Time with Bill Maher.S18E12.Episode 527
-2020-04-27 06:01:53: Killing Eve.S03E03.Meetings Have Biscuits
+2020-04-27 06:01:53: Killing Eve.S03E03.Meetings have biscuits
 2020-04-26 20:05:03: Bob's Burgers.S10E19.The Handyman Can
 2020-04-26 20:01:55: The Simpsons.S31E19.Warrin' Priests (1)
 2020-04-26 20:01:54: Family Guy.S18E17.Coma Guy
-2020-04-26 00:01:58: Saturday Night Live.S45E17.SNL at Home: Brad Pitt
+2020-04-26 00:01:58: Saturday Night Live.S45E17.SNL at Home: Brad Pitt / Miley Cyrus
 2020-04-24 20:01:46: Superstore.S05E04.Mall Closing
 2020-04-24 06:01:47: Star Wars: The Clone Wars.S07E10.The Phantom Apprentice (2)
 2020-04-23 20:02:02: Superstore.S05E21.California (1)
@@ -54,16 +64,16 @@
 2020-04-20 20:02:24: Star Wars: The Clone Wars.S07E09.Old Friends Not Forgotten (1)
 2020-04-20 20:02:20: Real Time with Bill Maher.S18E11.Episode 526
 2020-04-20 20:02:18: Mom.S07E20.Big Sad Eyes and an Antique Hot Dog
-2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Coronavirus Misinformation
-2020-04-20 20:02:10: Killing Eve.S03E02.Management Sucks
+2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Coronavirus V: Misinformation
+2020-04-20 20:02:10: Killing Eve.S03E02.Management sucks
 2020-04-20 20:02:08: Family Guy.S18E16.Start Me Up
 2020-04-20 20:02:06: Brooklyn Nine-Nine.S07E12.Ransom
 2020-04-20 20:02:05: Bob's Burgers.S10E18.Tappy Tappy Tappy Tap Tap Tap
 2020-04-20 20:02:03: Bob Hearts Abishola.S01E20.Randy's a Wrangler
 2020-04-20 20:02:02: Better Call Saul.S05E09.Bad Choice Road
 2020-04-16 06:01:45: Red Dwarf.S00E23.The Promised Land
-2020-04-13 06:01:42: Last Week Tonight with John Oliver.S07E08.Essential Workers
-2020-04-13 06:01:41: Killing Eve.S03E01.Slowly Slowly Catchy Monkey
+2020-04-13 06:01:42: Last Week Tonight with John Oliver.S07E08.Coronavirus IV: Essential Workers
+2020-04-13 06:01:41: Killing Eve.S03E01.Slowly slowly catchy monkey
 2020-04-11 22:01:39: The Masked Singer.S03E11.The Mother Of All Final Face Offs, Part 1
 2020-04-11 22:01:37: Star Wars: The Clone Wars.S07E08.Together Again
 2020-04-11 22:01:35: Real Time with Bill Maher.S18E10.Episode 525
@@ -88,13 +98,3 @@
 2020-04-02 20:01:30: Brooklyn Nine-Nine.S07E10.Admiral Peralta
 2020-04-01 20:01:32: The Masked Singer.S03E10.The Super Nine Masked Singer Special: Groups A, B & C
 2020-04-01 20:01:30: The Goldbergs (2013).S07E19.Island Time
-2020-03-30 20:01:27: Better Call Saul.S05E07.JMM
-2020-03-30 00:01:28: Last Week Tonight with John Oliver.S07E06.Coronavirus III
-2020-03-30 00:01:28: Talking Dead.S09E13.Look at the Flowers
-2020-03-30 00:01:28: Talking Dead.S09E14.Look at the Flowers
-2020-03-27 20:01:42: The Walking Dead.S10E14.Look at the Flowers
-2020-03-27 20:01:40: Star Wars: The Clone Wars.S07E06.Deal No Deal
-2020-03-27 06:01:34: Star Trek: Picard.S01E10.Et in Arcadia Ego (2)
-2020-03-26 20:01:34: Superstore.S05E19.Carol's Back
-2020-03-26 20:01:33: Brooklyn Nine-Nine.S07E09.Dillman
-2020-03-25 20:01:37: The Masked Singer.S03E09.Old Friends, New Clues: Group C Championships
