@@ -1,3 +1,6 @@
+2020-05-22 20:00:32: Forensic Files II.S01E03.The Green Pen
+2020-05-22 20:00:31: Forensic Files II.S01E13.Church Lady
+2020-05-22 20:00:31: Forensic Files II.S01E14.Inside Pocket
 2020-05-22 12:53:29: What We Do in the Shadows.S02E07.The Return
 2020-05-22 12:53:28: The Simpsons.S31E22.The Way of the Dog
 2020-05-22 12:53:27: The Masked Singer.S03E17.Road to the Finals
@@ -95,6 +98,3 @@
 2020-04-06 20:01:42: Bob Hearts Abishola.S01E19.Angry, Happy, Same Face
 2020-04-06 20:01:41: Better Call Saul.S05E08.Bagman
 2020-04-06 06:01:36: Last Week Tonight with John Oliver.S07E07.One America News Network
-2020-04-04 20:01:37: Real Time with Bill Maher.S18E09.Episode 524
-2020-04-03 20:01:47: The Walking Dead.S10E15.The Tower
-2020-04-03 06:01:36: Star Wars: The Clone Wars.S07E07.Dangerous Debt
