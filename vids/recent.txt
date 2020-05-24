@@ -1,3 +1,6 @@
+2020-05-24 00:00:43: The Last Dance.S01E05.Episode V
+2020-05-24 00:00:41: The Last Dance.S01E04.Episode IV
+2020-05-24 00:00:40: The Last Dance.S01E03.Episode III
 2020-05-23 22:13:49: The Last Dance.S01E02.Episode II
 2020-05-23 22:13:48: The Last Dance.S01E01.Episode I
 2020-05-23 22:00:35: Real Time with Bill Maher.S18E15.Episode 530
@@ -95,6 +98,3 @@
 2020-04-11 22:01:37: Star Wars: The Clone Wars.S07E08.Together Again
 2020-04-11 22:01:35: Real Time with Bill Maher.S18E10.Episode 525
 2020-04-11 22:01:33: Brooklyn Nine-Nine.S07E11.Valloweaster
-2020-04-07 20:01:31: Future Man.S03E01.The Precipice of Yesterday
-2020-04-06 20:01:45: Future Man.S03E03.Trapper’s Delight
-2020-04-06 20:01:44: Future Man.S03E02.There Will Be Borscht
