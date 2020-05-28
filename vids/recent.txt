@@ -1,3 +1,4 @@
+2020-05-27 22:00:47: Marvel's Agents of S.H.I.E.L.D..S07E01.The New Deal
 2020-05-27 00:00:47: Forensic Files II.S01E12.Killer Snapshot
 2020-05-26 22:00:47: Forensic Files II.S01E11.Last Gasp
 2020-05-25 20:00:52: The Last Dance.S01E10.Episode X
@@ -24,10 +25,10 @@
 2020-05-22 12:53:25: Forensic Files II.S01E01.Buried Secrets
 2020-05-22 12:53:25: Forensic Files II.S01E02.On the Rocks
 2020-05-22 12:53:25: Killing Eve.S03E06.End of Game
-2020-05-22 12:53:25: Last Week Tonight with John Oliver.S07E12.Coronavirus (7): Impact on Sports
+2020-05-22 12:53:25: Last Week Tonight with John Oliver.S07E12.Episode 191
 2020-05-22 12:53:25: Rick and Morty.S04E08.The Vat of Acid Episode
 2020-05-22 12:53:24: Bob's Burgers.S10E22.Prank You for Being a Friend
-2020-05-22 12:53:24: Family Guy.S18E20.Movin’ In (Principal Shepherd’s Song)
+2020-05-22 12:53:24: Family Guy.S18E20.Movin' In (Principal Shepherd's Song)
 2020-05-14 20:02:36: What We Do in the Shadows.S02E06.On the Run
 2020-05-14 20:02:34: The Simpsons.S31E21.The Hateful Eight-Year-Olds
 2020-05-14 20:02:32: The Masked Singer.S03E15.A Quarter Mask Crisis: The Quarter Finals
@@ -35,7 +36,7 @@
 2020-05-14 20:02:25: Saturday Night Live.S45E18.SNL at Home: Kristen Wiig / Boyz II Men
 2020-05-14 20:02:22: Rick and Morty.S04E07.Promortyus
 2020-05-14 20:02:21: Real Time with Bill Maher.S18E14.Episode 529
-2020-05-14 20:02:13: Last Week Tonight with John Oliver.S07E11.United States Postal Service
+2020-05-14 20:02:13: Last Week Tonight with John Oliver.S07E11.Episode 190
 2020-05-14 20:02:08: Killing Eve.S03E05.Are You From Pinner?
 2020-05-14 20:02:07: Bob's Burgers.S10E21.Local She-ro
 2020-05-14 20:02:07: Family Guy.S18E19.Holly Bibble
@@ -62,7 +63,7 @@
 2020-05-04 13:21:23: Agatha Raisin.S01E02.Hell's Bells
 2020-05-04 13:21:23: Agatha Raisin.S01E03.The Wellspring of Death
 2020-05-04 00:16:41: Rick and Morty.S04E06.Never Ricking Morty
-2020-05-04 00:16:40: Last Week Tonight with John Oliver.S07E10.Coronavirus (6): Testing
+2020-05-04 00:16:40: Last Week Tonight with John Oliver.S07E10.Episode 189
 2020-05-04 00:16:39: Killing Eve.S03E04.Still Got It
 2020-05-03 22:06:16: Family Guy.S18E18.Better Off Meg
 2020-05-03 22:05:51: Bob's Burgers.S10E20.Poops!... I Didn't Do It Again
@@ -94,7 +95,6 @@
 2020-04-20 20:02:24: Star Wars: The Clone Wars.S07E09.Old Friends Not Forgotten (1)
 2020-04-20 20:02:20: Real Time with Bill Maher.S18E11.Episode 526
 2020-04-20 20:02:18: Mom.S07E20.Big Sad Eyes and an Antique Hot Dog
-2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Coronavirus (5): Misinformation
+2020-04-20 20:02:14: Last Week Tonight with John Oliver.S07E09.Episode 188
 2020-04-20 20:02:10: Killing Eve.S03E02.Management Sucks
 2020-04-20 20:02:08: Family Guy.S18E16.Start Me Up
-2020-04-20 20:02:06: Brooklyn Nine-Nine.S07E12.Ransom
