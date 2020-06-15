@@ -1,3 +1,4 @@
+2020-06-15 00:02:54: Last Week Tonight with John Oliver.S07E15.Episode 194
 2020-06-13 20:02:52: Real Time with Bill Maher.S18E18.Episode 533
 2020-06-10 22:02:58: What We Do in the Shadows.S02E10.Théâtre des Vampires
 2020-06-10 22:02:57: Marvel's Agents of S.H.I.E.L.D..S07E03.Alien Commies from the Future!
@@ -97,4 +98,3 @@
 2020-04-23 20:02:02: Superstore.S05E21.California (1)
 2020-04-23 20:02:01: Brooklyn Nine-Nine.S07E13.Lights Out
 2020-04-23 06:01:58: What We Do in the Shadows.S02E03.Brain Scramblies
-2020-04-21 20:01:59: The Goldbergs (2013).S07E21.Oates & Oates
