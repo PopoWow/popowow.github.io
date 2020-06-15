@@ -1,15 +1,16 @@
+2020-06-15 06:01:45: Real Time with Bill Maher.S18E17.Episode 532
+2020-06-15 06:01:45: Real Time with Bill Maher.S18E18.Episode 533
+2020-06-15 06:01:44: Real Time with Bill Maher.S18E16.Episode 531
+2020-06-15 06:01:37: Real Time with Bill Maher.S18E15.Episode 530
 2020-06-15 00:02:54: Last Week Tonight with John Oliver.S07E15.Episode 194
-2020-06-13 20:02:52: Real Time with Bill Maher.S18E18.Episode 533
 2020-06-10 22:02:58: What We Do in the Shadows.S02E10.Théâtre des Vampires
 2020-06-10 22:02:57: Marvel's Agents of S.H.I.E.L.D..S07E03.Alien Commies from the Future!
 2020-06-08 06:03:06: Last Week Tonight with John Oliver.S07E14.Episode 193
 2020-06-08 00:03:25: What We Do in the Shadows.S02E09.Witches
-2020-06-08 00:03:24: Real Time with Bill Maher.S18E17.Episode 532
 2020-06-08 00:03:23: Marvel's Agents of S.H.I.E.L.D..S07E02.Know Your Onions
 2020-06-01 06:00:51: Rick and Morty.S04E10.Star Mort: Rickturn of the Jerri
 2020-05-31 22:00:53: Last Week Tonight with John Oliver.S07E13.Episode 192
 2020-05-31 22:00:52: Killing Eve.S03E08.Are You Leading or Am I?
-2020-05-30 20:00:51: Real Time with Bill Maher.S18E16.Episode 531
 2020-05-28 06:00:49: What We Do in the Shadows.S02E08.Collaboration
 2020-05-27 22:00:47: Marvel's Agents of S.H.I.E.L.D..S07E01.The New Deal
 2020-05-27 00:00:47: Forensic Files II.S01E12.Killer Snapshot
@@ -27,7 +28,6 @@
 2020-05-24 00:00:40: The Last Dance.S01E03.Episode III
 2020-05-23 22:13:49: The Last Dance.S01E02.Episode II
 2020-05-23 22:13:48: The Last Dance.S01E01.Episode I
-2020-05-23 22:00:35: Real Time with Bill Maher.S18E15.Episode 530
 2020-05-22 20:00:32: Forensic Files II.S01E03.The Green Pen
 2020-05-22 20:00:31: Forensic Files II.S01E13.Church Lady
 2020-05-22 20:00:31: Forensic Files II.S01E14.Inside Pocket
