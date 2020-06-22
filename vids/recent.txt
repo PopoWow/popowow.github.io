@@ -1,3 +1,4 @@
+2020-06-21 22:00:22: Last Week Tonight with John Oliver.S07E16.Episode 195
 2020-06-20 20:00:20: Real Time with Bill Maher.S18E19.Episode 534
 2020-06-17 22:00:21: Marvel's Agents of S.H.I.E.L.D..S07E04.Out of the Past
 2020-06-17 12:25:15: Solar Opposites.S01E08.Retrace-Your-Step-Alizer
@@ -97,4 +98,3 @@
 2020-05-01 00:02:06: Young Sheldon.S03E21.A Secret Letter and a Lowly Disc of Processed Meat
 2020-04-30 20:01:51: What We Do in the Shadows.S02E04.The Curse
 2020-04-30 20:01:50: The Masked Singer.S03E13.The Mother Of All Final Face Offs, Part 2
-2020-04-30 00:01:55: Real Time with Bill Maher.S18E12.Episode 527
