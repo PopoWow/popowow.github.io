@@ -1,3 +1,4 @@
+2020-08-12 20:01:27: Real Time with Bill Maher.S18E22.Episode 537
 2020-08-06 06:01:27: Doom Patrol.S02E09.Wax Patrol
 2020-08-06 00:01:27: Marvel's Agents of S.H.I.E.L.D..S07E11.Brand New Day
 2020-08-05 00:01:29: Real Time with Bill Maher.S18E21.Episode 536
@@ -97,4 +98,3 @@
 2020-05-05 22:00:26: The Goldbergs (2013).S07E22.The Fake-Up
 2020-05-04 23:41:08: Agatha Raisin.S00E01.The Quiche of Death
 2020-05-04 13:22:14: Agatha Raisin.S03E07.Agatha Raisin: As the Pig Turns (Part 2)
-2020-05-04 13:22:10: Agatha Raisin.S03E06.Agatha Raisin: As the Pig Turns (Part 1)
