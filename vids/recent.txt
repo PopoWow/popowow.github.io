@@ -1,3 +1,4 @@
+2020-08-23 00:01:34: Real Time with Bill Maher.S18E24.Episode 539
 2020-08-18 16:42:59: Real Time with Bill Maher.S18E23.Episode 538
 2020-08-18 16:42:57: Lovecraft Country.S01E01.Sundown
 2020-08-17 00:01:28: Last Week Tonight with John Oliver.S07E21.Episode 200
@@ -16,7 +17,7 @@
 2020-07-16 06:00:22: Marvel's Agents of S.H.I.E.L.D..S07E08.After, Before
 2020-07-16 06:00:21: Doom Patrol.S02E06.Space Patrol
 2020-07-15 01:54:31: Real Time with Bill Maher.S18E20.Episode 535
-2020-07-14 06:02:38: Marvel's Agents of S.H.I.E.L.D..S07E07.The Totally Excellent Adventures of Mack and The D
+2020-07-14 06:02:38: Marvel's Agents of S.H.I.E.L.D..S07E07.The Totally Excellent Adventures of Mack and the D
 2020-07-14 06:02:35: Marvel's Agents of S.H.I.E.L.D..S07E06.Adapt or Die
 2020-07-14 06:02:32: Marvel's Agents of S.H.I.E.L.D..S07E05.A Trout in the Milk
 2020-07-14 06:02:28: Last Week Tonight with John Oliver.S07E17.Episode 196
@@ -97,4 +98,3 @@
 2020-05-14 20:02:08: Killing Eve.S03E05.Are You From Pinner?
 2020-05-14 20:02:07: Bob's Burgers.S10E21.Local She-ro
 2020-05-14 20:02:07: Family Guy.S18E19.Holly Bibble
-2020-05-07 06:02:10: The Masked Singer.S03E14.The Battle of The Sixes: The Final 6
