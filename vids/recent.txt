@@ -1,3 +1,4 @@
+2020-08-24 00:01:38: Last Week Tonight with John Oliver.S07E22.Episode 201
 2020-08-23 00:01:34: Real Time with Bill Maher.S18E24.Episode 539
 2020-08-18 16:42:59: Real Time with Bill Maher.S18E23.Episode 538
 2020-08-18 16:42:57: Lovecraft Country.S01E01.Sundown
@@ -97,4 +98,3 @@
 2020-05-14 20:02:13: Last Week Tonight with John Oliver.S07E11.Episode 190
 2020-05-14 20:02:08: Killing Eve.S03E05.Are You From Pinner?
 2020-05-14 20:02:07: Bob's Burgers.S10E21.Local She-ro
-2020-05-14 20:02:07: Family Guy.S18E19.Holly Bibble
