@@ -1,3 +1,5 @@
+2020-09-07 19:57:58: Lovecraft Country.S01E03.Holy Ghost
+2020-09-07 19:57:58: Lovecraft Country.S01E04.A History of Violence
 2020-08-31 22:01:35: Last Week Tonight with John Oliver.S07E23.Episode 202
 2020-08-30 20:30:45: Real Time with Bill Maher.S18E24.Episode 539
 2020-08-30 20:30:44: Lovecraft Country.S01E02.Whitey's on the Moon
@@ -96,5 +98,3 @@
 2020-05-14 20:02:32: The Masked Singer.S03E15.A Quarter Mask Crisis: The Quarter Finals
 2020-05-14 20:02:27: The Goldbergs (2013).S07E23.Pretty in Pink
 2020-05-14 20:02:25: Saturday Night Live.S45E18.SNL at Home: Kristen Wiig / Boyz II Men
-2020-05-14 20:02:22: Rick and Morty.S04E07.Promortyus
-2020-05-14 20:02:21: Real Time with Bill Maher.S18E14.Episode 529
