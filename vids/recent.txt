@@ -1,3 +1,4 @@
+2020-09-21 00:01:39: Lovecraft Country.S01E06.Meet Me in Daegu
 2020-09-20 20:01:39: Real Time with Bill Maher.S18E27.Episode 542
 2020-09-18 06:01:28: Tosh.0.S12E01.RIP Castro
 2020-09-16 06:01:37: American Ninja Warrior.S12E02.Qualifier 2
@@ -97,4 +98,3 @@
 2020-05-22 12:53:25: Killing Eve.S03E06.End of Game
 2020-05-22 12:53:25: Last Week Tonight with John Oliver.S07E12.Episode 191
 2020-05-22 12:53:25: Rick and Morty.S04E08.The Vat of Acid Episode
-2020-05-22 12:53:24: Bob's Burgers.S10E22.Prank You for Being a Friend
