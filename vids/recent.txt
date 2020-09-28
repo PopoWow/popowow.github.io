@@ -1,3 +1,4 @@
+2020-09-28 06:02:02: Lovecraft Country.S01E07.I Am.
 2020-09-28 00:02:07: The Simpsons.S32E01.Undercover Burns
 2020-09-28 00:02:06: Family Guy.S19E01.Stewie’s First Word
 2020-09-28 00:02:06: Real Time with Bill Maher.S18E28.Episode 543
@@ -97,4 +98,3 @@
 2020-05-22 20:00:31: Forensic Files II.S01E13.Church Lady
 2020-05-22 20:00:31: Forensic Files II.S01E14.Inside Pocket
 2020-05-22 12:53:29: What We Do in the Shadows.S02E07.The Return
-2020-05-22 12:53:28: The Simpsons.S31E22.The Way of the Dog
