@@ -1,3 +1,7 @@
+2020-10-04 00:01:41: Tosh.0.S12E03.Trap Gardener
+2020-10-04 00:01:41: Warrior (2019).S02E01.Learn to Endure, or Hire a Bodyguard
+2020-10-04 00:01:40: The Walking Dead.S10E16.A Certain Doom
+2020-10-04 00:01:39: The Masked Singer.S04E02.The Group B Premiere - Six More Masks
 2020-09-28 20:02:02: Last Week Tonight with John Oliver.S07E24.Episode 203
 2020-09-28 06:02:02: Lovecraft Country.S01E07.I Am.
 2020-09-28 00:02:07: The Simpsons.S32E01.Undercover Burns
@@ -5,7 +9,7 @@
 2020-09-28 00:02:06: Real Time with Bill Maher.S18E28.Episode 543
 2020-09-28 00:02:05: Bob's Burgers.S11E01.Dream a Little Bob of Bob
 2020-09-23 22:01:37: The Masked Singer.S04E01.The Season Premiere - The Masks Return
-2020-09-23 20:01:34: Tosh.0.S12E02.TBA
+2020-09-23 20:01:34: Tosh.0.S12E02.Rebecca Black
 2020-09-22 20:01:34: American Ninja Warrior.S12E03.Qualifier 3
 2020-09-21 00:01:39: Lovecraft Country.S01E06.Meet Me in Daegu
 2020-09-20 20:01:39: Real Time with Bill Maher.S18E27.Episode 542
@@ -94,7 +98,3 @@
 2020-05-24 00:00:41: The Last Dance.S01E04.Episode IV
 2020-05-24 00:00:40: The Last Dance.S01E03.Episode III
 2020-05-23 22:13:49: The Last Dance.S01E02.Episode II
-2020-05-23 22:13:48: The Last Dance.S01E01.Episode I
-2020-05-22 20:00:32: Forensic Files II.S01E03.The Green Pen
-2020-05-22 20:00:31: Forensic Files II.S01E13.Church Lady
-2020-05-22 20:00:31: Forensic Files II.S01E14.Inside Pocket
