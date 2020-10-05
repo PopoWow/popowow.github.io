@@ -1,3 +1,5 @@
+2020-10-05 06:01:39: Last Week Tonight with John Oliver.S07E25.Episode 204
+2020-10-05 00:01:57: Lovecraft Country.S01E08.Jig-a-Bobo
 2020-10-04 20:01:45: The Simpsons.S32E02.I, Carumbus
 2020-10-04 20:01:44: Saturday Night Live.S46E01.Chris Rock / Megan Thee Stallion
 2020-10-04 20:01:43: Bob's Burgers.S11E02.Worms of In-Rear-Ment
@@ -96,5 +98,3 @@
 2020-05-25 20:00:48: The Last Dance.S01E07.Episode VII
 2020-05-25 20:00:47: The Last Dance.S01E06.Episode VI
 2020-05-25 06:00:56: Rick and Morty.S04E09.Childrick of Mort
-2020-05-24 22:00:55: Killing Eve.S03E07.Beautiful Monster
-2020-05-24 20:00:54: Forensic Files II.S01E04.Human Sawdust
