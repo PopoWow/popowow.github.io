@@ -1,3 +1,7 @@
+2020-10-04 20:01:45: The Simpsons.S32E02.I, Carumbus
+2020-10-04 20:01:44: Saturday Night Live.S46E01.Chris Rock / Megan Thee Stallion
+2020-10-04 20:01:43: Bob's Burgers.S11E02.Worms of In-Rear-Ment
+2020-10-04 20:01:43: Family Guy.S19E02.The Talented Mr. Stewie
 2020-10-04 00:01:41: Tosh.0.S12E03.Trap Gardener
 2020-10-04 00:01:41: Warrior (2019).S02E01.Learn to Endure, or Hire a Bodyguard
 2020-10-04 00:01:40: The Walking Dead.S10E16.A Certain Doom
@@ -94,7 +98,3 @@
 2020-05-25 06:00:56: Rick and Morty.S04E09.Childrick of Mort
 2020-05-24 22:00:55: Killing Eve.S03E07.Beautiful Monster
 2020-05-24 20:00:54: Forensic Files II.S01E04.Human Sawdust
-2020-05-24 00:00:43: The Last Dance.S01E05.Episode V
-2020-05-24 00:00:41: The Last Dance.S01E04.Episode IV
-2020-05-24 00:00:40: The Last Dance.S01E03.Episode III
-2020-05-23 22:13:49: The Last Dance.S01E02.Episode II
