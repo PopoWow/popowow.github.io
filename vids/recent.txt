@@ -1,3 +1,4 @@
+2020-10-06 20:01:39: American Ninja Warrior.S12E04.Qualifier 4
 2020-10-05 20:01:39: Talking Dead.S09E16.A Certain Doom
 2020-10-05 06:01:39: Last Week Tonight with John Oliver.S07E25.Episode 204
 2020-10-05 00:01:57: Lovecraft Country.S01E08.Jig-a-Bobo
@@ -97,4 +98,3 @@
 2020-05-25 20:00:51: The Last Dance.S01E09.Episode IX
 2020-05-25 20:00:49: The Last Dance.S01E08.Episode VIII
 2020-05-25 20:00:48: The Last Dance.S01E07.Episode VII
-2020-05-25 20:00:47: The Last Dance.S01E06.Episode VI
