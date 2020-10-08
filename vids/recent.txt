@@ -1,3 +1,5 @@
+2020-10-07 20:01:36: Tosh.0.S12E04.TBA
+2020-10-07 20:01:35: The Masked Singer.S04E03.The Group A Play Offs - Famous Masked Words
 2020-10-06 20:01:39: American Ninja Warrior.S12E04.Qualifier 4
 2020-10-05 20:01:39: Talking Dead.S09E16.A Certain Doom
 2020-10-05 06:01:39: Last Week Tonight with John Oliver.S07E25.Episode 204
@@ -96,5 +98,3 @@
 2020-05-26 22:00:47: Forensic Files II.S01E11.Last Gasp
 2020-05-25 20:00:52: The Last Dance.S01E10.Episode X
 2020-05-25 20:00:51: The Last Dance.S01E09.Episode IX
-2020-05-25 20:00:49: The Last Dance.S01E08.Episode VIII
-2020-05-25 20:00:48: The Last Dance.S01E07.Episode VII
