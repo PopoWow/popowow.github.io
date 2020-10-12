@@ -1,3 +1,7 @@
+2020-10-12 00:01:47: Lovecraft Country.S01E09.Rewind 1921
+2020-10-12 00:01:47: The Simpsons.S32E03.Now Museum, Now You Don't
+2020-10-12 00:01:46: Bob's Burgers.S11E03.Copa-Bob-bana
+2020-10-12 00:01:46: Family Guy.S19E03.Boys & Squirrels
 2020-10-11 20:01:40: Saturday Night Live.S46E02.Bill Burr / Jack White
 2020-10-11 00:01:44: Fear the Walking Dead.S06E01.The End Is The Beginning
 2020-10-10 20:01:40: Warrior (2019).S02E02.The Chinese Connection
@@ -94,7 +98,3 @@
 2020-06-08 00:03:25: What We Do in the Shadows.S02E09.Witches
 2020-06-08 00:03:23: Marvel's Agents of S.H.I.E.L.D..S07E02.Know Your Onions
 2020-06-01 06:00:51: Rick and Morty.S04E10.Star Mort: Rickturn of the Jerri
-2020-05-31 22:00:53: Last Week Tonight with John Oliver.S07E13.Episode 192
-2020-05-31 22:00:52: Killing Eve.S03E08.Are You Leading or Am I?
-2020-05-28 06:00:49: What We Do in the Shadows.S02E08.Collaboration
-2020-05-27 22:00:47: Marvel's Agents of S.H.I.E.L.D..S07E01.The New Deal
