@@ -1,3 +1,4 @@
+2020-10-13 20:00:33: American Ninja Warrior.S12E05.Semifinals 1
 2020-10-12 00:01:47: Lovecraft Country.S01E09.Rewind 1921
 2020-10-12 00:01:47: The Simpsons.S32E03.Now Museum, Now You Don't
 2020-10-12 00:01:46: Bob's Burgers.S11E03.Copa-Bob-bana
@@ -97,4 +98,3 @@
 2020-06-08 06:03:06: Last Week Tonight with John Oliver.S07E14.Episode 193
 2020-06-08 00:03:25: What We Do in the Shadows.S02E09.Witches
 2020-06-08 00:03:23: Marvel's Agents of S.H.I.E.L.D..S07E02.Know Your Onions
-2020-06-01 06:00:51: Rick and Morty.S04E10.Star Mort: Rickturn of the Jerri
