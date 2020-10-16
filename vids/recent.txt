@@ -1,3 +1,8 @@
+2020-10-15 20:05:08: Ted Lasso.S01E10.The Hope That Kills You
+2020-10-15 20:05:07: Ted Lasso.S01E08.The Diamond Dogs
+2020-10-15 20:05:07: Ted Lasso.S01E09.All Apologies
+2020-10-15 20:05:06: Star Trek: Discovery.S03E01.That Hope Is You (1)
+2020-10-15 20:05:06: Ted Lasso.S01E07.Make Rebecca Great Again
 2020-10-14 20:01:46: Tosh.0.S12E05.TBA
 2020-10-14 20:01:45: The Masked Singer.S04E04.The Group B Play Offs - Cloudy with a Chance of Clues
 2020-10-13 20:00:33: American Ninja Warrior.S12E05.Semifinals 1
@@ -93,8 +98,3 @@
 2020-06-15 06:01:45: Real Time with Bill Maher.S18E17.Episode 532
 2020-06-15 06:01:45: Real Time with Bill Maher.S18E18.Episode 533
 2020-06-15 06:01:44: Real Time with Bill Maher.S18E16.Episode 531
-2020-06-15 06:01:37: Real Time with Bill Maher.S18E15.Episode 530
-2020-06-15 00:02:54: Last Week Tonight with John Oliver.S07E15.Episode 194
-2020-06-10 22:02:58: What We Do in the Shadows.S02E10.Nouveau Théâtre des Vampires
-2020-06-10 22:02:57: Marvel's Agents of S.H.I.E.L.D..S07E03.Alien Commies from the Future!
-2020-06-08 06:03:06: Last Week Tonight with John Oliver.S07E14.Episode 193
