@@ -1,3 +1,9 @@
+2020-10-15 22:00:34: Ted Lasso.S01E05.Tan Lines
+2020-10-15 22:00:34: Ted Lasso.S01E06.Two Aces
+2020-10-15 22:00:33: Ted Lasso.S01E04.For the Children
+2020-10-15 22:00:32: Ted Lasso.S01E02.Biscuits
+2020-10-15 22:00:32: Ted Lasso.S01E03.Trent Crimm: The Independent
+2020-10-15 22:00:31: Ted Lasso.S01E01.Pilot
 2020-10-15 20:05:08: Ted Lasso.S01E10.The Hope That Kills You
 2020-10-15 20:05:07: Ted Lasso.S01E08.The Diamond Dogs
 2020-10-15 20:05:07: Ted Lasso.S01E09.All Apologies
@@ -92,9 +98,3 @@
 2020-06-17 12:25:14: Solar Opposites.S01E04.The Booster Manifold
 2020-06-17 12:25:14: Solar Opposites.S01E05.The Lavatic Reactor
 2020-06-17 12:25:14: Solar Opposites.S01E06.The P.A.T.R.I.C.I.A. Device
-2020-06-17 12:25:14: Solar Opposites.S01E07.Terry and Korvo Steal a Bear
-2020-06-17 12:25:13: Solar Opposites.S01E01.The Matter Transfer Array
-2020-06-17 12:25:13: Solar Opposites.S01E02.The Unstable Grey Hole
-2020-06-15 06:01:45: Real Time with Bill Maher.S18E17.Episode 532
-2020-06-15 06:01:45: Real Time with Bill Maher.S18E18.Episode 533
-2020-06-15 06:01:44: Real Time with Bill Maher.S18E16.Episode 531
