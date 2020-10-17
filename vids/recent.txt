@@ -1,3 +1,4 @@
+2020-10-17 00:01:48: Warrior (2019).S02E03.Not How We Do Business
 2020-10-15 22:00:34: Ted Lasso.S01E05.Tan Lines
 2020-10-15 22:00:34: Ted Lasso.S01E06.Two Aces
 2020-10-15 22:00:33: Ted Lasso.S01E04.For the Children
@@ -97,4 +98,3 @@
 2020-06-17 12:25:14: Solar Opposites.S01E03.The Quantum Ring
 2020-06-17 12:25:14: Solar Opposites.S01E04.The Booster Manifold
 2020-06-17 12:25:14: Solar Opposites.S01E05.The Lavatic Reactor
-2020-06-17 12:25:14: Solar Opposites.S01E06.The P.A.T.R.I.C.I.A. Device
