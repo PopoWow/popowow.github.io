@@ -1,3 +1,4 @@
+2020-10-17 20:01:34: Real Time with Bill Maher.S18E30.Episode 545
 2020-10-17 00:01:48: Warrior (2019).S02E03.Not How We Do Business
 2020-10-15 22:00:34: Ted Lasso.S01E05.Tan Lines
 2020-10-15 22:00:34: Ted Lasso.S01E06.Two Aces
@@ -97,4 +98,3 @@
 2020-06-17 12:25:15: Solar Opposites.S01E08.Retrace-Your-Step-Alizer
 2020-06-17 12:25:14: Solar Opposites.S01E03.The Quantum Ring
 2020-06-17 12:25:14: Solar Opposites.S01E04.The Booster Manifold
-2020-06-17 12:25:14: Solar Opposites.S01E05.The Lavatic Reactor
