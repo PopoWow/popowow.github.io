@@ -1,3 +1,4 @@
+2020-10-21 20:00:29: Tosh.0.S12E06.TBA
 2020-10-19 06:02:05: Talking Dead.S09E16.A Certain Doom
 2020-10-19 06:01:58: Saturday Night Live.S46E03.Issa Rae / Justin Bieber
 2020-10-19 06:01:47: Lovecraft Country.S01E10.Full Circle
@@ -16,7 +17,7 @@
 2020-10-15 20:05:07: Ted Lasso.S01E09.All Apologies
 2020-10-15 20:05:06: Star Trek: Discovery.S03E01.That Hope Is You (1)
 2020-10-15 20:05:06: Ted Lasso.S01E07.Make Rebecca Great Again
-2020-10-14 20:01:46: Tosh.0.S12E05.TBA
+2020-10-14 20:01:46: Tosh.0.S12E05.Bodybuilder vs.
 2020-10-14 20:01:45: The Masked Singer.S04E04.The Group B Play Offs - Cloudy with a Chance of Clues
 2020-10-13 20:00:33: American Ninja Warrior.S12E05.Semifinals 1
 2020-10-12 00:01:47: Lovecraft Country.S01E09.Rewind 1921
@@ -97,4 +98,3 @@
 2020-06-23 22:02:45: Wellington Paranormal.S02E05.Haunted Nissan
 2020-06-23 22:02:45: Wellington Paranormal.S02E06.Mobots
 2020-06-21 22:00:22: Last Week Tonight with John Oliver.S07E16.Episode 195
-2020-06-20 20:00:20: Real Time with Bill Maher.S18E19.Episode 534
