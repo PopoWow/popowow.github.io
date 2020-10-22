@@ -1,3 +1,4 @@
+2020-10-22 06:00:31: Star Trek: Discovery.S03E02.Far from Home (2)
 2020-10-21 20:00:29: Tosh.0.S12E06.TBA
 2020-10-19 06:02:05: Talking Dead.S09E16.A Certain Doom
 2020-10-19 06:01:58: Saturday Night Live.S46E03.Issa Rae / Justin Bieber
@@ -97,4 +98,3 @@
 2020-06-23 22:02:45: Wellington Paranormal.S02E02.Fear the Briannas
 2020-06-23 22:02:45: Wellington Paranormal.S02E05.Haunted Nissan
 2020-06-23 22:02:45: Wellington Paranormal.S02E06.Mobots
-2020-06-21 22:00:22: Last Week Tonight with John Oliver.S07E16.Episode 195
