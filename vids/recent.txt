@@ -1,3 +1,6 @@
+2020-10-22 20:00:49: American Ninja Warrior.S12E06.Semifinals 2
+2020-10-22 20:00:49: The Goldbergs (2013).S08E01.Airplane!
+2020-10-22 20:00:49: The Goldbergs (2013).S08E02.The Prettiest Boy in School
 2020-10-22 06:00:31: Star Trek: Discovery.S03E02.Far from Home (2)
 2020-10-21 20:00:29: Tosh.0.S12E06.TBA
 2020-10-19 06:02:05: Talking Dead.S09E16.A Certain Doom
@@ -95,6 +98,3 @@
 2020-06-23 22:02:46: Wellington Paranormal.S02E03.Mt Vic Hooters
 2020-06-23 22:02:46: Wellington Paranormal.S02E04.Copy Cops
 2020-06-23 22:02:45: Wellington Paranormal.S02E01.Taniwha
-2020-06-23 22:02:45: Wellington Paranormal.S02E02.Fear the Briannas
-2020-06-23 22:02:45: Wellington Paranormal.S02E05.Haunted Nissan
-2020-06-23 22:02:45: Wellington Paranormal.S02E06.Mobots
