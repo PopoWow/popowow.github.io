@@ -1,3 +1,4 @@
+2020-10-24 06:00:21: Warrior (2019).S02E04.If You Don't See Blood, You Didn't Come to Play
 2020-10-22 20:00:49: American Ninja Warrior.S12E06.Semifinals 2
 2020-10-22 20:00:49: The Goldbergs (2013).S08E01.Airplane!
 2020-10-22 20:00:49: The Goldbergs (2013).S08E02.The Prettiest Boy in School
@@ -97,4 +98,3 @@
 2020-07-14 06:01:50: Doom Patrol.S02E01.Fun Size Patrol
 2020-06-23 22:02:46: Wellington Paranormal.S02E03.Mt Vic Hooters
 2020-06-23 22:02:46: Wellington Paranormal.S02E04.Copy Cops
-2020-06-23 22:02:45: Wellington Paranormal.S02E01.Taniwha
