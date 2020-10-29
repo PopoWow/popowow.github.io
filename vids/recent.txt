@@ -1,3 +1,4 @@
+2020-10-28 20:01:26: Tosh.0.S12E07.TBA
 2020-10-26 06:01:34: Last Week Tonight with John Oliver.S07E27.Episode 206
 2020-10-25 20:01:33: Fear the Walking Dead.S06E03.Alaska
 2020-10-25 20:01:33: Saturday Night Live.S46E04.Adele / H. E. R.
@@ -6,8 +7,8 @@
 2020-10-22 20:00:49: American Ninja Warrior.S12E06.Semifinals 2
 2020-10-22 20:00:49: The Goldbergs (2013).S08E01.Airplane!
 2020-10-22 20:00:49: The Goldbergs (2013).S08E02.The Prettiest Boy in School
-2020-10-22 06:00:31: Star Trek: Discovery.S03E02.Far from Home (2)
-2020-10-21 20:00:29: Tosh.0.S12E06.TBA
+2020-10-22 06:00:31: Star Trek: Discovery.S03E02.Far from Home
+2020-10-21 20:00:29: Tosh.0.S12E06.Popstar Nima
 2020-10-19 06:02:05: Talking Dead.S09E16.A Certain Doom
 2020-10-19 06:01:58: Saturday Night Live.S46E03.Issa Rae / Justin Bieber
 2020-10-19 06:01:47: Lovecraft Country.S01E10.Full Circle
@@ -24,7 +25,7 @@
 2020-10-15 20:05:08: Ted Lasso.S01E10.The Hope That Kills You
 2020-10-15 20:05:07: Ted Lasso.S01E08.The Diamond Dogs
 2020-10-15 20:05:07: Ted Lasso.S01E09.All Apologies
-2020-10-15 20:05:06: Star Trek: Discovery.S03E01.That Hope Is You (1)
+2020-10-15 20:05:06: Star Trek: Discovery.S03E01.That Hope Is You
 2020-10-15 20:05:06: Ted Lasso.S01E07.Make Rebecca Great Again
 2020-10-14 20:01:46: Tosh.0.S12E05.Bodybuilder vs.
 2020-10-14 20:01:45: The Masked Singer.S04E04.The Group B Play Offs - Cloudy with a Chance of Clues
@@ -97,4 +98,3 @@
 2020-07-14 06:02:28: Last Week Tonight with John Oliver.S07E17.Episode 196
 2020-07-14 06:02:22: Doom Patrol.S02E05.Finger Patrol
 2020-07-14 06:02:13: Doom Patrol.S02E04.Sex Patrol
-2020-07-14 06:02:03: Doom Patrol.S02E03.Pain Patrol
