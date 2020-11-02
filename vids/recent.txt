@@ -1,3 +1,15 @@
+2020-11-02 00:02:37: Warrior (2019).S02E05.Not for a Drink, a Fuck, or a Goddamn Prayer
+2020-11-02 00:02:29: The Simpsons.S32E04.Treehouse of Horror XXXI
+2020-11-02 00:02:27: The Mandalorian.S02E01.Chapter 9: The Marshal
+2020-11-02 00:02:20: The Goldbergs (2013).S08E03.It’s All About Comptrol
+2020-11-02 00:02:18: Superstore.S06E01.Essential
+2020-11-02 00:02:14: Star Trek: Discovery.S03E03.People of Earth
+2020-11-02 00:02:08: Saturday Night Live.S46E05.John Mulaney / The Strokes
+2020-11-02 00:02:05: Real Time with Bill Maher.S18E32.Episode 547
+2020-11-02 00:02:01: Fear the Walking Dead.S06E04.The Key
+2020-11-02 00:01:59: Family Guy.S19E04.CutawayLand
+2020-11-02 00:01:57: Bob's Burgers.S11E04.Heartbreak Hotel-oween
+2020-11-02 00:01:55: American Ninja Warrior.S12E07.Finals 1
 2020-10-28 20:01:26: Tosh.0.S12E07.TBA
 2020-10-26 06:01:34: Last Week Tonight with John Oliver.S07E27.Episode 206
 2020-10-25 20:01:33: Fear the Walking Dead.S06E03.Alaska
@@ -86,15 +98,3 @@
 2020-07-30 06:01:25: Doom Patrol.S02E08.Dad Patrol
 2020-07-30 00:01:26: Marvel's Agents of S.H.I.E.L.D..S07E10.Stolen
 2020-07-27 00:01:25: Last Week Tonight with John Oliver.S07E19.Episode 198
-2020-07-23 20:01:34: Marvel's Agents of S.H.I.E.L.D..S07E09.As I Have Always Been
-2020-07-23 20:01:33: Last Week Tonight with John Oliver.S07E18.Episode 197
-2020-07-23 20:01:32: Doom Patrol.S02E07.Dumb Patrol
-2020-07-16 06:00:22: Marvel's Agents of S.H.I.E.L.D..S07E08.After, Before
-2020-07-16 06:00:21: Doom Patrol.S02E06.Space Patrol
-2020-07-15 01:54:31: Real Time with Bill Maher.S18E20.Episode 535
-2020-07-14 06:02:38: Marvel's Agents of S.H.I.E.L.D..S07E07.The Totally Excellent Adventures of Mack and the D
-2020-07-14 06:02:35: Marvel's Agents of S.H.I.E.L.D..S07E06.Adapt or Die
-2020-07-14 06:02:32: Marvel's Agents of S.H.I.E.L.D..S07E05.A Trout in the Milk
-2020-07-14 06:02:28: Last Week Tonight with John Oliver.S07E17.Episode 196
-2020-07-14 06:02:22: Doom Patrol.S02E05.Finger Patrol
-2020-07-14 06:02:13: Doom Patrol.S02E04.Sex Patrol
