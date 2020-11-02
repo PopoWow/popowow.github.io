@@ -1,3 +1,4 @@
+2020-11-02 06:01:47: Last Week Tonight with John Oliver.S07E28.Episode 207
 2020-11-02 00:02:37: Warrior (2019).S02E05.Not for a Drink, a Fuck, or a Goddamn Prayer
 2020-11-02 00:02:29: The Simpsons.S32E04.Treehouse of Horror XXXI
 2020-11-02 00:02:27: The Mandalorian.S02E01.Chapter 9: The Marshal
@@ -97,4 +98,3 @@
 2020-08-03 00:01:30: Last Week Tonight with John Oliver.S07E20.Episode 199
 2020-07-30 06:01:25: Doom Patrol.S02E08.Dad Patrol
 2020-07-30 00:01:26: Marvel's Agents of S.H.I.E.L.D..S07E10.Stolen
-2020-07-27 00:01:25: Last Week Tonight with John Oliver.S07E19.Episode 198
