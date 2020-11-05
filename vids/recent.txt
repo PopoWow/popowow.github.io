@@ -1,3 +1,4 @@
+2020-11-05 06:01:30: Star Trek: Discovery.S03E04.Forget Me Not
 2020-11-02 06:01:47: Last Week Tonight with John Oliver.S07E28.Episode 207
 2020-11-02 00:02:37: Warrior (2019).S02E05.Not for a Drink, a Fuck, or a Goddamn Prayer
 2020-11-02 00:02:29: The Simpsons.S32E04.Treehouse of Horror XXXI
@@ -11,7 +12,7 @@
 2020-11-02 00:01:59: Family Guy.S19E04.CutawayLand
 2020-11-02 00:01:57: Bob's Burgers.S11E04.Heartbreak Hotel-oween
 2020-11-02 00:01:55: American Ninja Warrior.S12E07.Finals 1
-2020-10-28 20:01:26: Tosh.0.S12E07.TBA
+2020-10-28 20:01:26: Tosh.0.S12E07.Rax Roast Beef Guy
 2020-10-26 06:01:34: Last Week Tonight with John Oliver.S07E27.Episode 206
 2020-10-25 20:01:33: Fear the Walking Dead.S06E03.Alaska
 2020-10-25 20:01:33: Saturday Night Live.S46E04.Adele / H. E. R.
@@ -97,4 +98,3 @@
 2020-08-05 00:01:29: Real Time with Bill Maher.S18E21.Episode 536
 2020-08-03 00:01:30: Last Week Tonight with John Oliver.S07E20.Episode 199
 2020-07-30 06:01:25: Doom Patrol.S02E08.Dad Patrol
-2020-07-30 00:01:26: Marvel's Agents of S.H.I.E.L.D..S07E10.Stolen
