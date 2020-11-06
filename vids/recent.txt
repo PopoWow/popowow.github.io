@@ -1,3 +1,5 @@
+2020-11-06 06:00:09: Young Sheldon.S04E01.Graduation
+2020-11-06 06:00:08: The Mandalorian.S02E02.Chapter 10: The Passenger
 2020-11-05 20:01:29: The Goldbergs (2013).S08E04.Bill’s Wedding
 2020-11-05 06:01:30: Star Trek: Discovery.S03E04.Forget Me Not
 2020-11-02 06:01:47: Last Week Tonight with John Oliver.S07E28.Episode 207
@@ -96,5 +98,3 @@
 2020-08-13 00:01:24: Real Time with Bill Maher.S18E22.Episode 537
 2020-08-06 06:01:27: Doom Patrol.S02E09.Wax Patrol
 2020-08-06 00:01:27: Marvel's Agents of S.H.I.E.L.D..S07E11.Brand New Day
-2020-08-05 00:01:29: Real Time with Bill Maher.S18E21.Episode 536
-2020-08-03 00:01:30: Last Week Tonight with John Oliver.S07E20.Episode 199
