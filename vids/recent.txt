@@ -1,3 +1,4 @@
+2020-11-07 00:02:06: Warrior (2019).S02E06.To a Man with a Hammer, Everything Looks Like a Nail
 2020-11-06 20:03:29: Big Hero 6 The Series.S02E24.Legacies
 2020-11-06 20:03:20: Big Hero 6 The Series.S02E23.Fear Not
 2020-11-06 20:03:16: Big Hero 6 The Series.S02E22.Major Blast
@@ -97,4 +98,3 @@
 2020-10-12 00:01:47: The Simpsons.S32E03.Now Museum, Now You Don't
 2020-10-12 00:01:46: Bob's Burgers.S11E03.Copa-Bob-bana
 2020-10-12 00:01:46: Family Guy.S19E03.Boys & Squirrels
-2020-10-11 20:01:40: Saturday Night Live.S46E02.Bill Burr / Jack White
