@@ -1,3 +1,48 @@
+2020-11-06 20:03:29: Big Hero 6 The Series.S02E24.Legacies
+2020-11-06 20:03:20: Big Hero 6 The Series.S02E23.Fear Not
+2020-11-06 20:03:16: Big Hero 6 The Series.S02E22.Major Blast
+2020-11-06 20:03:08: Big Hero 6 The Series.S02E21.Fred the Fugitive
+2020-11-06 20:03:05: Big Hero 6 The Series.S02E20.Portal Enemy
+2020-11-06 20:02:55: Big Hero 6 The Series.S02E19.Hiro the Villain
+2020-11-06 20:02:49: Big Hero 6 The Series.S02E18.The Present
+2020-11-06 20:02:45: Big Hero 6 The Series.S02E17.Hardlight
+2020-11-06 20:02:41: Big Hero 6 The Series.S02E16.The Globby Within
+2020-11-06 20:02:37: Big Hero 6 The Series.S02E15.El Fuego
+2020-11-06 20:02:35: Big Hero 6 The Series.S02E14.Mini-Maximum Trouble
+2020-11-06 20:02:29: Big Hero 6 The Series.S02E13.City of Monsters (2)
+2020-11-06 20:02:22: Big Hero 6 The Series.S02E12.City of Monsters (1)
+2020-11-06 20:02:14: Big Hero 6 The Series.S02E11.Write Turn Here
+2020-11-06 20:02:10: Big Hero 6 The Series.S02E10.Lie Detector
+2020-11-06 20:02:05: Big Hero 6 The Series.S02E09.Supersonic Sue
+2020-11-06 20:01:59: Big Hero 6 The Series.S02E08.Something Fluffy
+2020-11-06 20:01:54: Big Hero 6 The Series.S02E07.Muira-Horror!
+2020-11-06 20:01:48: Big Hero 6 The Series.S02E06.The Fate of the Roommates
+2020-11-06 20:01:44: Big Hero 6 The Series.S02E05.Nega-Globby
+2020-11-06 20:01:42: Big Hero 6 The Series.S02E04.Something's Fishy
+2020-11-06 20:01:36: Big Hero 6 The Series.S02E03.Prey Date
+2020-11-06 20:01:30: Big Hero 6 The Series.S02E02.Seventh Wheel
+2020-11-06 20:01:27: Big Hero 6 The Series.S02E01.Internabout
+2020-11-06 20:01:22: Big Hero 6 The Series.S01E21.Obake Yashiki
+2020-11-06 20:01:21: Big Hero 6 The Series.S01E20.The Bot Fighter
+2020-11-06 20:01:18: Big Hero 6 The Series.S01E19.Steamer's Revenge
+2020-11-06 20:01:10: Big Hero 6 The Series.S01E18.Big Problem
+2020-11-06 20:01:07: Big Hero 6 The Series.S01E17.Big Hero 7
+2020-11-06 20:01:04: Big Hero 6 The Series.S01E16.Mini-Max
+2020-11-06 20:01:03: Big Hero 6 The Series.S01E15.Fan Friction
+2020-11-06 20:01:00: Big Hero 6 The Series.S01E14.Rivalry Weak
+2020-11-06 20:00:59: Big Hero 6 The Series.S01E13.Kentucky Kaiju
+2020-11-06 20:00:58: Big Hero 6 The Series.S01E12.Small Hiro One
+2020-11-06 20:00:55: Big Hero 6 The Series.S01E11.Killer App
+2020-11-06 20:00:54: Big Hero 6 The Series.S01E10.Mr. Sparkles Loses His Sparkle
+2020-11-06 20:00:51: Big Hero 6 The Series.S01E09.The Impatient Patient
+2020-11-06 20:00:49: Big Hero 6 The Series.S01E08.Aunt Cass Goes Out
+2020-11-06 20:00:48: Big Hero 6 The Series.S01E07.Failure Mode
+2020-11-06 20:00:47: Big Hero 6 The Series.S01E06.Muirahara Woods
+2020-11-06 20:00:46: Big Hero 6 The Series.S01E05.Food Fight
+2020-11-06 20:00:45: Big Hero 6 The Series.S01E04.Fred's Bro-Tillion
+2020-11-06 20:00:44: Big Hero 6 The Series.S01E03.Big Roommates 2
+2020-11-06 20:00:43: Big Hero 6 The Series.S01E01.Baymax Returns
+2020-11-06 20:00:43: Big Hero 6 The Series.S01E02.Issue 188
 2020-11-06 16:16:00: Superstore.S06E02.California (2)
 2020-11-06 06:00:09: Young Sheldon.S04E01.Graduation
 2020-11-06 06:00:08: The Mandalorian.S02E02.Chapter 10: The Passenger
@@ -53,48 +98,3 @@
 2020-10-12 00:01:46: Bob's Burgers.S11E03.Copa-Bob-bana
 2020-10-12 00:01:46: Family Guy.S19E03.Boys & Squirrels
 2020-10-11 20:01:40: Saturday Night Live.S46E02.Bill Burr / Jack White
-2020-10-11 00:01:44: Fear the Walking Dead.S06E01.The End Is the Beginning
-2020-10-10 20:01:40: Warrior (2019).S02E02.The Chinese Connection
-2020-10-10 20:01:39: Real Time with Bill Maher.S18E29.Episode 544
-2020-10-07 20:01:36: Tosh.0.S12E04.Cat Food Reviewer
-2020-10-07 20:01:35: The Masked Singer.S04E03.The Group A Play Offs - Famous Masked Words
-2020-10-06 20:01:39: American Ninja Warrior.S12E04.Qualifier 4
-2020-10-05 06:01:39: Last Week Tonight with John Oliver.S07E25.Episode 204
-2020-10-05 00:01:57: Lovecraft Country.S01E08.Jig-a-Bobo
-2020-10-04 20:01:45: The Simpsons.S32E02.I, Carumbus
-2020-10-04 20:01:44: Saturday Night Live.S46E01.Chris Rock / Megan Thee Stallion
-2020-10-04 20:01:43: Bob's Burgers.S11E02.Worms of In-Rear-Ment
-2020-10-04 20:01:43: Family Guy.S19E02.The Talented Mr. Stewie
-2020-10-04 00:01:41: Tosh.0.S12E03.Trap Gardener
-2020-10-04 00:01:41: Warrior (2019).S02E01.Learn to Endure, or Hire a Bodyguard
-2020-10-04 00:01:40: The Walking Dead.S10E16.A Certain Doom
-2020-10-04 00:01:39: The Masked Singer.S04E02.The Group B Premiere - Six More Masks
-2020-09-28 20:02:02: Last Week Tonight with John Oliver.S07E24.Episode 203
-2020-09-28 06:02:02: Lovecraft Country.S01E07.I Am.
-2020-09-28 00:02:07: The Simpsons.S32E01.Undercover Burns
-2020-09-28 00:02:06: Family Guy.S19E01.Stewie's First Word
-2020-09-28 00:02:06: Real Time with Bill Maher.S18E28.Episode 543
-2020-09-28 00:02:05: Bob's Burgers.S11E01.Dream a Little Bob of Bob
-2020-09-23 22:01:37: The Masked Singer.S04E01.The Season Premiere - The Masks Return
-2020-09-23 20:01:34: Tosh.0.S12E02.Rebecca Black
-2020-09-22 20:01:34: American Ninja Warrior.S12E03.Qualifier 3
-2020-09-21 00:01:39: Lovecraft Country.S01E06.Meet Me in Daegu
-2020-09-20 20:01:39: Real Time with Bill Maher.S18E27.Episode 542
-2020-09-18 06:01:28: Tosh.0.S12E01.RIP Castro
-2020-09-16 06:01:37: American Ninja Warrior.S12E02.Qualifier 2
-2020-09-14 22:01:42: Lovecraft Country.S01E05.Strange Case
-2020-09-12 20:01:40: Real Time with Bill Maher.S18E26.Episode 541
-2020-09-10 20:01:00: American Ninja Warrior.S12E01.Qualifier 1
-2020-09-07 22:00:26: Lovecraft Country.S01E02.Whitey's on the Moon
-2020-09-07 19:57:58: Lovecraft Country.S01E03.Holy Ghost
-2020-09-07 19:57:58: Lovecraft Country.S01E04.A History of Violence
-2020-08-31 22:01:35: Last Week Tonight with John Oliver.S07E23.Episode 202
-2020-08-30 20:30:45: Real Time with Bill Maher.S18E24.Episode 539
-2020-08-29 20:01:34: Real Time with Bill Maher.S18E25.Episode 540
-2020-08-24 00:01:38: Last Week Tonight with John Oliver.S07E22.Episode 201
-2020-08-18 16:42:59: Real Time with Bill Maher.S18E23.Episode 538
-2020-08-18 16:42:57: Lovecraft Country.S01E01.Sundown
-2020-08-17 00:01:28: Last Week Tonight with John Oliver.S07E21.Episode 200
-2020-08-13 06:01:22: Marvel's Agents of S.H.I.E.L.D..S07E13.What We're Fighting For
-2020-08-13 00:01:24: Real Time with Bill Maher.S18E22.Episode 537
-2020-08-06 06:01:27: Doom Patrol.S02E09.Wax Patrol
