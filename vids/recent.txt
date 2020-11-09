@@ -1,3 +1,4 @@
+2020-11-09 09:19:57: Last Week Tonight with John Oliver.S07E29.Episode 208
 2020-11-08 20:49:50: The Simpsons.S32E05.The 7 Beer Itch
 2020-11-08 20:49:41: Family Guy.S19E05.La Famiglia Guy
 2020-11-08 20:49:40: Bob's Burgers.S11E05.Fast Time Capsules at Wagstaff School
@@ -97,4 +98,3 @@
 2020-10-15 20:05:07: Ted Lasso.S01E08.The Diamond Dogs
 2020-10-15 20:05:07: Ted Lasso.S01E09.All Apologies
 2020-10-15 20:05:06: Star Trek: Discovery.S03E01.That Hope Is You
-2020-10-15 20:05:06: Ted Lasso.S01E07.Make Rebecca Great Again
