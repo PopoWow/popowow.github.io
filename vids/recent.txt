@@ -1,3 +1,6 @@
+2020-11-08 20:49:50: The Simpsons.S32E05.The 7 Beer Itch
+2020-11-08 20:49:41: Family Guy.S19E05.La Famiglia Guy
+2020-11-08 20:49:40: Bob's Burgers.S11E05.Fast Time Capsules at Wagstaff School
 2020-11-08 20:29:10: Saturday Night Live.S46E06.Dave Chappelle / Foo Fighters
 2020-11-08 20:27:30: Fear the Walking Dead.S06E05.Honey
 2020-11-07 20:03:27: Real Time with Bill Maher.S18E33.Episode 548
@@ -95,6 +98,3 @@
 2020-10-15 20:05:07: Ted Lasso.S01E09.All Apologies
 2020-10-15 20:05:06: Star Trek: Discovery.S03E01.That Hope Is You
 2020-10-15 20:05:06: Ted Lasso.S01E07.Make Rebecca Great Again
-2020-10-14 20:01:46: Tosh.0.S12E05.Bodybuilder vs.
-2020-10-14 20:01:45: The Masked Singer.S04E04.The Group B Play Offs - Cloudy with a Chance of Clues
-2020-10-13 20:00:33: American Ninja Warrior.S12E05.Semifinals 1
